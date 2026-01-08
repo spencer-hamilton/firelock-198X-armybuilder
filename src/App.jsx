@@ -98,7 +98,7 @@ function App() {
           <tr>
             <td className="TableHolder">
               <div className="FloatingTable">
-                <table>
+                <table id="unitLibrary">
                   <tbody>
                     {workingLibrary.map((unit, index) => (
                       <tr key={index} className={unit.faction}>
@@ -143,7 +143,10 @@ function App() {
                                 "name":unit.name,
                                 "cost":unit.value,
                                 "tags":unit.tags,
-                                "command":unit.command
+                                "command":unit.command,
+                                "embarks":[],
+                                "desants":[],
+                                "tow":null
                               }])
                             count++
                             //Update tracked values on unit add to army list
@@ -161,10 +164,10 @@ function App() {
           </td>
           <td className="TableHolder">
             <div className="FloatingTable">      
-              <table>
+              <table id="armyList">
                 <tbody>
                 {workingList.map((unit, index) => (
-                  <tr key={index}>
+                  <tr key={index} id="armyUnit">
                     <td className="UnitName">{unit.name}</td>
                     <td className="UnitPointCost">{unit.cost}</td>
                     <td>
@@ -189,9 +192,9 @@ function App() {
       </table>
 
     <div className="ArmyMenu">
-      <p>List Value: {workingValue}</p>
-      <p>TACOM Count: {workingTacCount}</p>
-      <p>Command Points per turn: {workingCommandGen}</p>
+      <p id="totalPts">List Value: {workingValue}</p>
+      <p id="totalTAC">TACOM Count: {workingTacCount}</p>
+      <p id="totalCmd">Command Points per turn: {workingCommandGen}</p>
       <button 
         type="button"
         onClick={() => {
