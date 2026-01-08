@@ -8,7 +8,6 @@ import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
 
 function App() {
-  let count = 0;
   let localLib  = fedlist.concat(luplist,rygolist,santalist,generics)
   //Values being tracked: Faction filter/unit library, army list, sum of unit point values, number of TACOMs and Command Points generated per round
   const [workingList, addUnit] = useState([])
@@ -139,16 +138,13 @@ function App() {
                             addUnit([
                               ...workingList,
                               {
-                                "id":{count},
-                                "name":unit.name,
-                                "cost":unit.value,
-                                "tags":unit.tags,
-                                "command":unit.command,
+                                "blindID":null,
+                                "unitData":unit,
                                 "embarks":[],
                                 "desants":[],
-                                "tow":null
-                              }])
-                            count++
+                                "towing":null
+                              }
+                              ])
                             //Update tracked values on unit add to army list
                             updateListValue(workingValue+unit.value)
                             updateCommandGen(workingCommandGen+unit.command)
@@ -168,16 +164,30 @@ function App() {
                 <tbody>
                 {workingList.map((unit, index) => (
                   <tr key={index} id="armyUnit">
-                    <td className="UnitName">{unit.name}</td>
-                    <td className="UnitPointCost">{unit.cost}</td>
+                    <td className="UnitName">
+                      {unit.unitData.name}
+                      <table>
+                        <tbody>
+                          <tr>
+                            <td>
+                              Desant
+                            </td>
+                            <td>
+                              desant options
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
                     <td>
                       <button
                         type="button" onClick={()=>{
-                          addUnit(workingList.filter(a => a.id !== unit.id))
+                          //Update workinglist to everything except the value at index
+                          addUnit(workingList.slice(0, index).concat(workingList.slice(index+1)))
                           //update tracked values on unit being removed from army list
-                          updateListValue(workingValue-unit.cost)
-                          updateCommandGen(workingCommandGen-unit.command)
-                          if(unit.tags.some(tag => tag.rule == "TACOM") && !unit.tags.some(tag => tag.params == "Additional")){
+                          updateListValue(workingValue-unit.unitData.value)
+                          updateCommandGen(workingCommandGen-unit.unitData.command)
+                          if(unit.unitData.tags.some(tag => tag.rule == "TACOM") && !unit.unitData.tags.some(tag => tag.params == "Additional")){
                             updateTacCount(workingTacCount-1)
                           }
                         }}>Remove Unit</button>
@@ -192,32 +202,32 @@ function App() {
       </table>
 
     <div className="ArmyMenu">
+      <input type="checkbox" id="generateNames" defaultChecked={false}/>Generate names
       <p id="totalPts">List Value: {workingValue}</p>
       <p id="totalTAC">TACOM Count: {workingTacCount}</p>
       <p id="totalCmd">Command Points per turn: {workingCommandGen}</p>
-      <button 
-        type="button"
-        onClick={() => {
-          //Reset Army list related tracked data
-          addUnit([])
-          updateListValue(0)
-          updateTacCount(0)
-          updateCommandGen(0)
-        }}>
-          Clear List
-        </button>
+      <button type="button" onClick={() => {
+        //Reset Army list related tracked data
+        addUnit([])
+        updateListValue(0)
+        updateTacCount(0)
+        updateCommandGen(0)
+        }}> Clear List </button>
       <button 
         type="button"
         onClick={() => {
           handle_export(workingList)
         }}>
           Export to Clipboard
-        </button>
+      </button>
     </div>
     </>
   )
 }
-
+/**
+ * Takes the array of units of the user army list and converts it to text that is copied to the user's clipboard.
+ * @param {Array} armylist all units selected for use in the user's army.
+ */
 function handle_export(armylist) { //Trigger copy list content to clipboard
   let armyString = ""
   let armyCost = 0
@@ -237,6 +247,11 @@ function handle_export(armylist) { //Trigger copy list content to clipboard
   )
 }
 
+/**
+ * Takes the global library of units and filters them based on checkbox state.
+ * @param {Array} library of all units
+ * @returns {Array} of all units that satisfy the selected filters
+ */
 function build_list_filter(library){
   let temp = library
   //Faction filters
@@ -288,5 +303,14 @@ function build_list_filter(library){
     temp = temp.filter(units => units.tags.some(tag => tag.rule == "Assault Specialist")).concat(temp.filter(units => units.tags.some(tag => tag.rule == "Assault Dismount")))
   }
   return [...new Set(temp)]
+}
+
+/**
+ * Renders a single unit's data as an active 
+ * @param {JSON} unit JSON of unit data saved to the army list.
+ * @returns {Element} dynamically generated element of unit data.
+ */
+function render_unit_data(unit){
+  return null
 }
 export default App
