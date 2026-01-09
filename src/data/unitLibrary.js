@@ -49,7 +49,7 @@ const genericList = [
                     "Dummy"
                 ],
                 "sub": [
-                    ""
+                    "Any"
                 ]
             },
             "command": 0,

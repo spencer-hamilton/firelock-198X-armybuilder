@@ -17,17 +17,13 @@ div.ArmyMenu{
 table,td, th {
   margin:10px;
   min-width:50px;
-  border: 1px solid;
-  border-collapse: collapse;
 }
 .MainBox{
-  border: 1px solid;
-  border-collapse: collapse;
   border-spacing: 10px;
   width: 1200px;
 }
-.TableHolder{
-  width: 50%;
+.ListHolder{
+  width: 63%
 }
 .UnitName{
   text-align:left;
@@ -37,6 +33,9 @@ table,td, th {
 .UnitPointValue{
   width: 10%;
   text-align: center;
+}
+.UtilityMenu{
+  width: 50%
 }
 tr.federal{
   background-color: rgba(81,114,183,0.5);
