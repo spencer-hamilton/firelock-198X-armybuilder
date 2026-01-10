@@ -6,8 +6,11 @@ import luplist from './data/luparLibrary.js'
 import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
 
+import peoplenames from './data/characterNames.js'
+
 function App() {
   let localLib  = fedlist.concat(luplist,rygolist,santalist,generics)
+  let idNum = 100; //unique number for each entry, hopefully faster searching
   //Values being tracked: Faction filter/unit library, army list, sum of unit point values, number of TACOMs and Command Points generated per round
   const [workingList, updateArmyList] = useState([])
   const [workingLibrary, filterUnits] = useState(localLib)
@@ -113,18 +116,18 @@ function App() {
                             updateArmyList([
                               ...workingList,
                               {
-                                
+                                "unitNum":idNum,
                                 "unitData":unit,
-                                "unitCallsign":"",
-                                "unitLeader":"",
-                                "unitEmbarks":[],
-                                "unitDesants":[],
-                                "unitTowed":null
+                                "unitCallsign":generate_callsign(),
+                                "unitLeader":generate_name(unit.faction),
+                                "unitTransport":null
                               }
                               ])
+                            console.log(unit.faction)
                             //Update tracked values on unit add to army list
                             updateListValue(workingValue+unit.value)
                             updateCommandGen(workingCommandGen+unit.command)
+                            idNum++
                             if(unit.tags.some(tag => tag.rule == "TACOM") && !unit.tags.some(tag => tag.params == "Additional")){
                               updateTacCount(workingTacCount+1)
                             }}}>Add Unit +</button>
@@ -143,18 +146,18 @@ function App() {
                   <tr key={index} id="armyUnit">
                     <td className="UnitName"> 
                       <button style={{textAlign:'left'}} onClick={() => { //Allow user to assign custom callsigns, names
-                        let newCallsign = prompt("What is this unit's callsign?",index)
-                        workingList[index].unitCallsign = newCallsign
+                        let newCallsign = prompt("What is this unit's callsign?",unit.unitCallsign)
+                        if(newCallsign!=null){//DON'T REPLACE CALLSIGN ON CANCEL
+                          workingList[index].unitCallsign = newCallsign
+                        }
                         updateArmyList([...workingList])
                       }}>
                         <p style={{marginLeft:5}}>{unit.unitData.name}</p>
                         <p style={{marginLeft:5, fontSize:10}}>{unit.unitCallsign} {unit.unitLeader}</p>
                       </button>
                     </td>
-                    <td style={{width:"40%"}}>
-                      <select id="unitChildOf" defaultValue={"none"}>
-                        <option value="none">---</option>
-                      </select>
+                    <td style={{width:"50%"}}>
+                      Feature coming soon...
                     </td>
                     <td>
                       <button
@@ -188,12 +191,12 @@ function App() {
                       onClick={() => {handle_export(workingList)}}>Export to Clipboard</button>
                     <button type='button' className='NormalButton' //For every unit with a callsign of null, change to <consonent><vowel>-<index+1>.
                       onClick={() => {
-                        let consonents = "bcdfghjklmnpqrstvwxz".split('')
-                        let vowels = "aeiouy".split('')
-                        let callHead = consonents[Math.floor(Math.random() * consonents.length)].concat(vowels[Math.floor(Math.random() * vowels.length)])
                         for (let i = 0; i < workingList.length; i++) {
                           if(workingList[i].unitCallsign==""){
-                            workingList[i].unitCallsign = callHead + "-" + (i+1)
+                            workingList[i].unitCallsign = generate_callsign()
+                          }
+                          if(workingList[i].unitLeader==""){
+                            workingList[i].unitLeader = generate_name(workingList[i].unitData.faction)
                           }
                         }
                         updateArmyList([...workingList])
@@ -321,6 +324,37 @@ function render_unit_data(unit){
       t += w + "\n\r"
     }
   return t
+}
+
+/**
+ * Returns a generated callsign with the pattern <consonent><vowel><consonent>-<number>
+ * @returns Callsign string
+ */
+function generate_callsign(){
+  let consonents = "BCDFGHJKLMNPQRSTVWXYZ".split('')
+  let vowels = "AEIOUY".split('')
+  return consonents[Math.floor(Math.random() * consonents.length)].concat(vowels[Math.floor(Math.random() * vowels.length)], consonents[Math.floor(Math.random() * consonents.length)],"-",Math.round(Math.random()*10))
+}
+
+/**
+ * Generates a name from a predefined library.
+ * @param {Array} faction array of factions assocaited with the unit the name is being applied to. Only uses the first one in the list.
+ * @returns string of names
+ */
+function generate_name(faction){
+  console.log(faction)
+  switch(faction[0]){
+    case "federal":
+      return peoplenames.federal.firstNames[Math.floor(Math.random() * peoplenames.federal.firstNames.length)].concat(peoplenames.federal.lastNames[Math.floor(Math.random() * peoplenames.federal.lastNames.length)]);
+    case "lupar":
+      return peoplenames.lupar.firstNames[Math.floor(Math.random() * peoplenames.lupar.firstNames.length)].concat(peoplenames.lupar.lastNames[Math.floor(Math.random() * peoplenames.lupar.lastNames.length)]);
+    case "rygolic":
+      return ""; //Rygolic constructs don't have names
+    case "santagri":
+      return peoplenames.santagri.firstNames[Math.floor(Math.random() * peoplenames.santagri.firstNames.length)].concat(peoplenames.santagri.lastNames[Math.floor(Math.random() * peoplenames.santagri.lastNames.length)]);
+    default:
+      return "";
+  }
 }
 
 export default App
