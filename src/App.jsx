@@ -157,7 +157,7 @@ function App() {
                       </button>
                     </td>
                     <td style={{width:"50%"}}>
-                      Feature coming soon...
+                      {unit.unitData.value} pts
                     </td>
                     <td>
                       <button
