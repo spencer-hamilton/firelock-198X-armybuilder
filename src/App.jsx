@@ -1,17 +1,18 @@
 import { useState } from 'react'
 import './App.css'
 import generics from './data/unitLibrary.js'
-
 import fedlist from './data/federalLibrary.js'
 import luplist from './data/luparLibrary.js'
 import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
 
+import peoplenames from './data/characterNames.js'
+
 function App() {
-  let count = 0;
   let localLib  = fedlist.concat(luplist,rygolist,santalist,generics)
+  let idNum = 100; //unique number for each entry, hopefully faster searching
   //Values being tracked: Faction filter/unit library, army list, sum of unit point values, number of TACOMs and Command Points generated per round
-  const [workingList, addUnit] = useState([])
+  const [workingList, updateArmyList] = useState([])
   const [workingLibrary, filterUnits] = useState(localLib)
   const [workingValue, updateListValue] = useState(0)
   const [workingTacCount, updateTacCount] = useState(0)
@@ -96,62 +97,40 @@ function App() {
             <th>Army List</th>
           </tr>
           <tr>
-            <td className="TableHolder">
+            <td className="LibraryHolder">
               <div className="FloatingTable">
-                <table>
+                <table id="unitLibrary">
                   <tbody>
                     {workingLibrary.map((unit, index) => (
                       <tr key={index} className={unit.faction}>
-                        <td className="UnitName">{unit.name}</td>
-                        <td className="UnitPointCost">{unit.value}</td>
-                        <td>
-                          <button
-                            type="button"
-                            onClick={()=>{
-                              let t = unit.name +"\n\rUnit type: " +unit.type.super +"("+unit.type.sub+")"+"\n\rUnit stats: "+unit.stats+ "\n\rUnit traits: \n\r"
-                              for(let i = 0; i < unit.tags.length; i++){
-                                let e = "(" + unit.tags[i].params +")"
-                                if(e==="()"){e=""}
-                                console.log(unit.tags[i].rule)
-                                console.log(e)
-                                t += unit.tags[i].rule +e + ", "
-                              }
-                              t+="\n\rUnit Weapons: \n\r"
-                              for(let i = 0; i < unit.weapons.length; i++){
-                                let ammo = " Ammo: "+ unit.weapons[i].weaponAmmo
-                                if(ammo===" Ammo: "){ammo=""}
-                                let w = unit.weapons[i].weaponName + ammo + "\r\n\t"
-                                for(let a = 0; a < unit.weapons[i].attacks.length; a++){
-                                  let attk = unit.weapons[i].attacks[a]
-                                  w = w.concat(attk.attackName," ",attk.attackRange," ",attk.attackAccuracy," ",attk.attackStrength," ",attk.attackDice, "\r\n\t\t",attk.attackTags,"\r\n\t")
-                                }
-                                t += w + "\n\r"
-                              }
-                              console.log(t)
-                              alert(t)
-                            }}
-                          >Unit Details</button>
+                        <td className="UnitName">
+                          <button type="button" style={{textAlign:"left"}} onClick={() => alert(render_unit_data(unit))}>
+                            <p style={{marginLeft:5}}>{unit.name}</p>
+                            <p style={{fontSize:10, marginLeft:5}}>{unit.type.super + " ("+unit.type.sub+") "+" | "+unit.value + " pts"}</p>
+                          </button>
                         </td>
                         <td>
                           <button 
-                            type="button" onClick={() => {
+                            type="button" className="FullSquareButton" onClick={() => {
                             //Add only the items necessary to be saved on the army list side + values being tracked
-                            addUnit([
+                            updateArmyList([
                               ...workingList,
                               {
-                                "id":{count},
-                                "name":unit.name,
-                                "cost":unit.value,
-                                "tags":unit.tags,
-                                "command":unit.command
-                              }])
-                            count++
+                                "unitNum":idNum,
+                                "unitData":unit,
+                                "unitCallsign":generate_callsign(),
+                                "unitLeader":generate_name(unit.faction),
+                                "unitTransport":null
+                              }
+                              ])
+                            console.log(unit.faction)
                             //Update tracked values on unit add to army list
                             updateListValue(workingValue+unit.value)
                             updateCommandGen(workingCommandGen+unit.command)
+                            idNum++
                             if(unit.tags.some(tag => tag.rule == "TACOM") && !unit.tags.some(tag => tag.params == "Additional")){
                               updateTacCount(workingTacCount+1)
-                            }}}>Add + </button>
+                            }}}>Add Unit +</button>
                         </td>
                       </tr>
                     ))}
@@ -159,25 +138,39 @@ function App() {
               </table>
             </div>
           </td>
-          <td className="TableHolder">
+          <td className="ListHolder">
             <div className="FloatingTable">      
-              <table>
+              <table id="armyList">
                 <tbody>
                 {workingList.map((unit, index) => (
-                  <tr key={index}>
-                    <td className="UnitName">{unit.name}</td>
-                    <td className="UnitPointCost">{unit.cost}</td>
+                  <tr key={index} id="armyUnit">
+                    <td className="UnitName"> 
+                      <button style={{textAlign:'left'}} onClick={() => { //Allow user to assign custom callsigns, names
+                        let newCallsign = prompt("What is this unit's callsign?",unit.unitCallsign)
+                        if(newCallsign!=null){//DON'T REPLACE CALLSIGN ON CANCEL
+                          workingList[index].unitCallsign = newCallsign
+                        }
+                        updateArmyList([...workingList])
+                      }}>
+                        <p style={{marginLeft:5}}>{unit.unitData.name}</p>
+                        <p style={{marginLeft:5, fontSize:10}}>{unit.unitCallsign} {unit.unitLeader}</p>
+                      </button>
+                    </td>
+                    <td style={{width:"50%"}}>
+                      {unit.unitData.value} pts
+                    </td>
                     <td>
                       <button
-                        type="button" onClick={()=>{
-                          addUnit(workingList.filter(a => a.id !== unit.id))
+                        type="button" className="NormalButton" style={{backgroundColor:"transparent", fontWeight:"bold", color:"red"}} onClick={()=>{
+                          //Update workinglist to everything except the value at index
+                          updateArmyList(workingList.slice(0, index).concat(workingList.slice(index+1)))
                           //update tracked values on unit being removed from army list
-                          updateListValue(workingValue-unit.cost)
-                          updateCommandGen(workingCommandGen-unit.command)
-                          if(unit.tags.some(tag => tag.rule == "TACOM") && !unit.tags.some(tag => tag.params == "Additional")){
+                          updateListValue(workingValue-unit.unitData.value)
+                          updateCommandGen(workingCommandGen-unit.unitData.command)
+                          if(unit.unitData.tags.some(tag => tag.rule == "TACOM") && !unit.unitData.tags.some(tag => tag.params == "Additional")){
                             updateTacCount(workingTacCount-1)
                           }
-                        }}>Remove Unit</button>
+                        }}>X</button>
                     </td>
                   </tr>
                 ))}</tbody>
@@ -185,44 +178,59 @@ function App() {
             </div>
           </td>
         </tr>
+        <tr>
+          <td style={{fontSize:10, textAlign:'left'}}><p>Source Code: <a href="https://github.com/nullAurelian/firelock-198X-armybuilder">https://github.com/nullAurelian/firelock-198X-armybuilder</a></p></td>
+          <td>
+            <table>
+              <tbody>
+                <tr>
+                  <td className='UtilityMenu'>
+                    <button type="button" className="NormalButton" //Reset Army list related tracked data
+                      onClick={() => {updateArmyList([]); updateListValue(0); updateTacCount(0); updateCommandGen(0)}}> Clear List </button>
+                    <button type="button" className="NormalButton" //Export values to clipboard for pasting elsewhere
+                      onClick={() => {handle_export(workingList)}}>Export to Clipboard</button>
+                    <button type='button' className='NormalButton' //For every unit with a callsign of null, change to <consonent><vowel>-<index+1>.
+                      onClick={() => {
+                        for (let i = 0; i < workingList.length; i++) {
+                          if(workingList[i].unitCallsign==""){
+                            workingList[i].unitCallsign = generate_callsign()
+                          }
+                          if(workingList[i].unitLeader==""){
+                            workingList[i].unitLeader = generate_name(workingList[i].unitData.faction)
+                          }
+                        }
+                        updateArmyList([...workingList])
+                      }}>Generate Callsigns and Names</button>
+                  </td>
+                  <td style={{textAlign:'right'}}>
+                    <p id="totalPts">List Value: {workingValue}</p>
+                    <p id="totalTAC">TACOM Count: {workingTacCount}</p>
+                    <p id="totalCmd">Command Points per turn: {workingCommandGen}</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
         </tbody>
       </table>
-
-    <div className="ArmyMenu">
-      <p>List Value: {workingValue}</p>
-      <p>TACOM Count: {workingTacCount}</p>
-      <p>Command Points per turn: {workingCommandGen}</p>
-      <button 
-        type="button"
-        onClick={() => {
-          //Reset Army list related tracked data
-          addUnit([])
-          updateListValue(0)
-          updateTacCount(0)
-          updateCommandGen(0)
-        }}>
-          Clear List
-        </button>
-      <button 
-        type="button"
-        onClick={() => {
-          handle_export(workingList)
-        }}>
-          Export to Clipboard
-        </button>
-    </div>
     </>
   )
 }
-
+/**
+ * Takes the array of units of the user army list and converts it to text that is copied to the user's clipboard.
+ * @param {Array} armylist all units selected for use in the user's army.
+ */
 function handle_export(armylist) { //Trigger copy list content to clipboard
   let armyString = ""
   let armyCost = 0
   console.log(armylist)
   //Format everything in the current army list to a simple text of name only
   for (const u of armylist){
-    armyString = armyString.concat(" \r\n ",u.name)
-    armyCost += u.cost
+    let uName = ""
+    if(u.unitData.tags.some(tag => tag.rule == "TACOM")) {uName = ", "+u.unitLeader}
+    armyString = armyString.concat(" \r\n ",u.unitData.name, " (",u.unitCallsign,uName,") [",u.unitData.value," pts]")
+    armyCost += u.unitData.value
   }
   console.log(armyString)
   navigator.clipboard.writeText(armyString.concat("\r\nTotal Point Value:",armyCost)).then(
@@ -234,6 +242,11 @@ function handle_export(armylist) { //Trigger copy list content to clipboard
   )
 }
 
+/**
+ * Takes the global library of units and filters them based on checkbox state.
+ * @param {Array} library of all units
+ * @returns {Array} of all units that satisfy the selected filters
+ */
 function build_list_filter(library){
   let temp = library
   //Faction filters
@@ -286,4 +299,62 @@ function build_list_filter(library){
   }
   return [...new Set(temp)]
 }
+
+/**
+ * Renders a single unit's data as an active 
+ * @param {JSON} unit JSON of unit data saved to the army list.
+ * @returns {Element} dynamically generated element of unit data.
+ */
+function render_unit_data(unit){
+  let t = unit.name +"\n\rUnit type: " +unit.type.super +"("+unit.type.sub+")"+"\n\rUnit stats: "+unit.stats+ "\n\rUnit traits: \n\r"
+  for(let i = 0; i < unit.tags.length; i++){
+    let e = "(" + unit.tags[i].params +")"
+    if(e==="()"){e=""}
+    t += unit.tags[i].rule +e + ", "
+    }
+    t+="\n\rUnit Weapons: \n\r"
+    for(let i = 0; i < unit.weapons.length; i++){
+      let ammo = " Ammo: "+ unit.weapons[i].weaponAmmo
+      if(ammo===" Ammo: "){ammo=""}
+      let w = unit.weapons[i].weaponName + ammo + "\r\n\t"
+      for(let a = 0; a < unit.weapons[i].attacks.length; a++){
+        let attk = unit.weapons[i].attacks[a]
+        w = w.concat(attk.attackName," ",attk.attackRange," ",attk.attackAccuracy," ",attk.attackStrength," ",attk.attackDice, "\r\n\t\t",attk.attackTags,"\r\n\t")
+      }
+      t += w + "\n\r"
+    }
+  return t
+}
+
+/**
+ * Returns a generated callsign with the pattern <consonent><vowel><consonent>-<number>
+ * @returns Callsign string
+ */
+function generate_callsign(){
+  let consonents = "BCDFGHJKLMNPQRSTVWXYZ".split('')
+  let vowels = "AEIOUY".split('')
+  return consonents[Math.floor(Math.random() * consonents.length)].concat(vowels[Math.floor(Math.random() * vowels.length)], consonents[Math.floor(Math.random() * consonents.length)],"-",Math.round(Math.random()*10))
+}
+
+/**
+ * Generates a name from a predefined library.
+ * @param {Array} faction array of factions assocaited with the unit the name is being applied to. Only uses the first one in the list.
+ * @returns string of names
+ */
+function generate_name(faction){
+  console.log(faction)
+  switch(faction[0]){
+    case "federal":
+      return peoplenames.federal.firstNames[Math.floor(Math.random() * peoplenames.federal.firstNames.length)].concat(peoplenames.federal.lastNames[Math.floor(Math.random() * peoplenames.federal.lastNames.length)]);
+    case "lupar":
+      return peoplenames.lupar.firstNames[Math.floor(Math.random() * peoplenames.lupar.firstNames.length)].concat(peoplenames.lupar.lastNames[Math.floor(Math.random() * peoplenames.lupar.lastNames.length)]);
+    case "rygolic":
+      return ""; //Rygolic constructs don't have names
+    case "santagri":
+      return peoplenames.santagri.firstNames[Math.floor(Math.random() * peoplenames.santagri.firstNames.length)].concat(peoplenames.santagri.lastNames[Math.floor(Math.random() * peoplenames.santagri.lastNames.length)]);
+    default:
+      return "";
+  }
+}
+
 export default App

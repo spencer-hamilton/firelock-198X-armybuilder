@@ -34,8 +34,16 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-
 button {
+  width: 100%;
+  background-color: transparent;
+  cursor:pointer;
+}
+.FullSquareButton {
+  width: 70px;
+  height:70px;
+}
+.NormalButton {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
@@ -55,11 +63,13 @@ button:focus-visible {
 }
 
 select {
-  border-radius: 8px;
+
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-family: inherit;
+  width: 100%;
 }
+
 
 @media (prefers-color-scheme: light) {
   :root {
