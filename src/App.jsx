@@ -98,20 +98,20 @@ function App() {
     }])
   }, [])
 
-  const removeUnit = useCallback((index) => {
-    setArmyList(prev => prev.filter((_, i) => i !== index))
+  const removeUnit = useCallback((unitNum) => {
+    setArmyList(prev => prev.filter(e => e.unitNum !== unitNum))
   }, [])
 
-  const editCallsign = useCallback((index) => {
-    const entry = workingList[index]
+  const editCallsign = useCallback((unitNum) => {
+    const entry = workingList.find(e => e.unitNum === unitNum)
     if (!entry) return
     const newCallsign = prompt("What is this unit's callsign?", entry.unitCallsign)
     if (newCallsign == null) return
-    setArmyList(prev => {
-      const next = [...prev]
-      next[index] = { ...next[index], unitCallsign: newCallsign }
-      return next
-    })
+    setArmyList(prev =>
+      prev.map(e =>
+        e.unitNum === unitNum ? { ...e, unitCallsign: newCallsign } : e
+      )
+    )
   }, [workingList])
 
   const clearList = useCallback(() => setArmyList([]), [])
@@ -240,7 +240,7 @@ function App() {
                   </div>
                 </div>
                 <span className="unit-points">{unit.value} pts</span>
-                <button className="add-btn" onClick={() => addUnit(unit)}>+</button>
+                <button type="button" className="add-btn" onClick={() => addUnit(unit)}>+</button>
               </div>
             ))}
           </div>
@@ -261,17 +261,17 @@ function App() {
                 <p>Add units from the library to build your army.</p>
               </div>
             ) : (
-              workingList.map((entry, index) => (
+              workingList.map((entry) => (
                 <div className="army-card" key={entry.unitNum}>
                   <span className={`faction-dot ${entry.unitData.faction[0]}`} />
                   <div className="army-card-info">
                     <div className="unit-name army-unit-link" onClick={() => setDetailUnit(entry.unitData)}>{entry.unitData.name}</div>
-                    <div className="army-callsign army-callsign-link" onClick={() => editCallsign(index)}>
+                    <div className="army-callsign army-callsign-link" onClick={() => editCallsign(entry.unitNum)}>
                       {entry.unitCallsign} {entry.unitLeader}
                     </div>
                   </div>
                   <span className="army-points">{entry.unitData.value} pts</span>
-                  <button className="remove-btn" onClick={() => removeUnit(index)}>&#x2715;</button>
+                  <button type="button" className="remove-btn" onClick={() => removeUnit(entry.unitNum)}>&#x2715;</button>
                 </div>
               ))
             )}
