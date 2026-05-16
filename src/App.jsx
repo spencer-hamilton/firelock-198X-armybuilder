@@ -1,359 +1,435 @@
-import { useState } from 'react'
+import { useState, useCallback, useMemo } from 'react'
 import './App.css'
 import generics from './data/unitLibrary.js'
 import fedlist from './data/federalLibrary.js'
 import luplist from './data/luparLibrary.js'
 import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
-
 import peoplenames from './data/characterNames.js'
 
+const ALL_UNITS = fedlist.concat(luplist, rygolist, santalist, generics)
+
+const FACTIONS = [
+  { id: 'federal', label: 'Intermarine Federation' },
+  { id: 'lupar', label: 'Kingdom of the Ebon Forest' },
+  { id: 'rygolic', label: 'New Rygolic Host' },
+  { id: 'santagri', label: 'Atom Baronies of Santagria' },
+]
+
+const UNIT_TYPES = [
+  { id: 'Infantry', label: 'Infantry' },
+  { id: 'Vehicle', label: 'Vehicle' },
+  { id: 'Helicopter', label: 'Helicopter' },
+  { id: 'Aircraft', label: 'Aircraft' },
+]
+
+const TRAITS = [
+  { id: 'TACOM', label: 'TACOM', filter: u => u.tags.some(t => t.rule === 'TACOM') },
+  { id: 'PC', label: 'Personnel Carrier', filter: u => u.tags.some(t => t.rule === 'PC') },
+  { id: 'Tow', label: 'Tow', filter: u => u.tags.some(t => t.rule === 'Tow') },
+  { id: 'Resupply', label: 'Resupply', filter: u => u.tags.some(t => t.rule === 'Resupply') },
+  { id: 'Amphibious', label: 'Amphibious / Watercraft', filter: u => u.type.sub.some(s => s.includes('Watercraft')) || u.tags.some(t => t.rule === 'Amphibious') },
+  { id: 'Paradrop', label: 'Paradrop / Infiltrator', filter: u => u.tags.some(t => t.rule === 'Paradrop' || t.rule === 'Infiltrator') },
+  { id: 'Assault', label: 'Assault Specialist', filter: u => u.tags.some(t => t.rule === 'Assault Specialist' || t.rule === 'Assault Dismount') },
+]
+
+let nextId = 1
+
 function App() {
-  let localLib  = fedlist.concat(luplist,rygolist,santalist,generics)
-  let idNum = 100; //unique number for each entry, hopefully faster searching
-  //Values being tracked: Faction filter/unit library, army list, sum of unit point values, number of TACOMs and Command Points generated per round
-  const [workingList, updateArmyList] = useState([])
-  const [workingLibrary, filterUnits] = useState(localLib)
-  const [workingValue, updateListValue] = useState(0)
-  const [workingTacCount, updateTacCount] = useState(0)
-  const [workingCommandGen, updateCommandGen] = useState(0)
+  const [workingList, setArmyList] = useState([])
+  const [factionFilters, setFactionFilters] = useState(() => new Set(FACTIONS.map(f => f.id)))
+  const [typeFilters, setTypeFilters] = useState(() => new Set(UNIT_TYPES.map(t => t.id)))
+  const [traitFilters, setTraitFilters] = useState(() => new Set())
+  const [searchQuery, setSearchQuery] = useState('')
+  const [detailUnit, setDetailUnit] = useState(null)
+
+  const toggleFilter = useCallback((set, setFn, id) => {
+    setFn(prev => {
+      const next = new Set(prev)
+      next.has(id) ? next.delete(id) : next.add(id)
+      return next
+    })
+  }, [])
+
+  const filteredLibrary = useMemo(() => {
+    let units = ALL_UNITS
+    units = units.filter(u => u.faction.some(f => factionFilters.has(f)))
+    units = units.filter(u => u.type.super.some(s => typeFilters.has(s)))
+    for (const trait of TRAITS) {
+      if (traitFilters.has(trait.id)) {
+        units = units.filter(trait.filter)
+      }
+    }
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase()
+      units = units.filter(u =>
+        u.name.toLowerCase().includes(q) ||
+        u.type.super.some(s => s.toLowerCase().includes(q)) ||
+        u.type.sub.some(s => s.toLowerCase().includes(q)) ||
+        u.tags.some(t => t.rule.toLowerCase().includes(q)) ||
+        u.weapons.some(w => w.weaponName.toLowerCase().includes(q))
+      )
+    }
+    return units
+  }, [factionFilters, typeFilters, traitFilters, searchQuery])
+
+  const totals = useMemo(() => {
+    let points = 0, tacom = 0, command = 0
+    for (const entry of workingList) {
+      points += entry.unitData.value
+      command += entry.unitData.command
+      if (entry.unitData.tags.some(t => t.rule === 'TACOM') &&
+          !entry.unitData.tags.some(t => t.params === 'Additional')) {
+        tacom++
+      }
+    }
+    return { points, tacom, command }
+  }, [workingList])
+
+  const addUnit = useCallback((unit) => {
+    setArmyList(prev => [...prev, {
+      unitNum: nextId++,
+      unitData: unit,
+      unitCallsign: generateCallsign(),
+      unitLeader: generateName(unit.faction),
+      unitTransport: null,
+    }])
+  }, [])
+
+  const removeUnit = useCallback((index) => {
+    setArmyList(prev => prev.filter((_, i) => i !== index))
+  }, [])
+
+  const editCallsign = useCallback((index) => {
+    setArmyList(prev => {
+      const entry = prev[index]
+      const newCallsign = prompt("What is this unit's callsign?", entry.unitCallsign)
+      if (newCallsign == null) return prev
+      const next = [...prev]
+      next[index] = { ...entry, unitCallsign: newCallsign }
+      return next
+    })
+  }, [])
+
+  const clearList = useCallback(() => setArmyList([]), [])
+
+  const handleExport = useCallback(() => {
+    let text = ''
+    let cost = 0
+    for (const u of workingList) {
+      const leader = u.unitData.tags.some(t => t.rule === 'TACOM') ? `, ${u.unitLeader}` : ''
+      text += `\r\n ${u.unitData.name} (${u.unitCallsign}${leader}) [${u.unitData.value} pts]`
+      cost += u.unitData.value
+    }
+    text += `\r\nTotal Point Value: ${cost}`
+    navigator.clipboard.writeText(text).then(
+      () => alert('Copied to clipboard!'),
+      () => alert('Failed to copy.')
+    )
+  }, [workingList])
+
+  const generateAllNames = useCallback(() => {
+    setArmyList(prev => prev.map(entry => ({
+      ...entry,
+      unitCallsign: entry.unitCallsign || generateCallsign(),
+      unitLeader: entry.unitLeader || generateName(entry.unitData.faction),
+    })))
+  }, [])
+
   return (
     <>
-    <div className="LibraryFilters">
-      <p>Show faction: 
-      <input type="checkbox" id="typeFederal" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-        
-      }}/>Intermarine Federation
-      <input type="checkbox" id="typeLupar" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Kingdom of the Ebon Forest
-      <input type="checkbox" id="typeRygolic" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>New Rygolic Host
-      <input type="checkbox" id="typeSantagri" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Atom Baronies of Santagria
-      </p>
-      <p> Show type: 
-      <input type="checkbox" id="typeInfantry" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Infantry
-      <input type="checkbox" id="typeVehicle" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Vehicle
-      <input type="checkbox" id="typeHelicopter" defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Helicopter
-      <input type="checkbox" id="typeAircraft"  defaultChecked={true} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Aircraft
-      </p>
-      <p>Unit must have: 
-      <input type="checkbox" id="isTACOM" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>TACOM
-      <input type="checkbox" id="canEmbark" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Personnel Carrier
-      <input type="checkbox" id="canTow" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Tow
-      <input type="checkbox" id="canResupply" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Resupply
-      <input type="checkbox" id="canGoOnWater" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Amphibious/Watercraft
-      <input type="checkbox" id="canParadrop" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Paradrop/Infiltrator
-      <input type="checkbox" id="canAssault" defaultChecked={false} onChange={() => {
-        filterUnits(localLib)
-        filterUnits(build_list_filter(localLib))
-      }}/>Assault Specialist/Assault Dismount
-      
-      </p>
+      <header className="app-header">
+        <h1>Firelock 198X</h1>
+        <p>Army List Builder &middot; Edition 0.9.6</p>
+      </header>
 
-    </div>
-      <table className="MainBox">
-        <tbody>
-          <tr>
-            <th>Unit Library</th>
-            <th>Army List</th>
-          </tr>
-          <tr>
-            <td className="LibraryHolder">
-              <div className="FloatingTable">
-                <table id="unitLibrary">
-                  <tbody>
-                    {workingLibrary.map((unit, index) => (
-                      <tr key={index} className={unit.faction}>
-                        <td className="UnitName">
-                          <button type="button" style={{textAlign:"left"}} onClick={() => alert(render_unit_data(unit))}>
-                            <p style={{marginLeft:5}}>{unit.name}</p>
-                            <p style={{fontSize:10, marginLeft:5}}>{unit.type.super + " ("+unit.type.sub+") "+" | "+unit.value + " pts"}</p>
-                          </button>
-                        </td>
-                        <td>
-                          <button 
-                            type="button" className="FullSquareButton" onClick={() => {
-                            //Add only the items necessary to be saved on the army list side + values being tracked
-                            updateArmyList([
-                              ...workingList,
-                              {
-                                "unitNum":idNum,
-                                "unitData":unit,
-                                "unitCallsign":generate_callsign(),
-                                "unitLeader":generate_name(unit.faction),
-                                "unitTransport":null
-                              }
-                              ])
-                            console.log(unit.faction)
-                            //Update tracked values on unit add to army list
-                            updateListValue(workingValue+unit.value)
-                            updateCommandGen(workingCommandGen+unit.command)
-                            idNum++
-                            if(unit.tags.some(tag => tag.rule == "TACOM") && !unit.tags.some(tag => tag.params == "Additional")){
-                              updateTacCount(workingTacCount+1)
-                            }}}>Add Unit +</button>
-                        </td>
-                      </tr>
+      {/* ── Filters ── */}
+      <section className="filters-section">
+        <div className="filter-group">
+          <span className="filter-label">Faction</span>
+          <div className="filter-pills">
+            {FACTIONS.map(f => (
+              <label
+                key={f.id}
+                className={`filter-pill pill-${f.id} ${factionFilters.has(f.id) ? 'active' : ''}`}
+              >
+                <input
+                  type="checkbox"
+                  checked={factionFilters.has(f.id)}
+                  onChange={() => toggleFilter(factionFilters, setFactionFilters, f.id)}
+                />
+                {f.label}
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <div className="filter-group">
+          <span className="filter-label">Unit Type</span>
+          <div className="filter-pills">
+            {UNIT_TYPES.map(t => (
+              <label
+                key={t.id}
+                className={`filter-pill ${typeFilters.has(t.id) ? 'active' : ''}`}
+              >
+                <input
+                  type="checkbox"
+                  checked={typeFilters.has(t.id)}
+                  onChange={() => toggleFilter(typeFilters, setTypeFilters, t.id)}
+                />
+                {t.label}
+              </label>
+            ))}
+          </div>
+        </div>
+
+        <div className="filter-group">
+          <span className="filter-label">Must Have</span>
+          <div className="filter-pills">
+            {TRAITS.map(t => (
+              <label
+                key={t.id}
+                className={`filter-pill ${traitFilters.has(t.id) ? 'active' : ''}`}
+              >
+                <input
+                  type="checkbox"
+                  checked={traitFilters.has(t.id)}
+                  onChange={() => toggleFilter(traitFilters, setTraitFilters, t.id)}
+                />
+                {t.label}
+              </label>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Main two-panel layout ── */}
+      <div className="main-layout">
+        {/* Library Panel */}
+        <div className="panel">
+          <div className="panel-header">
+            <span className="panel-title">Unit Library</span>
+            <span className="panel-count">{filteredLibrary.length} units</span>
+          </div>
+          <div className="search-bar">
+            <svg className="search-icon" viewBox="0 0 20 20" fill="currentColor" width="16" height="16">
+              <path fillRule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clipRule="evenodd" />
+            </svg>
+            <input
+              type="text"
+              className="search-input"
+              placeholder="Search units, weapons, traits..."
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+            />
+            {searchQuery && (
+              <button className="search-clear" onClick={() => setSearchQuery('')}>&times;</button>
+            )}
+          </div>
+          <div className="panel-body">
+            {filteredLibrary.map((unit, index) => (
+              <div className="unit-card" key={index}>
+                <span className={`faction-dot ${unit.faction[0]}`} />
+                <div className="unit-card-info" onClick={() => setDetailUnit(unit)}>
+                  <div className="unit-name">{unit.name}</div>
+                  <div className="unit-meta">
+                    {unit.type.super.join(', ')} ({unit.type.sub.join(', ')})
+                  </div>
+                </div>
+                <span className="unit-points">{unit.value} pts</span>
+                <button className="add-btn" onClick={() => addUnit(unit)}>+</button>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Army List Panel */}
+        <div className="panel">
+          <div className="panel-header">
+            <span className="panel-title">Army List</span>
+            {workingList.length > 0 && (
+              <span className="panel-count">{workingList.length} units</span>
+            )}
+          </div>
+          <div className="panel-body">
+            {workingList.length === 0 ? (
+              <div className="army-empty">
+                <div className="army-empty-icon">+</div>
+                <p>Add units from the library to build your army.</p>
+              </div>
+            ) : (
+              workingList.map((entry, index) => (
+                <div className="army-card" key={entry.unitNum}>
+                  <span className={`faction-dot ${entry.unitData.faction[0]}`} />
+                  <div className="army-card-info" onClick={() => editCallsign(index)}>
+                    <div className="unit-name">{entry.unitData.name}</div>
+                    <div className="army-callsign">
+                      {entry.unitCallsign} {entry.unitLeader}
+                    </div>
+                  </div>
+                  <span className="army-points">{entry.unitData.value} pts</span>
+                  <button className="remove-btn" onClick={() => removeUnit(index)}>&#x2715;</button>
+                </div>
+              ))
+            )}
+          </div>
+          {workingList.length > 0 && (
+            <div className="panel-footer">
+              <div className="army-stats">
+                <div className="stat">
+                  <span className="stat-value">{totals.points}</span>
+                  <span className="stat-label">Points</span>
+                </div>
+                <div className="stat">
+                  <span className="stat-value">{totals.tacom}</span>
+                  <span className="stat-label">TACOM</span>
+                </div>
+                <div className="stat">
+                  <span className="stat-value">{totals.command}</span>
+                  <span className="stat-label">Cmd / Turn</span>
+                </div>
+              </div>
+              <div className="army-actions">
+                <button className="action-btn primary" onClick={handleExport}>
+                  Export to Clipboard
+                </button>
+                <button className="action-btn" onClick={generateAllNames}>
+                  Generate Names
+                </button>
+                <button className="action-btn destructive" onClick={clearList}>
+                  Clear List
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+
+      <footer className="app-footer">
+        Source: <a href="https://github.com/nullAurelian/firelock-198X-armybuilder" target="_blank" rel="noreferrer">
+          nullAurelian/firelock-198X-armybuilder
+        </a>
+      </footer>
+
+      {/* ── Unit Detail Modal ── */}
+      {detailUnit && (
+        <div className="modal-overlay" onClick={() => setDetailUnit(null)}>
+          <div className="modal" onClick={e => e.stopPropagation()}>
+            <div className="modal-header">
+              <div>
+                <h2>{detailUnit.name}</h2>
+                <div className="modal-subtitle">
+                  <span className={`faction-dot ${detailUnit.faction[0]}`} />
+                  <span className="modal-faction">{FACTIONS.find(f => f.id === detailUnit.faction[0])?.label ?? detailUnit.faction[0]}</span>
+                </div>
+              </div>
+              <button className="modal-close" onClick={() => setDetailUnit(null)}>&times;</button>
+            </div>
+
+            <div className="modal-overview">
+              <div className="overview-item">
+                <span className="overview-value">{detailUnit.value}</span>
+                <span className="overview-label">Points</span>
+              </div>
+              <div className="overview-item">
+                <span className="overview-value">{detailUnit.command}</span>
+                <span className="overview-label">Command</span>
+              </div>
+              <div className="overview-item">
+                <span className="overview-value">{detailUnit.type.super.join(', ')}</span>
+                <span className="overview-label">Type</span>
+              </div>
+              <div className="overview-item">
+                <span className="overview-value">{detailUnit.type.sub.join(', ')}</span>
+                <span className="overview-label">Subtype</span>
+              </div>
+            </div>
+
+            {Array.isArray(detailUnit.stats) && (
+              <div className="modal-section">
+                <div className="modal-section-title">Stats</div>
+                <div className="stat-grid">
+                  {detailUnit.stats.map((s, i) => (
+                    <div className="stat-chip" key={i}>{s}</div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <div className="modal-section">
+              <div className="modal-section-title">Traits</div>
+              <div className="trait-list">
+                {detailUnit.tags.map((tag, i) => (
+                  <span className="modal-tag" key={i}>
+                    {tag.rule}{tag.params ? ` (${tag.params})` : ''}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            {detailUnit.weapons.some(w => w.weaponName) && (
+              <div className="modal-section">
+                <div className="modal-section-title">Weapons</div>
+                {detailUnit.weapons.filter(w => w.weaponName).map((weapon, wi) => (
+                  <div className="weapon-block" key={wi}>
+                    <div className="weapon-header">
+                      <span className="weapon-name">{weapon.weaponName}</span>
+                      {weapon.weaponAmmo && <span className="weapon-ammo">Ammo: {weapon.weaponAmmo}</span>}
+                    </div>
+                    {weapon.attacks.map((atk, ai) => (
+                      <div className="attack-entry" key={ai}>
+                        {atk.attackName && <div className="attack-name">{atk.attackName}</div>}
+                        <div className="attack-stats">
+                          {atk.attackRange && <span className="attack-stat"><b>Range</b> {atk.attackRange}</span>}
+                          {atk.attackAccuracy && <span className="attack-stat"><b>Acc</b> {atk.attackAccuracy}</span>}
+                          {atk.attackStrength && <span className="attack-stat"><b>Str</b> {atk.attackStrength}</span>}
+                          {atk.attackDice && <span className="attack-stat"><b>Dice</b> {atk.attackDice}</span>}
+                        </div>
+                        {atk.attackTags?.length > 0 && atk.attackTags[0] && (
+                          <div className="attack-tag-list">
+                            {(Array.isArray(atk.attackTags) ? atk.attackTags : [atk.attackTags]).map((t, ti) => (
+                              t && <span className="attack-tag-chip" key={ti}>{t}</span>
+                            ))}
+                          </div>
+                        )}
+                      </div>
                     ))}
-                </tbody>
-              </table>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            <div className="modal-action-row">
+              <button className="action-btn primary" onClick={() => { addUnit(detailUnit); setDetailUnit(null) }}>
+                Add to Army
+              </button>
             </div>
-          </td>
-          <td className="ListHolder">
-            <div className="FloatingTable">      
-              <table id="armyList">
-                <tbody>
-                {workingList.map((unit, index) => (
-                  <tr key={index} id="armyUnit">
-                    <td className="UnitName"> 
-                      <button style={{textAlign:'left'}} onClick={() => { //Allow user to assign custom callsigns, names
-                        let newCallsign = prompt("What is this unit's callsign?",unit.unitCallsign)
-                        if(newCallsign!=null){//DON'T REPLACE CALLSIGN ON CANCEL
-                          workingList[index].unitCallsign = newCallsign
-                        }
-                        updateArmyList([...workingList])
-                      }}>
-                        <p style={{marginLeft:5}}>{unit.unitData.name}</p>
-                        <p style={{marginLeft:5, fontSize:10}}>{unit.unitCallsign} {unit.unitLeader}</p>
-                      </button>
-                    </td>
-                    <td style={{width:"50%"}}>
-                      {unit.unitData.value} pts
-                    </td>
-                    <td>
-                      <button
-                        type="button" className="NormalButton" style={{backgroundColor:"transparent", fontWeight:"bold", color:"red"}} onClick={()=>{
-                          //Update workinglist to everything except the value at index
-                          updateArmyList(workingList.slice(0, index).concat(workingList.slice(index+1)))
-                          //update tracked values on unit being removed from army list
-                          updateListValue(workingValue-unit.unitData.value)
-                          updateCommandGen(workingCommandGen-unit.unitData.command)
-                          if(unit.unitData.tags.some(tag => tag.rule == "TACOM") && !unit.unitData.tags.some(tag => tag.params == "Additional")){
-                            updateTacCount(workingTacCount-1)
-                          }
-                        }}>X</button>
-                    </td>
-                  </tr>
-                ))}</tbody>
-              </table>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td style={{fontSize:10, textAlign:'left'}}><p>Source Code: <a href="https://github.com/nullAurelian/firelock-198X-armybuilder">https://github.com/nullAurelian/firelock-198X-armybuilder</a></p></td>
-          <td>
-            <table>
-              <tbody>
-                <tr>
-                  <td className='UtilityMenu'>
-                    <button type="button" className="NormalButton" //Reset Army list related tracked data
-                      onClick={() => {updateArmyList([]); updateListValue(0); updateTacCount(0); updateCommandGen(0)}}> Clear List </button>
-                    <button type="button" className="NormalButton" //Export values to clipboard for pasting elsewhere
-                      onClick={() => {handle_export(workingList)}}>Export to Clipboard</button>
-                    <button type='button' className='NormalButton' //For every unit with a callsign of null, change to <consonent><vowel>-<index+1>.
-                      onClick={() => {
-                        for (let i = 0; i < workingList.length; i++) {
-                          if(workingList[i].unitCallsign==""){
-                            workingList[i].unitCallsign = generate_callsign()
-                          }
-                          if(workingList[i].unitLeader==""){
-                            workingList[i].unitLeader = generate_name(workingList[i].unitData.faction)
-                          }
-                        }
-                        updateArmyList([...workingList])
-                      }}>Generate Callsigns and Names</button>
-                  </td>
-                  <td style={{textAlign:'right'}}>
-                    <p id="totalPts">List Value: {workingValue}</p>
-                    <p id="totalTAC">TACOM Count: {workingTacCount}</p>
-                    <p id="totalCmd">Command Points per turn: {workingCommandGen}</p>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </td>
-        </tr>
-        </tbody>
-      </table>
+          </div>
+        </div>
+      )}
     </>
   )
 }
-/**
- * Takes the array of units of the user army list and converts it to text that is copied to the user's clipboard.
- * @param {Array} armylist all units selected for use in the user's army.
- */
-function handle_export(armylist) { //Trigger copy list content to clipboard
-  let armyString = ""
-  let armyCost = 0
-  console.log(armylist)
-  //Format everything in the current army list to a simple text of name only
-  for (const u of armylist){
-    let uName = ""
-    if(u.unitData.tags.some(tag => tag.rule == "TACOM")) {uName = ", "+u.unitLeader}
-    armyString = armyString.concat(" \r\n ",u.unitData.name, " (",u.unitCallsign,uName,") [",u.unitData.value," pts]")
-    armyCost += u.unitData.value
-  }
-  console.log(armyString)
-  navigator.clipboard.writeText(armyString.concat("\r\nTotal Point Value:",armyCost)).then(
-    () => {
-      console.log("Copied list to clipboard!")
-      alert("Copied contents to clipboard!")
-    },
-    () => {console.log("Failed to copy list to clipboard!")}
-  )
+
+function generateCallsign() {
+  const consonants = 'BCDFGHJKLMNPQRSTVWXYZ'.split('')
+  const vowels = 'AEIOUY'.split('')
+  const c = () => consonants[Math.floor(Math.random() * consonants.length)]
+  const v = () => vowels[Math.floor(Math.random() * vowels.length)]
+  return `${c()}${v()}${c()}-${Math.round(Math.random() * 10)}`
 }
 
-/**
- * Takes the global library of units and filters them based on checkbox state.
- * @param {Array} library of all units
- * @returns {Array} of all units that satisfy the selected filters
- */
-function build_list_filter(library){
-  let temp = library
-  //Faction filters
-  if(!(document.getElementById("typeFederal").checked)){
-    temp = (temp.filter(units => !units.faction.includes("federal")))
-  }
-  if(!(document.getElementById("typeLupar").checked)){
-    temp = (temp.filter(units => !units.faction.includes("lupar")))
-  }
-  if(!(document.getElementById("typeRygolic").checked)){
-    temp = (temp.filter(units => !units.faction.includes("rygolic")))
-  }
-  if(!(document.getElementById("typeSantagri").checked)){
-    temp = (temp.filter(units => !units.faction.includes("santagri")))
-  }
-  //Unit type filters
-  if(!(document.getElementById("typeInfantry").checked)){
-    temp = (temp.filter(units => !units.type.super.includes("Infantry")))
-  }
-  if(!(document.getElementById("typeVehicle").checked)){
-    temp = temp.filter(units => !units.type.super.includes("Vehicle"))
-  }
-  if(!(document.getElementById("typeHelicopter").checked)){
-    temp = temp.filter(units => !units.type.super.includes("Helicopter"))
-  }
-  if(!(document.getElementById("typeAircraft").checked)){
-    temp = temp.filter(units => !units.type.super.includes("Aircraft"))
-  }
-  //Traits filters
-  if((document.getElementById("isTACOM").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "TACOM"))
-  }
-  if((document.getElementById("canGoOnWater").checked)){
-    temp = temp.filter(units => units.type.sub.includes("Watercraft")).concat(temp.filter(units => units.tags.some(tag => tag.rule == "Amphibious")))
-  }
-  if((document.getElementById("canParadrop").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "Paradrop")).concat(temp.filter(units => units.tags.some(tag => tag.rule == "Infiltrator")))
-  }
-  if((document.getElementById("canEmbark").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "PC"))
-  }
-  if((document.getElementById("canTow").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "Tow"))
-  }
-  if((document.getElementById("canResupply").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "Resupply"))
-  }
-  if((document.getElementById("canAssault").checked)){
-    temp = temp.filter(units => units.tags.some(tag => tag.rule == "Assault Specialist")).concat(temp.filter(units => units.tags.some(tag => tag.rule == "Assault Dismount")))
-  }
-  return [...new Set(temp)]
-}
-
-/**
- * Renders a single unit's data as an active 
- * @param {JSON} unit JSON of unit data saved to the army list.
- * @returns {Element} dynamically generated element of unit data.
- */
-function render_unit_data(unit){
-  let t = unit.name +"\n\rUnit type: " +unit.type.super +"("+unit.type.sub+")"+"\n\rUnit stats: "+unit.stats+ "\n\rUnit traits: \n\r"
-  for(let i = 0; i < unit.tags.length; i++){
-    let e = "(" + unit.tags[i].params +")"
-    if(e==="()"){e=""}
-    t += unit.tags[i].rule +e + ", "
-    }
-    t+="\n\rUnit Weapons: \n\r"
-    for(let i = 0; i < unit.weapons.length; i++){
-      let ammo = " Ammo: "+ unit.weapons[i].weaponAmmo
-      if(ammo===" Ammo: "){ammo=""}
-      let w = unit.weapons[i].weaponName + ammo + "\r\n\t"
-      for(let a = 0; a < unit.weapons[i].attacks.length; a++){
-        let attk = unit.weapons[i].attacks[a]
-        w = w.concat(attk.attackName," ",attk.attackRange," ",attk.attackAccuracy," ",attk.attackStrength," ",attk.attackDice, "\r\n\t\t",attk.attackTags,"\r\n\t")
-      }
-      t += w + "\n\r"
-    }
-  return t
-}
-
-/**
- * Returns a generated callsign with the pattern <consonent><vowel><consonent>-<number>
- * @returns Callsign string
- */
-function generate_callsign(){
-  let consonents = "BCDFGHJKLMNPQRSTVWXYZ".split('')
-  let vowels = "AEIOUY".split('')
-  return consonents[Math.floor(Math.random() * consonents.length)].concat(vowels[Math.floor(Math.random() * vowels.length)], consonents[Math.floor(Math.random() * consonents.length)],"-",Math.round(Math.random()*10))
-}
-
-/**
- * Generates a name from a predefined library.
- * @param {Array} faction array of factions assocaited with the unit the name is being applied to. Only uses the first one in the list.
- * @returns string of names
- */
-function generate_name(faction){
-  console.log(faction)
-  switch(faction[0]){
-    case "federal":
-      return peoplenames.federal.firstNames[Math.floor(Math.random() * peoplenames.federal.firstNames.length)].concat(peoplenames.federal.lastNames[Math.floor(Math.random() * peoplenames.federal.lastNames.length)]);
-    case "lupar":
-      return peoplenames.lupar.firstNames[Math.floor(Math.random() * peoplenames.lupar.firstNames.length)].concat(peoplenames.lupar.lastNames[Math.floor(Math.random() * peoplenames.lupar.lastNames.length)]);
-    case "rygolic":
-      return ""; //Rygolic constructs don't have names
-    case "santagri":
-      return peoplenames.santagri.firstNames[Math.floor(Math.random() * peoplenames.santagri.firstNames.length)].concat(peoplenames.santagri.lastNames[Math.floor(Math.random() * peoplenames.santagri.lastNames.length)]);
+function generateName(faction) {
+  const pick = (arr) => arr[Math.floor(Math.random() * arr.length)]
+  switch (faction[0]) {
+    case 'federal':
+      return pick(peoplenames.federal.firstNames) + pick(peoplenames.federal.lastNames)
+    case 'lupar':
+      return pick(peoplenames.lupar.firstNames) + pick(peoplenames.lupar.lastNames)
+    case 'santagri':
+      return pick(peoplenames.santagri.firstNames) + pick(peoplenames.santagri.lastNames)
     default:
-      return "";
+      return ''
   }
 }
 
