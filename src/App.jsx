@@ -6,6 +6,7 @@ import luplist from './data/luparLibrary.js'
 import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
 import peoplenames from './data/characterNames.js'
+import unitDescriptions from './data/unitDescriptions.js'
 
 const ALL_UNITS = fedlist.concat(luplist, rygolist, santalist, generics)
 
@@ -344,6 +345,29 @@ function App() {
                 <span className="overview-label">Subtype</span>
               </div>
             </div>
+
+            {(() => {
+              const desc = unitDescriptions[`${detailUnit.faction[0]}:${detailUnit.name}`] || unitDescriptions[detailUnit.name]
+              if (!desc) return null
+              return (
+                <>
+                  {desc.remarks && (
+                    <div className="modal-section">
+                      <div className="modal-section-title">Description</div>
+                      <p className="unit-remarks">{desc.remarks}</p>
+                    </div>
+                  )}
+                  {desc.quote && (
+                    <blockquote className="unit-quote">
+                      <p>{desc.quote}</p>
+                      {desc.quoteAttribution && (
+                        <cite>&mdash; {desc.quoteAttribution}</cite>
+                      )}
+                    </blockquote>
+                  )}
+                </>
+              )
+            })()}
 
             {Array.isArray(detailUnit.stats) && (
               <div className="modal-section">
