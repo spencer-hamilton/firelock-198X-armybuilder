@@ -1,49 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-  --bg-page: #18171c;
-  --bg-surface: #222228;
-  --bg-elevated: #2a2a32;
-  --bg-hover: #32323c;
-  --bg-input: #1e1e24;
+  --bg-page: #f0f0f0;
+  --bg-surface: #ffffff;
+  --bg-elevated: #f5f5f5;
+  --bg-hover: #eaeaea;
+  --bg-input: #f5f5f5;
 
-  --text-primary: #eeeeee;
-  --text-secondary: #a0a0a8;
-  --text-tertiary: #6e6e78;
+  --text-primary: #1a1a1a;
+  --text-secondary: #555555;
+  --text-tertiary: #888888;
 
-  --accent: #fa5c5c;
-  --accent-hover: #ff7070;
-  --accent-subtle: rgba(250, 92, 92, 0.12);
+  --accent: #1a1a1a;
+  --accent-hover: #333333;
+  --accent-subtle: rgba(26, 26, 26, 0.08);
 
-  --border: #333340;
-  --border-hover: #444454;
+  --border: #1a1a1a;
+  --border-hover: #333333;
+  --border-light: #cccccc;
 
-  --federal: #5b8fd9;
-  --federal-bg: rgba(91, 143, 217, 0.1);
-  --federal-border: rgba(91, 143, 217, 0.3);
+  --federal: #3a6cb4;
+  --federal-bg: rgba(58, 108, 180, 0.08);
+  --federal-border: rgba(58, 108, 180, 0.4);
 
-  --lupar: #8b9b5a;
-  --lupar-bg: rgba(139, 155, 90, 0.1);
-  --lupar-border: rgba(139, 155, 90, 0.3);
+  --lupar: #5a6e2a;
+  --lupar-bg: rgba(90, 110, 42, 0.08);
+  --lupar-border: rgba(90, 110, 42, 0.4);
 
-  --rygolic: #d06050;
-  --rygolic-bg: rgba(208, 96, 80, 0.1);
-  --rygolic-border: rgba(208, 96, 80, 0.3);
+  --rygolic: #a84030;
+  --rygolic-bg: rgba(168, 64, 48, 0.08);
+  --rygolic-border: rgba(168, 64, 48, 0.4);
 
-  --santagri: #4db84d;
-  --santagri-bg: rgba(77, 184, 77, 0.1);
-  --santagri-border: rgba(77, 184, 77, 0.3);
+  --santagri: #2a8a2a;
+  --santagri-bg: rgba(42, 138, 42, 0.08);
+  --santagri-border: rgba(42, 138, 42, 0.4);
 
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 14px;
-  --radius-pill: 100px;
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-pill: 0px;
 
-  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
-  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-sm: none;
+  --shadow-md: none;
+  --shadow-lg: none;
 
-  --transition: 150ms ease;
+  --transition: 120ms ease;
 
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   line-height: 1.5;
@@ -73,13 +74,13 @@ body {
 }
 
 a {
-  color: var(--accent);
-  text-decoration: none;
+  color: var(--text-primary);
+  text-decoration: underline;
   transition: color var(--transition);
 }
 
 a:hover {
-  color: var(--accent-hover);
+  color: var(--text-secondary);
 }
 
 button {
@@ -105,10 +106,10 @@ button {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--border);
-  border-radius: var(--radius-pill);
+  background: var(--border-light);
+  border-radius: 0;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--border-hover);
+  background: var(--text-tertiary);
 }
