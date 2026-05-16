@@ -7,6 +7,7 @@ import rygolist from './data/rygolicLibrary.js'
 import santalist from './data/santagriLibrary.js'
 import peoplenames from './data/characterNames.js'
 import unitDescriptions from './data/unitDescriptions.js'
+import unitImages from './data/unitImages.js'
 
 const ALL_UNITS = fedlist.concat(luplist, rygolist, santalist, generics)
 
@@ -326,6 +327,16 @@ function App() {
               </div>
               <button className="modal-close" onClick={() => setDetailUnit(null)}>&times;</button>
             </div>
+
+            {(unitImages[detailUnit.faction[0]]?.[detailUnit.name]) && (
+              <div className="unit-image-container">
+                <img
+                  src={import.meta.env.BASE_URL + unitImages[detailUnit.faction[0]][detailUnit.name]}
+                  alt={detailUnit.name}
+                  className="unit-image"
+                />
+              </div>
+            )}
 
             <div className="modal-overview">
               <div className="overview-item">
