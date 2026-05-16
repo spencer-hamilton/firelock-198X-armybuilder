@@ -6,23 +6,25 @@
 }
 
 .app-header h1 {
-  font-family: 'Instrument Serif', Georgia, serif;
-  font-size: 2.25rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 700;
   color: var(--text-primary);
-  letter-spacing: -0.02em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .app-header p {
   color: var(--text-tertiary);
-  font-size: 0.875rem;
+  font-size: 0.8125rem;
   margin-top: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 /* ── Filter Section ── */
 
 .filters-section {
-  background: var(--bg-secondary);
+  background: var(--bg-surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   padding: 20px 24px;
@@ -39,10 +41,10 @@
 }
 
 .filter-label {
-  font-size: 0.75rem;
+  font-size: 0.6875rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
   color: var(--text-tertiary);
   margin-bottom: 8px;
   display: block;
@@ -63,8 +65,8 @@
   font-size: 0.8125rem;
   font-weight: 500;
   border: 1px solid var(--border);
-  background: var(--bg-primary);
-  color: var(--text-secondary);
+  background: var(--bg-page);
+  color: var(--text-tertiary);
   transition: all var(--transition);
   cursor: pointer;
   user-select: none;
@@ -72,7 +74,8 @@
 
 .filter-pill:hover {
   border-color: var(--border-hover);
-  background: var(--bg-tertiary);
+  background: var(--bg-hover);
+  color: var(--text-secondary);
 }
 
 .filter-pill.active {
@@ -85,7 +88,6 @@
   display: none;
 }
 
-/* faction-specific active pill tints */
 .filter-pill.active.pill-federal {
   background: var(--federal-bg);
   border-color: var(--federal);
@@ -119,7 +121,7 @@
 /* ── Panel (shared) ── */
 
 .panel {
-  background: var(--bg-secondary);
+  background: var(--bg-surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-sm);
@@ -137,401 +139,26 @@
 }
 
 .panel-title {
-  font-size: 0.875rem;
+  font-size: 0.8125rem;
   font-weight: 600;
   color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
 .panel-count {
   font-size: 0.75rem;
   color: var(--text-tertiary);
-  background: var(--bg-primary);
+  background: var(--bg-page);
   padding: 2px 10px;
   border-radius: var(--radius-pill);
+  border: 1px solid var(--border);
 }
 
 .panel-body {
   overflow-y: auto;
   max-height: 600px;
-  padding: 8px;
-}
-
-/* ── Unit Card (Library) ── */
-
-.unit-card {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 12px 14px;
-  border-radius: var(--radius-md);
-  transition: background var(--transition);
-  gap: 12px;
-  cursor: default;
-}
-
-.unit-card:hover {
-  background: var(--bg-primary);
-}
-
-.unit-card-info {
-  flex: 1;
-  min-width: 0;
-  cursor: pointer;
-  padding: 4px;
-  border-radius: var(--radius-sm);
-}
-
-.unit-card-info:hover {
-  background: var(--bg-tertiary);
-}
-
-.unit-name {
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.unit-meta {
-  font-size: 0.75rem;
-  color: var(--text-tertiary);
-  margin-top: 2px;
-}
-
-.unit-points {
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--accent);
-  white-space: nowrap;
-}
-
-.faction-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.faction-dot.federal { background: var(--federal); }
-.faction-dot.lupar { background: var(--lupar); }
-.faction-dot.rygolic { background: var(--rygolic); }
-.faction-dot.santagri { background: var(--santagri); }
-
-.add-btn {
-  width: 32px;
-  height: 32px;
-  border-radius: var(--radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid var(--border);
-  background: var(--bg-secondary);
-  color: var(--text-tertiary);
-  font-size: 1.125rem;
-  flex-shrink: 0;
-  transition: all var(--transition);
-}
-
-.add-btn:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-  background: var(--accent-subtle);
-}
-
-/* ── Army Card ── */
-
-.army-card {
-  display: flex;
-  align-items: center;
-  padding: 12px 14px;
-  border-radius: var(--radius-md);
-  gap: 12px;
-  transition: background var(--transition);
-}
-
-.army-card:hover {
-  background: var(--bg-primary);
-}
-
-.army-card-info {
-  flex: 1;
-  min-width: 0;
-  cursor: pointer;
-  padding: 4px;
-  border-radius: var(--radius-sm);
-}
-
-.army-card-info:hover {
-  background: var(--bg-tertiary);
-}
-
-.army-callsign {
-  font-size: 0.6875rem;
-  color: var(--text-tertiary);
-  margin-top: 2px;
-  font-style: italic;
-}
-
-.army-points {
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  white-space: nowrap;
-  margin-right: 8px;
-}
-
-.remove-btn {
-  width: 28px;
-  height: 28px;
-  border-radius: var(--radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-tertiary);
-  font-size: 0.75rem;
-  flex-shrink: 0;
-  transition: all var(--transition);
-}
-
-.remove-btn:hover {
-  background: rgba(220, 70, 50, 0.08);
-  color: #dc4632;
-}
-
-/* ── Army Empty State ── */
-
-.army-empty {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 60px 24px;
-  color: var(--text-tertiary);
-  text-align: center;
-}
-
-.army-empty-icon {
-  font-size: 2rem;
-  margin-bottom: 12px;
-  opacity: 0.4;
-}
-
-.army-empty p {
-  font-size: 0.875rem;
-}
-
-/* ── Panel Footer (Army) ── */
-
-.panel-footer {
-  border-top: 1px solid var(--border);
-  padding: 16px 20px;
-}
-
-.army-stats {
-  display: flex;
-  gap: 20px;
-  margin-bottom: 14px;
-}
-
-.stat {
-  display: flex;
-  flex-direction: column;
-}
-
-.stat-value {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: var(--text-primary);
-  font-variant-numeric: tabular-nums;
-}
-
-.stat-label {
-  font-size: 0.6875rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--text-tertiary);
-}
-
-.army-actions {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
-.action-btn {
-  padding: 8px 16px;
-  border-radius: var(--radius-pill);
-  font-size: 0.8125rem;
-  font-weight: 500;
-  border: 1px solid var(--border);
-  background: var(--bg-secondary);
-  color: var(--text-secondary);
-  transition: all var(--transition);
-}
-
-.action-btn:hover {
-  border-color: var(--border-hover);
-  background: var(--bg-primary);
-  color: var(--text-primary);
-}
-
-.action-btn.primary {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
-}
-
-.action-btn.primary:hover {
-  background: var(--accent-hover);
-  border-color: var(--accent-hover);
-}
-
-.action-btn.destructive {
-  color: #dc4632;
-  border-color: rgba(220, 70, 50, 0.2);
-}
-
-.action-btn.destructive:hover {
-  background: rgba(220, 70, 50, 0.06);
-  border-color: rgba(220, 70, 50, 0.35);
-}
-
-/* ── Source Footer ── */
-
-.app-footer {
-  text-align: center;
-  padding: 24px;
-  color: var(--text-tertiary);
-  font-size: 0.75rem;
-}
-
-/* ── Unit Detail Modal ── */
-
-.modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(45, 43, 40, 0.4);
-  backdrop-filter: blur(4px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 100;
-  padding: 24px;
-}
-
-.modal {
-  background: var(--bg-secondary);
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg);
-  max-width: 520px;
-  width: 100%;
-  max-height: 80vh;
-  overflow-y: auto;
-  padding: 24px;
-}
-
-.modal-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-bottom: 16px;
-}
-
-.modal-header h2 {
-  font-family: 'Instrument Serif', Georgia, serif;
-  font-size: 1.5rem;
-  font-weight: 400;
-  color: var(--text-primary);
-}
-
-.modal-close {
-  width: 32px;
-  height: 32px;
-  border-radius: var(--radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-tertiary);
-  font-size: 1.25rem;
-  transition: all var(--transition);
-  flex-shrink: 0;
-}
-
-.modal-close:hover {
-  background: var(--bg-primary);
-  color: var(--text-primary);
-}
-
-.modal-section {
-  margin-bottom: 16px;
-}
-
-.modal-section-title {
-  font-size: 0.6875rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--text-tertiary);
-  margin-bottom: 6px;
-}
-
-.modal-section p {
-  font-size: 0.875rem;
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-
-.modal-tag {
-  display: inline-block;
-  padding: 3px 10px;
-  border-radius: var(--radius-pill);
-  font-size: 0.75rem;
-  background: var(--bg-primary);
-  border: 1px solid var(--border);
-  color: var(--text-secondary);
-  margin: 2px 4px 2px 0;
-}
-
-.weapon-block {
-  background: var(--bg-primary);
-  border-radius: var(--radius-sm);
-  padding: 10px 12px;
-  margin-bottom: 6px;
-}
-
-.weapon-name {
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  margin-bottom: 4px;
-}
-
-.weapon-ammo {
-  font-size: 0.75rem;
-  color: var(--text-tertiary);
-  font-style: italic;
-}
-
-.attack-row {
-  font-size: 0.75rem;
-  color: var(--text-secondary);
-  padding: 2px 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.attack-row span {
-  font-weight: 500;
-}
-
-.attack-tags {
-  font-size: 0.6875rem;
-  color: var(--text-tertiary);
-  padding-left: 8px;
+  padding: 6px;
 }
 
 /* ── Search Bar ── */
@@ -542,7 +169,7 @@
   gap: 8px;
   padding: 8px 12px;
   border-bottom: 1px solid var(--border);
-  background: var(--bg-primary);
+  background: var(--bg-input);
 }
 
 .search-icon {
@@ -578,11 +205,301 @@
 }
 
 .search-clear:hover {
-  background: var(--bg-tertiary);
+  background: var(--bg-hover);
   color: var(--text-primary);
 }
 
-/* ── Enhanced Modal ── */
+/* ── Unit Card (Library) ── */
+
+.unit-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  transition: background var(--transition);
+  gap: 10px;
+  cursor: default;
+}
+
+.unit-card:hover {
+  background: var(--bg-hover);
+}
+
+.unit-card-info {
+  flex: 1;
+  min-width: 0;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: var(--radius-sm);
+}
+
+.unit-card-info:hover {
+  background: var(--bg-elevated);
+}
+
+.unit-name {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.unit-meta {
+  font-size: 0.6875rem;
+  color: var(--text-tertiary);
+  margin-top: 1px;
+}
+
+.unit-points {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.faction-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.faction-dot.federal { background: var(--federal); }
+.faction-dot.lupar { background: var(--lupar); }
+.faction-dot.rygolic { background: var(--rygolic); }
+.faction-dot.santagri { background: var(--santagri); }
+
+.add-btn {
+  width: 30px;
+  height: 30px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  background: var(--bg-surface);
+  color: var(--text-tertiary);
+  font-size: 1rem;
+  flex-shrink: 0;
+  transition: all var(--transition);
+}
+
+.add-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-subtle);
+}
+
+/* ── Army Card ── */
+
+.army-card {
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  gap: 10px;
+  transition: background var(--transition);
+}
+
+.army-card:hover {
+  background: var(--bg-hover);
+}
+
+.army-card-info {
+  flex: 1;
+  min-width: 0;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: var(--radius-sm);
+}
+
+.army-card-info:hover {
+  background: var(--bg-elevated);
+}
+
+.army-callsign {
+  font-size: 0.6875rem;
+  color: var(--text-tertiary);
+  margin-top: 1px;
+  font-style: italic;
+}
+
+.army-points {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  margin-right: 4px;
+}
+
+.remove-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-tertiary);
+  font-size: 0.75rem;
+  flex-shrink: 0;
+  transition: all var(--transition);
+}
+
+.remove-btn:hover {
+  background: rgba(250, 92, 92, 0.12);
+  color: var(--accent);
+}
+
+/* ── Army Empty State ── */
+
+.army-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 24px;
+  color: var(--text-tertiary);
+  text-align: center;
+}
+
+.army-empty-icon {
+  font-size: 2rem;
+  margin-bottom: 12px;
+  opacity: 0.3;
+}
+
+.army-empty p {
+  font-size: 0.8125rem;
+}
+
+/* ── Panel Footer (Army) ── */
+
+.panel-footer {
+  border-top: 1px solid var(--border);
+  padding: 16px 20px;
+}
+
+.army-stats {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 14px;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-size: 0.625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-tertiary);
+}
+
+.army-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.action-btn {
+  padding: 8px 16px;
+  border-radius: var(--radius-pill);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  border: 1px solid var(--border);
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  transition: all var(--transition);
+}
+
+.action-btn:hover {
+  border-color: var(--border-hover);
+  background: var(--bg-hover);
+  color: var(--text-primary);
+}
+
+.action-btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+
+.action-btn.primary:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+
+.action-btn.destructive {
+  color: var(--text-tertiary);
+  border-color: var(--border);
+}
+
+.action-btn.destructive:hover {
+  color: var(--accent);
+  background: var(--accent-subtle);
+  border-color: rgba(250, 92, 92, 0.3);
+}
+
+/* ── Source Footer ── */
+
+.app-footer {
+  text-align: center;
+  padding: 24px;
+  color: var(--text-tertiary);
+  font-size: 0.75rem;
+}
+
+/* ── Unit Detail Modal ── */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 24px;
+}
+
+.modal {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  max-width: 540px;
+  width: 100%;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 24px;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
+
+.modal-header h2 {
+  font-size: 1.375rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
 
 .modal-subtitle {
   display: flex;
@@ -596,13 +513,31 @@
   color: var(--text-tertiary);
 }
 
+.modal-close {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-tertiary);
+  font-size: 1.25rem;
+  transition: all var(--transition);
+  flex-shrink: 0;
+}
+
+.modal-close:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+}
+
 .modal-overview {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 8px;
   margin-bottom: 20px;
   padding: 14px;
-  background: var(--bg-primary);
+  background: var(--bg-page);
   border-radius: var(--radius-md);
   border: 1px solid var(--border);
 }
@@ -621,12 +556,31 @@
 }
 
 .overview-label {
+  font-size: 0.5625rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-tertiary);
+  margin-top: 2px;
+}
+
+.modal-section {
+  margin-bottom: 16px;
+}
+
+.modal-section-title {
   font-size: 0.625rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   color: var(--text-tertiary);
-  margin-top: 2px;
+  margin-bottom: 6px;
+}
+
+.modal-section p {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
 }
 
 .stat-grid {
@@ -641,7 +595,7 @@
   font-size: 0.8125rem;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
-  background: var(--bg-secondary);
+  background: var(--bg-elevated);
   border: 1px solid var(--border);
   color: var(--text-primary);
 }
@@ -652,12 +606,43 @@
   gap: 4px;
 }
 
+.modal-tag {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 0.75rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  margin: 2px 2px 2px 0;
+}
+
+.weapon-block {
+  background: var(--bg-page);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border: 1px solid var(--border);
+}
+
 .weapon-header {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 8px;
   margin-bottom: 6px;
+}
+
+.weapon-name {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.weapon-ammo {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  font-style: italic;
 }
 
 .attack-entry {

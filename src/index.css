@@ -1,45 +1,47 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 :root {
-  --bg-primary: #F5F0E8;
-  --bg-secondary: #FFFFFF;
-  --bg-tertiary: #EDE8DE;
+  --bg-page: #18171c;
+  --bg-surface: #222228;
+  --bg-elevated: #2a2a32;
+  --bg-hover: #32323c;
+  --bg-input: #1e1e24;
 
-  --text-primary: #2D2B28;
-  --text-secondary: #6B6560;
-  --text-tertiary: #9B9590;
+  --text-primary: #eeeeee;
+  --text-secondary: #a0a0a8;
+  --text-tertiary: #6e6e78;
 
-  --accent: #DA7756;
-  --accent-hover: #C4654A;
-  --accent-subtle: rgba(218, 119, 86, 0.1);
+  --accent: #fa5c5c;
+  --accent-hover: #ff7070;
+  --accent-subtle: rgba(250, 92, 92, 0.12);
 
-  --border: #E0DAD0;
-  --border-hover: #C8C0B4;
+  --border: #333340;
+  --border-hover: #444454;
 
-  --federal: #6B8EC7;
-  --federal-bg: rgba(107, 142, 199, 0.08);
-  --federal-border: rgba(107, 142, 199, 0.25);
+  --federal: #5b8fd9;
+  --federal-bg: rgba(91, 143, 217, 0.1);
+  --federal-border: rgba(91, 143, 217, 0.3);
 
-  --lupar: #7A8B5A;
-  --lupar-bg: rgba(122, 139, 90, 0.08);
-  --lupar-border: rgba(122, 139, 90, 0.25);
+  --lupar: #8b9b5a;
+  --lupar-bg: rgba(139, 155, 90, 0.1);
+  --lupar-border: rgba(139, 155, 90, 0.3);
 
-  --rygolic: #C06050;
-  --rygolic-bg: rgba(192, 96, 80, 0.08);
-  --rygolic-border: rgba(192, 96, 80, 0.25);
+  --rygolic: #d06050;
+  --rygolic-bg: rgba(208, 96, 80, 0.1);
+  --rygolic-border: rgba(208, 96, 80, 0.3);
 
-  --santagri: #5BA550;
-  --santagri-bg: rgba(91, 165, 80, 0.08);
-  --santagri-border: rgba(91, 165, 80, 0.25);
+  --santagri: #4db84d;
+  --santagri-bg: rgba(77, 184, 77, 0.1);
+  --santagri-border: rgba(77, 184, 77, 0.3);
 
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 16px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
   --radius-pill: 100px;
 
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
-  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.06);
-  --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
 
   --transition: 150ms ease;
 
@@ -47,7 +49,7 @@
   line-height: 1.5;
   font-weight: 400;
   color: var(--text-primary);
-  background-color: var(--bg-primary);
+  background-color: var(--bg-page);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
