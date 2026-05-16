@@ -103,15 +103,16 @@ function App() {
   }, [])
 
   const editCallsign = useCallback((index) => {
+    const entry = workingList[index]
+    if (!entry) return
+    const newCallsign = prompt("What is this unit's callsign?", entry.unitCallsign)
+    if (newCallsign == null) return
     setArmyList(prev => {
-      const entry = prev[index]
-      const newCallsign = prompt("What is this unit's callsign?", entry.unitCallsign)
-      if (newCallsign == null) return prev
       const next = [...prev]
-      next[index] = { ...entry, unitCallsign: newCallsign }
+      next[index] = { ...next[index], unitCallsign: newCallsign }
       return next
     })
-  }, [])
+  }, [workingList])
 
   const clearList = useCallback(() => setArmyList([]), [])
 
@@ -263,9 +264,9 @@ function App() {
               workingList.map((entry, index) => (
                 <div className="army-card" key={entry.unitNum}>
                   <span className={`faction-dot ${entry.unitData.faction[0]}`} />
-                  <div className="army-card-info" onClick={() => editCallsign(index)}>
-                    <div className="unit-name">{entry.unitData.name}</div>
-                    <div className="army-callsign">
+                  <div className="army-card-info">
+                    <div className="unit-name army-unit-link" onClick={() => setDetailUnit(entry.unitData)}>{entry.unitData.name}</div>
+                    <div className="army-callsign army-callsign-link" onClick={() => editCallsign(index)}>
                       {entry.unitCallsign} {entry.unitLeader}
                     </div>
                   </div>

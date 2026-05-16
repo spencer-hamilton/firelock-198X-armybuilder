@@ -314,11 +314,22 @@
 .army-card-info {
   flex: 1;
   min-width: 0;
-  cursor: pointer;
   padding: 4px 6px;
 }
 
-.army-card-info:hover {
+.army-unit-link {
+  cursor: pointer;
+}
+
+.army-unit-link:hover {
+  text-decoration: underline;
+}
+
+.army-callsign-link {
+  cursor: pointer;
+}
+
+.army-callsign-link:hover {
   text-decoration: underline;
 }
 
