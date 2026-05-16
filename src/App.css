@@ -479,7 +479,7 @@
 }
 
 .fm-modal {
-  background: #f5f0e0;
+  background: #ffffff;
   color: #1a1a1a;
   border: 2px solid #1a1a1a;
   border-radius: 2px;
@@ -732,6 +732,35 @@
   font-style: normal;
   font-weight: 600;
   color: #555;
+}
+
+/* ── Modal Action Row ── */
+
+.modal-action-row {
+  padding: 14px 16px;
+  border-top: 2px solid #1a1a1a;
+}
+
+.modal-action-row .action-btn.primary {
+  display: block;
+  width: 100%;
+  padding: 10px 16px;
+  border-radius: 0;
+  background: #1a1a1a;
+  border: 2px solid #1a1a1a;
+  color: #ffffff;
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.modal-action-row .action-btn.primary:hover {
+  background: #333;
+  border-color: #333;
 }
 
 /* ── Responsive ── */
