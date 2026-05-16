@@ -739,6 +739,26 @@
   color: #555;
 }
 
+/* ── Field Manual: Wide Layout (vehicles/aircraft) ── */
+
+.fm-wide-header {
+  border-bottom: 2px solid #1a1a1a;
+}
+
+.fm-image-wrap--wide {
+  min-height: 160px;
+  max-height: 400px;
+}
+
+.fm-right-inner {
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+
+.fm-quote-section {
+  margin-top: 12px;
+}
+
 /* ── Modal Action Row ── */
 
 .modal-action-row {

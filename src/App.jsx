@@ -319,101 +319,134 @@ function App() {
         const imgSrc = unitImages[detailUnit.faction[0]]?.[detailUnit.name]
         const factionLabel = FACTIONS.find(f => f.id === detailUnit.faction[0])?.label ?? detailUnit.faction[0]
         const typeLabel = detailUnit.type.super.join(', ') + (detailUnit.type.sub.length ? ` (${detailUnit.type.sub.join(', ')})` : '')
+        const isWide = detailUnit.type.super.some(s => s === 'Vehicle' || s === 'Helicopter' || s === 'Aircraft')
+
+        const statBlock = (
+          <>
+            <div className="fm-stat-header">
+              <span className="fm-stat-name">{detailUnit.name.toUpperCase()} &ndash; {detailUnit.value} pts</span>
+              <span className="fm-stat-type">{typeLabel.toUpperCase()}</span>
+            </div>
+            <div className="fm-divider" />
+            {Array.isArray(detailUnit.stats) && (
+              <div className="fm-stat-line">{detailUnit.stats.join(', ')}</div>
+            )}
+            {detailUnit.tags.length > 0 && (
+              <div className="fm-traits">
+                {detailUnit.tags.map((tag, i) => (
+                  <span key={i}>{tag.rule}{tag.params ? ` (${tag.params})` : ''}{i < detailUnit.tags.length - 1 ? ', ' : ''}</span>
+                ))}
+              </div>
+            )}
+            <div className="fm-divider" />
+            {detailUnit.weapons.filter(w => w.weaponName).map((weapon, wi) => (
+              <div className="fm-weapon" key={wi}>
+                <div className="fm-weapon-name">{weapon.weaponName}</div>
+                {weapon.attacks.map((atk, ai) => (
+                  <div className="fm-attack" key={ai}>
+                    {atk.attackName && <div className="fm-attack-label">&rarr; {atk.attackName}</div>}
+                    <div className="fm-attack-line">
+                      {[atk.attackTargets, atk.attackRange, atk.attackAccuracy, atk.attackStrength, atk.attackDice,
+                        ...(Array.isArray(atk.attackTags) ? atk.attackTags : [atk.attackTags])
+                      ].filter(Boolean).join(', ')}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ))}
+            <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
+          </>
+        )
+
+        const remarksBlock = desc && (desc.remarks || desc.quote) && (
+          <>
+            {desc.remarks && (
+              <div className="fm-remarks-panel">
+                <div className="fm-panel-header">
+                  <span>TYPE: {typeLabel.toUpperCase()}</span>
+                </div>
+                <div className="fm-divider" />
+                <div className="fm-remarks-title">REMARKS</div>
+                <p className="fm-remarks-text">{desc.remarks}</p>
+                <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
+              </div>
+            )}
+            {desc.quote && (
+              <div className="fm-quote-panel">
+                <p className="fm-quote-text">{desc.quote}</p>
+                {desc.quoteAttribution && (
+                  <cite className="fm-quote-attr">&mdash; {desc.quoteAttribution}</cite>
+                )}
+              </div>
+            )}
+          </>
+        )
 
         return (
         <div className="modal-overlay" onClick={() => setDetailUnit(null)}>
           <div className="modal fm-modal" onClick={e => e.stopPropagation()}>
             <button className="modal-close" onClick={() => setDetailUnit(null)}>&times;</button>
 
-            {/* ── Top Row: Image + Stat Block ── */}
-            <div className={`fm-top ${imgSrc ? '' : 'fm-top--no-image'}`}>
-              {imgSrc && (
-                <div className="fm-left">
-                  <div className="fm-name-banner">
-                    <span>{detailUnit.name.toUpperCase()}</span>
-                  </div>
-                  <div className="fm-image-wrap">
-                    <img
-                      src={import.meta.env.BASE_URL + imgSrc}
-                      alt={detailUnit.name}
-                      className="fm-image"
-                    />
+            {isWide && imgSrc ? (
+              <>
+                {/* Wide layout: full-width banner + image on top, two columns below */}
+                <div className="fm-wide-header">
+                  <div className="fm-name-banner">{detailUnit.name.toUpperCase()}</div>
+                  <div className="fm-image-wrap fm-image-wrap--wide">
+                    <img src={import.meta.env.BASE_URL + imgSrc} alt={detailUnit.name} className="fm-image" />
                   </div>
                 </div>
-              )}
-
-              <div className="fm-right">
-                {!imgSrc && (
-                  <div className="fm-name-banner-inline">
-                    <span>{detailUnit.name.toUpperCase()}</span>
-                  </div>
-                )}
-                <div className="fm-stat-header">
-                  <span className="fm-stat-name">{detailUnit.name.toUpperCase()} &ndash; {detailUnit.value} pts</span>
-                  <span className="fm-stat-type">{typeLabel.toUpperCase()}</span>
-                </div>
-                <div className="fm-divider" />
-
-                {Array.isArray(detailUnit.stats) && (
-                  <div className="fm-stat-line">
-                    {detailUnit.stats.join(', ')}
-                  </div>
-                )}
-
-                {detailUnit.tags.length > 0 && (
-                  <div className="fm-traits">
-                    {detailUnit.tags.map((tag, i) => (
-                      <span key={i}>{tag.rule}{tag.params ? ` (${tag.params})` : ''}{i < detailUnit.tags.length - 1 ? ', ' : ''}</span>
-                    ))}
-                  </div>
-                )}
-                <div className="fm-divider" />
-
-                {detailUnit.weapons.filter(w => w.weaponName).map((weapon, wi) => (
-                  <div className="fm-weapon" key={wi}>
-                    <div className="fm-weapon-name">
-                      {weapon.weaponName}
-                    </div>
-                    {weapon.attacks.map((atk, ai) => (
-                      <div className="fm-attack" key={ai}>
-                        {atk.attackName && <div className="fm-attack-label">&rarr; {atk.attackName}</div>}
-                        <div className="fm-attack-line">
-                          {[atk.attackTargets, atk.attackRange, atk.attackAccuracy, atk.attackStrength, atk.attackDice,
-                            ...(Array.isArray(atk.attackTags) ? atk.attackTags : [atk.attackTags])
-                          ].filter(Boolean).join(', ')}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                ))}
-
-                <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
-              </div>
-            </div>
-
-            {/* ── Bottom Row: Remarks + Quote ── */}
-            {desc && (
-              <div className="fm-bottom">
-                {desc.remarks && (
+                <div className="fm-bottom">
                   <div className="fm-remarks-panel">
-                    <div className="fm-panel-header">
-                      <span>TYPE: {typeLabel.toUpperCase()}</span>
-                    </div>
-                    <div className="fm-divider" />
-                    <div className="fm-remarks-title">REMARKS</div>
-                    <p className="fm-remarks-text">{desc.remarks}</p>
-                    <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
-                  </div>
-                )}
-                {desc.quote && (
-                  <div className="fm-quote-panel">
-                    <p className="fm-quote-text">{desc.quote}</p>
-                    {desc.quoteAttribution && (
-                      <cite className="fm-quote-attr">&mdash; {desc.quoteAttribution}</cite>
+                    {desc && desc.remarks ? (
+                      <>
+                        <div className="fm-panel-header"><span>TYPE: {typeLabel.toUpperCase()}</span></div>
+                        <div className="fm-divider" />
+                        <div className="fm-remarks-title">REMARKS</div>
+                        <p className="fm-remarks-text">{desc.remarks}</p>
+                        <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
+                      </>
+                    ) : (
+                      <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
                     )}
                   </div>
-                )}
-              </div>
+                  <div className="fm-quote-panel">
+                    <div className="fm-right-inner">
+                      {statBlock}
+                    </div>
+                    {desc && desc.quote && (
+                      <div className="fm-quote-section">
+                        <div className="fm-divider" />
+                        <p className="fm-quote-text">{desc.quote}</p>
+                        {desc.quoteAttribution && (
+                          <cite className="fm-quote-attr">&mdash; {desc.quoteAttribution}</cite>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </>
+            ) : (
+              <>
+                {/* Portrait layout: side-by-side image + stats, remarks below */}
+                <div className={`fm-top ${imgSrc ? '' : 'fm-top--no-image'}`}>
+                  {imgSrc && (
+                    <div className="fm-left">
+                      <div className="fm-name-banner">{detailUnit.name.toUpperCase()}</div>
+                      <div className="fm-image-wrap">
+                        <img src={import.meta.env.BASE_URL + imgSrc} alt={detailUnit.name} className="fm-image" />
+                      </div>
+                    </div>
+                  )}
+                  <div className="fm-right">
+                    {!imgSrc && (
+                      <div className="fm-name-banner-inline">{detailUnit.name.toUpperCase()}</div>
+                    )}
+                    {statBlock}
+                  </div>
+                </div>
+                {remarksBlock && <div className="fm-bottom">{remarksBlock}</div>}
+              </>
             )}
 
             <div className="modal-action-row">
