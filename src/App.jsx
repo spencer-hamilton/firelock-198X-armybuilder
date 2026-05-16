@@ -314,123 +314,105 @@ function App() {
       </footer>
 
       {/* ── Unit Detail Modal ── */}
-      {detailUnit && (
+      {detailUnit && (() => {
+        const desc = unitDescriptions[`${detailUnit.faction[0]}:${detailUnit.name}`] || unitDescriptions[detailUnit.name]
+        const imgSrc = unitImages[detailUnit.faction[0]]?.[detailUnit.name]
+        const factionLabel = FACTIONS.find(f => f.id === detailUnit.faction[0])?.label ?? detailUnit.faction[0]
+        const typeLabel = detailUnit.type.super.join(', ') + (detailUnit.type.sub.length ? ` (${detailUnit.type.sub.join(', ')})` : '')
+
+        return (
         <div className="modal-overlay" onClick={() => setDetailUnit(null)}>
-          <div className="modal" onClick={e => e.stopPropagation()}>
-            <div className="modal-header">
-              <div>
-                <h2>{detailUnit.name}</h2>
-                <div className="modal-subtitle">
-                  <span className={`faction-dot ${detailUnit.faction[0]}`} />
-                  <span className="modal-faction">{FACTIONS.find(f => f.id === detailUnit.faction[0])?.label ?? detailUnit.faction[0]}</span>
+          <div className="modal fm-modal" onClick={e => e.stopPropagation()}>
+            <button className="modal-close" onClick={() => setDetailUnit(null)}>&times;</button>
+
+            {/* ── Top Row: Image + Stat Block ── */}
+            <div className={`fm-top ${imgSrc ? '' : 'fm-top--no-image'}`}>
+              {imgSrc && (
+                <div className="fm-left">
+                  <div className="fm-name-banner">
+                    <span>{detailUnit.name.toUpperCase()}</span>
+                  </div>
+                  <div className="fm-image-wrap">
+                    <img
+                      src={import.meta.env.BASE_URL + imgSrc}
+                      alt={detailUnit.name}
+                      className="fm-image"
+                    />
+                  </div>
                 </div>
-              </div>
-              <button className="modal-close" onClick={() => setDetailUnit(null)}>&times;</button>
-            </div>
+              )}
 
-            {(unitImages[detailUnit.faction[0]]?.[detailUnit.name]) && (
-              <div className="unit-image-container">
-                <img
-                  src={import.meta.env.BASE_URL + unitImages[detailUnit.faction[0]][detailUnit.name]}
-                  alt={detailUnit.name}
-                  className="unit-image"
-                />
-              </div>
-            )}
-
-            <div className="modal-overview">
-              <div className="overview-item">
-                <span className="overview-value">{detailUnit.value}</span>
-                <span className="overview-label">Points</span>
-              </div>
-              <div className="overview-item">
-                <span className="overview-value">{detailUnit.command}</span>
-                <span className="overview-label">Command</span>
-              </div>
-              <div className="overview-item">
-                <span className="overview-value">{detailUnit.type.super.join(', ')}</span>
-                <span className="overview-label">Type</span>
-              </div>
-              <div className="overview-item">
-                <span className="overview-value">{detailUnit.type.sub.join(', ')}</span>
-                <span className="overview-label">Subtype</span>
-              </div>
-            </div>
-
-            {(() => {
-              const desc = unitDescriptions[`${detailUnit.faction[0]}:${detailUnit.name}`] || unitDescriptions[detailUnit.name]
-              if (!desc) return null
-              return (
-                <>
-                  {desc.remarks && (
-                    <div className="modal-section">
-                      <div className="modal-section-title">Description</div>
-                      <p className="unit-remarks">{desc.remarks}</p>
-                    </div>
-                  )}
-                  {desc.quote && (
-                    <blockquote className="unit-quote">
-                      <p>{desc.quote}</p>
-                      {desc.quoteAttribution && (
-                        <cite>&mdash; {desc.quoteAttribution}</cite>
-                      )}
-                    </blockquote>
-                  )}
-                </>
-              )
-            })()}
-
-            {Array.isArray(detailUnit.stats) && (
-              <div className="modal-section">
-                <div className="modal-section-title">Stats</div>
-                <div className="stat-grid">
-                  {detailUnit.stats.map((s, i) => (
-                    <div className="stat-chip" key={i}>{s}</div>
-                  ))}
+              <div className="fm-right">
+                {!imgSrc && (
+                  <div className="fm-name-banner-inline">
+                    <span>{detailUnit.name.toUpperCase()}</span>
+                  </div>
+                )}
+                <div className="fm-stat-header">
+                  <span className="fm-stat-name">{detailUnit.name.toUpperCase()} &ndash; {detailUnit.value} pts</span>
+                  <span className="fm-stat-type">{typeLabel.toUpperCase()}</span>
                 </div>
-              </div>
-            )}
+                <div className="fm-divider" />
 
-            <div className="modal-section">
-              <div className="modal-section-title">Traits</div>
-              <div className="trait-list">
-                {detailUnit.tags.map((tag, i) => (
-                  <span className="modal-tag" key={i}>
-                    {tag.rule}{tag.params ? ` (${tag.params})` : ''}
-                  </span>
-                ))}
-              </div>
-            </div>
+                {Array.isArray(detailUnit.stats) && (
+                  <div className="fm-stat-line">
+                    {detailUnit.stats.join(', ')}
+                  </div>
+                )}
 
-            {detailUnit.weapons.some(w => w.weaponName) && (
-              <div className="modal-section">
-                <div className="modal-section-title">Weapons</div>
+                {detailUnit.tags.length > 0 && (
+                  <div className="fm-traits">
+                    {detailUnit.tags.map((tag, i) => (
+                      <span key={i}>{tag.rule}{tag.params ? ` (${tag.params})` : ''}{i < detailUnit.tags.length - 1 ? ', ' : ''}</span>
+                    ))}
+                  </div>
+                )}
+                <div className="fm-divider" />
+
                 {detailUnit.weapons.filter(w => w.weaponName).map((weapon, wi) => (
-                  <div className="weapon-block" key={wi}>
-                    <div className="weapon-header">
-                      <span className="weapon-name">{weapon.weaponName}</span>
-                      {weapon.weaponAmmo && <span className="weapon-ammo">Ammo: {weapon.weaponAmmo}</span>}
+                  <div className="fm-weapon" key={wi}>
+                    <div className="fm-weapon-name">
+                      {weapon.weaponName}
                     </div>
                     {weapon.attacks.map((atk, ai) => (
-                      <div className="attack-entry" key={ai}>
-                        {atk.attackName && <div className="attack-name">{atk.attackName}</div>}
-                        <div className="attack-stats">
-                          {atk.attackRange && <span className="attack-stat"><b>Range</b> {atk.attackRange}</span>}
-                          {atk.attackAccuracy && <span className="attack-stat"><b>Acc</b> {atk.attackAccuracy}</span>}
-                          {atk.attackStrength && <span className="attack-stat"><b>Str</b> {atk.attackStrength}</span>}
-                          {atk.attackDice && <span className="attack-stat"><b>Dice</b> {atk.attackDice}</span>}
+                      <div className="fm-attack" key={ai}>
+                        {atk.attackName && <div className="fm-attack-label">&rarr; {atk.attackName}</div>}
+                        <div className="fm-attack-line">
+                          {[atk.attackTargets, atk.attackRange, atk.attackAccuracy, atk.attackStrength, atk.attackDice,
+                            ...(Array.isArray(atk.attackTags) ? atk.attackTags : [atk.attackTags])
+                          ].filter(Boolean).join(', ')}
                         </div>
-                        {atk.attackTags?.length > 0 && atk.attackTags[0] && (
-                          <div className="attack-tag-list">
-                            {(Array.isArray(atk.attackTags) ? atk.attackTags : [atk.attackTags]).map((t, ti) => (
-                              t && <span className="attack-tag-chip" key={ti}>{t}</span>
-                            ))}
-                          </div>
-                        )}
                       </div>
                     ))}
                   </div>
                 ))}
+
+                <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
+              </div>
+            </div>
+
+            {/* ── Bottom Row: Remarks + Quote ── */}
+            {desc && (
+              <div className="fm-bottom">
+                {desc.remarks && (
+                  <div className="fm-remarks-panel">
+                    <div className="fm-panel-header">
+                      <span>TYPE: {typeLabel.toUpperCase()}</span>
+                    </div>
+                    <div className="fm-divider" />
+                    <div className="fm-remarks-title">REMARKS</div>
+                    <p className="fm-remarks-text">{desc.remarks}</p>
+                    <div className="fm-footer-label">{factionLabel.toUpperCase()}</div>
+                  </div>
+                )}
+                {desc.quote && (
+                  <div className="fm-quote-panel">
+                    <p className="fm-quote-text">{desc.quote}</p>
+                    {desc.quoteAttribution && (
+                      <cite className="fm-quote-attr">&mdash; {desc.quoteAttribution}</cite>
+                    )}
+                  </div>
+                )}
               </div>
             )}
 
@@ -441,7 +423,8 @@ function App() {
             </div>
           </div>
         </div>
-      )}
+        )
+      })()}
     </>
   )
 }
