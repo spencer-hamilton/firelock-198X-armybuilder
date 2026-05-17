@@ -1644,7 +1644,7 @@ const luplist = [
                 },
                 {
                     "rule": "PC",
-                    "params": "2, Rear"
+                    "params": "3, Rear"
                 }
             ]
         },
@@ -2173,7 +2173,7 @@ const luplist = [
                 },
                 {
                     "rule": "PC",
-                    "params": "2, Rear"
+                    "params": "1, Rear"
                 }
             ]
         },
