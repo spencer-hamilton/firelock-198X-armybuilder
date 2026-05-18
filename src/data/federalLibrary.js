@@ -1863,29 +1863,43 @@ const fedlist = [
                     ]
                 },
                 {
-                    "weaponName": "2K28 73mm Low-Pressure Gun (73mm HEAT, 73mm HE-Frag)",
+                    "weaponName": "2K28 73mm Low-Pressure Gun",
                     "weaponAmmo": "4",
                     "attacks": [
                         {
-                            "attackName": "73mm HEAT",
+                            "attackName": "",
                             "attackTargets": "Inf/Vec",
                             "attackRange": "R22\"",
                             "attackDice": "D1",
                             "attackAccuracy": "A4+/4+",
-                            "attackStrength": "S8/1+",
+                            "attackStrength": "",
                             "attackTags": [
-                                "No CC (Inf.)","Turret","Shaped Charge"
+                                "Ammo 4",
+                                "No CC (Inf.)",
+                                "Slow Round",
+                                "Turret"
                             ]
                         },
-						{
+                        {
+                            "attackName": "73mm HEAT",
+                            "attackTargets": "",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S9/1+",
+                            "attackTags": [
+                                "Shaped Charge"
+                            ]
+                        },
+                        {
                             "attackName": "73mm HE-Frag",
-                            "attackTargets": "Inf/Vec",
-                            "attackRange": "R22\"",
-                            "attackDice": "D1",
-                            "attackAccuracy": "A4+/4+",
+                            "attackTargets": "",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
                             "attackStrength": "S3/3",
                             "attackTags": [
-                                "No CC (Inf.)","Turret","Ignore Cover (1)"
+                                "Ignore Cover (1)"
                             ]
                         }
                     ]
@@ -3084,40 +3098,55 @@ const fedlist = [
                     ]
                 },
                 {
-                    "weaponName": "2M9 82mm Automatic Mortar (82mm Frag, 82mm Chemical-SP, 82mm Smoke)",
+                    "weaponName": "2M9 82mm Automatic Mortar",
                     "weaponAmmo": "6",
                     "attacks": [
                         {
-                            "attackName": "82mm Frag",
+                            "attackName": "",
                             "attackTargets": "Gnd",
                             "attackRange": "R40\"",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Ammo 6",
+                                "Barrage (3)",
+                                "Light Indirect (3)",
+                                "No CC"
+                            ]
+                        },
+                        {
+                            "attackName": "82mm Frag",
+                            "attackTargets": "",
+                            "attackRange": "",
                             "attackDice": "D1",
                             "attackAccuracy": "A4+/5+",
                             "attackStrength": "S[D3]",
                             "attackTags": [
-                                "Barrage (3)","Light Indirect (3)","No CC","Air-Filling","Radius (2\")"
+                                "Air-Filling",
+                                "Radius (2\")"
                             ]
                         },
-						{
+                        {
                             "attackName": "82mm Chemical-SP",
-                            "attackTargets": "Gnd",
-                            "attackRange": "R40\"",
+                            "attackTargets": "",
+                            "attackRange": "",
                             "attackDice": "D1",
                             "attackAccuracy": "A++/++",
                             "attackStrength": "",
                             "attackTags": [
-                                "Barrage (3)","Light Indirect (3)","No CC","Chemical-SP(2\")"
+                                "Chemical-SP (2\")"
                             ]
                         },
-						{
+                        {
                             "attackName": "82mm Smoke",
-                            "attackTargets": "Gnd",
-                            "attackRange": "R40\"",
+                            "attackTargets": "",
+                            "attackRange": "",
                             "attackDice": "D2",
                             "attackAccuracy": "A++/++",
                             "attackStrength": "",
                             "attackTags": [
-                                "Barrage (3)","Light Indirect (3)","No CC","Smoke {3\")"
+                                "Smoke (3\")"
                             ]
                         }
                     ]
@@ -3503,7 +3532,7 @@ const fedlist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -3761,11 +3790,361 @@ const fedlist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 },
                 {
                     "rule": "Sprint Motor",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "Armed Citizens",
+            "faction": [
+                "federal"
+            ],
+            "value": 5,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q1",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Squad",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "6G1 7.76mm Battle Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Private Security",
+            "faction": [
+                "federal"
+            ],
+            "value": 10,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q2",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Squad",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Renfield TPMG 9.63mm SMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1-/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "56-L-640 40mm Grenade Launcher",
+                    "weaponAmmo": "3",
+                    "attacks": [
+                        {
+                            "attackName": "40mm HE",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1+/1+",
+                            "attackTags": [
+                                "Ignore Cover (1)",
+                                "Slow Round",
+                                "Small Arm"
+                            ]
+                        },
+                        {
+                            "attackName": "40mm Tear Gas",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Chemical Weapon",
+                                "No CC",
+                                "Smoke (2\")",
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Vehicle Crew",
+            "faction": [
+                "federal"
+            ],
+            "value": 0,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q3",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "6P3 11.5mm SMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1-/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "This unit is placed on the board as part of the Crew Bailout optional rule.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "Type 60LW Coachman",
+            "faction": [
+                "federal"
+            ],
+            "value": 30,
+            "stats": [
+                "H2",
+                "S32\"",
+                "M8\"",
+                "Q2",
+                "T4/4/3"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Wheeled",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "6G2 7.76mm MG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "9GR5 120mm Infrared SAM",
+                    "weaponAmmo": "4",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Air",
+                            "attackRange": "R60\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/xx",
+                            "attackStrength": "S6/6",
+                            "attackTags": [
+                                "Air-Filling",
+                                "Barrage (2)",
+                                "Guided Missile (2)",
+                                "Homing",
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Amphibious",
+                    "params": ""
+                },
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "PC",
+                    "params": "1, Rear"
+                }
+            ]
+        },
+        {
+            "name": "Type 55LW Doublet",
+            "faction": [
+                "federal"
+            ],
+            "value": 30,
+            "stats": [
+                "H2",
+                "S32\"",
+                "M8\"",
+                "Q2",
+                "T10/6/5"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Tracked",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "6P3 11.5mm SMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1-/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "6G2 7.76mm MG, hull",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/5+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Multi-Gun"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "2A30 57mm Dual Autocannons",
+                    "weaponAmmo": "5",
+                    "attacks": [
+                        {
+                            "attackName": "57mm APCBC",
+                            "attackTargets": "Vec",
+                            "attackRange": "R40\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S6/9",
+                            "attackTags": [
+                                "No CC (Inf.)",
+                                "Tracking Anti-Air",
+                                "Turret"
+                            ]
+                        },
+                        {
+                            "attackName": "57mm HE",
+                            "attackTargets": "All",
+                            "attackRange": "R40\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S4/4",
+                            "attackTags": [
+                                "No CC (Inf.)",
+                                "Tracking Anti-Air",
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "Steel Watchbands",
                     "params": ""
                 }
             ]

@@ -1531,6 +1531,57 @@ const luplist = [
             ]
         },
         {
+            "name": "CdS-F3 Forester",
+            "faction": [
+                "lupar"
+            ],
+            "value": 15,
+            "stats": [
+                "H2",
+                "S16\"",
+                "M8\"",
+                "Q2",
+                "T2/2/1"
+            ],
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Wheeled",
+                    "40x60"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "AMA-2 .60 Dual HMGs",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R24\"",
+                            "attackDice": "D3",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S3/4",
+                            "attackTags": [
+                                "Turret",
+                                "Tracking",
+                                "Anti-Air"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Tow",
+                    "params": "2"
+                }
+            ]
+        },
+        {
             "name": "VBD-U Denmother",
             "faction": [
                 "lupar"
@@ -2731,8 +2782,8 @@ const luplist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
-                    "params": "3"
+                    "rule": "Decoy Protection",
+                    "params": "2"
                 },
                 {
                     "rule": "PC",
@@ -2823,7 +2874,7 @@ const luplist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 }
             ]
@@ -2982,17 +3033,17 @@ const luplist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 }
             ]
         },
         {
-            "name": "AP-IV Grognard",
+            "name": "AD-IV Grognard",
             "faction": [
                 "lupar"
             ],
-            "value": 40,
+            "value": 35,
             "stats": [
                 "H*",
                 "S*\"",
@@ -3070,8 +3121,434 @@ const luplist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
+                }
+            ]
+        },
+        {
+            "name": "Wailing Women",
+            "faction": [
+                "lupar"
+            ],
+            "value": 5,
+            "stats": [
+                "H1",
+                "S24\"",
+                "M5\"",
+                "Q1",
+                "T1-/1-/1"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Suicide Vest",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R0\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "S4/4",
+                            "attackTags": [
+                                "Melee",
+                                "Radius (2\")"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Bloodlust",
+                    "params": ""
+                },
+                {
+                    "rule": "Fearless",
+                    "params": ""
+                },
+                {
+                    "rule": "Infiltrator",
+                    "params": ""
+                },
+                {
+                    "rule": "Sense",
+                    "params": "6\""
+                }
+            ]
+        },
+        {
+            "name": "Ironpelts",
+            "faction": [
+                "lupar"
+            ],
+            "value": 15,
+            "stats": [
+                "H1",
+                "S24\"",
+                "M5\"",
+                "Q3",
+                "T1+/1/1"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Squad",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Mle. 32 .30 Self-loading Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A3+/4+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "LfC. 46 Hand Flamethrower",
+                    "weaponAmmo": "2",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R2\"",
+                            "attackDice": "D3",
+                            "attackAccuracy": "A1+/1+",
+                            "attackStrength": "S1+/1+",
+                            "attackTags": [
+                                "Ignore Cover (2)",
+                                "Rear Attack",
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "OtPv. 9 30-inch Machete",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf",
+                            "attackRange": "R0\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A1+/1+",
+                            "attackStrength": "S1/1",
+                            "attackTags": [
+                                "Melee"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Bloodlust",
+                    "params": ""
+                },
+                {
+                    "rule": "Fearless",
+                    "params": ""
+                },
+                {
+                    "rule": "Paradrop",
+                    "params": ""
+                },
+                {
+                    "rule": "Sense",
+                    "params": "6\""
+                }
+            ]
+        },
+        {
+            "name": "Mist Stalkers",
+            "faction": [
+                "lupar"
+            ],
+            "value": 15,
+            "stats": [
+                "H1",
+                "S32\"",
+                "M7\"",
+                "Q1",
+                "T1-/1-/1"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "\"Express Rifle\", .50 Single-Shot",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R20\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A2+/4+",
+                            "attackStrength": "S2/3",
+                            "attackTags": [
+                                "No CC (Inf.)",
+                                "Scoped",
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "Teeth & Claws",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf",
+                            "attackRange": "R0\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A1+/1+",
+                            "attackStrength": "S1/1",
+                            "attackTags": [
+                                "Melee"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Amphibious",
+                    "params": ""
+                },
+                {
+                    "rule": "Bloodlust",
+                    "params": ""
+                },
+                {
+                    "rule": "Infiltrator",
+                    "params": ""
+                },
+                {
+                    "rule": "Sense",
+                    "params": "6\""
+                },
+                {
+                    "rule": "While in terrain with a non-zero cover modifier, this unit is always considered to be in ambush. If not currently spotted, its movement and accuracy are unaffected by pin tokens.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "Vehicle Crew",
+            "faction": [
+                "lupar"
+            ],
+            "value": 0,
+            "stats": [
+                "H1",
+                "S24\"",
+                "M5\"",
+                "Q2",
+                "T1/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Lenus Automatic .45 Pistol",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R2\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1+/1+",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Bloodlust",
+                    "params": ""
+                },
+                {
+                    "rule": "Sense",
+                    "params": "6\""
+                },
+                {
+                    "rule": "This unit is placed on the board as part of the Crew Bailout optional rule.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "VBD-68 Bantam",
+            "faction": [
+                "lupar"
+            ],
+            "value": 25,
+            "stats": [
+                "H2",
+                "S32\"",
+                "M8\"",
+                "Q3",
+                "T6/4/4"
+            ],
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Tracked",
+                    "40x60"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "MtL-19 .50 HMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R20\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S2/3",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "SA-28 3-inch Low-Pressure Gun",
+                    "weaponAmmo": "4",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R22\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Ammo 4",
+                                "No CC (Inf.)",
+                                "Thermal Sights",
+                                "Turret"
+                            ]
+                        },
+                        {
+                            "attackName": "3-inch HEAT",
+                            "attackTargets": "",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S9/1+",
+                            "attackTags": [
+                                "Shaped Charge",
+                                "Slow Round"
+                            ]
+                        },
+                        {
+                            "attackName": "3-inch WP Smoke",
+                            "attackTargets": "",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S1+/1+",
+                            "attackTags": [
+                                "Ignore Cover (2)",
+                                "Rear Attack",
+                                "Smoke (2\")"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "Mle. 254 2.3-inch Smoke Launchers",
+                    "weaponAmmo": "1",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R0\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Light Indirect (0)",
+                                "No CC",
+                                "Smoke (2\")",
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Active Protection",
+                    "params": "1"
+                },
+                {
+                    "rule": "Amphibious",
+                    "params": ""
+                },
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "PC",
+                    "params": "2, Rear"
                 }
             ]
         },
@@ -3158,7 +3635,7 @@ const luplist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 }
             ]

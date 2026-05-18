@@ -1,0 +1,5009 @@
+FM 100-2-8X
+
+ARMY OF THE
+EBON FOREST
+
+TROOPS AND TACTICS
+
+DISTRIBUTION RESTRICTION: This publication contains technical, operational, or strategic information that is for
+official government use only. Distribution thereof is limited to government agencies of the Intermarine Federation
+or licensed contractors. Special use releases of this publication must be requested from Reception & Disposal,
+Drekfort Military Development Center, Langport, Vansa, PO 32001.
+
+* FM 100-2-8X
+
+FIELD MANUAL
+No. 100-2-8X
+
+Edition 0.9.7
+
+HEADQUARTERS
+DREKFORT M.D.C.
+Langport, Vansa, 03/10/85
+
+Preface
+
+Army of the Ebon Forest:
+Troops and Tactics
+
+This field manual is part of FM series 100-X-8X. The other volumes in this
+series are FM 100-1-8X (The Federal States-Army: Troops and Tactics), FM 100-38X (The New Rygolic Host: Troops and Tactics), and FM 100-4-8X (Atom Barons of
+Santagria: Troops and Tactics). Each volume in the series describes the range of
+troop types and characteristics of an opposing force to the Federal States-Army.
+This document, FM 100-2-8X, describes the known elements of the Army
+of the Ebon Forest. Used together, they form a thorough reference on any challengers the F.S-A. may expect to face, as well as its own strengths and weaknesses
+in comparison to them.
+This manual represents the definitive (condensed) source of unclassified
+information on luparic ground and air forces: their abilities, strengths, weaknesses, and general availability to a commander. The Main Threats Directorate at the
+Drekfort Military Development Center, Langport, Vansa, updates these manuals
+periodically to provide the most current unclassified information available.
+
+* This manual supersedes FM 100-2-8X Edition 0.8, 08/24/83.
+
+i
+
+FM 100-2-8X
+
+Contents
+CHAPTER
+
+1. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1 - 1
+2. TACOMs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2 - 1
+3. Infantry  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 1
+Line Squads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 2
+Weapon Teams . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 8
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 12
+4. Vehicles & Towed Guns . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 1
+Logistics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 2
+Personnel Carriers . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 3
+Armor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 6
+Fire Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 -7
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 17
+5. Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 1
+Helicopters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 2
+Planes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 5
+6. Emplacements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6 - 1
+7. Scenario Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7 - 1
+
+APPENDIX
+
+A. Army Special Rules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A - 1
+B. Army Special Missions . . . . . . . . . . . . . . . . . . . . . . . . . . .  B - 1
+C. Building an Army List . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C - 1
+D. Quick Unit Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D - 1
+E. Painting Guide  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  E - 1
+
+ii
+
+FM 100-2-8X
+CHAPTER 1
+
+OVERVIEW
+The Kingdom of the Ebon Forest is a totalitarian state, helmed by a Regent and his council
+in the name of its deceased monarch and founder, the Wolf-King. It occupies a peninsula in the
+northwest of Oid bordering the Intermarine Federation to the east and the Rygolic Petty States to
+the south, contesting the waters of the Sea of Lights with the Giant Kingdoms to its west.
+The Army of the Ebon Forest (A.E.F.)
+constitutes the royal regular forces of the Ebon
+Forest, pledged to the service of their skeletal
+Wolf-King. The Regency Council at the head of
+the A.E.F. presents their military as a powerful modern force equal to our own States-Army (see FM 100-1-8X). In truth, it is an under-equipped and unpopular institution: the
+polar opposite of the F.S-A. in every respect.
+Do not mistake poverty for martial incompetence. A combination of super-human
+resilience and clever tactics make the A.E.F. a
+remarkably stout defensive force in their home
+terrain and the most pressing threat to Intermarine liberty in the present day.
+The A.E.F. is composed wholly of the
+native denizens of the Ebon Forest: the lupar.
+Remember the following rules of thumb when
+operating against any lupar troops:
+1. Remain downwind of enemy positions
+when possible. Maintain sound discipline.
+2. Anticipate enemy action to be most frequent at night. Post guards with night-vision equipment or starlight scopes.
+3. Establish overlapping sectors of fire and
+final protective firing lines for every new
+position.
+4. Do not attempt to take prisoners without
+appropriate restraints and at least three
+guards. Prioritize by rank.
+FACTIONAL STRENGTH:
+Superlative mobile infantry.
+FACTIONAL QUIRK:
+Many units are multi-purpose.
+FACTIONAL WEAKNESS:
+Poor fire support vehicles and tanks.
+OVERVIEW - 1-1
+
+PREFECTURES AND STRATEGIC CITIES OF THE EBON FOREST
+
+3
+
+2
+1
+
+A
+
+B
+C
+
+F
+
+4
+D
+
+5
+E
+
+G
+
+7
+
+H
+
+6
+
+PREFECTURES:
+1 - Koskal
+4 - Traipse du Roi
+7 - Gathering of the Tribes*
+
+2 - Toskona
+5 - Abhais
+
+3 - Olariuma
+6 - Etroique
+
+B - Tòl
+E - Chlodach Bain
+H - Sanc-du-Mer
+
+C - Carcalhaight
+F - Baselard
+
+STRATEGIC CITIES:
+A - Vuno
+D - Lotte-Avoy
+G - Plinth Mons
+
+* Indigenous name varies. Consult FM 2-10-19 “Borderland Culture of the Ebon Forest”
+for a full list of names and alternative spellings.
+
+1-2 - MAP
+
+FM 100-2-8X
+CHAPTER 2
+
+TACOMS
+Ebon Forest commanders prefer to coordinate operations dismounted and in person.
+They have no equivalent to a dedicated command post vehicle, unlike the F.S-A.’s Appomattox.
+When not occupying camouflaged posts or hardened bunkers, they are leading their troops in
+combat. A combination of a relatively high turnover rate and the A.E.F.’s meritocratic attitude
+means that rank is only loosely important for command; a company chief might find himself
+directing a much larger or smaller force than what his written manuals dictate.
+Often, command is supplanted or taken over by personnel outside the regular army structure. The Regent’s interior troops and rooters-out of savagery, the notorious Internal Security, are
+authorized to subordinate royal forces on an as-necessary basis. To be “assisted” by I.S. is never
+a promising sign for a lupar officer’s career. On rarer occasions, waykeepers (the Ebon Forest’s
+traditional order of ascetic warrior-priests) may attach themselves to a unit at the front. Even if
+they lack a formal rank, they typically become the de-facto formation command. No lupar—at
+least one in his right mind—would oppose their sage and fearsome judgment.
+TACOMS
+COMPANY CHIEF - COMMAND TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 pts / 2-2
+INTERNAL SECURITY ESCORT - COMMAND SHOCK SQUAD . . . . . . . . . . . . . . . . 15 pts / 2-3
+WAYKEEPER JUDGE - RELIGIOUS LEADER  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 2-4
+
+TACOMS - 2-1
+
+FM 100-2-8X
+
+COMPANY CHIEF
+
+COMPANY CHIEF - 0 pts
+COMMAND TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q4, T1+/1/1, C3
+Bloodlust, Brigade (4, 8”), Infiltrator,
+Sense (6”)
+
+__________________________
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+Mle. 44 3.5-inch RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 2, Shaped Charge, Small Arm,
+Slow Round
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: COMMAND TEAM
+
+__________________________
+REMARKS
+A.E.F. company chiefs are accustomed to
+leading from the front, equipped in similar
+fashion to their subordinate infantry. Although authorized to wear officer’s decorations (including sleeves, cuffs, and a black
+cockade), the only article of rank customarily worn in the field is their metal helmet
+crests.
+Standard-issue to ranking officers is the
+“signal salt” grenade, containing olfactory
+identifiers and stimulants meant to direct
+and rally luparic troops. Company chiefs
+or their adjutants also receive RSP-77 backpack radio transceivers meant to work with
+the smaller handsets carried by subalterns.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-2 - TACOMS
+
+Lupes can handle a heavy load—give ‘em
+water and a little salt pork and they’ll lug everything short of a tank on their back through
+the forest for the whole day. Even still, I gotta
+pity the guys in crests.
+A light machine gun (even if it’s cut-down), a
+machete, the same ammo load as the grunts.
+The whole stonking manpack radio, ear-set,
+and battery units. Spares for the latter. Plus
+the existence load: rations and supplies for a
+week’s maneuvers and fighting. On top of all
+of that, pile on the weight of responsibility—
+you’re talking a company chief here.
+They don’t like to share the load. I’m told some
+of them just flip the whole box onto their belly
+when they sleep. All straightened out, on a bed
+or cot, because curling around your MG is bad
+form for an officer. (Nobody told ours that last
+part, I guess.)
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+INTERNAL SECURITY ESCORT
+
+INTERNAL SECURITY ESCORT - 15 pts
+COMMAND SHOCK SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q5, T2/1+/1+, C4
+Assault Specialist, Brigade (3, 4”), NBC
+
+__________________________
+FdcL 63 4-gauge Shotgun
+Inf/Vec, R6”, Small Arm
+→ 4-gauge Houndshot
+A4+/4+, S1/1+, D3
+→ 4-gauge Rifled Slug
+A3+/3+, S2/3, D1
+OtDs. 13 Tactical Breaching Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Filter, “Signal Snuff ”
+Inf*, R0”, A++/++, D1, Ammo 1,
+Discreet, Rally
+*May only target self.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: COMMAND SHOCK SQUAD
+
+__________________________
+REMARKS
+The Regent’s notorious interior troops and
+state-level gendarmerie. Internal Security
+technically lies outside the A.E.F. structure, but they are often deployed alongside
+the regular troops anyways. Equipped
+for intense breach-and-clear operations
+in dense concrete longhouses, they are
+heavily protected from head to toe, with
+thick steel body armor capable of resisting
+full-caliber rifle fire at close quarters.
+Senior I.S. officers and their bodyguard
+detachments are often embedded into underperforming A.E.F. formations as watchdogs for the Regency—or as more competent (and politically reliable) commanders,
+depending on the circumstances.
+
+He is shaven thin and his ears and tail are
+clipped. If he has a scent it is obscured by that
+of the suit. It smells of strong chemicals and
+cordite. There is a little lingering blood.
+He walks with straight-legged steps like a flatfaced man. Jaws are tense around him. Nobody
+can be trusted. He does not need to see into a
+man’s heart to punish him. If he can prove a
+crime then it is the wall and the large-bore. He
+knows what to look for. His jaw is tight too. He
+worries that he will miss some.
+If you are in his eye then you know why.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TACOMS - 2-3
+
+FM 100-2-8X
+
+WAYKEEPER JUDGE
+
+WAYKEEPER JUDGE - 20 pts
+RELIGIOUS LEADER
+
+__________________________
+Inf, H1, S24”, M4”, Q5, T1/1/1, C5
+Amphibious, Brigade (3, 12”),
+Guidance (12”), Infiltrator, Sense (8”)
+
+__________________________
+While this unit is alive, no unit in this army
+can willingly go berserk. Only Judges may call
+Exhortation support missions.
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Multi-Gun, Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: RELIGIOUS LEADER
+
+__________________________
+REMARKS
+Traditional, wandering religious order of
+legal authorities, lorekeepers, spiritual and
+political advisors, and the former wardens
+of the Ebon Forest’s narrow and hazardous
+traderoads. Universally respected by the
+luparic populace. Though not formally recognized by the Regency, their activity continues unimpeded by state security forces.
+Particularly old and influential waykeepers, known as “judges”, sometimes assume
+de-facto command over regular army units.
+Taught their mysteries by experience, and
+often possessed of numerous mouths and
+hands for radio transceivers, they make for
+exceptionally skilled commanders.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-4 - TACOMS
+
+They are there in the deep woods. They do not
+touch the railroads but they keep the old trails
+clear. They watch. Travelers are set upon still
+by the feral men in the night. The waykeepers
+deliver them from this evil. They know that
+play better than those who perform it now in
+the cities. They have been all of its actors.
+The old judges would once communicate by
+proxy. They belonged to the forest even if they
+denied it its morsels. Lesser men of the robes
+would come to the cities in their stead. Now
+they show themselves before columns of the
+Regent’s men and assume command without
+dispute.
+What words are said in the dark?
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+CHAPTER 3
+
+INFANTRY
+The core of the A.E.F. is and always will be its proud infantry. The lupar are perhaps the
+most perfectly-suited race for the job: bloodthirsty, fast, strong and tough, with extremely keen
+senses and instinctual small-unit coordination. It helps that small arms and man-portable heavy
+weapons are one of the few things their limited industrial basis can reliably produce en masse.
+Even if lupar infantry are among the best, they are still infantry. On a battlefield crowded
+with heavy metal, their life expectancy on open ground is very low. They instead excel at assaulting and holding areas of dense cover and short sightlines—urban areas, forests, and broken
+ground. While armed with the support weapons necessary to control and attempt to cross open
+spaces, they are most at home in the woods.
+LINE SQUADS
+TERRITORIALS - MILITIA SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 pts / 3-2
+CHASSEURS - LINE SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-3
+WHITE GLOVES - ELITE LINE SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 3-4
+INTERNAL SECURITY - ELITE SHOCK SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 3-5
+WEAPON TEAMS
+MACHINE GUN TEAM - ANTI-PERSONNEL TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-8
+HIMA TEAM - ANTI-PERSONNEL/TANK TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 3-9
+RECOILLESS RIFLE TEAM - GENERAL-PURPOSE TEAM . . . . . . . . . . . . . . . . . . . . 15 pts / 3-10
+GUIDED MISSILE TEAM - ANTI-TANK/AIR TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 3-11
+SPECIAL
+SUBALTERN TEAM - JUNIOR COMMAND TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-12
+MADE-TO-ORDERS - BERSERKER SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-13
+WAYKEEPERS - RELIGIOUS INSTRUCTORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 3-14
+BOUNDERS - ANTI-MATERIEL/SNIPER TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 3-15
+
+INFANTRY - 3-1
+
+FM 100-2-8X
+
+TERRITORIALS
+
+TERRITORIALS - 5 pts
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q2, T1/1-/1Amphibious, Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The old wounds run deep. The elder trees
+remember it. The young and the lost sit and
+listen. The boughs twist and tell them the story
+in the whistling of the wind.
+
+TYPE: MILITIA SQUAD
+
+__________________________
+REMARKS
+A remnant of the pre-unified Ebon Forest’s
+complex clan organization. “Territorial”
+troops are the household warriors of the
+surviving clans, swearing fealty to their
+specific chieftain before the Regency. As
+their loyalty to the latter is dubious at best,
+they are not frequently sent abroad.
+While experienced in scouting and close
+combat, their access to heavier weapons
+is very limited. Most of their equipment,
+bar various patterns of modern rifle supplied from both domestic and foreign merchants, is unchanged from their falx-bearing ancestors.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-2 - LINE SQUADS
+
+They recount the old forest trails. Before the
+steel umbilicals and the heavy supply trains
+that roll along them. They tell of the bands
+of warriors now alive only in the state poets’
+mouths. Mail and falx and musket and eyes
+of burning coal. Those who fought for self and
+clan and served the Wolf-King in name only.
+The Regent’s ancestors took the clans and
+welded them in their bony master’s name.
+They clothed the clans in the ways of the flatfaced men to make us stronger. Now we make
+war on those we once worshiped as men above
+us. That is the way of things. To the blue soldiers, we pretend our woods roar as one.
+It is a convenience. The chieftains still vie. The
+cracks widen and the Regent worries over his
+maps.
+He kills for words like these.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+CHASSEURS
+
+CHASSEURS - 10 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q2, T1+/1/1
+Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+Mle. 44 3.5-inch RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 4, Shaped Charge, Small Arm,
+Slow Round
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2 , Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Modéle 38 Light Machine Gun. “Mitra”
+
+TYPE: LINE SQUAD
+
+__________________________
+REMARKS
+The common infantry of the Ebon Forest.
+Fast, bloodthirsty, and tough. Able to carry
+heavy combat loads due to their inhuman
+physiology. Their training cycle deemphasizes mechanized operations in favor of
+dismounted infiltration and ambushes.
+Primary armament is the Mle. 38 light
+machine gun, issued and carried like a
+service rifle. Support arms include shoulder-fired RPGs and the notorious 30-inch
+(762mm) machete. The latter, despite the
+Ebon Forest’s dense foliage, is not primarily intended for brush clearing.
+
+Many have slept with Mitra even though she is
+not beautiful. Her snout is long and she prods
+you in the chest when you run. She is heavy on
+a long march and the younger men are shaken
+by her bark. Their ears are not cauliflowered
+yet. The instructors see to that.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+The training compound was swallowed by
+dense wood. Many were lost and not found.
+The Regent’s loyal men made pains to retain
+us. Before they even sized me for my uniform
+they punched a tag into my ear. By the spoken
+Law—the old Law—that made me a thrall of
+the state. My life became a sellable thing.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LINE SQUADS - 3-3
+
+FM 100-2-8X
+
+WHITE GLOVES
+
+WHITE GLOVES - 20 pts
+ELITE LINE SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1+/1/1
+Bloodlust, Fearless, Sense (6”)
+
+__________________________
+
+TYPE: ELITE LINE SQUAD
+
+Mle. 52F .30 Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+Lacra 3.5-inch Shouldered R. R.
+A3+/5+, D1, Ammo 4, Small Arm
+→ 3.5-inch Rocket-Assisted Sabot
+Vec, R20”, S8/12
+→ 3.5-inch HEAT
+Inf/Vec, R16”, S9/1+, Shaped Charge,
+Slow Round
+→ 3.5-inch Incendiary
+Inf/Vec, R16”, S1+/1+,
+Ignore Cover (2), Rear Attack,
+Slow Round
+Mle. 7 Laser Designator
+All, R40”, A++/xx,
+Designator, Discreet
+Mle. 313 26-inch Side Saber
+Inf, R0”, A1+/1+, S1+/1+, D2, Melee
+
+REMARKS
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+__________________________
+Household guard infantry of the Wolf-King,
+and by extension the Regency Council.
+Their dress uniforms, including the white
+gloves, are worn in a slightly-modified form
+during their rare campaign deployments.
+Professionals, blooded veteran warriors,
+and stimulant addicts to the last man.
+Equipped with a unique side-magazine automatic rifle manufactured under contract
+in the Rygolic Petty States (see FM 100-38X). As the showcase troops of the A.E.F.
+they also receive the latest and best in
+special support equipment. Shoulder-fired
+recoilless rifles and laser target designators
+copied from Federal examples are issued.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-4 - LINE SQUADS
+
+The Wolf-King’s bones are left beneath his
+canopy. It has been long since a proper Speaking of the Law. His skulls have not sat on the
+snouts of chosen speakers for many years. His
+voice has not in living memory spoken through
+another throat before the assembled chieftains
+on the high rock.
+The White Gloves remember this. Their honor
+guard is not watched in the throne room. This
+last custom is beyond the Regency to end. It is
+said that the Wolf-King speaks to them as he
+once did. What does he say to them with their
+mouths?
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+INTERNAL SECURITY
+
+INTERNAL SECURITY - 20 pts
+ELITE SHOCK SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q4, T2/1+/1+
+Assault Specialist, NBC
+
+__________________________
+FdcL 63 4-gauge Shotgun
+Inf/Vec, R6”, Small Arm
+→ 4-gauge Houndshot
+A4+/4+, S1/1+, D3
+→ 4-gauge Rifled Slug
+A3+/3+, S2/3, D1
+OtDs. 13 Tactical Breaching Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Filter, “Signal Snuff ”
+Inf*, R0”, A++/++, D1, Ammo 1,
+Discreet, Rally
+*May only target self.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ELITE SHOCK SQUAD
+
+__________________________
+REMARKS
+The Regent’s notorious interior troops and
+state-level gendarmerie. Internal Security
+technically lies outside the A.E.F. structure, but they are often deployed alongside
+the regular troops anyways. Equipped
+for intense breach-and-clear operations
+in dense concrete longhouses, they are
+heavily protected from head to toe, with
+thick steel body armor capable of resisting
+full-caliber rifle fire at close quarters.
+
+Primary armament is a powerful 4-gauge
+(23mm) combat shotgun derived from
+those used by state prison guards. With
+high-pressure rifled slugs, it is even a
+serviceable anti-materiel weapon.
+
+Before the Regency and the heeling of the clans
+there were not places like the one I grew up in.
+There were the palisaded oppida on the cleared
+mountainsides. But those were cities of transient merchants and craftsmen and not concrete-bound masses of teeth and claws. There
+was breathing space. Men were calmer and
+surer. They did not show their desires.
+I sympathize with the security men. They
+descend into the charnel houses when they
+happen. Civility grows from the barrel of a
+gun. When it is all over they must also clean
+the walls and floors. That takes great restraint,
+even in an enclosed mask.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LINE SQUADS - 3-5
+
+FM 100-2-8X
+
+INDIVIDUAL EQUIPMENT OF THE CHASSEUR
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Light underlayer (with plate tie points)
+Padded coif
+Ballistic plates (tied off to underlayer)
+Waterproof groundsheet, rolled
+“Tube”-type haversack
+Jacket (internal load straps) and trousers
+Helmet
+Mle. 38 “Mitra” light machine gun
+Four-cell magazine pouch
+3-6 - SUPPLEMENTAL FILES
+
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+
+Grenade pouch
+Tick powder
+Canteen (lapping tray opened)
+Entrenching tool
+Machete and scabbard
+First aid kit, unrolled
+Mess kit, handle unfolded
+Fishing tackle and line
+Belt, with load-bearing strap hook holes
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES
+FUNNY GUYS, these territorials. If you told them to hide the crossbelts and rifles they’d step back
+into the dimmest primitive age. Most of them are still going into action bare-chested, flashing rings
+on all extremities, bound with those stupid braids and a torc like a gilded collar. They’re proud of it
+all—proud that they’re not wearing the Regent’s uniform. Their chieftains remember how the WolfKing kept his bony hands off their affairs. They know why he’s not allowed to talk like he used to.
+That’s the thing. They can’t be overt, or it’s their pelt on the drying rack. But our border with the
+Ebon Forest’s a long and broad one, and there’s plenty of places where you won’t find rain-flecked
+uniforms for kilometers—quiet sectors where people move and don’t get seen.
+- Rayleigh Irving, Federal Intelligence
+THE SKY is pelt-gray and the stars are not yet retired. I flatten myself to the lip of a fresh shell-crater
+and lie on my back as if dead. At the base of the crater Odhran has upstaged me. He lies tangled and
+trickles blood from where the shell-splinter has bitten his skull. The scent drives me mad and I must
+stop my tail from drumming. I dig my nose into the mud so that I will not slip down and lap the
+dead man’s wound.
+A column nears. I watch without moving my eyes. Flat-faced soldiers with bald skin and ramrod
+legs pick their way past. The moons give fire to the buttons and rifle barrels and trace the wellfleshed faces’ edges. They are new meat. Their eyes are not alert like jackrabbits’. Their uniforms are
+not creased and they smell of the iron. I wait and they pass my eyes. They recede.
+There is a straggler. He looks to his fellows and to the field and slips into the crater. I hold my
+breath. He prods Odhran with a bayonet. He turns him belly-up and squats over the corpse and
+looks through each pocket in turn. I am on my haunches and his back is still turned.
+I fall on him and pin the bayonet and take his neck in my jaws and pull as if tightening a cord. It is
+all one motion. There is no sound. I risk thirty seconds and no more. I chew what I can and I slip
+over the crater to the waiting darkness.
+- Conchar Goronwy, Chasseur, 96e Division d’Infanterie
+THEY HOLD themselves above those they kill. To the Internal Security man in his narrow visor the
+cannibal in the den-block is no different to the feral man in the woods who can no longer walk on
+two legs. Maybe he is right. Villages were not so tightly clustered a long time ago. Many walked into
+the woods unseen. It was said that they died. In a way that is true.
+- Conchar Goronwy, Chasseur, 96e Division d’Infanterie
+
+SUPPLEMENTAL FILES - 3-7
+
+FM 100-2-8X
+
+MACHINE GUN TEAM
+
+MACHINE GUN TEAM - 10 pts
+ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2,
+Defensive CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Interesting how often these guys show up in
+dogface propaganda. You know—the kind they
+used to airdrop on our positions, the leaflets
+that now get there by way of parachute mortar
+shells after midnight.
+
+TYPE: ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+REMARKS
+
+Issued at the platoon level, .50 caliber
+(12.7mm) heavy machine guns are the
+most common support weapons among
+lupar infantry. With good range, accuracy,
+and firepower against both ground troops
+and light vehicles, HMGs add significant
+defensive strength to A.E.F. positions.
+While lupar lack the comparative endurance of humans, their strength is superior;
+their HMGs are carried and deployed like
+our own rifle-caliber machine guns. Lupar
+gun crews have even been observed firing
+them from the hip (albeit without any particular accuracy).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-8 - WEAPONS TEAMS
+
+By and large it’s a bunch of cheap schlock
+drawn by state servants filling the holes in their
+soul with ideology. Straight-backed lupar, big
+guns, heroic death-struggles against the lumbering Intermarium. Little bearded gnomes in
+horizon blue scuttling away from the forest,
+back to their watery ditch-cities.
+Most of it’s got no grounding in reality. The
+state propagandists don’t draw their troops
+snuffling around in your ribcage, even if
+that’d scare the shit out of some of the kids on
+the front. (Only the chasseurs scrawl that sort
+of thing, from memory.) But the machine-gunners are always pretty accurately depicted.
+They really do fire from the hip when they’re
+moving up. That open mouth is more to equalize the pressure than to roar.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+
+HIMA TEAM
+
+HIMA TEAM - 15 pts
+ANTI-PERSONNEL/TANK TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Sense (6”)
+
+__________________________
+
+TYPE: ANTI-PERSONNEL/TANK TEAM
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Lacra-76 “Hima” 3-inch Launcher
+Ammo 4
+→ 3-inch Frag
+Gnd, R32”, A4+/xx, S[D3], D1,
+Air-Filling, Light Indirect (2),
+No CC, Radius (2”)
+→ 3-inch HEAT
+Inf/Vec, R8”, A4+/xx, S8/1+, D1,
+Shaped Charge, Slow Round
+→ 3-inch Smoke
+Gnd, R32”, A++/xx, D2,
+Light Indirect (2), No CC, Smoke (3”)
+→ 3-inch Signal Salt
+Gnd, R32”, A++/xx, D1,
+Light Indirect (2), No CC, Radius (3”),
+Rally (Salt)
+
+REMARKS
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Indirect support team armed with a 3-inch
+(76mm) shoulder-fired light gun-mortar.
+The “Hima” is an advanced design despite
+its ubiquity in the A.E.F. inventory, featuring a sliding receiver-barrel complex that
+smooths out the weapon’s heavy recoil
+impulse.
+
+The signal salt is the first smell you are trained
+to recognize. It is a powerful chemical stench.
+You cannot mistake it for anything. I would
+not care for it had I not taken the Regent’s eartag. But now it makes my mouth water.
+
+__________________________
+
+The Hima is highly versatile, functioning
+both as a direct-fire anti-tank system and as
+a light mortar. It is adept at providing fire
+support and screening for A.E.F. troops.
+“Signal salt” rounds, issued along more
+standard frag and smoke shells, contain
+olfactory identifiers and stimulant drugs
+meant to direct and rally luparic troops.
+
+The salt means you are close to the enemy
+lines. It means the assault is almost finished.
+The foe is almost overcome. His corpses will be
+available. There will be a few minutes before
+you are observed by a man with enough rank.
+Long enough.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-9
+
+FM 100-2-8X
+RECOILLESS RIFLE TEAM
+
+RECOILLESS RIFLE TEAM - 15 pts
+GENERAL-PURPOSE TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+TAP 20 3-inch Recoilless Rifle
+Ammo 4
+→ 3-inch HEAT
+Inf/Vec, R24”, A4+/6+, S8/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 3-inch Canister
+Inf/Vec, R12”, A4+/6+, S1/1+, D3,
+Defensive CC (Inf.)
+→ 3-inch Smoke
+Gnd, R24”, A++/++, D1, No CC,
+Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: GENERAL-PURPOSE TEAM
+
+__________________________
+REMARKS
+Recoilless rifles are reliable, versatile, and
+lightweight for the heavy punch that they
+can deliver. Compared to an equivalent
+enclosed-breech cannon, they stress their
+mounting platform considerably less; thus,
+they are usually shoulder-fired or mounted
+to tripods.
+As with its Federal counterpart, the A.E.F.
+TAP 20 is a common direct-fire support
+weapon, issued across the army. Luparic
+physiology makes it possible for them to
+nimbly carry and employ these weapons
+in support of an attack. To that end, lupar
+R.R. teams are issued anti-personnel canister rounds for use at relatively short range.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-10 - WEAPONS TEAMS
+
+It’s a pocket cannon. Okay, sure, it’s as tall
+as they are. But you haven’t seen where they
+can hide these things. Under rotting logs, camo-netted in the bushes and twist-roots. They
+even put some in treetops to go after thin roof
+armor.
+It’s not exactly light, but the way dogfaces
+tote these things—mile after mile in the misty
+undergrowth—you’d swear they’re just empty
+pasteboard tubes. All that, with ammo too,
+just to get at your flanks or rake you with
+canister.
+One of these days, when this is all over, I’m
+hiring one for my old man’s mountain inn.
+They like the cold and snow, and they know a
+thing or two about avalanche control.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+
+GUIDED MISSILE TEAM
+
+GUIDED MISSILE TEAM - 20 pts
+ANTI-TANK/AIR TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q2, T1/1-/1Bloodlust, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+SD84 4.7-inch Missile Launcher
+S15/2, D1, Ammo 4,
+Guided Missile (2), No CC,
+Shaped Charge
+→ ATGM Guidance Mode
+Vec, R6-60”, A3+/xx
+→ MANPADS Guidance Mode
+Air, R60”, A4+/xx
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK/AIR TEAM
+
+__________________________
+REMARKS
+Dismounted anti-armor team equipped
+with the SD84 4.7-inch (120mm) guided
+missile complex. One of relatively few advanced electronic systems in A.E.F. use,
+the SD84 is issued only to first-rate units.
+The SD84 is an efficient SACLOS ATGM
+system, able to automatically guide itself
+towards the illuminated crosshairs without
+manual corrections from the gunner.
+In field service, many have been modified
+to permit anti-aircraft targeting. Guiding a
+missile by hand into a flying target is easier
+said than done, but the capability remains.
+
+When my father was young there was still a
+group of wild men near where he lived. They
+were not like the feral ones who refuse to know
+spoken words. Neither were they like us who
+rooted ourselves in the gathering cities. They
+wandered and clothed themselves in bone
+and skins they had poached and waterproof
+groundsheets from the flat-faced traders.
+They were spear hunters. They killed wild
+boars and burnt the meat only to remove the
+bristles. To spear a great boar was an act of
+great nerve. The boar would rage. If the spear
+wavered before or after the strike the boar
+would gore the hunter. The wound would not
+knit. It called for perfect calm. One kept their
+eyes on the boar and not the spear.
+The wild men no longer show themselves.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-11
+
+FM 100-2-8X
+
+SUBALTERN TEAM
+
+SUBALTERN TEAM - 10 pts
+JUNIOR COMMAND TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q4, T1/1-/1Bloodlust, Brigade (2, 4”), Infiltrator,
+Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+MdG. 341 Smoke Bomb
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Small Arm,
+Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: JUNIOR COMMAND TEAM
+
+__________________________
+REMARKS
+Subalterns are A.E.F. junior commissioned
+officers. Almost exclusively promoted from
+the ranks, they are given the right to wear
+an officer’s tunic, crest, and black cockade.
+While formally billeted as platoon commanders and adjutants, they are also often
+used as message runners on the front line.
+Standard equipment includes the RSP-10
+radiotelephone handset, powered by a belt
+battery. For self-defense, subalterns and
+their attached bodyguards and orderlies
+are provided with the light Mle. 32 rifle
+also issued to weapons teams and smoke
+grenades. They travel light and are expected to be first-class runners.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-12 - SPECIAL
+
+Some finery on the collars and a crest. A black
+piece of silk. With these garnishes a man is
+seized from the comfortable mass of the ranks
+and made a subaltern. He is doomed. He goes
+to this doom with grace.
+When the shelling is thick even the grass despairs. Nothing lives for long above ground
+and the company chief takes to the bunkers. He
+speaks through buried lines and semaphores.
+His subalterns are his mouth at the far end of
+the hail. They are his eyes and ears. The men
+know this too.
+Much is said of that little black cockade.
+Watered with enough shrapnel and given the
+campaigning sun it might grow into a cap
+with a rose badge. Others do not grow. They
+are sent home with a hole in them.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+Funny how they wear the sleeve decorations
+and their bosses don’t.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+MADE-TO-ORDERS
+
+MADE-TO-ORDERS - 10 pts
+BERSERKER SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q6, T1+/1+/1+
+Amphibious, Bloodlust, Tow (2), Sense (6”)
+
+__________________________
+
+If depleted, loses its depletion token at the end
+of the round after winning a close combat.
+
+__________________________
+Mutated Teeth & Claws
+Inf/Vec, R0”, A1+/1+, S1+/1+, D3,
+Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+If you know what it’s like to walk wearing a
+ball and chain, I understand why you’re in the
+infantry. If you know what it’s like to walk on
+a crutch, I understand why you got out. Either
+way, you’ll know one half of what it’s like to
+walk like an MTO.
+TYPE: BERSERKER SQUAD
+
+__________________________
+REMARKS
+Lupar that succumb to their savage impulses begin to physically degenerate into
+larger, misshapen, asymmetric creatures
+with reduced sanity and emotional stability. While the Regency has sought to
+harness and improve this process, their
+scientific studies have born little fruit. The
+semi-feral, electrode-controlled results are
+dubbed “made-to-orders”.
+While MTOs are neither capable of nor
+willing to operate firearms or obey complex
+commands, the A.E.F. has still found employment for them as both all-terrain pack
+mules and shock troops: modern berserkers, reliant on claws and teeth.
+
+They spend a lot of time re-learning the basics.
+How to take each step, how to eat. It used to
+be impossible to do safely. See those shiny coils
+jammed into the primary head? That’s the
+“prod brain”. Keeps them quiet, massages the
+crunched parts of their gray matter until it
+stops humming. You only have to tell a lupe
+when to stop killing, after all.
+Damage to the exposed prod brain produces
+profound emotional disturbance in a living
+berserker. Shooting the coil or shooting the
+handler happens more often than you think.
+The Heufliger Tapes and the Cencetta Reel are
+just textbook examples of a common autopsy;
+teething marks on the legs and forearms don’t
+imply autocannibalism. They imply stress
+relief through habitual self-harm.
+It goes deeper than appetite. They know what
+has been done to them.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+- Johannes Veeneman, F.S-A. General Staff
+SPECIAL - 3-13
+
+FM 100-2-8X
+
+WAYKEEPERS
+
+WAYKEEPERS - 15 pts
+RELIGIOUS INSTRUCTORS
+
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1/1/1
+Amphibious, Guidance (12”), Infiltrator,
+Sense (8”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Multi-Gun, Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: RELIGIOUS INSTRUCTORS
+
+__________________________
+REMARKS
+Traditional, wandering religious order of
+legal authorities, lorekeepers, spiritual and
+political advisors, and the former wardens
+of the Ebon Forest’s narrow and hazardous
+traderoads. Universally respected by the
+luparic populace. Though not formally recognized by the Regency, their activity continues unimpeded by state security forces.
+The presence of waykeepers in an A.E.F.
+unit markedly reduces observed incidences of frontline savagery or cannibalism
+under fire. Established waykeepers are
+often joined on the field by novices in their
+tutelage, bolstering their numbers to squad
+strength.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-14 - SPECIAL
+
+The grass-stained robes are a welcome sight to
+any man. A waykeeper is a man of the spirit.
+He knows what gnaws at those he sees. It is said
+even a glance is enough for a learned keeper to
+read a man’s heart. Other things are not said
+when even the rumor of their coming arises.
+The hushed voices speak of what lies under
+the robes. They say the waykeeper knows his
+secrets by experience.
+There are some that cannot help themselves
+unless the waykeeper is standing behind them.
+They take pains to clean their teeth and hide
+what they did. Sometimes they can hide the
+guilt. No man that I have broken salt pork
+with has willingly given into his desires while
+the waykeepers are near.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+BOUNDERS
+
+BOUNDERS - 20 pts
+ANTI-MATERIEL/SNIPER TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q2, T1/1-/1Amphibious, Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+APX-25 1-inch Anti-Tank Rifle
+All, R32”, A3+/xx, S4/6, D1,
+Ammo 4, No CC (Inf.), Scoped
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Customarily you’d call it overkill. You don’t
+necessarily need a 25-millimeter round (to
+say nothing of the explosive filling) to pierce
+a flak jacket. Something rifle-caliber, maybe
+even suppressed, wouldn’t signal to every deaf
+old man in the sector that there were snipers
+around.
+TYPE: ANTI-MATERIEL/SNIPER TEAM
+
+__________________________
+REMARKS
+
+High-caliber anti-materiel rifles, while no
+longer effective against tanks (their original role), are still able to penetrate light
+armor and destroy important components
+such as engines. They also turn infantry
+into red mists.
+A.E.F. scout-snipers are issued particularly
+heavy weapons straddling the line between
+rifles and light cannons. The monstrous
+APX-25, firing 1-inch (25.4mm) high velocity explosive rounds from a squeezebore barrel, has seen significant use even
+against personnel, evidently in the role of
+a terror weapon.
+
+See, that’s the point. They’re dogfaces. They
+know how to slip away, become a shadow of
+a shadow even with a big steel crutch hanging
+off their back. They want you to know that
+they’re there. That one moment you’re in their
+sights, and the next you’re so much vapor.
+I did get my hands on an APX-25 with some
+ammo a while back. The shell cap used to be
+tungsten, for penetrating armor. Some of them
+still are. But a lot are just mild steel.
+Maybe they’re critically short of tungsten,
+like what the guys upstairs say. Or maybe the
+assembly-line dogs already know what they’re
+gonna be shot at.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SPECIAL - 3-15
+
+FM 100-2-8X
+
+3-16 - SUPPLEMENTAL FILES
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES - 3-17
+
+FM 100-2-8X
+
+3-18 - SUPPLEMENTAL FILES
+
+FM 100-2-8X
+CHAPTER 4
+
+VEHICLES & TOWED GUNS
+Though the A.E.F. has been whipped into a state of basic mechanization—sporting a
+minimum acceptable quantity of trucks, tanks, and specialist vehicles—it cannot hope to trade
+armored blows with its Federal opposition for long. Without the industrial muscle to produce
+vast flotillas of tanks, they must carefully shepherd what they have. In fact, most A.E.F. tanks
+were originally produced (even if only partially) on a Federal assembly line.
+Some lupar heavy metal is better than the rest. Their towed and mounted artillery are
+of heavier weight than Federal equivalents, putting their gunners’ brute strength to use hauling
+high-caliber shells instead of swinging machetes. Dangerous as open ground is to them, lupar
+infantry can count on their artillery to have their back.
+LOGISTICS
+CdS-F1 “KENNEL” - IMPROVISED GUN TRUCK . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-2
+PERSONNEL CARRIERS
+VBD-U “DENMOTHER” - UNIVERSAL CARRIER . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 pts / 4-3
+VBD-1 “TANNER” - ARMORED PERSONNEL CARRIER . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-4
+VBD-2 “RAWHIDE” - INFANTRY FIGHTING VEHICLE  . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-5
+VBD-3 “MOTTE” - ARMORED PERSONNEL CARRIER . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-6
+ARMOR
+CHAR 30 “VELDJEN” - MEDIUM TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-7
+CHAR 38 “BORVO” - MAIN BATTLE TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 pts / 4-8
+FIRE SUPPORT
+DAG-8 “BLOSSOM” - TOWED ANTI-TANK GUN . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 4-10
+VBD-1B “TANNER-R” - RECOILLESS RIFLE CARRIER . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 4-11
+CdS-F3 “FORESTER” - ANTI-AIR GUN TRUCK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 4-13
+CdA-25 “SAUCER” - TANK DESTROYER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-15
+DAG-16 “CHERRY” - TOWED HOWITZER  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25 pts / 4-16
+VBD SPECIAL “LUGUS” - RECOILLESS RIFLE CARRIER . . . . . . . . . . . . . . . . . . . .  25 pts / 4-18
+CdA-36 “BROOMCLOUD” - SELF-PROPELLED ANTI-AIR GUN . . . . . . . . . . . . . . . 25 pts / 4-19
+CdS-F2 “AURORA” - ROCKET TRUCK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30 pts / 4-20
+SPECIAL
+VdIM-K “KARVE” - SPEEDBOAT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-21
+
+VEHICLES - 4-1
+
+FM 100-2-8X
+
+CdS-F1 “KENNEL”
+
+TYPE: LOGISTICS TRUCK
+
+CdS-F1 “KENNEL” - 10 pts
+
+REMARKS
+
+__________________________
+
+Hybrid logistics truck and convoy security vehicle. Ubiquitous in A.E.F. service.
+Armed with the standard MtL. 19 heavy
+machine gun in .50 (12.7mm) caliber.
+Lightly up-armored across the bed and cab
+with simple steel plating; resistant to rifle
+fire but not true anti-tank weapons.
+
+Vec (W), H2, S16”, M8”, Q2, T2/2/1
+PC (2, Rear), Resupply (6), Tow (3)
+
+__________________________
+
+Capable of both transporting troops and
+cargo while offering a modicum of protection and firepower—the minimum acceptable standard for convoy transport through
+the hazardous inroads of the Ebon Forest.
+Goes under no official A.E.F. designation;
+“Kennel” is a Federal appellation owing
+to their frequently overloaded state. This
+name is considered insulting by their
+crews.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-2 - LOGISTICS
+
+IMPROVISED GUN TRUCK
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+I have seen countless obliterated Kennels. There
+is a resilient myth among the dogs that death
+in an ammunition cookoff is instantaneous.
+I can almost hear them:
+“I smell them, Rhodri. I hear the beat of
+the guns. Quickly, let me see them! Quickly,
+through the mud!”
+- Johannes Veeneman, F.S-A. General Staff
+
+FM 100-2-8X
+
+VBD-U “DENMOTHER”
+
+VBD-U “DENMOTHER” - 5 pts
+UNIVERSAL CARRIER
+
+__________________________
+Vec, H1, S16”, M8”, Q2, T3/2/1+
+PC (1, Any)
+
+__________________________
+
+An engine without a roof. Where there is gasoline and tool kits there are Denmothers. We do
+not have the blue soldiers’ mighty warhorses.
+But a donkey will do.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+This unit uses a 40x40mm base. Cannot have
+embarked units and desants at the same time.
+Embarked units can fire any one non-Melee
+weapon as if it were a Small Arm and are
+identified with the vehicle. Units embarked
+may spot and be spotted by Sense.
+
+__________________________
+Lenus Automatic .45, driver’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+TYPE: UNIVERSAL CARRIER
+
+__________________________
+REMARKS
+Diminutive, long-served ultralight personnel carrier. Too small to carry a squad. Retrofitted with universal, mechanically stabilized mounting points for heavy weapons.
+
+Lenus Automatic Pistol, .45 Long.
+Somehow, someway, still standard issue. It’s
+got to be a pride thing. The Lenus was the first
+automatic pistol the A.E.F. ever adopted, and
+one of the first all-dogface designs. I mean, just
+look at the thing; it’s all kinds of fucked up.
+The best way I can describe it is as a sort of
+tiny naval rifle—the battleship kind—complete
+with a little screw breech. It’s singularly unpleasant to fire. Similar caliber to ours, but
+a lot more powder. Also, the whole damned
+thing jumps backwards at you when you pull
+the “trigger” (a big lever).
+You oughta try it sometime. It’s fun.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PERSONNEL CARRIERS - 4-3
+
+FM 100-2-8X
+
+VBD-1 “TANNER”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+VBD-1 “TANNER” - 10 pts
+
+REMARKS
+
+__________________________
+
+The standard APC of the A.E.F.’s sparse
+mechanized forces. Itself a functional, if
+somewhat barebones, personnel carrier.
+Armed and armored for self-defense rather
+than carrying the fight to the enemy; its
+job is to safely deliver its troops and then
+withdraw.
+
+Vec, H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (3, Rear)
+
+__________________________
+
+The sole armament is a .50 caliber (12.7mm)
+heavy machine gun, pintle mounted on the
+commander’s hatch. While frontline modifications often include a gun shield, it is
+not a factory-issue item.
+Displays amphibious capabilities, using a
+water-jet system copied from the Federal
+Type 60 APC (see FM 100-1-8X).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-4 - PERSONNEL CARRIERS
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The seats remove your hair when you stand.
+They are preferable to the long march and the
+shell splinters.
+The ramp is hydraulic. When that is broken,
+the hand crank saves lives. A Tanner does not
+burn quickly.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+VBD-2 “RAWHIDE”
+
+TYPE: INFANTRY FIGHTING VEHICLE
+
+VBD-2 “RAWHIDE” - 20 pts
+
+REMARKS
+
+__________________________
+
+Modification of the VBD-1 APC into an
+infantry fighting vehicle. Apart from a
+light up-armoring, the Rawhide boasts a
+radar-based active protection system for
+increasing survivability against infantry
+RPGs and recoilless rifles. The pintle heavy
+machine gun and commander’s cupola
+have been removed in favor of a new turret
+and smoke launchers.
+
+Vec, H2, S32”, M8”, Q2, T5/5/4
+Active Protection (1), NBC, PC (2, Rear)
+
+__________________________
+
+Mounting a 1-inch (25.4mm) autocannon
+and the standard .50 caliber (12.7mm)
+HMG, the Rawhide represents a significant
+firepower upgrade over the Tanner. Its
+troop capacity is inferior and its amphibious capacity, while ostensibly retained, is
+no longer practically usable considering
+its increased weight and higher center of
+gravity.
+Aside from the White Gloves (who operate
+modified Bantams; see FM 100-1-8X), the
+VBD-2 is typically seen in the highest-quality A.E.F. formations.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/5+, S2/3, D2, Turret
+APX-30 1-inch Autocannon
+All, R32”, A4+/5+, S4/6, D2,
+Ammo 4, No CC (Inf.), Turret
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The dogfaces aren’t terrible engineers; they
+just don’t have a lot to work with. That beautiful turret’s mated to the only light hull they’ve
+got in any quantity.
+- Rayleigh Irving, Federal Intelligence
+
+PERSONNEL CARRIERS - 4-5
+
+FM 100-2-8X
+
+VBD-3 “MOTTE”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+VBD-3 “MOTTE” - 20 pts
+
+REMARKS
+
+__________________________
+
+A unique product of extensive battlefield
+salvage and severe industrial bottlenecks
+in the Ebon Forest. The Motte is little more
+than a refurbished, up-armored Razorback
+hull (often retrieved from wholly burnt-out
+tanks) mated to an indigenously manufactured “tower” sporting several machine
+guns of varying caliber.
+
+Vec, H2, S32”, M8”, Q3, T16/10/6
+NBC, PC (2, Rear, Front)
+
+__________________________
+
+Tank-tough, but with relatively poor troop
+carriage. Designed for heavy convoy security as a rolling fortress of sorts. Often
+deployed to the front as an assault vehicle
+capable of withstanding anti-tank weapons.
+Because of its resilience and all-around
+antipersonnel firepower, it is well-suited to
+urban combat. Internal Security maintains
+and operates the majority of Mottes in the
+Ebon Forest’s inventory.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-6 - PERSONNEL CARRIERS
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Mle. 38C .30 MG, swivels
+All, R12”, A4+/5+, S1/1+, D2, Turret
+Mtl. 19 .50 HMG
+All, R20”, A4+/5+, S2/3, D2,
+Multi-Gun
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Wreathed in smoke and festooned in bone. A
+siege tower for the modern palisade. The hull
+has tasted fire before.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+CHAR 30 “VELDJEN”
+
+TYPE: MEDIUM TANK
+
+CHAR 30 “VELDJEN” - 20 pts
+
+REMARKS
+
+__________________________
+
+Staple second-line tank of the Army of
+the Ebon Forest. Acquired variously from
+indigenous manufacture, decades-old captures, and foreign materiel aid programs.
+Relative to the modernized Veldjens in
+Federal service (see FM 100-1-8X) the gun
+is inferior, but great pains have been taken
+to upgrade its armor and powerplant to a
+more modern standard.
+
+Vec, H2, S32”, M8”, Q2, T10/6/5
+NBC
+
+__________________________
+
+Due to its high mechanical reliability and
+relatively low weight, the Veldjen is well
+liked by lupar tankers. It is capable of enduring both the local terrain and their poor
+supply of replacement parts. The hatches
+are overly small by lupar standards and the
+armor’s protection is inadequate compared
+to a true main battle tank, but the Veldjen
+remains ubiquitous nonetheless.
+
+MEDIUM TANK
+
+__________________________
+Mle. 38C .30 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+SA19 3-inch Gun
+R32”, A4+/6+, D1, Ammo 6,
+No CC (Inf.), Slow Round, Turret
+→ 3-inch APHE
+Vec, S8/12
+→ 3-inch HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1)
+LF4 Sponson Flamethrower
+Inf/Vec, R8”, A3+/3+, S1+/1+, D3,
+Ammo 3, Ignore Cover (2),
+Multi-Gun, Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Almost all Veldjens in luparic service are
+equipped with a sponson flamethrower.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-7
+
+FM 100-2-8X
+
+CHAR 38 “BORVO”
+
+TYPE: MAIN BATTLE TANK
+
+CHAR 38 “BORVO” - 40 pts
+
+REMARKS
+
+__________________________
+
+A unique product of extensive battlefield
+salvage and severe industrial bottlenecks
+in the Ebon Forest. The Borvo is little more
+than a refurbished Razorback hull (often
+retrieved from burnt-out tanks) and an indigenously manufactured turret sporting
+twin 3-inch (76mm) auto-loading guns.
+
+Vec, H2, S32”, M8”, Q2, T14/10/6
+NBC
+
+__________________________
+
+While the armor-piercing performance of
+the main guns is low relative to larger-bore
+competitors, the Borvo’s rate of fire and
+generous ammunition supply makes it excellent at supporting infantry attacks and
+destroying enemy light armor.
+Fire control is augmented by a bulky radar
+gunsight, comparable in performance to
+Federal thermal optics packages.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+We are lucky this beast inspires no jealousy.
+- Johannes Veeneman, F.S-A. General Staff
+4-8 - ARMOR
+
+MAIN BATTLE TANK
+
+__________________________
+Mle. 38C .30 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Thermal Sights, Turret
+SA19B 3-inch Dual Guns
+A3+/4+, Ammo 6, Barrage (2),
+Thermal Sights, Tracking Anti-Air,
+Turret
+→ 3-inch APHE
+Vec, R40”, S8/12, D1, No CC (Inf.),
+Slow Round
+→ 3-inch HEAT
+Inf/Vec, R40”, S9/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 3-inch Canister
+All, R20”, S1/1+, D3,
+Defensive CC (Inf.)
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES
+THE FEDERAL thinks of the tank when he thinks of war. He sees a great mass of steel with grinding
+treads and a glowering gun-stare. When he is hidden under his cupola he may as well not exist. The
+big-gun exchanges are made between tanks and not men. It is a war of steel and not flesh.
+We do not think this way. Our old stories are of war at the grapple. We are stirred by the sword
+and the pistol and teeth. Even now our machetes are put to practical work. In the compounds we
+are trained to use them well. Not for useless ceremony but for the campaign: how to whack to clear
+brush and how to split bone. Yet it is plain to see it is not enough.
+I pity the men in the tanks. They understand they are wanted only by necessity. They are the runts
+who can fit without effort in the encaging steel. They are the ones whose right eyes are stamped
+with the disks of the gunner’s sight—whose bumps and burns are patterned—who reek of oil and
+propellant. It has settled into their shaven pelts and skin so finely that it will never come out. They
+are components of their machine and it sets them apart.
+No right-thinking man would mistreat them for this. It is unspoken knowledge that they are the
+ones who are burnt when they do not escape, who fight plenty with poverty. When their tanks
+roll on parade the learned observer sees the decades encrusting them beneath the fresh paint and
+jubilant banners.
+- Conchar Goronwy, Chasseur, 96e Division d’Infanterie
+LIGHT TANK, “SOMFR”
+SOMFR’s gone bust, now. The time when the Regency Council gave the wink-and-nod to the myriad
+secret societies in its armed forces has passed—the current man in the high collar is awfully afraid
+of that sort of thing (with good reason). The best engineers are in the various State Bureaus now,
+living the good life under armed guard. Not like the old days, when every dog of stature had some
+second job under his rose cap.
+Well, while they didn’t last, their efforts did, in a way. The SOMFR (the real design designation is
+lost to history; it and its designers are one and the same) was an old light tank, a contemporary to
+the Veldjen. A little big-tracked, with this sort of moorhen-chick look, but lots of engine power where
+it was needed. It pioneered the prone driver position that they’ve made dogma now to the point of
+hacking it into their Razorback rebuilds. They were proud of the SOMFR, like any other modern
+technology that they can build by themselves. “We can make tanks, too!”
+It’s no longer in use anywhere, at least by the Regency’s armed forces. There’s only so far you can
+take a little turret ring like that. But the drivetrain and lower hull have enjoyed a working retirement. Look at almost any lupe APC or light track: you’ll see those little shielded wheels somewhere.
+- Rayleigh Irving, Federal Intelligence
+
+SUPPLEMENTAL FILES - 4-9
+
+FM 100-2-8X
+
+DAG-8 “BLOSSOM”
+
+TYPE: TOWED ANTI-TANK GUN
+
+DAG-8 “BLOSSOM” - 15 pts
+
+REMARKS
+
+__________________________
+
+Towed 3.3-inch (85mm) antitank gun. Low
+profile, sturdy, and light enough to be
+manhandled more easily than most towed
+guns. Ubiquitous in second-line A.E.F. formations that lack access to modern antitank weapons in significant quantities.
+
+__________________________
+
+__________________________
+
+Primary ammunition loads include sabot
+and high explosive rounds. As 85mm sabot
+has difficulty defeating modern tanks at
+range, A.E.F. doctrine specifies that antitank guns be placed in flanking positions
+or fired from ambush at short range.
+Most Blossoms are retrofitted with a basic
+radar gunsight and fire director similar to
+that of the Borvo main battle tank. This
+system’s capabilities are overall comparable to Federal thermal optics packages.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-10 - FIRE SUPPORT
+
+TOWED ANTI-TANK GUN
+
+Vec (C), H1, S32’’, M3’’, Q2, T2/1/1
+
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+DAG-8 3.3-inch Gun
+R40”, A3+/xx, D1, Ammo 4,
+No CC, Thermal Sights
+→ 3.3-inch Sabot
+Vec, S12/18
+→ 3.3-inch HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1),
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+We dig the gun in carefully. The long barrel
+lays flat like a fallen tree and we cover it with
+fresh foliage. We wet the ground so that the
+muzzle blast will not kick up dust. We test the
+fire control radar again and again. When the
+blue tanks come we will have to hold our fire
+until they are right on top of us.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FM 100-2-8X
+
+VBD-1B “TANNER-R”
+
+TYPE: RECOILLESS RIFLE CARRIER
+
+VBD-1B “TANNER-R” - 15 pts
+
+REMARKS
+
+__________________________
+
+Modification of the VBD-1 APC into a fire
+support vehicle, armed with the heavy
+TAP 30 recoilless rifle on a roof mount.
+Although it is as poorly-armored as the
+Tanner, the Tanner-R remains a significant
+threat owing to its firepower and range of
+ammunition types.
+
+Vec, H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+
+RECOILLESS RIFLE CARRIER
+
+__________________________
+
+Though most of the troop compartment
+has been repurposed as an ammunition
+locker, enough space remains for a very
+basic troop carriage capacity. The original
+amphibious water-jet system is also still
+functional.
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+TAP 30 4.2-inch Recoilless Rifle
+Ammo 4
+→ 4.2-inch HEAT
+Inf/Vec, R28”, A4+/6+, S12/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 4.2-inch Canister
+Inf/Vec, R14”, A4+/6+, S1/1+, D4,
+Defensive CC (Inf.)
+→ 4.2-inch White Phosphorus
+Gnd, R28”, A4+/6+, S1+/1+, D1,
+Ignore Cover (2), No CC, Rear Attack,
+Smoke (3”)
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Standard ammunition issue includes HEAT
+(for anti-tank/anti-materiel) and canister
+(anti-personnel) loads, as well as smoke
+shells to prepare engagements.
+
+The TAP 30 is the only rifle too big for them to
+carry. They hate when you say that.
+- Johannes Veeneman, F.S-A. General Staff
+
+FIRE SUPPORT - 4-11
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES
+I HAD NOT SEEN sixteen winters when I was sent to the rigs. The trains had come for that moon’s
+take and I had been caught scrawling the old signs on the side of the abattoir cars, the signs our
+fathers’ fathers taught us then. I do not remember what my aim had been, nor what they told my
+family of my punishment.
+I remember the first time I saw the salt water and I remember the crossing, bodies packed onto the
+open deck of the barge. Grey sky, grey water, grey trunks of concrete and canopies of latticed steel,
+each rig standing apart like waystones marking the old paths along the waves. The acrid scent that
+had hung after the trains when they left and the scent of iron and of blood. It began to rain, thin
+drops that sliced at me through my pelt. I flattened my ears and shivered. I did not realise then the
+luxury it would become.
+The work stains us with filth, grease and oil. It sets into your pelt and never comes out, rots the fur
+and blisters the skin at the eyes and nose and lips. They tell us the shifts are 16 hours, but there is
+no timepiece to keep us, no sun to see by on the drill floor. Only the quotas and the shift bell and the
+toil. Sometimes men are too slow, and the heavy iron tongs take fingers and swinging metal crushes
+bone. Sometimes the men with the clean pelts in the control box drill too fast and pipe bursts and
+mud and steel saw flesh and cave skulls, and the men with the clean pelts shake their heads and the
+bodies are carted away. Some men cannot take it, and they gnaw on their fingers and snap at the
+rest of us when we come too close. For them the Regent’s men watch us through their heavy masks
+with only clawed hammers in tight clenched hands, they cannot risk a spark.
+We sleep two decks up in darkness, nose to tail. When the bell calls us to our next shift I pray to my
+father’s fathers that another will fail to rise and I will be chosen to carry the body to be cast over
+the side. There I can see the grey sky and the grey water and the waystones stretched out across the
+horizons. The flat-faced men watch us from further out at sea, sometimes they bring their cigar
+shaped boats in close enough you can catch the scent of their tobacco on the wind before slipping
+back beneath the waves. Sometimes another rig will catch alight and burn for shifts upon shifts and
+they tell us it is the flat-faced men’s doing, and the quotas rise. I do not believe them. They cannot
+risk a spark.
+- Llewellyn Chaucier, Rig No. 89
+A DOG which has been beaten to make him useful is more dangerous than one beaten for pleasure,
+for that time which the dog has been given to live is time to be beaten. He is anxious, and yearns to
+be saved, yet also to bite: idleness vexes more than labor, for if free he has none to bite but his savior.
+When the Regent sank our merchants in the Sea of Lights, Admiral Hargew proposed thunder runs
+on rigs in Olariuma as an escalation strategy. The resulting memorandum said, “we will not stoop
+to their level in politics by threatening countervalue as a form of leverage.” But that is not what I
+meant. I meant that I do not want to feel responsible for the Regent’s slaves, one way or another.
+- Johannes Veeneman, F.S-A. General Staff
+4-12 - SUPPLEMENTAL FILES
+
+FM 100-2-8X
+
+CdS-F3 “FORESTER”
+
+TYPE: ANTI-AIR GUN TRUCK
+
+CdS-F3 “FORESTER” - 15 pts
+
+REMARKS
+
+__________________________
+
+Modification of the Kennel logistics and
+convoy security truck featuring an improved heavy machine gun armament at
+the cost of storage space. Originally produced by A.E.F. field workshops, it has
+been widely copied by rural clan armorers
+and various other anti-state forces.
+
+Vec (W), H2, S16’’, M8’’, Q2, T2/2/1
+Tow (2)
+
+__________________________
+
+Primary armament is the AMA-2 anti-aircraft complex, consisting of twin .60
+(15.2mm) heavy machine guns sharing a
+flat water jacket. While now deficient in its
+original anti-aircraft role, it is still effective
+against helicopters, and excellent against
+infantry and light vehicles.
+
+ANTI-AIR GUN TRUCK
+
+__________________________
+AMA-2 .60 Dual HMGs
+All, R24’’, A4+/6+, S3/4, D3,
+Turret, Tracking Anti-Air
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The truck drivers are not so perfect a salve
+against ambushes as they claim. Even old trees
+are no defense against thumb-wide bullets
+with explosive cores. But the enemy still tries.
+
+The AMA-2 is mounted high enough to clear
+the Forester’s rifle-resistant armor and can
+fire forwards over the cab. Roll-overs are
+easy in the hands of inexperienced drivers.
+
+When the hewing tracers stopped I went
+forward. I came across the body of a Creag
+clansman in his mail-skin. Of his braids I
+could not say. His head and upper torso had
+been carried off. I tasted his brave heart.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FIRE SUPPORT - 4-13
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES
+WHAT’S A LUPAR?
+Ask a professor at the Royal Institute and he’ll tell you that he’s a human being, just like you.
+Ask a mountain man from Cydoland and he’ll tell you that his dog beat him over the fence. Ask a
+waykeeper and he’ll say he’s a cursed man. His flesh is like yours, but twisted. Not a wolf, but an
+imitation of one. Look at the shape of the skull, the lay of the jaw. He might be on to something.
+The curse, the curse, the curse. They’ll never get over it. How could they when it’s staring back at
+them in every mirror? Everything is wrong. You see it in their eyes when they talk to you. A human
+face looks more familiar to them than one of their own.
+It used to be that they were bent around working it off. Finding a way for their children to have flat
+faces, bare skin, to not get twitchy around their siblings’ throats when unsupervised. Since the rise
+of the Regency it’s changed somewhat. Now the party line is that they’re the best of both worlds.
+Man and beast in a superior whole. It’s just a question of addressing some thousand-year teething
+problems. One coping mechanism for another, I guess.
+The research programs cast a pretty wide net, as far as we know. Spiritual and scientific work alike.
+They want to control the curse, re-twist their own flesh as they see fit. Make a better man: stronger,
+faster, smarter, more self-controlled. The vast majority of their results are living mistakes, disposed
+of as pack mules and berserkers. Some aren’t. They can never figure out what went right.
+- Rayleigh Irving, Federal Intelligence
+I GREW UP on the old estate of my family; they were wealthy enough to hold on to it. My childhood
+was happy. I had open land to run free in, and I was alone or among kin as I saw fit. More than
+once I came home with an injury and a grin on my face. We avoided the cities and the polyclinic. I
+was told their walls, though clean, still stank with the smell of once-opened bellies. To attend to our
+family we instead retained a flat-faced doctor from the lowlands of Rygos.
+Everything fascinates a young boy, but little could equal seeing the doctor. This was a man, too! No
+flesh-curse hung around his neck like a torc. My tutor in the woods had said and sung much about
+this. Here was the real thing. The doctor’s skin was bare. His hair sat massed atop his head and it
+looked no different in summer or winter. I was not allowed to nip him in play. Although my family
+could trust him, and paid him well, an armed guard always shadowed him.
+Later I grew jealous of the doctor. I came to realize that the way he walked, spoke, and drank from
+a necked bottle were more familiar in my bones than my own habits. They were the little motions
+common to all men. I had been warped. It enraged me. I wondered at times if I could find something
+like him under my skin. Unlike some, I never dug.
+- Roul Lydon, Lieutenant, Escadron de Chasse 1/1
+
+4-14 - SUPPLEMENTAL FILES
+
+FM 100-2-8X
+
+CdA-25 “SAUCER”
+
+TYPE: TANK DESTROYER
+
+CdA-25 “SAUCER” - 20 pts
+
+REMARKS
+
+__________________________
+
+Low-profile, thin-skinned tank destroyer.
+Relatively fast for its weight class. Armed
+with a 2.5-inch (63.5mm) high-velocity
+gun. No explosive shell is provided, but a
+standard .50 (12.7mm) heavy machine gun
+on a ring mount provides well-rounded
+general capability.
+
+Vec, H1, S32”, M10”, Q2, T6/3/2
+
+__________________________
+
+As a turretless, low-profile vehicle, the
+Saucer is best suited to ambush roles—
+capable of concealing itself even in brush,
+fields, or other low occluding terrain. It is
+not very survivable in gunnery duels with
+tanks.
+A.E.F. tactical manuals dictate that Saucers
+should disengage after firing a few rounds
+from each prepared position, but poor
+crew training and general bloodthirstiness
+often conflicts with this.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TANK DESTROYER
+
+NBC
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2,
+Turret
+SA25 2.5-inch High Velocity Gun
+Vec, R40”, A4+/5+, S12/18, D1,
+Ammo 6
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+An unexpected rival to the Veldjen-M. The
+lupes devised an elegant gun, but didn’t put
+it in a turret, thus inciting a lot of suicidal
+theatrics from Saucer drivers in the name of
+the hunt. Remember: wolves don’t look away
+from their prey. If a lupe can’t turn his head,
+he won’t run circles. He’ll run forward.
+- Johannes Veeneman, F.S-A. General Staff
+
+FIRE SUPPORT - 4-15
+
+FM 100-2-8X
+
+DAG-16 “CHERRY”
+
+TYPE: TOWED HOWITZER
+
+DAG-16 “CHERRY” - 25 pts
+
+REMARKS
+
+__________________________
+
+Heavy, large-bore towed artillery forming
+the backbone of the A.E.F.’s dismounted
+“leg” formations. Even on the modern
+battlefield, crowded with heavy metal, big
+guns are king: invaluable both in supporting assaults or stiffening defenses with
+heavy fire support.
+
+__________________________
+
+__________________________
+
+Luparic artillerymen leverage their race’s
+high strength to handle 7.8-inch (200mm)
+shells in similar fashion to the F.S-A.’s own
+152mm equivalents. Consequently, guns of
+this caliber are issued as standard support
+weapons rather than being relegated to
+special heavy batteries.
+Despite its age, the DAG-16 complex is
+notoriously efficient in counter-battery
+fire and anti-tank roles from concealed
+ambush positions.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-16 - FIRE SUPPORT
+
+TOWED HOWITZER
+
+Vec (C), H1, S24”, M2”, Q2, T1/1-/1-
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+DAG-16 7.8-inch Howitzer
+Ammo 3, No CC
+→ 7.8-inch HEAT
+Inf/Vec, R40”, A3+/xx, S16/3, D1,
+Shaped Charge, Slow Round
+→ 7.8-inch Frag
+Gnd, R∞”, A4+/xx, S[D6], D3,
+Air-Filling, Heavy Indirect (3),
+Radius (3”)
+→ 7.8-inch Canister
+All, R20”, A4+/xx, S1/1+, D6,
+Radius (2”)
+→ 7.8-inch Smoke
+Gnd, R∞, A++/xx, D4,
+Heavy Indirect (3), Smoke (5”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES
+WE’D BEEN GETTING HELL on Shave Ridge (thus earning it its namesake; before us it was just
+Feature 5) for two weeks when, without further warning, the hail of heavy shells lifted like the end
+of a tropical torrent, and we were able to peek out of our fighting positions.
+Nothing but the misty wall of pines and torn rock faced us. Not a lupar to be seen. They gave us that
+hill. Command said it was a “poison pill”, some bighair stuff I don’t guess about. Sent the 78th in
+to scout what the Lupes were up to.
+Well, we get no resistance going into the treeline; very uncharacteristic of the foe. Walk all the
+way up to their concealed firing positions—way behind a hill, no direct line of sight or anything.
+Way further back than we’d thought the whole time, based on what we knew of their pieces. How
+they had been shaving that ridge of trees and men from such a distance with such accuracy was a
+mystery to us.
+Then I tripped over a wire hidden in the loam. We followed it a klick, and it ended in a crude
+wooden post. We found a clawtappy, a thing like a finger telegraph, in a tree with a big glass “ear”
+hanging on a strap. Someone else found similar going the other direction, up another tree. Dead
+lupe hanging on that one, his ear still connected by a latex tube to the glass bowl.
+We figured it out eventually. Those dogs had never really wanted Shave Ridge anyway. The 52nd
+was just target practice for this system they were cooking up. A sort of crude audial targeting computer, I guess. We’ve had more of this since. Explains why we keep finding finer and finer threads
+on their old guns, too.
+Y’know how good they are at hearing our patrols creep up on ‘em. No sense in that, whether in the
+dark of night or the din of battle. Well, they put that to use with the big guns. HQ reckons they could
+pick out the sound of our counterbattery fire. Maybe even hear our gun crews swearing. That’s why
+we changed the doctrine. No counterfire when Lupe 200s are known to be on the line, now!
+- Junior Sgt. Piet Asterman, 2-78 Cavalry Scouts
+IN OLDEN TIMES our dead were boiled to clean them of their meat. Today I trade Eoghan for a
+bottle of herb spirits. The top of his mouth was pierced by a needle from the hairless men’s cannons
+and he says the brew tastes vile now.
+There is a picture of a dead man on the bottle. A skeleton. He smiles because he has no lips with
+which to frown. We were picked to fire the rockets because we can read better than most. I read on
+the bottle that it was brewed in a vessel for cleaning the dead.
+I put a measure in the pan and drink it. My heart makes a sound like someone has caught it in their
+fist, then released it. The cleaners knew their trade.
+-Laval, Grande Batterie No. 37
+SUPPLEMENTAL FILES - 4-17
+
+FM 100-2-8X
+
+VBD SPECIAL “LUGUS”
+
+TYPE: RECOILLESS RIFLE CARRIER
+
+VBD SPECIAL “LUGUS” - 25 pts
+
+REMARKS
+
+__________________________
+
+Field modification of the VBD-U light
+carrier into a light fire support/tank destroyer complex. Nothing more than a set
+of six TAP 25 recoilless rifles (a competing
+design bureau’s entry against the ubiquitous TAP 30) bolted to the frame.
+
+__________________________
+
+__________________________
+
+While as vulnerable to fire as its parent
+hull, the Lugus is capable of unleashing
+grossly disproportionate firepower for
+its weight class. Not many ground targets
+remain mission-capable after a volley of
+six 4.2-inch (106mm) rounds. Various examples have been recovered with canister
+and smoke rounds preloaded into some of
+their recoilless rifles.
+
+A modern optics package has been installed in the gunner’s station to enable
+accurate spotting at its effective range.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-18 - FIRE SUPPORT
+
+RECOILLESS RIFLE CARRIER
+
+Vec, H1, S32”, M8”, Q3, T3/2/1+
+This unit uses a 40x40mm base.
+
+__________________________
+Lenus Automatic .45, driver’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+TAP 25 4.2-inch Recoilless Rifle Battery
+Ammo 6, Barrage (6, Point)
+→ 4.2-inch HEAT
+Inf/Vec, R28”, A4+/6+, S12/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 4.2-inch Canister
+Inf/Vec, R14”, A4+/6+, S1/1+, D4,
+Defensive CC (Inf.)
+→ 4.2-inch White Phosphorus
+Gnd, R28”, A4+/6+, S1+/1+, D1,
+Ignore Cover (2), No CC, Rear Attack,
+Smoke (3”)
+A six-barreled surprise with tiny dimensions.
+The joke goes both ways once it’s empty.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+
+CdA-36 “BROOMCLOUD”
+
+TYPE: SELF-PROPELLED ANTI-AIR GUN
+
+CdA-36 “BROOMCLOUD” - 25 pts
+
+REMARKS
+
+__________________________
+
+Short-range A.E.F. air defense complex.
+Centered around a single-barreled APX-40
+autocannon firing proximity-fused 1.5-inch
+(38mm) shells. Basic target acquisition and
+tracking is offered by a last-generation fire
+control radar.
+
+__________________________
+
+__________________________
+
+As an open-topped vehicle, the Broomcloud is generally unsuited to combat areas
+heavily saturated with artillery fire or NBC
+threats. Its low weight, however, endears
+it to A.E.F. commanders operating in the
+difficult terrain typical to their homeland.
+A large stock of ammunition permits both
+extended firing and an additional anti-infantry fire support duty.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED ANTI-AIR GUN
+Vec, H2, S32”, M10”, Q3, T5/3/1+
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+APX-40 1.5-inch Autocannon
+All, R36”, A4+/4+, S5/7, D2,
+Ammo 6, No CC (Inf.),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The Broomcloud has a kind of picture-book
+quality to it. It is nostalgic, that is to say. It
+returns you to a time before the Federals had
+answered the air defense question, when radar
+was something you found inside a big silver
+dish. It has every hallmark of that bygone era,
+from the gunner’s open canopy to the spindly
+saucer quivering over his shoulder.
+Frankly, I think it’s cute.
+- Johannes Veeneman, F.S-A. General Staff
+FIRE SUPPORT - 4-19
+
+FM 100-2-8X
+
+CdS-F2 “AURORA”
+
+CdS-F2 “AURORA” - 30 pts
+ROCKET TRUCK
+
+__________________________
+Vec (W), H2, S16”, M8”, Q2, T2/2/1
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Mle. 13 5.2-inch Rocket Rack
+Gnd, R12-∞”, A4+/5+, S6/6, D2,
+Ammo 6, Air-Filling,
+Ignore Cover (1), Heavy Indirect (2),
+No CC, Saturating (6)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ROCKET TRUCK
+
+__________________________
+REMARKS
+Modification of the CdS-F1 gun truck into
+a mobile rocket artillery system (retaining
+the up-armored cab). 5.2-inch (132mm)
+rocket barrages are not exceptionally accurate, but capable of saturating a wide area
+with a rapid volley, after which the Aurora
+can quickly reposition and reload.
+4-20 - FIRE SUPPORT
+
+The rockets are a test of patience. We endure
+hardship for the promise of reward. We lift the
+bombs and force them into the tubes. The smell
+of the fuel makes us all drool. Laboriously we
+plug the wires. We pack the rest into the bed.
+When we fire we will drive away quickly, before
+the flying men reply with a storm of their own.
+The first rocket fires, followed by the others in
+sequence so fast they make one sound. I hold
+my mouth open to protect my ears. My lips
+peel back, my tongue lolls. I am on my mother’s farm again and I am running. In this
+dream I am faster than my littermates. I will
+be the first this time.
+We drive away. Exhaust from the rockets has
+scorched the flowers.
+-Laval, Artilleur, Grande Batterie No. 37
+
+FM 100-2-8X
+
+VdIM-K “KARVE”
+
+TYPE: SPEEDBOAT
+
+__________________________
+REMARKS
+Lightweight military motorboat developed
+for covert insertions along the Ebon River’s
+Federal-side banks. It has since been
+adopted for general assault and transport
+service. Fast, spacious enough for a couple
+squads, and armed with a single heavy
+machine gun to suppress enemies on the
+approaching riverbank.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VdIM-K “KARVE” - 10 pts
+SPEEDBOAT
+
+__________________________
+Vec, H1, S32”, M12”, Q2, T2/2/1
+PC (4, Any), Watercraft
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/4+, S2/3, D2, Turret
+
+An ancestor of mine, Teru Goronwy, was a
+retainer of Clan Roskonala. His lot was the
+river. He made many voyages to the other
+clans and the lands of the flat-faced men. He
+spilled blood on seawatered decks. His vessel
+was the karve.
+It was wood and not aluminum. Where now
+squats the outboard motor there was an oar
+to steer with. The clan’s heraldry flew on the
+great square sail. It was a ship of commerce
+as well as war. Most of Teru’s voyages were
+peaceful.
+There are still traders on the Ebon River. They
+brave it although it has been heavily torpedoed. Sometimes the enemy falls on them while
+they cross his country. It is an occupation that
+permits no silver hairs. But the bounties are
+worth it.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SPECIAL - 4-21
+
+FM 100-2-8X
+
+4-22 - SUPPLEMENTAL FILES
+
+FM 100-2-8X
+CHAPTER 5
+
+AIRCRAFT
+If A.E.F. ground vehicles are lackluster, the same cannot be said for its rotorcraft. The
+Regency Council preferentially funds its best formations with modern equipment as can be
+acquired. Unlike their Federal opponents, they place great stock in the helicopter as a future
+combat platform. Helicopters are able to both rapidly transport men and materiel, and apply
+great pressure with their high mobility and powerful armaments. Accordingly, the Ebon Forest’s
+aircraft industry receives better funding and more attention than its automotive equivalents.
+Unlike Federal combat aircraft, designed for ground support and long-duration combat
+patrols under turboprop propulsion, the fixed-wing craft of the Air Army of the Ebon Forest
+(A.A.E.F.) are made for short and dangerous missions. They field a variety of jet interceptors and
+attack aircraft, built in limited numbers to a high manufacturing standard.
+HELICOPTERS
+VZ61 “CHARIOTS” - DUCTED FAN PLATFORMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 5-2
+AES514 “BACKBONE” - HEAVY LIFT HELICOPTER . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 5-3
+AES805 “TORNADO” - ATTACK HELICOPTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 pts / 5-4
+PLANES
+R-2 “CHIEN DE CHASSE” - RECONNAISSANCE AIRCRAFT . . . . . . . . . . . . . . . . . . 10 pts / 5-5
+AD-48 “FALCONET” - LIGHT ATTACK AIRCRAFT . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 5-6
+AD-IV “GROGNARD” - FIGHTER-BOMBER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 pts / 5-7
+MD-II “MIST” - AIR SUPERIORITY FIGHTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 pts / 5-8
+
+AIRCRAFT - 5-1
+
+FM 100-2-8X
+
+VZ61 “CHARIOTS”
+
+VZ61 “CHARIOTS” - 15 pts
+DUCTED FAN PLATFORMS
+
+__________________________
+Air, H1, S24”, M18”, Q2, T1+/1/1
+
+__________________________
+This unit uses a 40x40mm base and can be
+depleted as if it were an infantry squad. When
+landed, unit class counts as Inf (S); it may fire
+all weapons and enter close combat as if it
+were infantry. May land in forests and inside
+of buildings as a squad-sized garrison.
+
+__________________________
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2, Turret
+Mle. 44 3.5-inch RPG
+All, R8”, A4+/6+, S9/1+, D1,
+Ammo 4, Shaped Charge,
+Slow Round, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: DUCTED FAN PLATFORMS
+
+__________________________
+REMARKS
+One of several experimental State Aircraft
+Bureau projects fast-tracked to production
+against recent Federal territorial gains.
+Little more than a small engine and ducted
+fan surmounted by a chariot-esque platform (hence its users’ appellation for the
+vehicle). Steering is via leaning; mounting
+points are provided for the typical chasseur-issue small arms.
+Chariots permit rapid airmobile infantry
+deployment at the cost of certain inherent
+downsides; the inability to operate inside
+personnel carriers and greater difficulty
+obtaining effective cover, among others.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-2 - HELICOPTERS
+
+You’d never believe it if you didn’t see it.
+Many of my fellow analysts (I don’t want to
+call them buddies) have this weird impression
+that the Ebon Forest is a bunch of growling
+primitives clutching stamped-steel rifles. Well,
+they are, but my coworkers seem to think that’s
+all they can do. They’ll point to Veldjens and
+Cherries and what-have-you and conclude
+that we’re comfortably ahead.
+The truth is that the dogfaces have to pick and
+choose what they really pour money into. For
+the Regent, that choice wasn’t ground vehicles. I guess he felt like he wasn’t gonna beat us
+at our own game. In any case, they can build
+enough of them to give us a real headache,
+and, somehow, they’ve got the spare avgas too.
+I’m more worried about the latter, really.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-2-8X
+
+AES514 “BACKBONE”
+
+TYPE: HEAVY LIFT HELICOPTER
+
+AES514 “BACKBONE” - 20 pts
+
+REMARKS
+
+__________________________
+
+Heavy transport helicopter arranged in a
+“skycrane” layout. Necessary systems are
+concentrated in fore and aft sections, with
+a reinforced “spine” equipped with airtowing gear. Capable of lifting most vehicles—a
+flying prime mover.
+
+Air, H2, S32”, M24”, Q2, T3/2/3
+Decoy Protection (2), PC (2, Sides), Tow (10)
+
+__________________________
+
+A deployable “bridge” provides a stable
+foothold for infantry underneath the spine.
+Thick gantry shields offer these troops superior protection while permitting them to
+employ any of their carried weapons.
+The pilot, as in most State Aircraft Bureau
+designs, lies prone in a “glass teardrop”
+canopy. Limited space for an upright flight
+engineer-radioman exists in a cabin behind
+him. The twin counter-rotating propeller
+shafts are capable of partially retracting
+for storage in low subterranean hangars.
+
+HEAVY LIFT HELICOPTER
+
+__________________________
+
+Embarked units can fire any one non-Melee
+weapon as if it were a Small Arm and are
+identified with the vehicle. Units embarked
+may spot and be spotted by Sense.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Waste not, want not. The A.E.F. hates to leave
+even a burnt hulk unclaimed, let alone a perfectly good tank or howitzer. Give them a few
+minutes to hold the perimeter and one of these
+ugly beasts will be along to pick up the loot,
+leaving with guards clinging to its rigging.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HELICOPTERS - 5-3
+
+FM 100-2-8X
+
+AES805 “TORNADO”
+
+TYPE: ATTACK HELICOPTER
+
+AES805 “TORNADO” - 30 pts
+
+REMARKS
+
+__________________________
+
+Light attack helicopter produced by the
+State Aircraft Bureau. A highly skeletal
+design with most of its armor being bulletproof glass and applique sheets over an
+exposed engine. Very fast and agile. Notoriously effective, despite its ad-hoc origins,
+in “pop-up” ambushes from behind cover.
+
+Air, H1, S32”, M32”, Q3, T2/2/2
+Decoy Protection (2)
+
+__________________________
+
+Primary armament is the APX-30 1-inch
+(25.4mm) autocannon for attacking ground
+targets or slow-flying aircraft. Infantry retention straps are provided along the hull;
+those examples lacking a mounted SD84
+ATGM complex instead sport an anti-tank
+gunner clinging to the skids.
+As with the Backbone, Tornado pilots fly
+prone, occupying a bulletproofed “glass
+teardrop” cockpit. The Tornado’s light
+frame and low profile make it easier to
+conceal when landed than most attack
+helicopters.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-4 - HELICOPTERS
+
+ATTACK HELICOPTER
+
+__________________________
+APX-30 1-inch Autocannon
+All, R32”, A4+/5+, S4/6, D2,
+Ammo 4
+SD84 4.7-inch Missile Launcher
+S15/2, D1, Ammo 2,
+Door Gun (Front, Sides),
+Guided Missile (2), No CC,
+Shaped Charge
+→ ATGM Guidance Mode
+Vec, R6-60”, A3+/4+
+→ MANPADS Guidance Mode
+Air, R60”, A4+/4+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Aim and wink at the moons.”
+- Luparic idiom
+
+FM 100-2-8X
+R-2 “CHIEN DE CHASSE”
+
+R-2 “CHIEN DE CHASSE” - 10 pts
+OBSERVATION AIRCRAFT
+
+__________________________
+Air (CAS), M10”, Q2, T2, E0
+Loiter
+
+__________________________
+Does not break designation when it moves.
+Designation is broken when the target leaves
+frontal arc. Counts as E3 in dogfights.
+
+__________________________
+Mtl. 19 .50 HMGs, dual
+All, R4”, A6+, S2, D2
+Mle. 7 Laser Designator
+All, R40”, A++, D1, Designator
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: RECONNAISSANCE AIRCRAFT
+
+__________________________
+REMARKS
+
+Common, ubiquitous trainer, reconnaissance and fire direction aircraft. Originally devised as a crop-duster and forestry
+aircraft for use in the rural Ebon Forest.
+Designed to operate on dirt runways and
+on packed snow, with no supporting infrastructure. Its mechanical simplicity,
+highly forgiving handling, and practically
+nonexistent stall speed endear it to trainee
+A.A.E.F. pilots.
+In combat service, the Chien de Chasse is
+typically employed as a forward controller
+for artillery batteries, painting targets for
+Cherries with a laser designator and adjusting their fire by radio.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Leave the concrete jungles, avoid the rail lines
+carving through the trees, and by and large
+the Ebon Forest looks the same as it was when
+men first laid eyes on it. It’s easy to forget
+what century you’re in, and the locals will be
+all too willing to help with that. But not for
+long. Sooner or later, you’ll hear the sound of
+a sewing machine passing overhead.
+It’s not just faster, but safer, to commute
+between woodland villages by air. Load her
+up with caged poultry and eggs, smoked meat
+and tubers. Take the straight road, far over the
+stormy black sea of treetops beneath you. Land
+into a headwind and set her down gently, on
+the big truck-like tires: a good pilot won’t
+break a single egg.
+Even while the runway thralls are unloading,
+the pilot in his braids and torc is poring over
+the popping engine. Doesn’t matter if he can
+hardly tell you who taxes him, or why the blue
+airplanes shot his brother out of the sky. He’ll
+disassemble that engine with his eyes closed.
+- Rayleigh Irving, Federal Intelligence
+PLANES - 5-5
+
+FM 100-2-8X
+
+AD-48 “FALCONET”
+
+AD-48 “FALCONET” - 20 pts
+LIGHT ATTACK AIRCRAFT
+
+__________________________
+Air (CAS), M14”, Q3, T2, E1
+Decoy Protection (2)
+
+__________________________
+Mtl. 19 .50 HMGs, octet
+All, R4”, A4+, S2, D3, Radar Anti-Air
+LR-49 2.7-inch HEAT Rocket Pod
+Inf/Vec, R6”, A4+, S7/1+, D4,
+Ammo 2, Barrage (2), Shaped Charge,
+Slow Round
+BLG-64 500-lb. HE Cluster Bomb
+Gnd, R0”, A2+, S4, D2, Ammo 4,
+Air-Filling, Rear Attack,
+Saturating (4)
+
+TYPE: LIGHT ATTACK AIRCRAFT
+
+__________________________
+REMARKS
+A subsonic single-engine light jet aircraft
+common in the A.A.E.F.’s reserve squadrons. As a now-aging design, its primary
+role has shifted from air superiority to
+ground attack and training roles. Primary
+armaments include pod-mounted 2.7-inch
+(68.6mm) HEAT rockets and 500-lb. (227
+kg) cluster bombs: a “bomb truck”, dispersing explosives over a long strafing run.
+The Falconet’s speed and maneuverability
+exceed that of an Air Corps-standard turboprop fighter without the use of the latter’s sprint motor. Without an autocannon
+its air-to-air capabilities are limited.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-6 - PLANES
+
+The Falconet’s long in the tooth, although (by
+necessity) it’s not deployed as suicidally as we
+do our aircraft. It’s not a lot to look at, nor is
+it very fast, but it’s still a prestige design: the
+first of theirs that’s all home-made, all Ebon
+Forest design and manufacturing. It meant—
+and means—a lot to them; like the railways
+and the state theaters. Proof that they’re a real
+country, that their culture and works aren’t
+just what they’ve stolen from us.
+Naturally, it’s a propaganda darling; every
+snot-nosed pup in state school has scrawled
+one of these flying pipes in his notebook at
+least once. Rumor even has it that the current
+Regent cut his teeth flying one, as a young
+junior officer. Nobody can ever seem to pin
+down which unit he served with, though. I
+doubt he’d want the glory himself.
+- Rayleigh Irving, Federal Intelligence
+“Flatface, shoot me in the cockpit. Not out
+here, like a dog!”
+- Torg Malvigny, Lieutenant, Escadron 2/12,
+upon capture
+
+FM 100-2-8X
+
+AD-IV “GROGNARD”
+
+AD-IV “GROGNARD” - 35 pts
+FIGHTER-BOMBER
+
+__________________________
+Air (CAP), M16”, Q3, T3, E2
+Afterburner, Decoy Protection (2)
+
+__________________________
+APX-50 1.4-inch Revolver Cannon
+All, R8”, A4+, S5, D3, Ammo 3,
+Radar Anti-Air
+MA-67 4.7-inch Infrared AAM
+Air, R30”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+SD68 8-inch TV-Guided Bomb
+Gnd, R40”, A3+, S8, D1, Ammo 2,
+Air-Filling, Guided Missile (2),
+Radius (3”), Rear Attack
+
+TYPE: TACTICAL BOMBER
+
+__________________________
+REMARKS
+Versatile fighter-bomber, standard in higher-grade A.A.E.F. squadrons. In keeping
+with typical luparic fighter doctrine, its
+pilot flies prone on an ejection sled, with
+visibility offered in every direction but
+rearwards. This full usage of the nose
+imposes a size limit on the aircraft’s radar,
+rendering it reliant on ground control for
+interception and guidance.
+Equipped for television-guided bombing
+and decisive interception with infrared
+homing missiles; its pilots instead favor
+dogfighting with its 1.4-inch (35.5mm) revolver cannon.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The Regent isn’t stupid, but that doesn’t mean
+his paranoia hasn’t gotten the better of him
+before. Take the Grognard’s design team. They
+were the best for the job, but they were also
+old money: former secret society members,
+amateur philosophers and painters, that sort
+of thing. Dogs that didn’t like being shut up in
+an isolated cage, no matter how gilded. They
+drank absinthe, and talked, and figured the
+Regency wouldn’t touch them.
+Even with the project bosses scrambling to put
+together a new design team from nothing, the
+Grognard was too far along to cancel. I think
+the old dog regretted giving the orders. See,
+Grognard pilots tend to have seedy records—
+not enough to disappear, but enough to nail
+them to their rung of the ladder. They act
+out. They paint their craft like a flying circus
+troupe; they break ranks to intercept our
+fighter wings all on their own. They get away
+with all of it.
+I guess it’s too hard to kill people like you.
+- Rayleigh Irving, Federal Intelligence
+PLANES - 5-7
+
+FM 100-2-8X
+
+MD-II “MIST”
+
+MD-II “MIST” - 40 pts
+AIR SUPERIORITY FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E3
+Afterburner, Decoy Protection (2)
+
+__________________________
+APX-50 1.4-inch Revolver Cannon
+All, R8”, A3+, S5, D3, Ammo 3,
+Radar Anti-Air
+MA-67B 4.7-inch Infrared AAM
+Air, R36”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+MA-62 7.9-inch Semi-Active AAM
+Air, R60”, A4+, S8, D1, Ammo 4,
+Barrage (2, Point),
+Guided Missile (1), No CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: AIR SUPERIORITY FIGHTER
+
+__________________________
+REMARKS
+High-performance, tri-engine supersonic
+jet interceptor. Limited production run;
+deployed from nuclear-hardened subterranean aircraft shelters surrounding Carcalhaight. Designed for short-run, rocket-assisted takeoffs from underground launch
+rails. A pure interceptor, lancing towards
+incoming radar tracks while under groundbased guidance.
+As a rare and great investment for the Ebon
+Forest, the Mist is armed with the best airto-air missiles available and superlative
+gunner’s optics. Caution and ground anti-air support are advised when engaging.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-8 - PLANES
+
+I lay in the cockpit. As if stalking prey in the
+bush, I’m flattened to the ejection sled. I’m
+glad that my tail is docked and my mane
+shaved; both now demand to stand on end.
+Blood thumps behind my eyes although I’m
+elevated at the angle of the launch rail. There
+are still a few pills in my flight suit. By now
+my pupils are like little pins. I feel as if trapped
+and repress the urge to cry out.
+Somewhere outside Carcalhaight, there is a
+deep pit in the earth. In it there is a vast computer. With nerves of wire that run through
+the roots it listens to a chorus of radar arrays
+across the land. From them it whispers into my
+aircraft’s ears: a vector. A hostile radar track.
+Ignition. I’m forgotten beneath the noise and
+force. The first seven seconds of flight are automatic. In the fourth second I regain consciousness and seize the yoke. My missiles are my
+teeth; my growl is lost in the roar of the jets.
+- Roul Lydon, Lieutenant, Escadron 1/1
+
+FM 100-2-8X
+CHAPTER 6
+
+EMPLACEMENTS
+To further offset its disadvantages in ground warfare against more mobile and heavily-armored foes, the A.E.F. deploys a variety of expedient area denial systems and traps against both
+personnel and vehicles. All ground troops are trained to dig and conceal stake traps and incendiary fougasses as well as strike from concealment from foxholes; bolstered against airborne recon
+with eccentric, rocket-boosted bouncing mines, they are a fearsome guerilla force.
+EMPLACEMENTS
+STAKE PIT - ANTI-PERSONNEL TRAP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
+FLAME FOUGASSE - ANTI-TANK TRAP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
+MdRA. 2 “GRENOUILLE” - ANTI-HELICOPTER MINES . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-4
+SPIDER HOLES - UNDERGROUND HIDES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-4
+
+EMPLACEMENTS - 6-1
+
+FM 100-2-8X
+STAKE PITS
+ANTI-PERSONNEL TRAP
+
+__________________________
+Trap
+
+FLAME FOUGASSE
+ANTI-TANK TRAP
+
+__________________________
+Trap
+
+__________________________
+
+__________________________
+
+Infantry that trigger this trap gain max pin.
+
+This trap may choose not to be triggered and
+
+__________________________
+
+Stake Pit, improvised
+Inf, A++, S*, D3, Radius (3”),
+Undetectable
+*Always rolls 6+ to kill regardless of
+Toughness.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL TRAP
+
+__________________________
+REMARKS
+Thin wooden stakes planted at the bottom
+of a covered ditch. Luparic claws give them
+a natural proficiency in digging, allowing
+the speedy construction of shallow stake
+pits by small groups, even non-engineers.
+Low lethality, but a cheap and effective deterrent of infantry.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Marck explained to me that he was not so
+much ‘playing dead’ as ‘being dead’. He really
+did feel like he was going to die, since the blood
+loss had rendered him dumb and drowsy. He
+shut up and laid still until his platoon could
+arrive to dig him out.
+The dogs who set the trap eventually found
+him, but left without trying to pull him out.
+‘They were saving me for later,’ he laughed.”
+- Gerrit Ghent, from And We Saw, p. 244
+
+may be manually triggered by a TACOM as
+a mission. The TACOM does not need LOS to
+trigger this trap. All units (friend and foe)
+inside Radius are instantly hit when this trap
+triggers. When detonated, the radius lingers
+on board for the rest of the match and cannot
+be cleared.
+
+__________________________
+Flame Fougasse, improvised
+Inf/Vec, A++, S3/3, D3, Ammo 1,
+Rear Attack, Radius (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK TRAP
+
+__________________________
+REMARKS
+Incendiary anti-vehicle improvised exposive devised from a gasoline drum, bricks
+of plastic explosive, and a long-fused electric blasting cap.
+The drum is placed toward the target with
+the plastic explosive at its back. The blasting cap detonates both the liquid within the
+drum and the explosive behind it, causing
+a shower of burning liquid.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Don’t check the hatches. Don’t get the extinguisher. If the commander says sit, you have
+blowout panels. Remember to fold your arms.
+What? What else am I supposed to tell you?
+
+6-2 - EMPLACEMENTS
+
+- Johannes Veeneman, F.S-A. General Staff
+
+FM 100-2-8X
+
+EMPLACEMENTS - 6-3
+
+FM 100-2-8X
+MdRA. 2 “GRENOUILLE”
+ANTI-HELICOPTER MINES
+
+__________________________
+Trap
+
+SPIDER HOLES
+UNDERGROUND HIDES
+
+__________________________
+Fortification
+
+__________________________
+
+__________________________
+
+Planes do not trigger this trap.
+
+Designate a 40mm x 40mm square of terrain
+
+__________________________
+MdRA. 2 “Grenouille” Bouncing Mine
+Air, A++, S1+, D3, Ammo 4,
+Radius (4”), Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+as “spider holes”, which count as an H0
+structure with a garrison capacity of 1. They
+do not obstruct movement, but units cannot
+end their movement inside of the Spider Hole
+without paying 1” to enter it.
+Units inside may not draw LOS to those on the
+
+TYPE: ANTI-HELICOPTER MINES
+
+__________________________
+
+outside, nor vice versa. The Spider Hole may
+only be identified by units in basal contact.
+
+REMARKS
+
+Units inside cannot be directly targeted and
+
+“Bouncing” fragmentary mine used for the
+deterrence of low-flying aircraft composed
+of a can-shaped warhead and a short rocket
+booster. Expensive by A.E.F. standards.
+
+may only be hit by Lingering weapons during
+
+When the acoustic sensor detects the
+sound of a helicopter engine, the explosive is armed and the mine’s radar actively
+searches for targets directly overheard.
+When one is detected, the altimeter fuze is
+set, and the rocket launches the warhead to
+burst directly underneath the helicopter.
+Dense area of effect, but with shrapnel too
+small to reliably penetrate even thin armor.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Look at them, you mongrels of Santagria! You
+shaven apes, you tin-rattlers, look!
+One hundred mines, all planted by my claw!
+See the streaks on the bellies of your machines,
+hear the bellows and shrieks of your scions!
+- Ulrig, Sapeur, 23e Ingénierie de Combat
+
+Upkeep. A unit inside a Spider Hole may spend
+all of its movement to move to another ungarrisoned Spider Hole within 6”, unless it must
+cross Void to do so.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: UNDERGROUND HIDE
+
+__________________________
+REMARKS
+Cluster of camouflaged one-man foxholes,
+sometimes connected via tunnel. Soldiers
+within are completely concealed, and are
+thus unassailable, unless the spider holes
+are stormed or hit by infiltrating munitions
+such as napalm or chemical-SP (see FM
+100-1-8X).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+And when they abandon positions, the bodies
+are left in what they half-knew was a grave...
+- Johannes Veeneman, F.S-A. General Staff
+
+6-4 - EMPLACEMENTS
+
+FM 100-2-8X
+CHAPTER 7
+
+SCENARIO UNITS
+Besides the ubiquitous clan militias, a clan chieftain or A.E.F. commander may levy a
+number of more exotic irregular infantry types from lesser clan households, particularly those
+situated in the less developed areas of the Ebon Forest.
+Equipped and trained according to the ancient customs of the clans, these units combine
+unusual tactics with typical luparic tenacity. These relics of a former age are ill-prepared to
+contend with modern, mechanized armies, yet remain nonetheless daring, unpredictable, and
+occasionally even effective when fighting on unconventional terms. Whether they are death-seeking widows of clan warriors, airmobile clan huskarls, or big-game subsistence hunters from the
+deepest mists, these strange combatants can still be found collaborating with—or against—the
+Regency's forces.
+The units below do not fall into the standard roster for this faction, but are presented for thematic
+scenario creation and play. Scenario units may disrupt the balance of the faction (e.g. by covering one
+of its major weaknesses). If you’d like to use them in a regular game, your opponent ought to agree to it.
+SCENARIO UNITS
+WAILING WOMEN - SUICIDE BOMBERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 pts / 7-2
+IRONPELTS - PARATROOPER SQUAD  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 7-3
+MIST STALKERS - SNIPER TEAM  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 7-4
+VEHICLE CREW - LINE TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 pts / 7-5
+VBD-68 “BANTAM” - INFANTRY FIGHTING VEHICLE . . . . . . . . . . . . . . . . . . . . . .  25 pts / 7-6
+
+SCENARIO UNITS - 7-1
+
+FM 100-2-8X
+
+WAILING WOMEN
+
+WAILING WOMEN - 5 pts
+SUICIDE BOMBERS
+
+__________________________
+Inf, H1, S24’’, M5’’, Q1, T1-/1-/1Bloodlust, Fearless, Infiltrator, Sense (6”)
+
+__________________________
+Suicide Vest
+All, R0’’, A++/++, S4/4, D2, Melee,
+Radius (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Petty Rygolic courtesans write hateful letters
+to their rivals and then poison themselves.
+Santagrine dames swan-dive off floating
+islands, trailing colorful streamers in their
+hands. Federal molls simply shrug and shoot
+themselves in the roof of the mouth.
+Our women once did better. Now it is not
+so fashionable in the cities; but the clans
+remember.
+TYPE: SUICIDE BOMBERS
+
+__________________________
+
+- Roul Lydon, Lieutenant, Escadron 1/1
+
+REMARKS
+Suicide bombers, dressed in mourning
+veils and high-yield improvised explosive
+vests. Drawn from the widows of dead
+clan warriors, desiring to avenge their husbands’ deaths and join them via a similarly
+violent death. Unarmored and otherwise
+unarmed, but fearless. A massed attack
+by wailing women punctuates the end of a
+clan.
+Special caution is to be used when operating in proximity to luparic civilians. While
+the suicide vest is usually worn outside the
+mourning dress, elaborately hand-decorated, some suicide bombers conceal theirs.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-2 - SCENARIO UNITS
+
+I remember the arms of my Naoghas. I met
+him in the raid on Cenchoras town, when we
+were both young. We had nothing to lose; everything to prove. Blood and sweat and torn
+cloth, like the young falx-bearers of old. We
+slept together under the stars that same night,
+far from the camp and the funerary pyres.
+I remember the arms of my Naoghas. Frozen
+stiff, reaching out before him. His strong legs
+crushed into bonemeal by the treads of a tank.
+Not even he could have outran it.
+I will feel his embrace again.
+- Abélia Carigo
+
+FM 100-2-8X
+
+IRONPELTS
+
+IRONPELTS - 15 pts
+PARATROOPER SQUAD
+
+__________________________
+Inf (S), H1, S24’’, M5’’, Q3, T1+/1/1
+Bloodlust, Fearless, Paradrop, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8’’, A3+/4+, S1/1+, D1,
+Small Arm
+LfC. 46 Hand Flamethrower
+Inf/Vec, R2’’, A1+/1+, S1+/1+, D3,
+Ammo 2, Ignore Cover (2),
+Rear Attack, Small Arm
+OtPv. 9 30-inch Machete
+Inf, R0’’, A1+/1+, S1/1, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARATROOPER SQUAD
+
+__________________________
+REMARKS
+The upper crust of a clan’s territorial forces
+(its household warriors), composed of loyal
+veterans with superior training to their
+commoner counterparts. Trained for parachute operations and reconnaissance work
+in dense forestry. Their name derives from
+their traditional war-costumes of headto-toe chainmail, covered with patterned
+fabric and supplemented with concealed
+ballistic plates.
+Their signature armament is the LfC. 46
+single-shot hand flamethrower, no longer
+in general A.E.F. issue owing to its short
+range. One or a pair may be carried.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The earliest lesson of substance a young boy
+should learn is this: never forget your humanity. You do not have paws: those are hands.
+You do not have fur. You have hair on your
+head; and, if you must refer to the stuff that
+clings to the rest of your accursed flesh, it is
+a “pelt” or your “skin”, merely thrown ‘round
+your real personage. You are no beast, but an
+actor playing the part. And you must be vigilant not to forget the feeling of the mask on
+your snout.
+The chainmail skin is another mask. Let the
+warrior forget himself; then, what he does are
+not his deeds, and he may sleep lightly.
+- Roul Lydon, Lieutenant, Escadron 1/1
+The clans that built the Regency were wealthy.
+They wore plate. The clans they heeled were
+poor. They wore mail.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+SCENARIO UNITS - 7-3
+
+FM 100-2-8X
+
+MIST STALKERS
+
+MIST STALKERS - 15 pts
+SNIPER TEAM
+
+__________________________
+Inf, H1, S32’’, M7’’, Q1, T1-/1-/1Amphibious, Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+
+This unit is always considered to be in ambush
+when in terrain with a non-zero cover modifier. If not currently spotted, its movement and
+accuracy are unaffected by pin tokens.
+
+__________________________
+“Express Rifle”, .50 Single-Shot
+All, R20’’, A2+/4+, S2/3, D1,
+No CC (Inf.), Scoped, Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: SNIPER TEAM
+
+__________________________
+REMARKS
+“Wild” skirmishers and huntsmen hailing
+from the sparsely-populated and dangerous inner woodland of the Ebon Forest.
+While most lupar choose to lead civilized
+and humanlike lives, a small number
+live transient and animalistic existences
+following large migratory prey. Effective
+skirmishers, but their loyalty is in material
+bribes and they are unlikely to stand their
+ground under fire.
+Their traditional armament, passed down
+by generations and sustained through a
+symbiotic relationship with rural cottage
+gunsmiths, is a large-bore “express” rifle.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-4 - SCENARIO UNITS
+
+“Express rifle”, my ass. That’s a heavy machine
+gun cartridge, or at least a local reproduction.
+And the action itself—that trapdoor and external hammer? Ours. Somewhere they’re
+copying off a rifle old Willem Bluecoat left in
+the woods, many, many years ago.
+- Rayleigh Irving, Federal Intelligence
+You might mistake them for animals. Naked;
+wordless, except by absolute necessity; creedless, except for their instincts. No loyalty
+except to themselves and their immediate
+families. Pure and simple beasts, without our
+self-imposed miseries; wolves on two legs.
+They grow savage, become misshapen horrors,
+just the same. The head can be made to forget
+one’s identity through deliberate effort; but
+the heart never forgets.
+- Roul Lydon, Lieutenant, Escadron 1/1
+
+FM 100-2-8X
+
+VEHICLE CREW
+
+VEHICLE CREW - 0 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S24’’, M5’’, Q2, T1/1-/1-
+
+__________________________
+Bloodlust, Sense (6”)
+
+__________________________
+This unit is placed on the board as part of the
+Crew Bailout optional rule.
+
+__________________________
+Lenus Automatic .45 Pistol
+All, R2’’, A4+/4+, S1+/1+, D1
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+I am straining, with every last sinew,
+But today is just like yesterday—
+Got me cornered, body-heat in view,
+And they’ll joyfully chase down their prey.
+
+TYPE: LINE TEAM
+
+__________________________
+REMARKS
+Dismounted vehicle crewmen. The A.E.F.’s
+mechanized forces are limited in scope
+by budgetary and industrial realities in
+the Ebon Forest. While armor is generally
+conservatively deployed, as a preservative
+measure, it is still considered preferable to
+lose materiel to trained manpower.
+The standard armament for A.E.F. tankers,
+issued with frontier garrison security in
+mind, is the army-issue Lenus semi-automatic pistol in a necked .45 (11.43mm)
+caliber. While notorious for its high recoil
+and stopping power, any sidearm is a last
+resort under actual combat conditions.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+From the high crests, come tracers streaking,
+From one-fifteens lurking in the shade,
+In the cold white snow our wreck is smoking,
+Living targets all of us have been made!
+The wolf-hunt has begun, it’s drawing nigh
+Veterans and youth—come on wolves, let’s go!
+Their scouts bark ‘til sick; the missiles hiss on
+by,
+Green tracers—and blood upon the snow!
+It’s as equals, our tanks and theirs begin,
+Their missile-cords bind us like wire;
+Gunners’ hands must be firm not to miss
+Setting to our fuel a raging fire!
+A wolf always respects his tradition,
+Even striplings with pelts soft as silk;
+Cowardly flight is a prohibition,
+Suckled in with my dear mother’s milk!
+- Mathis Folcard, Cuirassier, 32e Blindée
+
+SCENARIO UNITS - 7-5
+
+FM 100-2-8X
+
+VBD-68 “BANTAM”
+
+TYPE: INFANTRY FIGHTING VEHICLE
+
+VBD-68 “BANTAM” - 25 pts
+
+REMARKS
+
+__________________________
+
+Export model Federal Bantam IFV (see FM
+100-1-8X), modified specifically for the
+White Gloves. Sourced from a series of
+shell corporations at substantial expense
+and routed through Ezmarc. While the
+reason for its adoption over domestic types
+is unclear, it is thought that the prestige
+associated with Federal armor plays a part.
+
+Vec, H2, S32’’, M8’’, Q3, T6/4/4
+Active Protection (1), Amphibious, NBC,
+PC (2, Rear)
+
+__________________________
+
+Primary armament is the standard 2K28
+73mm low pressure gun, designated the
+SA-28 in luparic service. Standard HEAT
+and custom white phosphorus smoke
+rounds are typically issued.
+As an export model, the VBD-68 lacks the
+stock Bantam’s ATGM launch tubes. It has
+received a number of retrofits to compensate: domestic smoke grenades, a basic
+active protection system, and thermal
+sights manufactured in the Petty States
+(see FM 100-3-8X).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+MtL-19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+SA-28 3-inch Low-Pressure Gun
+Inf/Vec, R22”, A4+/4+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights, Turret
+→ 3-inch HEAT
+S9/1+, Shaped Charge, Slow Round
+→ 3-inch WP Smoke
+S1+/1+, Ignore Cover (2),
+Rear Attack, Smoke (2”)
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”,  A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Ours is better.
+- Rayleigh Irving, Federal Intelligence
+
+7-6 - SCENARIO UNITS
+
+FM 100-2-8X
+
+APPENDIX A - ARMY SPECIAL RULES
+This appendix section describes the underlined special rules of the Army of the Ebon Forest.
+
+Bloodlust
+
+A wolf in uniform is still a wolf. The smell of blood
+drives undisciplined troops into a killing frenzy.
+If this infantry unit reaches six pin
+tokens during the Fire Phase, the unit must
+roll a 4+ check on a D6 to avoid going berserk.
+Place a berserk token on the unit if it fails.
+When a unit gains a berserk token, all
+other Lupar infantry with the Bloodlust trait
+within 3” also roll to go berserk. This chain reaction will continue until all infantry succeed
+their checks or there are no more units with
+Bloodlust within range. Units do not roll to go
+berserk more than once per round, and they
+may choose to willingly go berserk.
+Berserk units immediately lose all pin
+tokens and cannot gain new ones. They do
+not benefit from cover and must always fire at
+moving accuracy outside of close combat. In
+close combat, they fire stationary and re-roll
+misses. Time-to-target attacks fired by berserk
+units automatically miss.
+During the Maneuver Phase, the owning
+player chooses whether each non-stationary
+berserk unit moves towards the nearest corpse
+token or the nearest enemy unit which it can
+possibly kill. These obligatory move actions
+do not cost command tokens, and occur automatically at the beginning of the phase, before
+normal move actions are declared by anyone.
+A unit remains berserk until it is hit by
+a Rally weapon or it sates on a corpse token.
+Units with Bloodlust may choose to sate on a
+corpse even if not currently berserk.
+Sating automatically occurs when
+a unit with Bloodlust ends a round in basal
+contact with a corpse token. In the beginning
+of the subsequent Support Phase, before any
+other actions occur, remove the corpse token.
+Flip the unit’s berserk token to show that it is
+satiated. This unit will not roll berserk checks
+for the rest of the battle.
+
+Multiple units may sate on the same
+corpse token if they are all in contact with it at
+the beginning of the Support Phase.
+Bloodlust cannot trigger while within
+Chemical Weapons. Berserk units may not call
+or participate in brigade movement, nor can
+they share spotting or call missions. Embarked
+units do not roll to go berserk.
+Special Factional Token (double-sided):
+Berserk/Satiated: Blood Red/Gray
+
+Guidance (X”)
+
+The stories and sight of the Waykeepers steel the
+nerves of their flock against the killing temptation.
+This unit soothes friendly lupar within
+X inches from itself. Units which enter this
+radius automatically lose their berserk tokens
+(if berserk), and units inside of the radius
+cannot gain them. A unit that loses its berserk
+token this way does not become satiated.
+Units within the radius never have to roll to go
+berserk for any reason.
+
+Infiltrator
+
+Whether warden or poacher, the lupar are natural
+hunters—the wilder, the better.
+This unit may deploy up to 16” away from
+your deployment edge, into occluding terrain
+(or terrain that puts infantry into ambush, such
+as dead ground or entrenchment), before any
+standard deployment by either side. It does not
+get a subsequent move. Multiple players with
+Infiltrators must alternate their deployments.
+
+Rally (Salt)
+
+Potent, artificial, unmistakable: the scent of signal
+salt drives lupar by drilled reflex to their objective.
+This Rally weapon only affects non-NBC
+lupar. Friendly non-lupar are not affected. It
+does not affect airborne units.
+ARMY SPECIAL RULES - A-1
+
+FM 100-2-8X
+
+APPENDIX B - ARMY SPECIAL MISSIONS
+This appendix section describes the underlined special missions of the Army of the Ebon Forest.
+
+Exhortation
+
+“... And remember Tiran, when he slept bare on a
+bed of roses, and he cursed through the night that
+the roses concealed thorns... but when he awakened
+it was not on roses, but sunflowers, and he bled not
+on the flowers, but on his own claws...”
+The Waykeeper Judge may target any
+non-plane unit in his army, including those in
+Chemical Weapons or outside of his own LOS,
+to be steeled with a sermon over the radio.
+A Waykeeper or Waykeeper Judge may then
+make a moving fire action in the Fire Phase to
+Rally the target at any range. Friendly luparic
+units within 3” of the mission target currently
+going berserk may then roll a 4+ check to Rally
+as well, chaining the effect similar to Bloodlust.
+When my parents were still young our people
+were carried not in iron carts but on wooden
+wheels. To enter the woods unprepared was
+foolish but the roads were always clear. If you
+went during the day you would be safe but if
+you lost your way or the sun began to set none
+would search for you. To be deserted beneath
+the boughs meant surrendering to death.
+You would not see him without need. The
+flicker of a torch and the glint of steel. Grassstained robes. Deliverance. He would call you
+by name despite never having met your gaze.
+He would not lay hands upon you yet you
+would feel his steadying grip on the shoulder.
+He would speak of sweetness and sighs and
+song and the roaring shadow would still by
+his very presence. There is nothing under the
+leaves that would dare disrespect a Judge.
+I am told by the young marching ones that the
+wise men still do this, in what ways they can.
+- Luholde Dubost, Clan Elder
+B-1 - ARMY SPECIAL MISSIONS
+
+FM 100-2-8X
+
+APPENDIX C - BUILDING AN ARMY LIST
+This appendix section describes the structure of the Army of the Ebon Forest and provides
+advice for building an army list.
+MILITARY ORGANIZATION
+The core of the regular Army of the
+Ebon Forest, though relatively small, is rigidly
+drafted to the Regent’s specifications, leaving
+little room for variance in comparison to the
+other modern militaries of Oid. Frequent
+frontline scarcities nonetheless lead to irregular organizations and equipment schemes.
+The A.E.F. is chronically understrength,
+and its recruitment affected by local rebellions.
+The regular army is reliant on territorial troops
+to sustain their campaigns and uphold homeland security. Some of these territorial units
+are structured according to the A.E.F. standard; others are household warriors, militia,
+or various irregular mercenaries and bandits
+hired on short notice.
+When writing an army list, it helps to
+give it a theme by envisioning what kind of regiment your platoon or company is representing. Luparic regiments are given (in French)
+a number and basic designation, indicating a
+notional level of mobility and protection. Here
+are some labeling guidelines:
+d’Infanterie: Infantry regiment, dismounted or with varying levels of logistic support.
+Blindée: Mechanized or tank regiment, including tanks and carrier-mobile infantry.
+Aéromobile: Airmobile regiment, reliant
+on helicopters for mobility.
+du Roi: Elite infantry and White Gloves: a
+unit that has earned the Wolf-King’s favor.
+de l’Intérieur: Technically separate from
+(but deeply involved in the affairs of) the
+regular A.E.F., this indicates an Internal
+Security unit of any kind.
+
+In addition to a descriptive name, most
+large luparic formations also have a regional
+name which evokes the grandiosity of Napoleon’s Grand Army. Common designations
+are Federes (levies), Legeres (light troops),
+Chasseurs (regular infantry), and Cuirassiers
+(armored infantry). Gardes indicates an elite
+unit of ancient pedigree; Fusiliers solely refers
+to White Gloves. Here is an example name:
+23e Régiment d’Infanterie,
+“Federes de Fauchillon”
+ARMY LIST COMPOSITION
+A typical luparic army list relies on
+heavy artillery or air support to soften the
+enemy lines, before overwhelming them with
+large numbers of mobile, ferocious infantry.
+For lower-tier formations, multi-purpose infantry weapons teams and subalterns
+ensure that your infantry assaults are coordinated, and well-protected. Guided Missile
+Teams particularly help clear open ground
+that your infantry might otherwise struggle to
+cross.
+For higher-tier formations, vehicles
+and helicopters are the hammer to your infantry’s anvil, and expensive, upgunned infantry transports help your infantry reach their
+targets alive. Waykeepers prevent your units
+from going berserk when it is inopportune.
+Indirect fire is the most vital component
+of the army’s ground forces besides the infantry. Cherries are extremely cost-effective and
+can be used to pin enemy troops and threaten
+powerful tanks that the A.E.F. has difficulty
+matching in a head-on fight.
+It is good practice to begin by buying
+some key units which embody core aspects of
+your regiment’s doctrine, then use the remaining points to round out its general capabilities.
+BUILDING AN ARMY LIST - C-1
+
+FM 100-2-8X
+SUB-UNIT NAMES
+The fundamental sub-unit in a luparic
+formation is the “groupe”, or group, varying in
+actual size depending on its parent force’s role.
+Groupes are ordinally numbered:
+1er Groupe
+2e Groupe
+3e Groupe
+4e Groupe
+Special-purpose attaches may be given a numberless descriptive name in the fashion of an
+early 19th century army:
+Sous-Groupement de Mortier Legere
+1er Groupe traditionally contains the HQ and
+reserve elements; the remaining groupes
+constitute line troops and support weapons.
+Typically a company contains four groupes
+(a “square” organization), although manpower shortages often dictate fewer sub-units.
+Support elements are typically embedded directly into their respective groupes rather than
+being segregated into their own groupe.
+CALLSIGNS
+When deploying the units of an army
+list as blinds, it is useful to give each blind a
+snappy callsign. While it is practical to assign
+callsigns methodically (“1-1”, “1-2”, “2-1”, etc.),
+illustrative names are far more entertaining
+and memorable.
+The lupar are a superstitious race, and
+their sense of reverent mystery may never
+be fully extinguished by modern skepticism.
+Their callsigns should allude to ancient European folklore, taking names of famous heroes
+or monsters. Fighting vehicle names should
+be appropriately fearsome, perhaps taking
+inspiration from the epithets of pre-colonial
+Native Americans. Wizened Chasseurs may
+be callsigned “Teutatis”; a chieftain’s transport
+dubbed the “Holy Oak”; a fearsome helicopter
+may be the “Banshee”.
+C-2 - BUILDING AN ARMY LIST
+
+OFFICERS & NAMES
+Choose one TACOM in your army
+list—that’s you. Whether an A.E.F. officer or
+an irregular leader of men, you are no mere
+commander. Your authority is almost subconscious; though your manifold enemies might
+outnumber and outgun you, they lack your
+fighting spirit.
+The names of the Ebon Forest are a pastiche of Celtic influences spanning all across
+the phases of European history from Revolutionary France to pre-Roman Britain. Sounds
+borrowed from Gaulish, Gaelic, Pictish, and
+Welsh indicate tribal crudeness, while those
+from the langues d’oïl carry the refinement of
+civilization. Some Luparic minorities may also
+take smatterings from Finnish, Estonian, or
+other Baltic languages. Names from the easterly, historically Federal-sympathizing prefectures may have an American English twang.
+As with callsigns, never neglect to give
+yourself a nickname. Consider this archetypal
+name for a commander of elite infantry:
+Capitaine Ceinwen “Split-tooth” Marais
+EXAMPLE ARMY LISTS
+The following pages have generic
+example army lists which embody the tenets of
+conventional luparic doctrine at the 100, 200,
+300, and 400 point brackets. Use these as practice lists or points of comparison for creating
+army lists of your own.
+These army lists do not come with suggested regiment names or callsigns, as you are
+encouraged to come up with your own. These
+lists also do not make use of dummies, planes,
+or most support cards, as it is not recommended to use these “advanced” units until a player
+has the ropes of the game.
+
+FM 100-2-8X
+A.E.F. REINFORCED INF. PLATOON
+EXAMPLE - 100 PTS, 3 COMMAND
+
+__________________________
+1er Groupe - Headquarters
+Company Chief - 0 pts (TACOM)
+Chasseurs - 10 pts
+2e Groupe - Recoilless Rifle
+Chasseurs - 10 pts
+Recoilless Rifle Team - 15 pts
+3e Groupe - Anti-Tank
+Subaltern Team - 10 pts
+Chasseurs - 10 pts
+Guided Missile Team - 20 pts
+4e Groupe - Mortar
+Chasseurs - 10 pts
+Hima Team - 15 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 100 points, luparic lists may leverage their factional superiority in infantry at
+minimal risk to their anti-armor capabilities.
+This dismounted infantry platoon is numerous,
+diverse in weapons teams, and perfectly optimized to make full use of its limited command
+tokens by the inclusion of a Subaltern Team
+for brigade-moving squads independent of the
+TACOM.
+Note the relative versatility of the
+luparic “counter” weapons teams compared to
+other factions: the Recoilless Rifle carries canister shot for improved anti-infantry use, the
+Guided Missile is both anti-tank and anti-air,
+and the Hima also provides short-ranged AT
+like an RPG.
+Lack of transportation means that this
+list is slow-going despite command token efficiency. Be careful when crossing open spaces,
+and guard your long-ranged assets wisely.
+This list cannot afford a resupply
+vehicle, so ammo is precious.
+Chasseurs may be replaced with Territorials, thus opening 20 points for a tracked
+vehicle like a Saucer or Veldjen.
+
+A.E.F. REINFORCED MECH. PLATOON
+EXAMPLE - 200 PTS, 6 COMMAND
+
+__________________________
+
+1er Groupe - Headquarters
+VBD-1 “Tanner” - 10 pts
+- [E] Company Chief - 0 pts (TACOM)
+- [E] Waykeepers - 15 pts
+- [D] Made-to-Orders - 10 pts
+2e Groupe - Infantry
+VBD-1 “Tanner” - 10 pts
+- [E] Chasseurs - 10 pts
+- [E] Machine Gun Team - 10 pts
+- [D] Made-to-Orders - 10 pts
+3e Groupe - Infantry
+VBD-1 “Tanner” - 10 pts
+- [E] Chasseurs - 10 pts
+- [E] Machine Gun Team - 10 pts
+- [D] Made-to-Orders - 10 pts
+4e Groupe - Fire Support
+VBD-1B “Tanner-R” - 15 pts
+- [E] Guided Missile Team - 20 pts
+- [D] Chasseurs - 10 pts
+CdS-F1 “Kennel” - 10 pts
+- [E] Hima Team - 15 pts (x2)
+- [D] Company Chief - 0 pts (TACOM)
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 200 points, luparic lists can field fullsize, mechanized platoons without any loss of
+manpower. HMGs provide cover for Chasseurs
+and deny airspace, Waykeepers improve unit
+cohesion, and the Kennel carrying Hima Teams
+permits sustained suppressive fire as well as
+ample smoke and signal salts, two keystones of
+infantry support.
+However, this list lacks a howitzer or a
+main battle tank, meaning that it will have to
+rely on encirclement to destroy heavy vehicles.
+Made-to-Orders should be used to clear the
+way of infantry in front of your Chasseurs.
+This list’s Made-to-Orders may be
+dropped to upgrade the Tanners to Rawhides
+or bring extra infantry weapons, though this
+will force some infantry to desant.
+BUILDING AN ARMY LIST - C-3
+
+FM 100-2-8X
+A.E.F. ASSAULT COMPANY
+EXAMPLE - 300 PTS, 11 COMMAND
+
+__________________________
+
+A.E.F. ARMORED INFANTRY COMPANY
+EXAMPLE - 400 PTS, 13 COMMAND
+
+__________________________
+
+1er Groupe - Headquarters
+VBD-2 “Rawhide” - 20 pts
+- [E] Company Chief - 0 pts (TACOM)
+- [E] Waykeeper Judge - 20 pts (TACOM)
+CdS-F1 “Kennel” - 10 pts
+- [E] Guided Missile Team - 20 pts
+Char 30 “Veldjen” - 20 pts
+
+1er Groupe - Armor
+VBD-3 “Motte” - 20 pts
+- [E] I. S. Escort - 15 pts (TACOM)
+VBD-2 “Rawhide” - 20 pts
+- [E] Internal Security - 20 pts
+Char 38 “Borvo” - 40 pts
+- [D] Internal Security - 20 pts
+
+2e Groupe - Reconnaissance
+VBD-2 “Rawhide” - 20 pts
+- [D] White Gloves - 20 pts
+- [E] Company Chief - 0 pts (TACOM)
+VBD-U “Denmother” - 5 pts
+- [E] Bounders - 20 pts
+VBD-U “Denmother” - 5 pts
+- [E] Hima Team - 15 pts
+
+2e Groupe - Infantry
+VBD-1 “Tanner” - 10 pts
+- [E] Company Chief - 0 pts (TACOM)
+- [E] Chasseurs - 10 pts
+VBD-1 “Tanner” - 10 pts
+- [E] Subaltern Team - 10 pts
+- [E] Chasseurs - 10 pts
+Char 30 “Borvo” - 40 pts
+- [D] Chasseurs - 10 pts
+
+3e Groupe - Infantry
+VBD-1 “Tanner” - 10 pts
+- [E] Subaltern Team - 10 pts
+- [E] Chasseurs - 10 pts
+VBD-U “Denmother” - 5 pts
+- [E] Machine Gun Team - 10 pts
+VBD-U “Denmother” - 5 pts
+- [E] Hima Team - 15 pts
+4e Groupe - Infantry
+VBD-1 “Tanner” - 10 pts
+- [E] Chasseurs - 10 pts
+VBD-U “Denmother” - 5 pts
+- [E] Recoilless Rifle Team - 15 pts
+VBD-U “Denmother” - 5 pts
+- [E] Hima Team - 15 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 300 points, armored weapons platforms and elite infantry are highly affordable.
+This company favors speed, so mobile weapons
+teams supplant desanting infantry as the maneuver element. Bounders and White Gloves
+provide spotting and pressure at range, while
+armored units in the HQ function as a reserve
+force for a climactic breakthrough. Subalterns
+and a large command pool enable reactive play.
+
+BUILDING AN ARMY LIST - C-4
+
+3e Groupe - LAAD
+CdS-36 “Broomcloud” - 25 pts
+- [D] Guided Missile Team - 20 pts
+- [D] Company Chief - 0 pts (TACOM)
+CdS-36 “Broomcloud” - 25 pts
+- [D] Guided Missile Team - 20 pts
+4e Groupe - Artillery
+CdS-F1 “Kennel” - 10 pts
+- [T] DAG-16 “Cherry” - 25 pts
+- [E] Company Chief - 0 pts (TACOM)
+CdS-F1 “Kennel” - 10 pts
+- [T] DAG-16 “Cherry” - 25 pts
+- [E] Territorials - 5 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 400 points, a luparic list can accommodate versatile, high-tier unit compositions.
+This mixed-purpose armored infantry company
+includes some of the A.E.F.’s best, from heavily
+armored Internal Security to Broomcloud anti-air guns and Cherry howitzers.
+Listbuilding is most fluid at 400 points;
+for example, the Internal Security could be
+completely replaced by White Gloves acting
+as observers for the Cherries, or the Cherries
+could be replaced by Auroras.
+
+FM 100-2-8X
+
+APPENDIX D - QUICK UNIT REFERENCE
+This appendix section includes all unit cards from the main chapters.
+
+TACOMS
+COMPANY CHIEF - 0 pts
+COMMAND TEAM
+__________________________
+Inf, H1, S24”, M5”, Q4, T1+/1/1, C3
+Bloodlust, Brigade (4, 8”), Infiltrator,
+Sense (6”)
+__________________________
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+Mle. 44 3.5-inch RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 2, Shaped Charge, Small Arm,
+Slow Round
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+
+WAYKEEPER JUDGE - 20 pts
+RELIGIOUS LEADER
+
+__________________________
+Inf, H1, S24”, M4”, Q5, T1/1/1, C5
+Amphibious, Brigade (3, 12”),
+Guidance (12”), Infiltrator, Sense (8”)
+
+__________________________
+While this unit is alive, no unit in this army
+can willingly go berserk. Only Judges may call
+Exhortation support missions.
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Multi-Gun, Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+
+INTERNAL SECURITY ESCORT - 15 pts
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+COMMAND SHOCK SQUAD
+
+INFANTRY - LINE SQUADS
+
+Inf (S), H1, S16”, M4”, Q5, T2/1+/1+, C4
+Assault Specialist, Brigade (3, 4”), NBC
+
+TERRITORIALS - 5 pts
+
+__________________________
+__________________________
+FdcL 63 4-gauge Shotgun
+Inf/Vec, R6”, Small Arm
+→ 4-gauge Houndshot
+A4+/4+, S1/1+, D3
+→ 4-gauge Rifled Slug
+A3+/3+, S2/3, D1
+OtDs. 13 Tactical Breaching Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Filter, “Signal Snuff ”
+Inf*, R0”, A++/++, D1, Ammo 1,
+Discreet, Rally
+*May only target self
+
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q2, T1/1-/1Amphibious, Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-1 - QUICK UNIT REFERENCE
+
+FM 100-2-8X
+CHASSEURS - 10 pts
+LINE SQUAD
+
+INTERNAL SECURITY - 20 pts
+ELITE SHOCK SQUAD
+
+__________________________
+
+__________________________
+
+Inf (S), H1, S24”, M5”, Q2, T1+/1/1
+Bloodlust, Infiltrator, Sense (6”)
+
+Inf (S), H1, S16”, M4”, Q4, T2/1+/1+
+Assault Specialist, NBC
+
+__________________________
+
+__________________________
+
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+Mle. 44 3.5-inch RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 4, Shaped Charge, Small Arm,
+Slow Round
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2 , Melee
+
+FdcL 63 4-gauge Shotgun
+Inf/Vec, R6”, Small Arm
+→ 4-gauge Houndshot
+A4+/4+, S1/1+, D3
+→ 4-gauge Rifled Slug
+A3+/3+, S2/3, D1
+OtDs. 13 Tactical Breaching Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+Stimulant-Laced Filter, “Signal Snuff ”
+Inf*, R0”, A++/++, D1, Ammo 1,
+Discreet, Rally
+*May only target self.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WHITE GLOVES - 20 pts
+ELITE LINE SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1+/1/1
+Bloodlust, Fearless, Sense (6”)
+
+__________________________
+Mle. 52F .30 Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+Lacra 3.5-inch Shouldered R. R.
+A3+/5+, D1, Ammo 4, Small Arm
+→ 3.5-inch Rocket-Assisted Sabot
+Vec, R20”, S8/12
+→ 3.5-inch HEAT
+Inf/Vec, R16”, S9/1+, Shaped Charge,
+Slow Round
+→ 3.5-inch Incendiary
+Inf/Vec, R16”, S1+/1+,
+Ignore Cover (2), Rear Attack,
+Slow Round
+Mle. 7 Laser Designator
+All, R40”, A++/xx,
+Designator, Discreet
+Mle. 313 26-inch Side Saber
+Inf, R0”, A1+/1+, S1+/1+, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-2
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY - WEAPON TEAMS
+MACHINE GUN TEAM - 10 pts
+ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2,
+Defensive CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-2-8X
+HIMA TEAM - 15 pts
+ANTI-PERSONNEL/TANK TEAM
+
+RECOILLESS RIFLE TEAM - 15 pts
+GENERAL-PURPOSE TEAM
+
+__________________________
+
+__________________________
+
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Sense (6”)
+
+Inf, H1, S24”, M5”, Q2, T1/1-/1Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+
+__________________________
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Lacra-76 “Hima” 3-inch Launcher
+Ammo 4
+→ 3-inch Frag
+Gnd, R32”, A4+/xx, S[D3], D1,
+Air-Filling, Light Indirect (2),
+No CC, Radius (2”)
+→ 3-inch HEAT
+Inf/Vec, R8”, A4+/xx, S8/1+, D1,
+Shaped Charge, Slow Round
+→ 3-inch Smoke
+Gnd, R32”, A++/xx, D2,
+Light Indirect (2), No CC, Smoke (3”)
+→ 3-inch Signal Salt
+Gnd, R32”, A++/xx, D1,
+Light Indirect (2), No CC, Radius (3”),
+Rally (Salt)
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+TAP 20 3-inch Recoilless Rifle
+Ammo 4
+→ 3-inch HEAT
+Inf/Vec, R24”, A4+/6+, S8/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 3-inch Canister
+Inf/Vec, R12”, A4+/6+, S1/1+, D3,
+Defensive CC (Inf.)
+→ 3-inch Smoke
+Gnd, R24”, A++/++, D1, No CC,
+Smoke (3”)
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+GUIDED MISSILE TEAM - 20 pts
+ANTI-TANK/AIR TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q2, T1/1-/1Bloodlust, Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+SD84 4.7-inch Missile Launcher
+S15/2, D1, Ammo 4,
+Guided Missile (2), No CC,
+Shaped Charge
+→ ATGM Guidance Mode
+Vec, R6-60”, A3+/xx
+→ MANPADS Guidance Mode
+Air, R60”, A4+/xx
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-3 - QUICK UNIT REFERENCE
+
+FM 100-2-8X
+INFANTRY - SPECIAL
+SUBALTERN TEAM - 10 pts
+JUNIOR COMMAND TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q4, T1/1-/1Bloodlust, Brigade (2, 4”), Infiltrator,
+Sense (6”)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+OtPv. 9 30-inch Machete
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+MdG. 341 Smoke Bomb
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Small Arm,
+Smoke (2”)
+
+WAYKEEPERS - 15 pts
+RELIGIOUS INSTRUCTORS
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1/1/1
+Amphibious, Guidance (12”), Infiltrator,
+Sense (8”)
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Multi-Gun, Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+Stimulant-Laced Bomb, “Signal Salt”
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), Radius (3”),
+Rally (Salt), Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+BOUNDERS - 20 pts
+
+MADE-TO-ORDERS - 10 pts
+
+__________________________
+
+BERSERKER SQUAD
+
+Inf, H1, S32”, M5”, Q2, T1/1-/1Amphibious, Bloodlust, Infiltrator, Sense (6”)
+
+__________________________
+Inf (S), H1, S24”, M5”, Q6, T1+/1+/1+
+Amphibious, Bloodlust, Tow (2), Sense (6”)
+
+__________________________
+
+If depleted, loses its depletion token at the end
+of the round after winning a close combat.
+
+__________________________
+Mutated Teeth & Claws
+Inf/Vec, R0”, A1+/1+, S1+/1+, D3,
+Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ANTI-MATERIEL/SNIPER TEAM
+
+__________________________
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+APX-25 1-inch Anti-Tank Rifle
+All, R32”, A3+/xx, S4/6, D1,
+Ammo 4, No CC (Inf.), Scoped
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - LOGISTICS
+CdS-F1 “KENNEL” - 10 pts
+IMPROVISED GUN TRUCK
+
+__________________________
+Vec (W), H2, S16”, M8”, Q2, T2/2/1
+PC (2, Rear), Resupply (6), Tow (3)
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+QUICK UNIT REFERENCE - D-4
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-2-8X
+VEHICLES - PERSONNEL CARRIERS
+VBD-U “DENMOTHER” - 5 pts
+UNIVERSAL CARRIER
+
+__________________________
+Vec, H1, S16”, M8”, Q2, T3/2/1+
+PC (1, Any)
+
+__________________________
+This unit uses a 40x40mm base. Cannot have
+embarked units and desants at the same time.
+Embarked units can fire any one non-Melee
+weapon as if it were a Small Arm and are
+identified with the vehicle. Units embarked
+may spot and be spotted by Sense.
+
+__________________________
+Lenus Automatic .45, driver’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+
+VBD-3 “MOTTE” - 20 pts
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Vec, H2, S32”, M8”, Q3, T16/10/6
+NBC, PC (2, Rear, Front)
+
+__________________________
+Mle. 38C .30 MG, swivels
+All, R12”, A4+/5+, S1/1+, D2, Turret
+Mtl. 19 .50 HMG
+All, R20”, A4+/5+, S2/3, D2,
+Multi-Gun
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - ARMOR
+CHAR 30 “VELDJEN” - 20 pts
+
+VBD-1 “TANNER” - 10 pts
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (3, Rear)
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VBD-2 “RAWHIDE” - 20 pts
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T5/5/4
+Active Protection (1), NBC, PC (2, Rear)
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/5+, S2/3, D2, Turret
+APX-30 1-inch Autocannon
+All, R32”, A4+/5+, S4/6, D2,
+Ammo 4, No CC (Inf.), Turret
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MEDIUM TANK
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T10/6/5
+NBC
+
+__________________________
+Mle. 38C .30 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+SA19 3-inch Gun
+R32”, A4+/6+, D1, Ammo 6,
+No CC (Inf.), Slow Round, Turret
+→ 3-inch APHE
+Vec, S8/12
+→ 3-inch HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1)
+LF4 Sponson Flamethrower
+Inf/Vec, R8”, A3+/3+, S1+/1+, D3,
+Ammo 3, Ignore Cover (2),
+Multi-Gun, Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-5 - QUICK UNIT REFERENCE
+
+FM 100-2-8X
+CHAR 38 “BORVO” - 40 pts
+MAIN BATTLE TANK
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T14/10/6
+NBC
+
+__________________________
+Mle. 38C .30 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Thermal Sights, Turret
+SA19B 3-inch Dual Guns
+A3+/4+, Ammo 6, Barrage (2),
+Thermal Sights, Tracking Anti-Air,
+Turret
+→ 3-inch APHE
+Vec, R40”, S8/12, D1, No CC (Inf.),
+Slow Round
+→ 3-inch HEAT
+Inf/Vec, R40”, S9/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 3-inch Canister
+All, R20”, S1/1+, D3,
+Defensive CC (Inf.)
+Mle. 254 2.3-inch Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-6
+
+VEHICLES - FIRE SUPPORT
+VBD-1B “TANNER-R” - 15 pts
+RECOILLESS RIFLE CARRIER
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+TAP 30 4.2-inch Recoilless Rifle
+Ammo 4
+→ 4.2-inch HEAT
+Inf/Vec, R28”, A4+/6+, S12/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 4.2-inch Canister
+Inf/Vec, R14”, A4+/6+, S1/1+, D4,
+Defensive CC (Inf.)
+→ 4.2-inch White Phosphorus
+Gnd, R28”, A4+/6+, S1+/1+, D1,
+Ignore Cover (2), No CC, Rear Attack,
+Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-2-8X
+DAG-8 “BLOSSOM” - 15 pts
+TOWED ANTI-TANK GUN
+
+__________________________
+Vec (C), H1, S32’’, M3’’, Q2, T2/1/1
+
+DAG-16 “CHERRY” - 25 pts
+TOWED HOWITZER
+
+__________________________
+Vec (C), H1, S24”, M2”, Q2, T1/1-/1-
+
+__________________________
+
+__________________________
+
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2,
+Small Arm
+DAG-8 3.3-inch Gun
+R40”, A3+/xx, D1, Ammo 4,
+No CC, Thermal Sights
+→ 3.3-inch Sabot
+Vec, S12/18
+→ 3.3-inch HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1),
+Slow Round
+
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+DAG-16 7.8-inch Howitzer
+Ammo 3, No CC
+→ 7.8-inch HEAT
+Inf/Vec, R40”, A3+/xx, S16/3, D1,
+Shaped Charge, Slow Round
+→ 7.8-inch Frag
+Gnd, R∞”, A4+/xx, S[D6], D3,
+Air-Filling, Heavy Indirect (3),
+Radius (3”)
+→ 7.8-inch Canister
+All, R20”, A4+/xx, S1/1+, D6,
+Radius (2”)
+→ 7.8-inch Smoke
+Gnd, R∞, A++/xx, D4,
+Heavy Indirect (3), Smoke (5”)
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+CdS-F3 “FORESTER” - 15 pts
+ANTI-AIR GUN TRUCK
+
+__________________________
+Vec (W), H2, S16’’, M8’’, Q2, T2/2/1
+Tow (2)
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AMA-2 .60 Dual HMGs
+All, R24’’, A4+/6+, S3/4, D3,
+Turret, Tracking Anti-Air
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+CdA-25 “SAUCER” - 20 pts
+TANK DESTROYER
+
+__________________________
+Vec, H1, S32”, M10”, Q2, T6/3/2
+NBC
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/6+, S2/3, D2,
+Turret
+SA25 2.5-inch High Velocity Gun
+Vec, R40”, A4+/5+, S12/18, D1,
+Ammo 6
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-X
+
+FM 100-2-8X
+CdS-F2 “AURORA” - 30 pts
+
+AIRCRAFT - HELICOPTERS
+
+ROCKET TRUCK
+
+VZ61 “CHARIOTS” - 15 pts
+
+Vec (W), H2, S16”, M8”, Q2, T2/2/1
+
+__________________________
+
+__________________________
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Mle. 13 5.2-inch Rocket Rack
+Gnd, R12-∞”, A4+/5+, S6/6, D2,
+Ammo 6, Air-Filling,
+Ignore Cover (1), Heavy Indirect (2),
+No CC, Saturating (6)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - SPECIAL
+VdIM-K “KARVE” - 10 pts
+SPEEDBOAT
+
+__________________________
+Vec, H1, S32”, M12”, Q2, T2/2/1
+PC (4, Any), Watercraft
+
+DUCTED FAN PLATFORMS
+
+Air, H1, S24”, M18”, Q2, T1+/1/1
+
+__________________________
+This unit uses a 40x40mm base and can be
+depleted as if it were an infantry squad. When
+landed, unit class counts as Inf (S); it may fire
+all weapons and enter close combat as if it
+were infantry. May land in forests and inside
+of buildings as a squad-sized garrison.
+
+__________________________
+Mle. 38 .30 LMG
+All, R10”, A4+/5+, S1/1+, D2, Turret
+Mle. 44 3.5-inch RPG
+All, R8”, A4+/6+, S9/1+, D1,
+Ammo 4, Shaped Charge,
+Slow Round, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+__________________________
+Mtl. 19 .50 HMG
+All, R20”, A4+/4+, S2/3, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AES514 “BACKBONE” - 20 pts
+HEAVY LIFT HELICOPTER
+
+__________________________
+Air, H2, S32”, M24”, Q2, T3/2/3
+Decoy Protection (2), PC (2, Sides), Tow (10)
+
+__________________________
+
+Embarked units can fire any one non-Melee
+weapon as if it were a Small Arm and are
+identified with the vehicle. Units embarked
+may spot and be spotted by Sense.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-X - QUICK UNIT REFERENCE
+
+FM 100-2-8X
+AES805 “TORNADO” - 30 pts
+ATTACK HELICOPTER
+
+VBD SPECIAL “LUGUS” - 25 pts
+RECOILLESS RIFLE CARRIER
+
+__________________________
+
+__________________________
+
+Air, H1, S32”, M32”, Q3, T2/2/2
+Decoy Protection (2)
+
+__________________________
+
+__________________________
+APX-30 1-inch Autocannon
+All, R32”, A4+/5+, S4/6, D2,
+Ammo 4
+SD84 4.7-inch Missile Launcher
+S15/2, D1, Ammo 2,
+Door Gun (Front, Sides),
+Guided Missile (2), No CC,
+Shaped Charge
+→ ATGM Guidance Mode
+Vec, R6-60”, A3+/4+
+→ MANPADS Guidance Mode
+Air, R60”, A4+/4+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Vec, H1, S32”, M8”, Q3, T3/2/1+
+This unit uses a 40x40mm base.
+
+__________________________
+Lenus Automatic .45, driver’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+TAP 25 4.2-inch Recoilless Rifle Battery
+Ammo 6, Barrage (6, Point)
+→ 4.2-inch HEAT
+Inf/Vec, R28”, A4+/6+, S12/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 4.2-inch Canister
+Inf/Vec, R14”, A4+/6+, S1/1+, D4,
+Defensive CC (Inf.)
+→ 4.2-inch White Phosphorus
+Gnd, R28”, A4+/6+, S1+/1+, D1,
+Ignore Cover (2), No CC, Rear Attack,
+Smoke (3”)
+CdA-36 “BROOMCLOUD” - 25 pts
+SELF-PROPELLED ANTI-AIR GUN
+
+__________________________
+Vec, H2, S32”, M10”, Q3, T5/3/1+
+
+__________________________
+Mle. 32 .30 Self-loading Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+APX-40 1.5-inch Autocannon
+All, R36”, A4+/4+, S5/7, D2,
+Ammo 6, No CC (Inf.),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-7 - QUICK UNIT REFERENCE
+
+FM 100-2-8X
+AIRCRAFT - PLANES
+R-2 “CHIEN DE CHASSE” - 10 pts
+OBSERVATION AIRCRAFT
+
+__________________________
+Air (CAS), M10”, Q2, T2, E0
+Loiter
+
+__________________________
+Does not break designation when it moves.
+Designation is broken when the target leaves
+frontal arc. Counts as E3 in dogfights.
+
+__________________________
+Mtl. 19 .50 HMGs, dual
+All, R4”, A6+, S2, D2
+Mle. 7 Laser Designator
+All, R40”, A++, D1, Designator
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AD-48 “FALCONET” - 20 pts
+LIGHT ATTACK AIRCRAFT
+
+__________________________
+Air (CAS), M14”, Q3, T2, E1
+Decoy Protection (2)
+
+__________________________
+Mtl. 19 .50 HMGs, octet
+All, R4”, A4+, S2, D3, Radar Anti-Air
+LR-49 2.7-inch HEAT Rocket Pod
+Inf/Vec, R6”, A4+, S7/1+, D4,
+Ammo 2, Barrage (2), Shaped Charge,
+Slow Round
+BLG-64 500-lb. HE Cluster Bomb
+Gnd, R0”, A2+, S4, D2, Ammo 4,
+Air-Filling, Rear Attack,
+Saturating (4)
+
+AD-IV “GROGNARD” - 35 pts
+FIGHTER-BOMBER
+
+__________________________
+Air (CAP), M16”, Q3, T3, E2
+Afterburner, Decoy Protection (2)
+
+__________________________
+APX-50 1.4-inch Revolver Cannon
+All, R8”, A4+, S5, D3, Ammo 3,
+Radar Anti-Air
+MA-67 4.7-inch Infrared AAM
+Air, R30”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+SD68 8-inch TV-Guided Bomb
+Gnd, R40”, A3+, S8, D1, Ammo 2,
+Air-Filling, Guided Missile (2),
+Radius (3”), Rear Attack
+MD-II “MIST” - 40 pts
+AIR SUPERIORITY FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E3
+Afterburner, Decoy Protection (2)
+
+__________________________
+APX-50 1.4-inch Revolver Cannon
+All, R8”, A3+, S5, D3, Ammo 3,
+Radar Anti-Air
+MA-67B 4.7-inch Infrared AAM
+Air, R36”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+MA-62 7.9-inch Semi-Active AAM
+Air, R60”, A4+, S8, D1, Ammo 4,
+Barrage (2, Point),
+Guided Missile (1), No CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-8
+
+FM 100-2-8X
+
+SUPPLEMENTAL FILES - D-9
+
+FM 100-2-8X
+
+APPENDIX E - PAINTING GUIDE
+This appendix section provides full-color references for painting your Ebon Forest miniatures.
+
+Gun Body
+
+GUN METAL
+#515151
+
+Common Headgear
+
+Stock & Grip
+
+Coif
+
+WOOD FURNITURE
+#9C5E27
+
+LUPARIC FELDGRAU
+#737657
+Fatigues
+
+Belt
+
+Hilt & Buttons
+
+DARK BLACK LEATHER
+#181910
+
+FOOL’S GOLD
+#D5B737
+
+FAITH RED
+#A22C00
+
+Socks
+
+Common Pelt Colors
+
+E-1 - PAINTING GUIDE
+
+INFANTRY NOTES
+Lupar can exhibit any variety of natural wolfpelt scheme and lupine eye colors. Coats are almost
+always agouti with at least two tones.
+The issued coif, soft garrison cap, and socks
+are red. Red is the color of faith for lupar: their eyes
+cannot distinguish it, but they know it’s there.
+Rank insignia are red and marked by solid
+color on the cuffs. Lower enlisted men do not typically wear any insignia. Officers wear gold braiding.
+Older uniforms (in green, beige, or black
+without camouflage) are occasionally still worn by
+territorial units and clan militias.
+Commissioned officers are distinguished by
+their crested helmets and black cockades. While the
+former is almost always worn in the field, the latter
+is not due to its tendency to draw fire.
+The wearing of soft caps into combat is an
+informal tradition of the A.E.F.’s artillery branch.
+
+FM 100-2-8X
+Secondary
+Primary
+Ebon Roundel
+
+Hameçon (Alternative)
+
+Tertiary
+
+GREEN SPLOTCH
+#545732
+
+RUDDY SPLOTCH
+#884F40
+
+Secondary
+Tertiary
+
+Primary
+
+“Hameçonites” Roundel
+
+Countershade
+
+TAN DRAB
+#CDB587
+
+ARMOR NOTES
+Regular A.E.F. vehicles are painted to a
+single standard camouflage scheme. In winter the
+colors may be modified with whites and grays. Local
+flora, camo netting, crude scrawls or animal skulls
+are often added in the field.
+Vehicles fielded by irregular units are often
+salvaged (or simply stolen), bearing the scars of
+battle, and may be repainted in solid gray or beige.
+Vehicles are usually marked with the Ebon
+Forest roundel with or without a white filling. Clan
+militias typically use familial symbols or personal
+insignia. Some elite royal regiments are granted the
+use of the hameçon, a symbol of the Wolf-King. The
+symbol has many variants.
+
+FACTORY SILVER
+#BBBBBB
+
+FLYING CIRCUS RED
+#ED1C24
+Primary
+
+BEER MUSTARD
+#F2F35C
+Secondary
+
+Hameçon
+
+AIRCRAFT NOTES
+Aircraft follow the same scheme
+as ground vehicles, with gray countershaded bellies. The very same symbols
+used on ground vehicles are applied to
+aircraft.
+Grognards are uniquely painted
+in personalized, high-contrast “flying
+circus” schemes according to the whims
+of their pilots. The roundel is always
+painted to standard, however.
+Decorated soldiers of all kinds,
+but especially pilots, may fly an altered
+hameçonites, which is accented with the
+red of faith.
+PAINTING GUIDE - E-2
+
+FM 100-2-8X
+
+E-1 - PAINTING GUIDE
+
+* Special thanks to Briggs on Discord and @morgrim.the.tidy
+on Instagram for the lovely models.
+
+FM 100-2-8X
+
+PAINTING GUIDE - E-2
+
+While my mother still drew breath I considered the village I called home to be one of fine fortune.
+There was a learned man whose circuits through Dubost land would routinely guide him around
+the thickets about our clearing, then straight through the township proper. Barred doors would
+unbolt and even the chieftain’s guard or the chicken-man’s son would step aside to give him way. At
+times his legs, twisted as they were, would fail him and he would need to use arms to steady himself,
+trailing his gnarled foot behind him and loping forward with slow sighs. No aid was rendered or
+requested, and the wise man would hold his heads high, two sets of eyes peering from beneath the
+hood at both shoulders, glancing through each alleyway and window. Any man whose need eclipsed
+his duty would put down his tools or his weapons to take after the wizened one and he would not be
+blamed for this. As the waykeeper left the houses those seeking his guidance would trickle out after
+him and disappear into the copse past the village gate.
+He would lead this following through the twisting tunnels of bark and bristles to emerge at a blockfield that marked what was once a great riverbed. When the darkness of the canopy faded and the
+waykeeper’s skin was kissed by the sun he disrobed to the waist and lay himself bare. He would
+stretch his many arms to the sky and splay his fingers and crane his necks and close his eyes as if
+beckoning his attendants to gaze upon him. If you dared to indulge his provocation you would see
+plainly his pride and his shame; you would see plainly the price paid for perspicacity. Every limb
+crooked, his form crossed with scars, his breathing ragged, shoulders split and knitted back together
+to support the heft of four heads. If you followed the lines traced through his pelt you would trail
+them up the length of his broken body until you found the ragged stump of a ruined throat.
+Once the field was reached he would no longer speak to us. Instead he carried with him the weight
+of our words. Before a single breath was uttered each man would choose his stone. Some would
+fill baskets; others would lash theirs to their back. More often than not it would simply be carried
+over the shoulders. No matter the bearing each man’s burden threatened to break him. We suffered.
+When a man carries weight with him he does not feel weak. When a man is burdened he is free.
+Lungs burning before we even began, the venerable one directed us to march. Dubost land lies in the
+shadow of a lone mountain, and when the leaves are thin enough you can see it stand in silent judgment. That is how we walked, with the ancients afore and behind us. Eyes fixed on the mountain
+ahead, branch and bramble trampled bloody underfoot, we would slowly begin to speak.
+Each man would take his turn and he would tell of his troubles. He would tell of the things he could
+do but did not; he would tell of the things he should not do but did. He would tell of the things he
+could not stop himself from doing and whenever he would doubt himself he would feel the stone
+strain his muscles and he would remember that he is not weak. The waykeeper and the mountain
+would listen to our words and take them from us. When we reached the crest we would stop only
+to gather and watch as the wise one would bite his tongues and open his palms and return our
+trespasses to the darkness of the forest. In that moment to hold a stone was to hold spring in your
+hands. Carrying the weight on your shoulders seemed the simplest task in the world. Hearts and
+heads lightened, we would follow the waykeeper back to the blockfield, and each man would place
+his stone right back where he found it—in case his sons needed it someday.
+My mother went in her sleep many moons ago. Electric lights burn in each alleyway and window.
+The old one no longer comes to our village. We break up the stones and use them to bury the boys
+who come home from the Regent’s wars in an ebonwood box.
+- Luholde Dubost, Clan Elder
+
+FM 100-2-8X
+03/10/85
+By Order of the Ministry of Defense:
+
+DANEEL DAAF
+
+JOHANNES VEENEMAN
+
+General of the Air,
+General Staff of the Federal States-Army
+
+General of the Army,
+General Staff of the Federal States-Army
+
+Signatories:
+
+BRIGGS CARTOGRAAF
+
+JAAN SCHRIMM
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+MARLIJN MUNTTHEE
+
+KENNET PLUUSMAN
+
+Brigadier General,
+Main Rocket & Artillery Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+MANFIELD GARFIELD
+
+ITTIE BEBSON
+
+Brigadier General,
+Main Topographical Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+JAKUB DROOK
+
+MAXIMILLIAAN BROOD
+
+Major General,
+Main Luparic Readiness Directorate
+
+Lieutenant General,
+Main Publishing Directorate
+
+DIJKEN EIKKSEN
+
+Major General,
+Main Tactics & Doctrine Directorate
+DISTRIBUTION:
+Active Army, Whitewater Guard, Ready Reserves, Irregular Militia Partnership Program: To be
+distributed in accordance with DA Form 12-1A, Keystone Knowledge for the Federal Soldier
+(Qty rqr block no. 174).
+
+F O RT M .
+
+.C
+
+EK
+
+D
+
+R
+
+AL
+
+AR
+
+. ▪ FEDE
+
+MY ▪ DR
+
+Additional copies may be requisitioned from the F.S-A.-M.T. & D.D. General Publications
+Center, 1322 Worstenrij, Brunbok, Vykeland-and-Deire 21450.
+
+S T AT E S
+
+-
+
+

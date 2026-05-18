@@ -1,0 +1,5283 @@
+FM 100-4-8X
+
+ATOM BARONS
+OF SANTAGRIA
+
+TROOPS AND TACTICS
+
+DISTRIBUTION RESTRICTION: This publication contains technical, operational, or strategic information that is for
+official government use only. Distribution thereof is limited to government agencies of the Intermarine Federation
+or licensed contractors. Special use releases of this publication must be requested from Reception & Disposal,
+Drekfort Military Development Center, Langport, Vansa, PO 32001.
+
+* FM 100-4-8X
+
+FIELD MANUAL
+No. 100-4-8X
+
+Edition 0.9.7
+
+HEADQUARTERS
+DREKFORT M.D.C.
+Langport, Vansa, 03/10/85
+
+Preface
+
+Atom Barons of Santagria:
+Troops and Tactics
+
+This field manual is part of FM series 100-X-8X. The other volumes in this
+series are FM 100-1-8X (The Federal States-Army: Troops and Tactics), FM 1002-8X (Army of the Ebon Forest: Troops and Tactics), and FM 100-3-8X (The New
+Rygolic Host: Troops and Tactics). Each volume in the series describes the range
+of troop types and characteristics of an opposing force to the Federal States-Army.
+This document, FM 100-4-8X, describes the known elements of the Atom
+Barons of Santagria. Used together, they form a thorough reference on any challengers the F.S-A. may expect to face, as well as its own strengths and weaknesses
+in comparison to them.
+This manual represents the definitive (condensed) source of unclassified information on Santagrine ground and air forces: their abilities, strengths,
+weaknesses, and general availability to a commander. The Main Threats Directorate at the Drekfort Military Development Center, Langport, Vansa, updates
+these manuals periodically to provide the most current unclassified information
+available.
+
+* This manual supersedes FM 100-4-8X Edition 0.8, 08/24/83.
+
+i
+
+FM 100-4-8X
+
+Contents
+CHAPTER
+
+1. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1 - 1
+2. TACOMs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2 - 1
+3. Infantry  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 1
+Line Squads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 2
+Weapon Teams . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 5
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 11
+4. Vehicles & Towed Guns . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 1
+Logistics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 2
+Personnel Carriers . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 4
+Armor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 6
+Fire Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 14
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 20
+5. Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 1
+Helicopters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 2
+Planes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 11
+6. Emplacements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6 -1
+
+7. Scenario Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7 -1
+
+A. Army Special Rules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A - 1
+APPENDIX
+
+B. Building an Army List . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B - 1
+C. Quick Unit Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C - 1
+D. Painting Guide  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D - 1
+
+ii
+
+FM 100-4-8X
+CHAPTER 1
+
+OVERVIEW
+The former nation of Santagria, once the seat of a Commonwealth, is now a warzone. Following its dissolution in atomic fire, its landed nobility have abandoned all pretenses of cooperation in favor of individual ambitions. Their politically and topologically disjointed lands occupy
+southwestern Oid, south of the Rygolic Petty States and far west of the Intermarine Federation.
+Armies of the Atom Barons of Santagria
+(A.B.S.) are what a baron may muster by the
+strength of his personality; like their arsenals,
+they are cobbled from available resources
+according to need rather than any cohesive
+doctrine. The stratification of post-nuclear
+Santagrine society is reflected in their forces’
+compositions. Archaically-armed common
+levies, drawn from groundling villages, are
+sharply contrasted by the artful opulence of
+the airborne nobility.
+A wide variety of old veterans, yeoman-professionals, religious cultists and wandering cutthroats situationally bolster these
+basic elements. No two Santagrine armies are
+the same in any respect.
+Regardless of their station, Santagrines
+are great lovers of glory and story. Even in the
+face of comparatively modern enemy forces,
+baronial troops display a defiant resilience. The
+warrior-nobility, mounted on heavy attack helicopters and fixed-wing aircraft, prefer to lead
+their forces “from the saddle” and in person.
+Above all else, Santagrines are dangerous because of their unpredictability. Without
+doctrine or fear for their lives, fighting baronial
+forces is an exercise in threat assessment. This
+field manual will only attempt to classify recognized Santagrine troops; be on your guard.
+FACTIONAL STRENGTH:
+Superb aircraft, durable leviathans and tercios.
+FACTIONAL QUIRK:
+Many specialized or unconventional units.
+FACTIONAL WEAKNESS:
+Poor command and antiquated ground troops.
+
+OVERVIEW - 1-1
+
+GEOPOLITICAL REGIONS AND MAJOR BARONS OF SANTAGRIA
+
+A
+
+1
+B
+
+2
+
+E
+
+4
+
+3
+
+C
+
+D
+
+5
+
+6
+F
+
+G
+
+7
+
+H
+
+CULTURAL REGIONS:
+1 - Tierra Regada
+4 - Alzarre
+7 - Sovacosta
+
+2 - Los Cortezza
+5 - Alqitatia*
+
+3 - Cuerno de Heuchevéjo
+6 - Valle de Rio Sangra
+
+B - Gascão
+E - Solivistía-en-la-Playa
+H - Elchorro
+
+C - Navarro
+F - Piedra del Gato
+
+MAJOR BARONIES:
+A - Zarój
+D - Piña y Garnise
+G - Burro de Vapoire
+
+* Colloquially known as the “Great Glass Dunes” following atomic desertification.
+
+1-2 - MAP
+
+FM 100-4-8X
+CHAPTER 2
+
+TACOMS
+Santagrine commanders, whether in their post by rightful heritage, their lord’s will, or
+merely their skill at arms, are expected to lead from the front and by example. With a varied and
+crude communications infrastructure, they are often limited to commanding their varied troops
+by physically guiding them; this, and family honor, explains the elaborate and striking heraldic
+liveries painted on noble command helicopters.
+As a rule of thumb, barons and their families never fight dismounted unless they have to.
+Almost all prefer aircraft with which to oversee the battle and identify themselves to friend and
+foe alike. Exceptions are made for exceptionally well-armored and fashionable tanks, such as the
+rare, indigenously designed “Castellan” main battle tank; such command vehicles may also be
+fielded by yeoman officers and certain reputable mercenary captains.
+TACOMS
+PEG.123-AC “GRAF” - COMMAND HELICOPTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 pts / 2-2
+UNI.28-AC “DON” - COMMAND GUNSHIP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 pts / 2-3
+VBD.127-AC “CASTELLAN” - COMMAND MAIN BATTLE TANK . . . . . . . . . . . . . . . 40 pts / 2-4
+
+TACOMS - 2-1
+
+FM 100-4-8X
+
+PEG.123-AC “GRAF”
+
+TYPE: COMMAND HELICOPTER
+
+PEG.123-AC “GRAF” - 0 pts
+
+REMARKS
+
+__________________________
+
+Variation of the PEG.123 series light attack
+helicopter. The typical personal mount of
+second sons, lesser family members, and
+heirs-in-training. Often observed in garrison units or leading raiding parties.
+
+Air, H1, S32”, M36”, Q4, T2/1/1, C2
+Brigade (4, 16”), Decoy Protection (1), NBC
+
+__________________________
+
+The Graf’s “pusher-prop” configuration
+grants it excellent agility and a high top
+speed. Its airframe is only armored around
+its frontal arc.
+Primary armament is the standard Lerna
+15-lber (55mm) rocket pod and a single
+SUR-4 air-to-air missile mounted on opposite sides of the fuselage. A .305 (7.76mm)
+caliber minigun in a flexible chin mount
+provides effective antipersonnel firepower.  
+Mounted to the wing hardpoints is a powerful loudspeaker array, audible at long
+range. This system is used to command
+and rally troops without radios and to issue
+challenges to specific enemies.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-2 - TACOMS
+
+COMMAND HELICOPTER
+
+__________________________
+
+MhM-76 .305 Minigun
+All, R12”, A4+/5+, S1/1+, D4, Turret
+Lerna 15-lbr Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+SUR-4 127mm Air-to-Air Missile
+Air, R60”, A3+/3+, S6/6, D1, Ammo 1,
+Air-Filling, Guided Missile (1),
+Homing
+120dB Megaphone Array
+Inf/Vec, R16”, A++/++, D1, Rally,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+My lord raised me up, so he is as my second
+father; but so I’ll always be as a second son.
+- Don Rinaldo Vélez, Sworn Rotor to Baron
+Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+UNI.28-AC “DON”
+
+TYPE: COMMAND GUNSHIP
+
+UNI.28-AC “DON” - 25 pts
+
+REMARKS
+
+__________________________
+
+Command variant of the renowed UNI.28
+heavy attack helicopter. The mount of a
+noble commander of esteem, and decorated appropriately with family heraldry,
+national regalia, and towed banners.
+
+Air, H2, S32”, M24”, Q4, T4/3/3, C3
+Brigade (3, 12”), Leviathan (2), NBC
+
+__________________________
+
+Primary armament is the Allant 1.8-lber
+(25mm) rotary cannon: the “Sword of the
+New Knight”, mounted in an underbelly
+gun pod. The Allant is effective against
+ground and air targets alike, although ammo-hungry. Against Santagrine opponents,
+it is the only acceptable weapon. Against
+foreigners, wing-mounted 127mm air-toair missiles provide effective firepower
+against all forms of flying target.
+
+COMMAND GUNSHIP
+
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R32”, A4+/4+, S4/6, D3, Ammo 3
+SUR-4 127mm Air-to-Air Missile
+Air, R60”, A3+/3+, S6/6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+120dB Megaphone Array
+Inf/Vec, R16”, A++/++, D1,
+Rally, Turret
+
+Mounted to the wing hardpoints is a powerful loudspeaker array, audible at long
+range. This system is used to command
+and rally troops without radios and to issue
+challenges to specific enemies.
+
+“...He gave his mount full throttle, crying,
+‘Gentlemen, strike home,
+don’t falter; death is lighter than a yoke in
+foreign drome.
+The spoils’ glint in double-flash betake the
+mighty soul!’
+His beating steed then wheeled at them apace
+the drummer’s roll...”
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+- Cantar de Rampo Guerrero, Canto II.39-42
+TACOMS - 2-3
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+I.
+“All of this for a woman,” Próspero sighed. His grumbling was unmistakable, even swaddled in the
+fuzz and feedback of the intercom. He sat ahead in his own canopied compartment, as was typical
+of a marshal in attendance to an armiger.
+Eladio, Son of Álvaro and Esteemed Knight of Baron Basurto and the Order of the Ochre Garland,
+had heard him but offered no reply. Próspero had said this same thing a dozen times already. Bitching, after all, was one of the four great pastimes of choice for old serjeants. That, meticulous grooming, throaty song, and the smoking of imported tobacco.
+Warmth finally crept into the veins and capillaries of their venerable steed. The hydraulics, in their
+own coy way, suggested their functionality, as did the oil, from one among many brass-housed
+gauges. The panels seethed scarlet in affirmation, bright enough to sear Eladio’s retinas.
+Throttle up. The beast’s reply was positive. The rotor blades above their heads spun - alloy swords
+whipping stars. The engine bayed, and soon they’d be aloft, where matters would be decided in the
+Santagrine fashion. La justa y el jaleo.
+They were astride a tricky old gunship. It was a family heirloom commissioned by Eladio’s grandfather, festooned with talismanic relics from Eladio’s great-grandfather’s biplane. It was old aluminum bonded to even older brass, gold, canvas, leather, and ivory. It was a classic destrier, a dragon,
+a carrier of killers and a killer itself. But it was old.
+For a long time now, the machine had been second-best, relegated to bending an adolescent Eladio
+to modern equestrianism. It was now first best, and the second son of Álvaro was now the only son.
+Bearing these realities often made Eladio grit and grind his teeth until they threatened to shatter.
+Now, all their household’s fortunes were forced into wager. The young, untested knight and his
+painted, shuddering nursemaid flirted with disaster, and Próspero was along for the ride.
+“When we land, I’m checking to make sure you didn’t piss yourself. I’ll beat your ass if you’ve got
+wet trousers,” Próspero cackled.
+One time. One ungentlemanly indiscretion on Eladio’s part twelve years ago - during a stall recovery, no less - and he’d never be allowed to forget. Not at least until Próspero was dead and buried.
+The old man was trying to get a rise out of him and he knew it. He wanted to clarify Eladio towards
+the righteous wrath a gentleman ought to feel as he went into the tilt. Eladio was too busy contending with switches and dials to answer. That empowering fury eluded him.
+Another minute passed. Very soon now.
+Eladio reached to the gauzy scarf cinched around his left arm. It was brazen orange and sanguine
+striated against his dun flight suit. The knot was tight.
+2-4 - SUPPLEMENTAL FILES
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES - 2-5
+
+FM 100-4-8X
+
+VBD.127-DB “CASTELLAN”
+
+TYPE: COMMAND MAIN BATTLE TANK
+
+VBD.127-DB “CASTELLAN” - 40 pts
+
+REMARKS
+
+__________________________
+
+New-production main battle tank. Still
+only a paper project at the time of the
+nuclear war, the Castellan was intended to
+match or exceed Federal main battle tanks.
+It has since seen very limited production
+by the guilds of the Free City, becoming
+a luxury mount for landed nobles, senior
+yeomen, and senior officers of tanksknecht
+companies.
+
+Vec, H2, S32”, M8”, Q4, T16/7/5, C4
+Brigade (2, 8”), NBC
+
+__________________________
+
+Primary armament is the Sb.98 55-lber
+(120mm) rifled gun, fitted with a modern
+fire control system and gun stabilizer.
+Some of its theoretical accuracy is lost
+by the customary behavior of Santagrine
+officers: pride and honor is staked on extremely fast, independent gunnery, lasing
+and firing as soon as the gun is on target.
+Secondary armaments consist of a coaxial
+rifle caliber machine gun and a roof-mounted Lerna 15-lber (55mm) rocket pod.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-6 - TACOMS
+
+COMMAND MAIN BATTLE TANK
+
+__________________________
+Whenever this unit scores a kill on an enemy
+vehicle, it may Rally a friendly unit within 8”.
+
+__________________________
+
+MhL-42 .305 MG
+All, R12”, A4+/4+, S1/1+, D2,
+Thermal Sights, Turret
+Sb.98 55-lber Gun
+R40”, A3+/3+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights, Turret
+→ 55-lb. APDS
+Vec, S14/21
+→ 55-lb. HESH
+Inf/Vec, S9/4, Shaped Charge,
+Slow Round
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A4+/5+, S4/4, D4,
+Ammo 1, No CC (Inf.), Slow Round,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-4-8X
+CHAPTER 3
+
+INFANTRY
+Santagrine infantry typically consist of levied militiamen (“groundlings”) drawn from the
+rural population. Armed only with the weapons available to them, and without any formal military training or logistics, they are unlikely to succeed on their own. Groundling militias compensate for their weakness with massed platoon formations romantically termed “tercios”: attacking
+as one unit, relying on numbers and inertia to roll over the enemy.
+The few remaining professional infantry of Santagria are divided between military yeomanry, noble pages, and certain unusual martial orders. These specialists bolster the groundling
+mass on an irregular basis.
+LINE SQUADS
+SANTAGRINE MILITIA - MILITIA SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 pts / 3-2
+MOUNTED SERJEANTS - CAVALRY TROOP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-3
+YEOMAN PARAS - PARATROOPER SQUAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 3-4
+WEAPON TEAMS
+VOLLEY TEAM - ANTI-PERSONNEL TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 pts / 3-5
+LIGHT GUN TEAM - ANTI-TANK TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 pts / 3-6
+GRENADIER TEAM- SHOCK TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-7
+MACHINE GUN TEAM - ANTI-PERSONNEL TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-8
+BOMBARD TEAM - SUPPRESSION TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15 pts / 3-10
+SPECIAL
+GROUNDSMEN - SNIPER TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-11
+PAGES - FORWARD AIR CONTROL TEAM  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10 pts / 3-12
+BLACK FANGS - COMMANDO TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20 pts / 3-13
+ATOMIC PILGRIMS - NUCLEAR WEAPONS TEAM . . . . . . . . . . . . . . . . . . . . . . . . .  60 pts / 3-14
+
+INFANTRY - 3-1
+
+FM 100-4-8X
+
+SANTAGRINE MILITIA
+
+SANTAGRINE MILITIA - 5 pts
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q1, T1/1/1
+NBC, Tercio
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+In the warmth of the first spring after the War,
+His Highness set aside his military rank and
+bade farewell to his old commander. Thenceforth, in that first great reflowering of chivalry, he resolved to carry himself as a knight, as
+was his right by blood.
+
+TYPE: MILITIA SQUAD
+
+__________________________
+REMARKS
+Common levy infantry drawn from the
+drome villages dotting the more coherent parts of the surviving countryside. In
+peace-time they function as law enforcement, hunting parties, and aerodrome
+guards. Inferior training; equipment is
+personally owned.
+Typical small arms are surplus bolt-action
+rifles taken from prewar stocks. Support
+weapons are not intermixed into rifle
+squads. A ubiquitous pre-war civilian
+chemical suit, decorated and irregularly
+up-armored, serves as their only “uniform”
+once daubed in baronial colors.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-2 - LINE SQUADS
+
+Before his close friends, His Highness swore
+a crater oath to restore the coronet of Piña y
+Garnise, and to crown himself either with gold
+or lead. With great joy and honor he climbed
+into the cockpit of his gunship and set off to
+justly raise a brave and righteous army from
+the lands of his descendancy.
+- Anonymous, “Chronicle of the Ascendancy of
+the Baron Menaute de Piña y Garnise”
+In the year after the grand war I met for the
+first time my lord the Baron as I stood in my
+yard. Not since the uprooting of the textile
+factory had there been sufficient employment
+for young men as myself; and so when the
+gunship loomed over, and called for brave men
+to follow, I put down my bottle and took up a
+rifle. Thereafter I resolved to serve this noble
+lord and also to get rich.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+MOUNTED SERJEANTS
+
+MOUNTED SERJEANTS - 10 pts
+CAVALRY TROOP
+
+__________________________
+Inf (S), H2, S24”, M8”, Q2, T1/1/1Fearless, NBC
+
+__________________________
+May not embark or desant.
+
+__________________________
+Cavalry Carbine, local manufacture
+All, R8”, A5+/5+, S1/1+, D1,
+Small Arm
+18-oz. Lance Mine
+Vec, R0”, A1+/1+, S6/1, D1, Ammo 2,
+Melee, Shaped Charge
+Heirloom Backsword
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: CAVALRY TROOP
+
+__________________________
+REMARKS
+Veteran mounted raiders and skirmishers
+drawn from the nomadic clans of the glass
+dunes. Typically signed on with baronial
+forces as “reliable” auxiliaries and scouts.
+Most are former or moonlighting banditry
+with an unsavory reputation. Consciously
+imitating the horsemanship of their chivalric ancestors, they’re charge-happy even
+under fire.
+As with drome village militiamen their
+arms are family heirlooms mixed with
+military surplus protective equipment.
+Custom cavalry carbines and backswords
+are typically worn. The bravest nomads
+carry couched lunge mines in the fashion
+of antique lances.
+
+My mount’s steel-shod hooves thunder over
+the stony earth. Bullets sing; a machine-gun
+provides their metronome. Speed—speed—the
+man on my right, my dear friend, is hit—he’s
+carried into the whirling legs of his horse—
+have I been shot?
+Men in my comic books always thought in clear
+sentences, even in split-seconds of danger. This
+is nothing like that. A thousand little motes of
+panic and glee rattle in my head like it’s full of
+gravel. If I live I’ll have time to put them into
+words. If I live.
+A tank erupts into my tunnel-vision. It’s so
+close, death is radiating from its skin. I’m
+swinging the head of my mount to the left,
+raising my lance. The shock of the blast is in
+my ribcage. I am filled with joy at the pain—
+the shrapnel wounds are just garlands.
+- Anonymous
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LINE SQUADS - 3-3
+
+FM 100-4-8X
+
+YEOMAN PARAS
+
+YEOMAN PARAS - 15 pts
+PARATROOPER SQUAD
+
+__________________________
+Inf (S), H1, S16”, M5”, Q3, T1/1-/1Assault Specialist, Fearless, NBC, Paradrop,
+Tercio
+
+__________________________
+
+MhL-48 .455 SMG
+All, R8”, A3+/3+, S1-/1+, D2,
+Small Arm
+Hi-25 2.5-lber Spigot Mortar
+Inf/Vec, R6”, A3+/5+, S7/1+, D1,
+Ammo 3, Light Indirect (0),
+Shaped Charge, Small Arm,
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARATROOPER SQUAD
+
+__________________________
+REMARKS
+The successors of the pre-war Army of
+the Commonwealth: hard-nosed, soberly
+decorated, well-drilled paratroopers permanently retained by baronial estates.
+Airborne raids between floating islands
+typically feature yeoman landing operations to seize air defense emplacements,
+take familial hostages and ransack the area
+for whatever loot that can be found.
+Their standard arm, derived from prewar
+regulation, is the MhL-48 submachine gun
+in .455 Short (11.55mm). One “bombardier”
+per squad carries a 2.5-lber (83mm) spigot
+mortar capable of either direct or indirect
+fire at short range.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-4 - LINE SQUADS
+
+On the floating island of Domingo Apallua,
+His Highness found the aerodrome from
+whence he had once flown as a pilot of the Old
+Army, and marveled at where the end of the
+runway had split clean from the earth.
+Posted in the aerodrome was a company of
+yeoman soldiers. And though they had not
+been paid in months, they continued to clean
+their weapons with care.
+His Highness entreated them, and said: “Will
+you swear your loyalty to me, and help the
+coronet of Piña y Garnise return to its rightful
+brow?”
+And the yeomen replied: “No, sir, we won’t
+swear an oath to a Baron. We have already
+given our loyalty to the Army.”
+But His Highness smiled, and put on his old
+major’s stars. And the yeomen said: “Now we
+may be loyal to you.”
+- Anonymous, “Chronicle of the Ascendancy of
+the Baron Menaute de Piña y Garnise”
+
+FM 100-4-8X
+
+VOLLEY TEAM
+
+VOLLEY TEAM - 5 pts
+ANTI-TANK TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q1, T1-/1-/1NBC, Tercio
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+“Tricorne” Triple RPG, improvised
+Inf/Vec, R8”, A5+/6+, S5/1, D3,
+Ammo 2, Shaped Charge,
+Small Arm, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+I’m a poor boy of Santagria,
+And my mother would sing of the past
+When her people lived as a family
+And their children were fed to the last.
+
+TYPE: ANTI-TANK TEAM
+
+__________________________
+REMARKS
+One of the few weapons still available from
+the largely-plundered government armories, the obsolete “Bajante” RPG offers little
+utility against modern armored targets. A
+uniquely Santagrine solution is to mount
+three stripped-down Bajantes into a singular stagger-firing launcher sharing a
+common trigger group. This configuration
+is referred to by its levied bearers as the
+“Tricorne”.
+Tricorne volleys, while still low-yield, can
+punch through light armor or fortifications
+with successive impacts. Hit probability is
+also significantly improved, compensating
+for the individual rounds’ low velocity and
+suspect accuracy.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+How I miss that old Santagria!
+Where the name of my father was known,
+Where his steed had flown, Santagria,
+All I’ve known, Santagria, my home!
+Santagria, I dream of your deserts
+And their dunes sprung with flowers anew,
+When the Saints in their fields are arisen,
+I am sure that my dream will come true.
+How I miss that old Santagria!
+Where the girls held their tresses in veils,
+Where the flowers grew, Santagria,
+When I’m back, Santagria, I’ll hail!
+From the western range of the martlet
+To the dragon’s clutch in the east,
+I have marched in the arms of my brothers
+Singing songs of the long-coming peace.
+How I miss that old Santagria!
+For the love of your memory, I cry.
+I was born to you, Santagria,
+And for you, Santagria, I’ll die!
+- Anonymous
+WEAPONS TEAMS - 3-5
+
+FM 100-4-8X
+
+LIGHT GUN TEAM
+
+LIGHT GUN TEAM - 5 pts
+ANTI-TANK TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q1, T1/1-/1NBC
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Sb.1 1-lber Gun
+Inf/Vec, R24’’, A5+/xx, S14/2, D1,
+Ammo 3, Defensive CC,
+Shaped Charge, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Now His Highness flew over the country of
+his descendancy, and by his gunship’s loudspeakers he called up a levy of the poor, who
+followed the beat of his rotors until night. In
+the light of the moons they lit a beacon before
+their camp for his safe landing.
+TYPE: ANTI-TANK TEAM
+
+__________________________
+REMARKS
+Anti-tank weapons team armed with the
+Sb.1, an antiquated 1-lber (37mm) infantry gun. Essentially a miniature artillery
+piece, including a recoil mechanism and
+semi-automatic breech. Readily affordable
+by levied troops due to its obsolescence.
+In modern service, the Sb.1 is loaded with
+a 21-lber (160mm) overbore HEAT shell.
+Fired by a blank cartridge, like a rifle
+grenade, this projectile is further boosted
+by a rocket motor in its base. Its accuracy
+is subpar due to the high launch recoil and
+poor projectile aerodynamics. This is generally offset by weight of fire.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-6 - WEAPONS TEAMS
+
+In the morning, His Highness reviewed his
+men. They wore their civilian respirators and
+carried the rifles and pistols of their fathers, if
+any weapon. Seeing that his men were poorly
+armed, His Highness flew to the scarred
+armory at Aradiz, and with his wheels near
+to the ground he blew open its doors with a
+rocket.
+Now the men complained; they said: “My
+Lord Baron, no-one has plundered this place
+for good reason; these old cannons are worthless. We would not hang clothes on them.”
+So said His Highness: “Yesterday you had no
+cannons; today you have bad ones. Tomorrow
+you will have tanks.”
+- Anonymous, “Chronicle of the Ascendancy of
+the Baron Menaute de Piña y Garnise”
+
+FM 100-4-8X
+
+GRENADIER TEAM
+
+GRENADIER TEAM - 10 pts
+SHOCK TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q2, T2/1+/1+
+NBC, Tercio
+
+__________________________
+Engram .32 Machine Pistol
+All, R2”, A5+/5+, S1-/1-, D2,
+Small Arm
+S-5 40mm Grenade Pistol, sawn off
+R6”, D1, Ammo 4, Small Arm
+→ 40mm HE
+Inf/Vec, A4+/4+, S1+/1+,
+Slow Round, Ignore Cover (1)
+→ 40mm Smoke
+Gnd, A++/++, No CC, Smoke (2”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: SHOCK TEAM
+
+__________________________
+REMARKS
+The vanguard of a groundling tercio, or
+“forlorn hope”, is charged with leading the
+assault and covering the more vulnerable
+infantry following them. In keeping with
+chivalric sensibilities, the heavy body
+armor worn for such tasks is usually either
+upgraded heirloom cuirasses or modern
+artisanal reproductions fit to the task.
+Typical armament is an Engram machine
+pistol, carried and fired off the sling, and
+a pair of single-shot, sawn-off grenade
+launcher “pistols”, of which the prewar
+S-5 is the most favored pattern. Explosive
+and smoke shells are carried to flush out
+enemies or create cover for allies.
+
+In the campaign against the city of Moncena
+I fought as a mere footman, as I had yet to
+demonstrate to my lord the Baron any cause
+for special recognition. Before the city the
+Moncenaites had thrown up a great many redoubts upon the mountains and in the defiles;
+and so attempted to frustrate our advance
+until they could curry relief from their allies.
+Our leading men were then armed with grenades, both ones that burst and made smoke,
+and wore heavy chests of good armor. With
+these they manfully stood in the sight of the
+enemy and rooted out his machine-gunners
+from their foxholes. At the sight of this, we poor
+fellow-soldiers were emboldened, and raised
+up a cheer for our lord and our coin-purses,
+and seized the redoubts with the stocks of our
+rifles.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-7
+
+FM 100-4-8X
+
+MACHINE GUN TEAM
+
+MACHINE GUN TEAM - 10 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q2, T1/1-/1NBC, Tercio
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Depredador Cortes .455 MG
+All, R14’’, A4+/xx, S1+/2, D2,
+Defensive CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL TEAM
+
+__________________________
+REMARKS
+A staple of static drome village airfield defenses, the powerful “Depredador Cortes”
+machine gun straddles the line between rifle-caliber support weapons and true heavy
+machine guns with its long .455 (11.55mm)
+cartridge. Dismounted from their static
+nests and pillboxes, they are routinely used
+for groundling tercios’ fire support.
+With extreme service life and periods of
+long storage, most .455 machine guns now
+in service are questionably refitted by rural
+armorers. A common solution for missing
+bipods is a wooden monopod, enabling the
+weapon to be propped and fired in the style
+of an archaic heavy musket or wall gun.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-8 - WEAPONS TEAMS
+
+Now the lobisomem drew very near to our defensive line, and we could see their gold eyes
+aglow in the dark, and hear their jaws popping
+over the chatter of their guns. Such things
+cannot be believed, but only seen. Ramon,
+who had the machine gun, stopped shooting.
+And I saw that he had been shot in the top of
+the head and that the bullet had carried away
+some of his brain.
+I could not mourn him then, for then I would
+soon have cause to mourn myself. I picked up
+the machine gun. Just as I had brought it to my
+hip a wolf rushed out of the night and sought
+to set his teeth in me. I sawed him almost in
+half, and then set about doing it to his fellows.
+I gave them the whole belt, and they were repulsed with great cries of anger and pain. The
+sun rose, and we lived.
+My lord the Baron was first made aware of my
+value to him from this act. But the thought of
+reward never crossed my mind that night. I
+feared that I would die, as did my friend. The
+machine gun was like a floating plank for a
+drowning man.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES - 3-9
+
+FM 100-4-8X
+
+BOMBARD TEAM
+
+BOMBARD TEAM - 15 pts
+SUPPRESSION TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q2, T1-/1-/1NBC
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Hi-14 Three-Quarters Bombard
+Gnd, R24”, D1, Ammo 4,
+Light Indirect (2), No CC
+→ 26-lb HE
+A4+/xx, S[D6], Air-filling,
+Radius (2”)
+→ 14-lb Plutonium Core
+A++/xx, Radius (4”)*
+*Roll a D6 for each unit in the radius.
+If the result is above the unit’s 		
+Quality, it takes max pin, otherwise
+it takes one pin.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: SUPPRESSION TEAM
+
+__________________________
+REMARKS
+Levied indirect fire support team, armed
+with a simple, expediently-manufactured
+spigot mortar (or “bombard”, in Santagrine
+parlance). Derived from wartime austerity,
+the bombard is neither particularly portable nor efficient. Typical munitions are
+improvised, featuring overbore shells with
+guncotton fillings.
+Of infamous utility as an illumination
+and psychological round is the plutonium
+core—a product of the rich, long-mined
+Santagrine deposits of natural fissile ores
+of remarkable purity. Its radioactive glow,
+visible at great distances, often causes
+terror in even NBC-protected troops.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-10 - WEAPONS TEAMS
+
+It’s the plutonium ammo that keeps me up.
+I’m no particle jockey, but I know what to
+look for. The blue glow, that snap-hum. Like
+nothing else. These aren’t star shells, nor a
+lacing job with waste materials. They’re using
+weapons-grade nuclear fuel.
+That’s not to say the yokels that cast these
+things are doing a good job, or even that they
+could figure out the rest of the bomb. It’s the
+flagrant, childish waste that gets to me. The
+greatest riches of the earth—and they make
+party tricks out of it.
+But I guess I can’t fault them for hating the
+would-be conquerors that’ve each come and
+gone. I know, at least, what we’d do with all
+those fissiles. Nothing I like to think about.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-4-8X
+
+GROUNDSMEN
+
+GROUNDSMEN - 10 pts
+SNIPER TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1/1-/1Fearless, NBC, Paradrop, Sense (6”), Tercio
+
+__________________________
+
+SMHH Combination Gun, .276 Barrel
+All, R12’’, A3+/4+, S1/1+, D1, Scoped,
+Small Arm
+12-gauge Slug Barrel
+Inf/Vec, R6’’, A*, S1+/2, D1,
+Underbarrel (SMHH)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A parable:
+
+TYPE: SNIPER TEAM
+
+__________________________
+REMARKS
+Retained huntsmen, game wardens, and
+groundskeepers of a baronial estate. Drawn
+from the best marksmen in his yeomanry,
+and expected to serve as snipers in support
+of airmobile operations.
+Typical armament is the over-under SMHH
+“combination gun”: an accurized bolt-action rifle with an integrated shotgun barrel.
+Slug loads offer potent close-in defense.
+Many groundsmen field their bloodhounds
+alongside them, trained to lie down under
+fire. Originally a practice intended to catch
+poachers on their lord’s land, it has been
+extended against enemy troops as well.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+There lives, on the underside of a floating
+island, a groundsman. He’s getting old; he
+once had the stripes of a corporal when that
+meant something. Every morning he climbs
+topside and guards a little preserve with his
+rifle and his dog. Then he goes back down, and
+in his house cut out of the suspended earth he
+sleeps.
+The island is enviable; he never has the same
+master for long. Sometimes the island shakes
+with the fury of arms raging topside. He just
+takes the day off and naps. The next baron will
+still need him. He’ll go to work; he’ll be paid;
+he’ll eat. Life will go on.
+One evening the island is finally battered too
+much. It splits open. The mystery that kept it
+afloat goes away, and it becomes a big cloud of
+dirt, and a castle, and some radar stations—
+all falling ten thousand feet.
+The groundsman wakes up. He fumbles for his
+parachute. But it’s too late to follow the signs
+now, and the island lands on his head.
+- Brother Torres
+3-11 - SPECIAL
+
+FM 100-4-8X
+
+PAGES
+
+PAGES - 10 pts
+FORWARD AIR CONTROL TEAM
+
+__________________________
+Inf, H1, S32’’, M5’’, Q2, T1/1-/1Fearless, NBC
+
+__________________________
+May activate to call a plane mission during
+the Support Phase, replacing a friendly
+TACOM's turn.
+
+__________________________
+AFME-42/58 .439 Automatic Rifle
+All, R8’’, A4+/6+, S1+/1+, D2,
+Small Arm
+Coincidence Rangefinder, craft-produced
+All, R32’’, A++/xx, D1, Discreet,
+Designator
+The AFME-42 proper was a failure. The pilots
+who got it wanted a survival rifle, not a pig.
+
+TYPE: FORWARD AIR CONTROL TEAM
+
+__________________________
+REMARKS
+
+Sons and young retainers of noble pilots.
+Though the process of “earning one's spurs”
+differs across Santagria, most barons start
+their aspirants out of the cockpit: on the
+ground, as forward air controllers directing their masters' ground attack runs.
+Common equipment includes manpacked
+coincidence rangefinders, radiotelephone
+sets, signal flares, and fine guild-produced
+small arms. The prewar AFME-42/58 automatic rifle, in the heavy .439 (11.15mm)
+caliber, is the typical basis for such quality
+copies. Very few originals exist, and fewer
+in working order.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-12 - SPECIAL
+
+So why the copies, the second life? The new
+knights forgot what it was like to use one. They
+wanted it because it used to hang in cockpits.
+It had flyboy's spirit.
+- Rayleigh Irving, Federal Intelligence
+At Colonna our column came under a thick
+barrage of “coalboxes” (as the men call the
+Federal shells), and if not for the sunken road
+we would have been as trimmed flat as the
+grass. It was here I saw the son of my lord the
+Baron, standing up with his eyes to his binoculars despite the roar of the falling thunder.
+I ran to him and said: “My lord, you must lie
+down; the shells will leave nothing to bury.”
+And he said: “I am afraid, Sebastian, but the
+men and my father are watching!”
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+BLACK FANGS
+
+BLACK FANGS - 20 pts
+COMMANDO TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q4, T2/1+/1+
+Assault Specialist, Fearless, NBC
+
+__________________________
+LMG, various make & caliber
+All, R10”, A2+/3+, S1/1+, D2,
+Small Arm
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22’’, A4+/xx, S4/4, D4,
+Ammo 1, No CC (Inf.), Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: COMMANDO TEAM
+
+__________________________
+REMARKS
+Elite luparic commandos: the remnants of
+a historic order of berserker-janissaries.
+Once, the hand-raised attack dogs of their
+master barony; now, masterless drifters
+serving a variety of post-nuclear scions.
+Black Fangs are physically and mentally
+conditioned from birth, channeling their
+racial bloodlust into a silent war-trance.
+Small arms wounds that are not immediately lethal are often simply ignored.
+As some of the best ground troops available
+to a baron’s retinue, Black Fangs are armed
+to the teeth—up to and including helicopter rocket pods, fired from the shoulder.
+
+The lineage of these misbegotten “knights”
+runs long. Their first progenitors were taken
+from the forest, skinned with armor and given
+long steel claws, for use as terror-troops in
+our holdings in the Overseas. Formally, they
+were (and are) the Order of Saint Roisin; but I
+doubt even their masters, to whose wall-burnt
+shadows they now cry out to in the night, ever
+called them that.
+They live in a fantasy, these monsters, hairless, pale brutes sprinkled with fine silver dust.
+That’s fine; a good, fiery delusion is the right
+of any Santagrine. But it must be his own
+choice to get lost in it. His impossible dream
+must be his own.
+The Black Fangs have been beaten in mind
+and body since the day they were whelped.
+Now they can’t help but believe their own mystique—that knighthood is obedience, and that
+virtue lies in killing savagely on command,
+stopping suddenly when bidden—losing themselves in their task. Perhaps they would like
+to forget about themselves. An animated suit
+scarcely needs introspection, after all.
+- Brother Torres
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SPECIAL - 3-13
+
+FM 100-4-8X
+
+ATOMIC PILGRIMS
+
+ATOMIC PILGRIMS - 60 pts
+NUCLEAR WEAPONS TEAM
+
+__________________________
+Inf, H1, S24’’, M4’’, Q4, T1-/1-/1Fearless, NBC
+
+__________________________
+Engram .32 Machine Pistol
+Inf, R2”, A5+/5+, S1-/1-, D2,
+Small Arm
+“Violet Mace” Recoilless Gun, Nuclear
+Gnd, R24'', A++/xx, D1, Ammo 1,
+Nuclear (1”-2”-6”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: NUCLEAR WEAPONS TEAM
+
+__________________________
+REMARKS
+Rare, special-purpose superheavy weapons
+team armed with the “Violet Mace” nuclear
+smoothbore recoilless gun. Although the
+prewar stockpile of Violet Mace rounds is
+almost entirely expended, the weapon sees
+continued use via “handloading”: filling
+empty training bomb casings with new
+cores of dubious quality. The Violet Mace’s
+kill probability against any ground targets
+inside 150 meters approaches 100%.
+Most teams carry only one atomic bomb,
+and cannot expect resupply from common
+field logistics. They will stop for nothing to
+fire their single round at a priority target.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-14 - SPECIAL
+
+There isn’t much truly left of Santagria before
+the War. Yes; there’s plenty written; and many
+men who lived then and still live. But the pulse,
+the living, breathing country—that is dead.
+Like a heart, interrupted for long enough, it
+will never restart. You can approximate it,
+make a good successor; but you'll never have
+it back. A man born into the new world will
+never really know, in his heart, the old.
+In those past days we pilgrims didn't wear
+habits, but uniforms; and we swore oaths not
+to the Chain Reaction but to king and country.
+Some people wish to preserve these ashes, or
+to dig even deeper into the past—to pull up
+the battered helmets of old horse soldiers and
+play at jousting. We reject these bone-piles. We
+maintain the fire: that holy fire, that remaking fire.
+A man worships that which has power over
+everything else. The atom bomb remade Santagria; it is the new god—and so it is worthy of
+worship. I have seen the double flash up close;
+and it is beautiful.
+- Brother Torres
+
+FM 100-4-8X
+CHAPTER 4
+
+VEHICLES & TOWED GUNS
+Santagrine armor generally consists of those vehicle patterns introduced before the end
+of the Thirty-Six Years’ War: either drawn from surviving stockpiles or newly manufactured with
+surviving tooling and plans. Their mechanized support is charitably obsolete, but capable of
+holding its own through unorthodox armaments and a large pool of battle-hardened crews.
+LOGISTICS
+STEAM TRACTOR - PRIME MOVER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 pts / 4-2
+WAR WAGON - TOWED PERSONNEL CARRIER  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 pts / 4-3
+PERSONNEL CARRIERS
+CB.76 “MISÉRICORDE” - AIRMOBILE ASSAULT GUN . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 4-4
+“EXTO” - LOGISTICS CRAWLER  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 pts / 4-5
+ARMOR
+“HEXAMER” - TRACTOR TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-6
+VC.2 “VELDJEN” - MEDIUM TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-7
+VC.44R “WHIRLWIND” - MAIN BATTLE TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 pts / 4-9
+VE.378 “CATAPHRACT” - HEAVY TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 pts / 4-11
+“VAUBAN” - LAND FRIGATE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 pts / 4-12
+FIRE SUPPORT
+FIELD GUN - TOWED ANTI-TANK GUN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-14
+SB.15 1-LBER “POM-POM” - TOWED ANTI-AIR GUN  . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-15
+CB.61 “GALGO” - AIRMOBILE ARMORED CAR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 pts / 4-16
+SB.18 22-LBER “RETUMBO” - TOWED ANTI-AIR GUN  . . . . . . . . . . . . . . . . . . . . . . 20 pts / 4-17
+OSM “MOGUL” - SELF-PROPELLED SIEGE GUN . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 pts / 4-19
+SPECIAL
+LDAL “PIETRO” - LANDING CRAFT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 4-20
+
+VEHICLES - 4-1
+
+FM 100-4-8X
+
+STEAM TRACTOR
+
+TYPE: PRIME MOVER
+
+__________________________
+REMARKS
+Antiquated model of steam-driven road
+locomotive. This class of traction engine
+was obsolete for several decades before the
+atomic war. It now serves its original role
+in places where nothing more modern can
+be maintained.
+Slow; high torque. Often up-armored with
+crude plates in reclaimed foundries.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+STEAM TRACTOR - 5 pts
+PRIME MOVER
+
+__________________________
+Vec (W), H2, S16”, M6”, Q2, T4/4/3
+NBC, PC (1, Any), Tow (16)
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A5+/6+, S1/1+, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-2 - LOGISTICS
+
+Now Ravelino threw up his hands and said,
+“Sebastian, the tank is hopelessly mired; we
+can't drag it out of the ditch. We will have to
+abandon it.”
+But I shook my head. “Stay with the tank,
+Ravelino. I'll ask the people here if they can
+help.” And I slung my rifle over my back and
+walked.
+It was time for plowing, and the tough soil
+of the fields was attacked by many hands. I
+came across an old man, who was driving an
+older traction engine. This one was without its
+armor. And it was beautiful: a snorting black
+iron horse, enormous, with apple-green trim.
+We hooked the engine by Ravelino's towing
+cable to the ditched tank, and disconnected the
+final drives. The old man doffed his hat, and
+the engine's great wheels bit the earth. Like a
+turtle emerging from a bog, the tank slid out
+of the hole.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+WAR WAGON
+
+TYPE: TOWED PERSONNEL CARRIER
+
+__________________________
+REMARKS
+Various patterns of towed logistics wagon,
+converted into an ad-hoc personnel carrier.
+Irregularly up-armored with wrought iron
+or steel plates. Resistant, but not entirely
+proof, against rifle rounds.
+War wagons are the basic logistics and
+troop carriage system for baronial armies,
+paired with a dedicated prime mover or
+tow-capable combat vehicle.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WAR WAGON - 5 pts
+TOWED PERSONNEL CARRIER
+
+__________________________
+Vec (C), H2, S8”, M0”, Q1, T3/3/3
+NBC, Tow (∞), PC (4, Any), Resupply (2)
+
+__________________________
+Engram .32 Snub Nose, driver’s issue
+Inf, R2”, A5+/5+, S1-/1-, D1,
+Small Arm
+
+The Santagrines weren't always like this. Go
+back to old Hendrik van Veldjen's time; to our
+Secession, “robed in musket's breath”, as goes
+the song. Sure, they loved their symbolism then
+as they do now. But they had some self-respect.
+Back then, with pike and sword in hand, they
+were the best in the business; and on our old
+master's pay, they came to kill our forefathers.
+Hard-nosed, gutsy, mustachioed veterans to
+a man: they took pride in being a cut above.
+They called us “beggars”.
+Now they ride into battle like this.
+- Rayleigh Irving, Federal Intelligence
+For one month a father and son had forged the
+iron plates and riveted them to the wagon. A
+carpenter made the shields, and an artist from
+the burnt downtown painted them. It was a
+wagon that the local levy was proud to man.
+In their first engagement, an RPG struck it.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LOGISTICS - 4-3
+
+FM 100-4-8X
+
+CB.76 “MISÉRICORDE”
+
+TYPE: AIRMOBILE ASSAULT GUN
+
+CB.76 “MISÉRICORDE” - 15 pts
+
+REMARKS
+
+__________________________
+
+Lightly armored assault gun. Capable of
+parachute deployment. A post-war product
+of the wealthy Free City's guilds, marketed
+to yeoman paratrooper formations across
+Santagria. Simple, readily maintained, and
+capable of a wide variety of roles as the situation demands.
+
+Vec, H1, S24”, M8”, Q3, T5/4/2
+NBC, Paradrop, Tow (2)
+
+Uses a 40x40mm infantry base. May fire while
+
+Primary armament is a 20-lber (94mm)
+short-barreled “mountain gun”, firing low
+velocity HESH ammunition. With extremely little space inside the fighting compartment, ammunition is carried in armored
+“saddles” along the tracks and loaded via
+an access hatch. A .305 (7.76mm) machine
+gun is fitted to a pintle mount as backup.
+
+MhL-42 .305 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+Sb.21 20-lber Mountain Gun
+R24”, D1, Ammo 3, No CC (Inf.)
+→ 20-lb. HESH
+Inf/Vec, A4+/6+, S8/3
+Shaped Charge, Slow Round
+→ 20-lb Smoke
+Gnd, A++/++, No CC, Smoke (3’’)
+
+__________________________
+
+The roof of the Misericorde is covered in
+exposed troop benches. While originally
+meant with towed artillery crews in mind,
+these seats are usually filled in practice by
+regular infantry.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-4 - PERSONNEL CARRIERS
+
+AIRMOBILE ASSAULT GUN
+
+__________________________
+carrying desanting infantry. Carries up to PC
+(3) desants instead of PC (2).
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A park bench with a snubnose cannon. Hey,
+your production lines have to start somewhere.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-4-8X
+
+“EXTO”
+
+TYPE: LOGISTICS CRAWLER
+
+“EXTO” - 25 pts
+
+REMARKS
+
+__________________________
+
+Retrofitted remnants of the pre-war space
+program. As no major space launch infrastructure remains in Santagria, the unused
+launch vehicles have been left to rust in
+open-air storage. Various baronial actors
+have cannibalized these large, sturdy parts
+for use as heavy logistics vehicles.
+
+Vec, H2, S32”, M8”, Q2, T4/4/4
+Leviathan (2), NBC, PC (6, Sides), Resupply
+(4), Tow (3)
+
+__________________________
+
+Most examples of the “Exto” consist of the
+lower half of a launch vehicle's first stage:
+the emptied fuel tank and the (now-useless) engines. The original nosecone has
+been welded onto the front of the vehicle
+and converted into a helmsman's space.
+The entire system rests on large industrial
+tracks taken from various derelict sources.
+While very large and poorly armored, the
+Exto's sheer volume grants it some survivability as well as a generous personnel capacity. A center-mounted, radar-directed
+2-lber (37mm) naval autocannon provides
+anti-aircraft cover and fire support.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY SUPPORT CRAWLER
+
+__________________________
+
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+SAE 2-lber AA Gun
+All, R36”, A4+/5+, S5/7, D2,
+Ammo 4, No CC (Inf.),
+Radar Anti-Air, Turret
+Turn up your nose at it; show your disgust for
+such a barbaric waste—our future among the
+stars, strangled in the crib! I don't care. It was
+always too little, too late. We were the last to
+join the scramble for space power; and when
+the War came, we were not ready to catch
+what was thrown our way. A waste to bother!
+This way, the rockets are still good for something. A long night's transit through the glass
+dunes may as well be through the void.
+- Brother Torres
+PERSONNEL CARRIERS - 4-5
+
+FM 100-4-8X
+
+“HEXAMER”
+
+TYPE: TRACTOR TANK
+
+“HEXAMER” - 10 pts
+
+REMARKS
+
+__________________________
+
+Obsolete tractor tank: an expedient steel
+shell, mounted over an antique agricultural tractor. Originally a Federal design, vast
+numbers were stockpiled in a decades-old
+invasion readiness program. They may be
+found in any barn in Santagria.
+
+Vec, H2, S16”, M6”, Q2, T4/4/3
+NBC, Tow (6)
+
+__________________________
+
+Following the nuclear war, many have been
+reactivated for levied service. The pattern
+has even seen new cottage industry production owing to its simple design. It can
+run on a wide variety of fuels.
+Primary armament is the Sb.1 low-velocity
+gun, mounted in a one-man turret. While
+useless in the antitank role, it remains modestly potent as an antipersonnel weapon
+firing 1-lber (37mm) ammunition. Most
+are also fitted with a light machine gun.
+Smoke shells—modified from condemned
+stocks of infantry smoke grenades—offer
+modest utility in screening advances.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TRACTOR TANK
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+Sb.1 1-lber Gun
+R20”, D1, Ammo 4, Turret
+→ 1-lb. APDS
+Vec, A4+/6+, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, A4+/6+, S1+/2,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 1-lb. Smoke
+Gnd, A++/++, No CC, Smoke (2'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+It was rotting in its shed even before I was
+born. But when my lord called me to arms, its
+tracks tore free of their rust and turned.
+- Anonymous
+
+ARMOR - 4-6
+
+FM 100-4-8X
+
+VC.2 “VELDJEN”
+
+TYPE: MEDIUM TANK
+
+VC.2 “VELDJEN” - 20 pts
+
+REMARKS
+
+__________________________
+
+One of the most common patterns of Santagrine armor in service. Drawn from mothballed tanks that survived the atomic war,
+and continuously repaired and maintained
+by specialist craftsmen across the land. The
+bread and butter of free tank companies in
+the glass dunes. Many exhibit early-model
+design features no longer seen elsewhere.
+
+Vec, H2, S32”, M6”, Q2, T8/6/5
+NBC, Tow (3)
+
+__________________________
+
+Primary armament is one of several locally
+produced patterns of 14-lber (76mm) rifled
+guns, featuring several minor design improvements over the original Federal guns
+installed. Along with stock APHE ammunition these are usually supplied with HESH
+and smoke shells.
+Secondary armament varies by each tank
+commander, but usually consists of a .50
+caliber (12.7mm) heavy machine gun, of
+which the prewar MhL-60 is most common.
+
+MEDIUM TANK
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+MhL-60 .50 HMG
+All, R20”, A4+/5+, S2/3, D2
+Multi-Gun
+14-lber Gun, various make
+R32”, D1, Ammo 6, Turret
+→ 14-lb. APHE
+Vec, A4+/6+, S8/12, No CC (Inf.),
+Slow Round
+→ 14-lb. HESH
+Inf/Vec, A4+/6+, S7/2, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 14-lb. Smoke
+Gnd, A++/++, No CC, Smoke (3'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-7
+
+FM 100-4-8X
+
+4-8 - SUPPLEMENTAL FILES
+
+FM 100-4-8X
+
+VC.44R “WHIRLWIND”
+
+TYPE: MAIN BATTLE TANK
+
+VC.44R “WHIRLWIND” - 35 pts
+
+REMARKS
+
+__________________________
+
+Indigenous first-generation main battle
+tank. Originally a contemporary of the Razorback (see FM 100-1-8X), the Whirlwind
+is now mass-produced by guild factories
+and fitted with a variety of modernization
+packages. Used by mercenary armor companies and baronial ground forces alike.
+Inferior armor array by modern standards.
+
+Vec, H2, S32”, M10”, Q2, T12/6/5
+NBC, Tow (5)
+
+__________________________
+
+Primary armament consists of various patterns of 24-lber (90mm) rifled gun. These
+are designed for ammunition compatibility with Commonwealth standard rounds
+(usually APDS, HESH, and smoke shells). A
+coaxial machine gun provides backup.
+Equipped with a large, powerful gas turbine
+engine derived from helicopter powerplants, offering a high top speed. A quirk of
+the drivetrain results in rapid turns to the
+right (the direction of the engine’s massive
+torque) while left turns are slowed.
+
+MAIN BATTLE TANK
+
+__________________________
+This unit ignores up to 90 degrees of rotation
+to the right, but must pay an additional 1” the
+first time it rotates to the left in a move.
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+24-lber Gun, local manufacture
+R40'', A3+/4+, D1, Ammo 4,
+No CC (Inf.), Turret
+→ 24-lb. APDS
+Vec, S12/18
+→ 24-lb. HESH
+Inf/Vec, S8/3, Shaped Charge,
+Slow Round
+→ 24-lb. WP Smoke
+Gnd, S1+/1+, Ignore Cover (2),
+Smoke (3’’), Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-9
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+“YOU’LL ALWAYS know a Whirlwind crewman from across a tavern, just look for a cracked smile
+and head fixed at a half-cock. After all, the gun’s stabilised, the seats aren’t and I’ve seen the way
+they take those things over (off) the glass dunes. But they will always be smiling. To them a mouthful of split and chipped teeth isn’t a disfigurement, it’s a badge of pride, a promise of what they are
+and will ever be. The arrogance is infectious; you might not even notice the winces, or the way their
+beer gets a little pinker with each gulp.”
+- Sgt Pieter Barnhard (ret.), Making A Killing: Six Years A Sellshot In The Santagrine Baronies
+THERE IS a trick that mercenary tankers play on new recruits. They put them behind the reins of
+the beast and ride with the throttle wide open. For many miles they tear up the old roads, widen the
+cracks in the asphalt just a little further. The massive gas turbine roars like a dragon. The tank leaps
+over potholes and hilltops and rattles the teeth from the men in the turret. Then the commander
+calls for a halt.
+The driver is the lowest man. His are the fatigue jobs: fluid checks, greasing, and track maintenance.
+He is told that the Whirlwind is a wonder of the age, despite its many coats of paint. You see, they
+say, the track links come with warning lights. See how the connectors are bright red between them.
+To dismiss the warnings you need to touch the light. Go ahead; ignore the smell. Put your finger on
+it. Touch the little red dots.
+- Brother Torres
+MY FIRST BATTLE was to seize Teneceres, a small orange-grower’s village in league with the city
+of Moncena, and a good staging-point for the supply train of my lord the Baron. Now his attention
+was turned elsewhere; and knowing that the levy of Teneceres was scant, he bid our small contingent to seize it without the gaze of his gunship’s barrels.
+Our tercios assembled at the ready-line, and at first light the signal-flares were fired to set us off. As
+long as I live I will remember the sight and sound with more detail than the finest painting. The
+Tenecerites opened fire at six hundred paces with their machine guns; their tracers swept low over
+the mud and sand like evil spirits. And we, the poor excited fools, among whom I numbered, were
+pierced three men to each round.
+We would have been repulsed in disgrace and disarray were it not for our five tractor tanks, rolling
+slowly over the land like steel beetles. Crouching behind them we made good the six hundred paces,
+amidst the crump of their snub-nosed guns and the sound of hurricanes falling upon tin roofing.
+Now we drew very near, and the contest was man to man. I saw my first mark and took aim...
+- Sebastian Fitzcarraldo, Coronet Serjeant, Retinue of Baron Menaute de Piña y Garnise
+
+4-10 - SUPPLEMENTAL FILES
+
+FM 100-4-8X
+
+VE.378 “CATAPHRACT”
+
+TYPE: HEAVY TANK
+
+VE.378 “CATAPHRACT” - 40 pts
+
+REMARKS
+
+__________________________
+
+Old-fashioned heavy tank. The workhorse
+of free tank companies and baronial retinues. Once extremely tough, improving
+technology makes its frontal armor array
+roughly equivalent to that of a modern
+MBT, though mobility remains deficient.
+No smoke launchers or shells are provided.
+
+Vec, H2, S32”, M6”, Q2, T16/10/6
+NBC
+
+__________________________
+
+Primary armament is the Sb.92 55-lber
+(120mm) rifled gun, firing APDS and HESH
+ammunition with separated warheads
+and propellant charges. While retrofitted
+with a new fire control and thermal optics
+package, its gun stabilizer is too burdened
+to permit accurate moving fire. HESH
+shells are notably less accurate than sabot
+due to faults in its FCS ranging calibration.
+The Cataphract features two separate secondary weapon systems. A coaxial heavy
+machine gun offers excellent antipersonnel firepower. A secondary turret mounts
+a 1-lber (37mm) low velocity gun operated
+by the tank commander.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HEAVY TANK
+
+__________________________
+MhL-60 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+Sb.1 1-lber Gun
+R20”, A4+/6+, D1, Ammo 3,
+Multi-Gun, No CC (Inf.), Turret
+→ 1-lb. APDS
+Vec, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, S1+/2, Ignore Cover (1),
+Slow Round
+Sb.92 55-lber Gun
+R40”, D1, Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+→ 55-lb. APDS
+Vec, A2+/5+, S14/21
+→ 55-lb. HESH
+Inf/Vec, A3+/5+, S9/4,
+Shaped Charge, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-11
+
+FM 100-4-8X
+
+“VAUBAN”
+
+TYPE: LAND FRIGATE
+
+“VAUBAN” - 60 pts
+
+REMARKS
+
+__________________________
+
+Superheavy tank: a “land frigate”, with
+an armament imitating that of a small
+warship. Each Vauban is a unique product
+of post-war manufacture: massive, heavily-armed, and hideously expensive, they
+represent rolling displays of wealth for
+baronial forces.
+
+Vec, H2, S32’’, M6’’, Q4, T6/6/4
+Leviathan (3), NBC
+
+__________________________
+
+The typical armament is a trio of naval
+weapons: a 14-lber (76mm) autocannon
+capable of engaging ground and air targets,
+a radar-guided close-in weapon system
+(CIWS) capable of intercepting incoming
+missiles, and a battery of its own vertically-launched general-purpose missiles for
+engaging targets at long range.
+Vaubans are typically thinly armored, as
+they are already heavy enough without it.
+Their sheer size, large crews, and partitioned interiors permit them to continue
+fighting even after suffering fatal hits.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-12 - ARMOR
+
+LAND FRIGATE
+
+__________________________
+Takes pin like a Tercio. May desant at PC (4).
+If the CIWS has not been destroyed, the unit
+gains Active Protection (∞). This Protection
+has infinite ammo but only triggers once per
+round and only against Guided Missiles.
+
+__________________________
+GAP-61 .61 CIWS
+All, R24’’, A4+/4+, S3/4, D3,
+Multi-Gun, Radar Anti-Air, Turret
+SAP 14-lber Naval Gun
+R40”, A4+/4+, D2, Ammo 4,
+No CC (Inf.), Radar Anti-Air,
+Slow Round, Turret
+→ 14-lb. APHE
+Vec, S8/12
+→ 14-lb. Proximity Fuze HE
+All, S3/3, Air-Filling
+VIM-4 “Copa” 90-lber VLS Missiles
+Vec/Air, R24-60”, A4+/4+, S8/8, D1,
+Ammo 4, Air-Filling,
+Guided Missile (2), Radar Anti-Air,
+Turret
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+II.
+“Sir. Martzol here. New report,” came a tremorous voice on the radio.
+The cabin fan wasn’t working. Eladio toggled the switch again. One more time. No luck. He scowled.
+“Sir is busy. Speak on and I’ll convey,” Próspero said.
+“We’ve lost the first ridge and are falling back through the defilade. In good order.”
+“Certainly.”
+“But…” Now, he hesitated.
+“Serjeant, now’s not the time for you to lose your nerve. Speak on.” Impatience, with a tinge of
+genuine concern. Martzol was rock solid, this was unlike him.
+“We’ve no word from the second and third tercios. Maradona and De La Fuente haven’t reported
+back. All quiet eastways.”
+Próspero was silent. The calculus of battle proceeded in his mind. Eladio assumed, as he gave up
+on working the fan, that they had drawn the same conclusion. Dead men. Flanking squads of
+long-striding, ashen marionettes with chattering carbines.
+“Continue as our original plan dictates. Redoubt. Tighten up under the big guns. We’ll arrive
+shortly and set things right,” Próspero finally answered.
+Another minute of pensive silence. They were up off the trailer. Headed skywards. Hill country of
+tawny, dry grass dotted by copses of gnarled trees with waxy leaves stretched out before them. They
+left their jury-rigged convoy of lumbering freight-haulers below. Peasant vehicle crews, the household flight crew, and that final, largely symbolic defensive picket all gawked as their liege rose and
+roared off upon his war-beast.
+The report gnawed at Eladio as he guided their steed. “They didn’t even get word to him.” His eyes
+stung, despite himself.
+“There’s a reason Martzol tried to insist against flying the standards today, and I with him. They
+probably put them back up when he wasn’t looking. We offered our asses up. Rygoles are smart.
+Dolls, smarter than us. No pride in them.” The old marshal spoke with clarity and control.
+Eladio couldn’t tell if it was a brave face being put on or if the man was truly back in his element.
+He kept them low. A whole forest shuddered below them, becoming a wake of soft green under a
+sunset patina.
+SUPPLEMENTAL FILES - 4-13
+
+FM 100-4-8X
+
+FIELD GUN
+
+TYPE: TOWED ANTI-TANK GUN
+
+FIELD GUN - 10 pts
+
+REMARKS
+
+__________________________
+
+Various models of obsolete light field gun
+operated by groundling militias in fire
+support and anti-tank roles. One of several
+antique weapon systems plundered from
+government armories after the war. Caliber
+varies by model, but typically falls within
+105 to 120mm.
+
+Vec (C), H1, S32”, M3”, Q2, T2/1/1
+NBC
+
+__________________________
+
+All such field gun types are designed for
+direct fire over open sights, rather than
+indirect bombardment. Even with a gun
+shield they are extremely vulnerable to
+return fire. Baronial forces typically distribute field guns throughout an armored
+force rather than in discrete batteries: individual tanks may tow their own gun into
+action, leaving it in a flanking or fallback
+position.
+
+TOWED ANTI-TANK GUN
+
+__________________________
+This unit uses a 40x40mm base.
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Field Gun, various make & caliber
+R40'', D1, Ammo 4, No CC
+→ HESH, variable weight
+Inf/Vec, A4+/xx, S9/4,
+Shaped Charge, Slow Round
+→ Gas, variable composition & weight
+Gnd, A++/xx, Chemical Weapon (4'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Many ammunition factories mill new ammunition for field guns: typically HESH and
+poison gas rounds of varying composition.
+
+When our tank left us, we stood quite alone. I
+listened to the distant diesels and grew terribly
+aware of the thickness of the gun shield.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+4-14 - FIRE SUPPORT
+
+FM 100-4-8X
+
+SB.15 1-LBER “POM-POM”
+
+TYPE: TOWED ANTI-AIR GUN
+
+SB.15 1-LBER “POM-POM” - 10 pts
+
+REMARKS
+
+__________________________
+
+Obsolete towed autocannon: one of the
+first such designs. Nicknamed the “pompom” owing to its distinctive sound.
+Between arsenal stockpiled weapons and
+post-war craft production, enough exist to
+widely arm groundling militias across Santagria. Often deployed as drome village air
+defenses, or towed by tank commanders as
+personal anti-aircraft protection.
+
+Vec (C), H1, S32”, M3”, Q2, T2/1/1
+NBC
+
+__________________________
+
+The original low explosive ammunition
+has been replaced with specially milled
+1-lber (37mm) ballistic capped high explosive tracer rounds. With low muzzle velocity, armor penetration is substandard for its
+bore size.
+While a wide variety of mounts exist, in
+typical field use the weapon is fitted to a
+flexible high-elevation mount on a standard two-wheeled carriage.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TOWED ANTI-AIR GUN
+
+__________________________
+This unit uses a 40x40mm base.
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Sb.15 1-lber Autocannon
+All, R32'', A4+/xx, S4/6, D2, Ammo 4,
+Tracking Anti-Air, Turret, No CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Alfonso the Brave had eighty victories to his
+storied name; on his memory wall hangs eighty
+gunsights. But while diving over the front, in
+defense of his cousin Bernal, he strayed far too
+low for too long. And from some unstoried
+gun on the ground came a shell that burst
+under his armpit.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+FIRE SUPPORT - 4-15
+
+FM 100-4-8X
+
+CB.61 “GALGO”
+
+TYPE: AIRMOBILE ARMORED CAR
+
+CB.61 “GALGO” - 15 pts
+
+REMARKS
+
+__________________________
+
+Light armored car. Capable of parachute
+deployment. A post-war model, built with
+speed and low weight in mind. Produced
+across Santagria owing to its expedient
+design. Popular among groundling militias
+as an affordable patrol and convoy security
+vehicle, and among yeoman paratroopers
+for recon and breakthrough exploitation.
+
+Vec (W), H2, S32”, M10”, Q3, T4/3/2
+NBC, Paradrop
+
+__________________________
+
+Primary armament is a turret-mounted .61
+(15.4mm) heavy machine gun offering excellent range and anti-materiel capability.
+While smoke launchers partially compensate for its poor armor, the Galgo's survivability lies mainly in its high speed. In
+head-to-head engagements its limited firepower and durability are serious liabilities.
+Yeoman crews are trained to avoid such
+engagements where possible.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AIRMOBILE ARMORED CAR
+
+__________________________
+MhL-77 .61 HMG
+All, R24”, A4+/5+, S3/4, D2, Turret
+No. 20 4-lb. Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC,
+Smoke (2''), Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Raw speed and power-to-weight ratio. Proof
+that cars can fly, and I'm not talking about the
+parachute. Handles like a race car. If you've
+got an autocannon, it's a do-it-yourself colander. But that's just the lot of a recon vehicle.
+It's always the yeomanry that get the job. Both
+their superiors and inferiors balk at the idea of
+driving forwards until they explode.
+- Rayleigh Irving, Federal Intelligence
+
+4-16 - FIRE SUPPORT
+
+FM 100-4-8X
+
+SB.18 22-LBER “RETUMBO”
+
+TYPE: TOWED ANTI-AIRCRAFT GUN
+
+SB.18 22-LBER “RETUMBO” - 20 pts
+
+REMARKS
+
+__________________________
+
+Emblematic general purpose field gun
+of the old Army of the Commonwealth,
+adopted by its baronial successors. Originally designed as an air defense complex
+to contend with high altitude bombers.
+While no longer useful in that role against
+modern aircraft, it has seen continued
+use against low fliers and for both direct
+and indirect fire missions against ground
+targets.
+
+Vec (C), H2, S32”, M2”, Q2, T2/1/1
+NBC
+
+__________________________
+
+The gun's anti-tank capability is hampered
+by its simplistic uncapped 22-lber (88mm)
+AP rounds. HE-frag and timed fuze rounds
+remain effective against ground and closein air targets.
+Many Retumbos are retrofitted with imported air search radars, permitting each
+gun to track and fire on low-flying aircraft
+independently. The gun, still laid by handwheels, has difficulty tracking close targets.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TOWED ANTI-AIR GUN
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Sb.18 22-lber Anti-Aircraft Gun
+Ammo 4, No CC, Radar Anti-Air,
+Turret
+→ 22-lb. AP
+Vec, R40”, A3+/xx, S8/12, D1,
+Slow Round
+→ 22-lb. Timed Fuze HE
+All, R40”, A4+/xx, S3/3, D1,
+Air-Filling, Slow Round
+→ 22-lb. Frag
+Gnd, R∞”, A4+/xx, S[D3], D2,
+Air-Filling, Heavy Indirect (3),
+Radius (2'')
+One round, one plane. You need steady hands
+and practice. You'll get your practice.
+- Rayleigh Irving, Federal Intelligence
+FIRE SUPPORT - 4-17
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+THREE KLICKS ahead of us, Baron Vigo was edgy. His men were still out of position in the woods
+around the cannery, and he was pacing angrily around his Castellan and swearing nonstop into
+his radio. I was eavesdropping on him with my radioman. Vigo said “mierda” at the end of every
+order, or “culo”. Set up that field gun, “mierda”. Zero to four hundred, “mierda, culo”. The whole
+levy, excepting his own petite retinue of badly concealed tanks, were poorfolk, and many were only
+recently employed at the site of the coming battle. If Vigo lost the property, the peasants stood to lose
+just as much as the baron.
+Minutes passed before my radioman gave me a hard threat confirmation: N.R.H. mechanized
+element, platoon-strength, doing about eighty on both sides of the highway, and nearly due at
+Vigo’s position. I had my translator give him the bad news. Right away Vigo shut up and bolted into
+his hatch. For long minutes, the Santagrines were silent.
+Were they soldiers, the ambush would have been beautiful; wary of our blue tanks on the horizon,
+the constructs tore off the road to assume a covered position at the cannery, right on top of the
+Baron’s guns. When the cars showed up, the Baron’s first line volleyed, though too early, and hell let
+loose throughout the parking lot. There resulted a series of unfortunate crossfires on the Baron’s own
+tercios, a few detruncated Rygomen, and Legionnaires pouring out of a row of smoking Candors.
+The rear of the element quickly arrived with two Cabals and an X-Ray. It didn’t take long for the
+militia to realize they weren’t winning. Shots scored the facade of Smoote’s Cannery, the good side
+you see from the parking lot, where the smile of Smorton Smoote himself gleams from a mural.
+Vigo had a last moment to swear before he was forced to engage with his retinue. Just like that, four
+tanks in candy colors broke concealment and rushed into the open. The Cabals went down in the first
+barrage, with about half the militia rallying at the sight of it, but the X-Ray was unflappable; in a
+short time, the Baron’s retinue had been whittled down to just his own Castellan and a detracked
+Whirlwind. All the while, about a dozen militia were sheltering behind his tank.
+Now, I reckon that I must have seen those Legionnaires set up their missile before anyone else, but
+no sooner than I myself could have said it aloud did the danger announce itself. I could all but hear
+the unmistakable staccato of a Side Fast motoring toward the side of the Baron’s tank.
+What happened next was fast, fast enough to make me believe he had practiced: Without missing
+a beat, the Baron bellowed into his microphone. All at once, the Whirlwind spun its turret and
+the Baron’s driver threw his tank into reverse. In a single, beautiful stroke, the Castellan heaved
+backward as it was embraced by a grasping cloud of white phosphorus. Mud flecked the cloud as it
+pillowed over the Castellan. The missile came through one side and out the other.
+Militia lighted out from the phosphorus. Those who had not been crushed under the Baron’s treads
+hit the open ground, red and screaming, as if they had just been ripped from their mothers’ wombs.
+Eventually, I’d seen enough. I ordered my men to advance and clean up. The Baron kept his cannery,
+and the Smoote company formally reached out to thank him, even sending him a bonus.
+- Johannes Veeneman, F.S-A. General Staff
+4-18 - SUPPLEMENTAL FILES
+
+FM 100-4-8X
+
+OSM “MOGUL”
+
+TYPE: SELF-PROPELLED SIEGE GUN
+
+OSM “MOGUL” - 40 pts
+
+REMARKS
+
+__________________________
+
+Superheavy self-propelled siege gun. Designed by OSM, a famous pre-war design
+bureau, to storm modern fortifications
+head-on. Although OSM's offices are long
+since vaporized, its vehicles endure on the
+nuclear battlefield as the “battering ram”
+of post-war tanksknecht companies.
+
+Vec, H2, S32”, M6”, Q2, T18/12/8
+
+__________________________
+
+Primary armament is the massive S-10 siege
+howitzer, firing 250-lber (210mm) shells in
+either indirect or direct fire modes. Gas
+and white phosphorus shells fired on high
+arcs are capable of choking and burning
+men out of entrenchments. Direct-fire HE
+shells can blast men out of fortifications
+or blow apart light armored vehicles at the
+welds. The gun is casemate-mounted, with
+a limited traverse.
+Secondary armament is limited to a pintle
+mounted rifle-caliber machine gun.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED SIEGE GUN
+
+NBC, Tow (5)
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+S-10 250-lber Siege Gun
+Ammo 3
+→ 250-lb. HE
+Inf/Vec, R40”, A3+/4+, S8/8, D1,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 250-lb. Phosgene Gas
+Gnd, R∞”, A++/++, D2,
+Chemical Weapon (4”),
+Heavy Indirect (3), No CC
+→ 250-lb. WP Smoke
+Gnd, R∞”, A4+/5+, S1+/1+, D2,
+Air-Filling, Heavy Indirect (3),
+Ignore Cover (2), No CC, Smoke (4”),
+Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-19
+
+FM 100-4-8X
+
+LDAL “PIETRO”
+
+TYPE: LANDING CRAFT
+
+LDAL “PIETRO” - 10 pts
+
+REMARKS
+
+__________________________
+
+Armored landing craft, powered by a diesel
+engine driving a single propeller. Capable
+of transporting and deploying an infantry
+platoon from ship to shore. Cheap and
+durable: effectively a plywood and steel
+box with a rudder and bow ramp.
+
+Vec, H2, S16”, M8”, Q1, T5/4/1+
+PC (8, Front), NBC, Watercraft
+
+__________________________
+
+After the fall of the Commonwealth Navy,
+the majority of its small craft were dismantled for scrap or pressed into service by civilians. The majority of Pietros now serve
+as utility trawlers and fishing boats, operating out of coastal drome villages. When
+levied by their baronial masters, they temporarily return to their original role.
+Primary armament, mainly intended for
+self-defense against coastal pirates, is a
+pair of Sb.1 low-velocity 1-lber (37mm)
+guns, mounted in twin turrets taken from
+Hexamer tractor-tanks.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LANDING CRAFT
+
+__________________________
+Sb.1 1-lber Dual Guns
+R20”, D1, Ammo 6, Barrage (2),
+Turret
+→ 1-lb. APDS
+Vec, A4+/6+, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, A4+/6+, S1+/2,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 1-lb. Smoke
+Gnd, A++/++, No CC, Smoke (2’’)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Fish, blood, and motor oil. There’s a reason
+they’ve all got respirators, and it’s not because
+of the phosgene. It’s a blessing when the tub
+finally sinks. At least it gets a good rinsing.
+- Rayleigh Irving, Federal Intelligence
+
+4-20 - SPECIAL
+
+FM 100-4-8X
+CHAPTER 5
+
+AIRCRAFT
+Aircraft are the pride and joy of a baronial force: representing the greatest investment
+in materiel, training, and logistics across the armies of the Atom Barons. A wide variety of airframes are reclaimed, maintained, built, or newly designed in Santagria to reflect the desires and
+needs of their noble riders. Generally they must pick up the slack when their ground forces fail.
+Standard utility and heavy lift helicopters are employed by the airmobile yeomanry in
+support of their operations. Various grades of heavy attack helicopter are the traditional mount
+for a knight: fast, powerful, durable, and able to oversee the battlefield. For those who merely
+wish to fight, and not lead, jet fighters provide the ultimate jousting platforms.
+HELICOPTERS
+PEG-60.11 “SQUIRE” - UTILITY HELICOPTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 5-2
+PEG.80-01A “SAMBUCA” - HEAVY LIFT HELICOPTER  . . . . . . . . . . . . . . . . . . . . . . 25 pts / 5-3
+PEG.123-00 “KNIGHT-ERRANT” - SCOUT ATTACK HELICOPTER . . . . . . . . . . . . . 30 pts / 5-6
+UNI.28-05 “CONQUISTADOR” - JALOPY GUNSHIP . . . . . . . . . . . . . . . . . . . . . . . . 40 pts / 5-7
+UNI.28-03 “MAN-AT-ARMS” - GUNSHIP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 pts / 5-8
+UNI.28-08 “LANCER - ANTI-TANK GUNSHIP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60 pts / 5-9
+PLANES
+MC.17-86 “SPADA-FRESCO” - FIGHTER-BOMBER . . . . . . . . . . . . . . . . . . . . . . . . . 20 pts / 5-11
+MC.20-01C “ROCINANTE” - MULTI-ROLE FIGHTER . . . . . . . . . . . . . . . . . . . . . . . . 30 pts / 5-12
+DC/B.2K “JONQUIL” - MULTI-ROLE FIGHTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 pts / 5-13
+DC.4E “BAVIECA” - AIR SUPERIORITY FIGHTER . . . . . . . . . . . . . . . . . . . . . . . . . .  40 pts / 5-14
+
+AIRCRAFT - 5-1
+
+FM 100-4-8X
+
+PEG.60-11 “SQUIRE”
+
+TYPE: UTILITY HELICOPTER
+
+PEG.60-11 “SQUIRE” - 20 pts
+
+REMARKS
+
+__________________________
+
+Light utility helicopter, formerly built in
+great quantities for the Army of the Commonwealth. Its unglamorous nature relative to larger attack helicopters relegates
+it to yeoman pilots and mercenaries of
+middling wealth. Squires fulfill transport,
+scouting, and light ground attack roles in
+support of their masters. The airframe is
+unarmored.
+
+Air, H2, S32”, M32”, Q3, T1+/1+/1+
+NBC, PC (2, Rear)
+
+__________________________
+
+Primary armanent is a single Lerna 15-lber
+(55mm) rocket pod, supported by a .305
+(7.76mm) machine gun mounted to fuselage pylons.
+The Squire is unusual among utility helicopters owing to its interleaved tandem
+rotor system. These are canted to each side
+and are counter-rotating (eliminating the
+need for a tail rotor). Troop disembarkation is accomplished through a rear ramp
+underneath the raised tail.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-2 - HELICOPTERS
+
+UTILITY HELICOPTER
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Turns out that you can put more than a
+machine gun on a utility bird—someone tell
+our brass. That said, it's still a light helicopter.
+It can dish it out, but can't take it.
+That's light cavalry for you. Any Squire jockey
+who isn't dead at age 30 is a blackguard.
+Somewhere in the speed-blurred land beneath
+you there's a heavy machine gun you're fated
+to meet. Don't keep it waiting.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-4-8X
+
+PEG.80-01A “SAMBUCA”
+
+TYPE: HEAVY LIFT HELICOPTER
+
+PEG.80-01A “SAMBUCA” - 25 pts
+
+REMARKS
+
+__________________________
+
+General-purpose heavy lift helicopter. The
+primary multirole aircraft of the yeomanry: long-ranged, well armed and decently
+armored, and able to transport slung loads.
+The Sambuca is ideally suited to the floating island-hopping commando raids associated with yeoman paratroopers.
+
+Air, H2, S32”, M24”, Q3, T3/3/3
+Decoy Protection (1), NBC, PC (6, Rear), Tow (2)
+
+__________________________
+
+Primary armanent is a single Lerna 15-lber
+(55mm) rocket pod. Side window and rear
+ramp-mounted MhL-60 heavy machine
+guns are effective for clearing hot landing
+zones and supporting disembarked troops.
+As with its smaller counterpart, the Squire,
+the Sambuca features interleaved tandem
+rotors canted to either side. This arrangement restricts troop disembarking to a
+large rear ramp. Yeomen traditionally leap
+the last two meters into the landing zone,
+before the helicopter has touched down.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HEAVY LIFT HELICOPTER
+
+__________________________
+
+MhL-60 .50 HMG
+All, R20”, A4+/5+, S2/3, D2,
+Door Gun (Sides, Rear)
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+They might call themselves paratroopers, but
+half the time the yeomanry aren't jumping
+from planes. Doesn't hurt their reputation.
+Come up from underneath the floating island.
+Ventilate the guards with depleted uranium
+dum-dums. Seize your lord's rival's daughter.
+Toss her in the back of the Sambuca. Get out.
+- Rayleigh Irving, Federal Intelligence
+
+HELICOPTERS - 5-3
+
+FM 100-4-8X
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+III.
+“Maradona and De La Fuente are dead, then.”
+“I have no doubt. They know exactly where to open the engagement because of all our pageantry.
+Radiomen first, then the captains, then the weapons teams. What’s a drome-man to do after that?”
+“You’ve seen it before.”
+“Yes. Before I entered your father’s service I fought on behalf of a vain frontier lord.”
+So, Eladio thought, to steal from the dead in Old Rygole was vanity. His eyes still stung.
+They rode in silence for another few minutes. Their pace was blistering. The ground swam beneath
+them. A kaleidoscope, steadily darkening. “Check your gunsight one more time,” Próspero called,
+“Remember that run over the refinery?”
+“Yes.” He did.
+Silence. A new anxiety occurred to Eladio.
+“The Rygoles will know we’re coming,” he said.
+“I wonder if withholding the men would have been better. Closer to the caravan.” He blinked hard.
+“We’d have lost everything, not just good soldiers.”
+Próspero, ever duty-bound, a stalwart who had proven himself with steel and aluminum, horse and
+helo, betrayed much in his words. He made an effort to do so, letting implication slip past propriety.
+Good soldiers.
+A glow spread in the old serjeant’s cockpit ahead; an orange flare, waxing and then waning, and a
+tendril of smoke lacquered by instrument light.
+“Próspero.”
+Silence.
+“Próspero, are you fucking smoking?”
+“Language, Eladio. Allow an old man a final mouthful of sweet smoke.”
+An upwelling of indignant anger, from heart to head, took hold of Eladio. “Put it out!”
+“In a moment.”
+SUPPLEMENTAL FILES - 5-5
+
+FM 100-4-8X
+
+PEG.123-00 “KNIGHT-ERRANT”
+
+TYPE: SCOUT ATTACK HELICOPTER
+
+PEG.123-00 “KNIGHT-ERRANT” - 30 pts
+
+REMARKS
+
+__________________________
+
+Light attack and scout helicopter. While
+heavy gunships remain the primary steeds
+of noble pilots, the Knight-Errant fills a
+support role as a young man's trainer and
+lesser noble's steed. Its “pusher-prop”
+configuration grants it excellent agility
+and a high top speed. The airframe is only
+armored around its frontal arc.
+
+Air, H1, S32”, M36”, Q3, T2/1/1
+Decoy Protection (2), NBC
+
+__________________________
+
+The sole armament is a battery of Chilon
+30-lber (105mm) high velocity guided missiles. These are a hybrid design that inflict
+most of their damage through kinetic
+energy, with only a small explosive filler.
+The chin-mounted guidance laser may be
+repurposed as a laser target designator
+when not firing missiles.
+The Knight-Errant lacks a gun armament
+altogether, intended to prevent a young
+pilot from straying closer to the enemy
+than his skills permit.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-6 - HELICOPTERS
+
+SCOUT ATTACK HELICOPTER
+
+__________________________
+SOAA Target Designator
+All, R40”, A++/++, D1, Discreet,
+Designator
+Chilon 30-lbr High-Velocity Missile
+S8/5, D1, Ammo 4,
+Guided Missile (1)
+→ Air-to-Ground Targeting
+Vec, R12-60”, A3+/3+
+→ Air-to-Air Targeting
+Air, R60”, A4+/4+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The idea's simple: if the kid doesn't have a gun
+he'll keep his distance, loose his missiles. Get
+used to the basics, instead of chasing riflemen
+until he ends up over the enemy's air defenses.
+Doesn't work. With a hot-rod airspeed like
+that, nothing gets them to slow down.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-4-8X
+
+UNI.28-05 “CONQUISTADOR”
+
+TYPE: JALOPY GUNSHIP
+
+UNI.28-05 “CONQUISTADOR” - 40 pts
+
+REMARKS
+
+__________________________
+
+Helicopter gunship based on the UNI.28
+hull. A “vagrant heavy”—built out of wrecks
+salvaged many times over, with increasing
+compromises in armor thickness and firepower made to keep the battered frames
+flightworthy. Frequently flown by ledge
+knights, entitled to but unable to source
+proper mounts.
+
+Air, H2, S32”, M24”, Q3, T3/3/3
+Leviathan (2), NBC
+
+__________________________
+
+Primary armament is the Sb.38 20mm
+autocannon; the belly pod can no longer
+support the stock Allant rotary cannon’s
+recoil. Secondary armament consists of
+paired Lerna 15-lber (55mm) and Sarvara
+46-lber (127mm) rocket pods, offering
+potent and indiscriminate close range
+firepower.
+While the Conquistador’s armor is thinner
+than its non-salvaged counterparts, its size
+and redundant turbines give it high survivability. A single hit is unlikely to down it.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+JALOPY GUNSHIP
+
+__________________________
+Sb.38 20mm Autocannon
+All, R32”, A4+/4+, S4/6, D2, Ammo 4
+Sarvara 46-lber Dual Rocket Pod
+Inf/Vec, R24”, A6+/5+, S10/2, D2,
+Ammo 2, Barrage (2), Shaped Charge,
+Strafing, Slow Round
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Sit in the pilot’s seat; run your fingers over the
+little bumps and twists in the frame, under the
+new coat of paint. Five or six desperate men
+before you didn’t find riches and glory in your
+seat. But you will. You’re different.
+- Rayleigh Irving, Federal Intelligence
+HELICOPTERS - 5-7
+
+FM 100-4-8X
+
+UNI.28-03 “MAN-AT-ARMS”
+
+TYPE: ATTACK GUNSHIP
+
+UNI.28-03 “MAN-AT-ARMS” - 50 pts
+
+REMARKS
+
+__________________________
+
+The definitive Santagrine heavy attack
+helicopter. No lesser mount will do for an
+established knight. Monstrously heavy,
+well-armored, and equipped with double
+or triple redundancy in almost every
+onboard system, including a duplicate set
+of turbines. Even a direct hit is unlikely to
+down a Man-at-Arms without a followup.
+
+Air, H2, S32”, M24”, Q4, T4/3/3
+Leviathan (2), NBC
+
+__________________________
+
+Primary armament is the Allant 1.8-lber
+(25mm) rotary cannon; the “Sword of the
+New Knight”, mounted in an underbelly
+gun pod. The Allant is effective against
+ground and air targets alike, although
+ammo-hungry.
+Secondary armaments include the standard
+Lerna 15-lber (55mm) rocket pods and imported Federal ATGMs. The 9GR1M series
+features improved guidance and a better
+warhead compared to the mass-stockpiled
+9GR1 series issued to the infantry of the
+F.S-A. (see FM 100-1-8X).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-8 - HELICOPTERS
+
+ATTACK GUNSHIP
+
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R32”, A4+/4+, S4/6, D3, Ammo 3
+9GR1M 125mm ATGM
+Vec, R6-60”, A3+/4+, S16/3, D1,
+Ammo 4, Guided Missile (2),
+Shaped Charge
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+His Highness sat in the cockpit, with his best
+friend before him in the gunner’s seat. And as
+the beat of the ten rotors above him grew to a
+drumroll, he said under his breath:
+“Get some.”
+- Anonymous, “Chronicle of the Ascendancy of
+the Baron Menaute de Piña y Garnise”
+
+FM 100-4-8X
+
+UNI.28-08 “LANCER”
+
+TYPE: ANTI-TANK GUNSHIP
+
+UNI.28-08 “LANCER” - 60 pts
+
+REMARKS
+
+__________________________
+
+A rare refit of the UNI.28 as a hunter-killer specializing against armored targets.
+Lancers are prized “jousters” in a baron’s
+air corps; an elite in and of themselves.
+
+Air, H2, S32”, M24”, Q4, T4/4/3
+Leviathan (2), NBC
+
+__________________________
+
+Primary armament is the SDV 6-lber
+(57mm) squeezebore autocannon. No explosive rounds are carried. The gunner
+and his cockpit have been replaced with
+an imported thermal optics pod and fire
+control unit manufactured in the Rygolic
+Petty States (see FM 100-3-8X).
+The increased workload and reduced situational awareness are badges of honor for
+Lancer pilots: they may claim kills to be
+purely their own. Feats of marksmanship,
+such as hitting moving air targets with
+single rounds, are frequently attempted.
+Secondary armament consists of rocket
+pods, including white phosphorus loads.
+
+ANTI-TANK GUNSHIP
+
+__________________________
+SDV 6-lber High Velocity Autocannon
+Vec/Air, R40”, A4+/4+, S12/18, D2,
+Ammo 3, Thermal Sights
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+Silene 285-lber Dual WP Rocket Pod
+Gnd, R28”, A4+/4+, S1+/1+, D1,
+Ammo 2, Barrage (2),
+Ignore Cover (2), Rear Attack,
+Smoke (4”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Loom and thread.
+- Motto of House Gascão
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HELICOPTERS - 5-9
+
+FM 100-4-8X
+
+SUPPLEMENTAL FILES
+MY FATHER was a man of organization, hundreds labored under his thumb and he made many
+plans for the future. When I was born his eyes were bleached from the flash, his fingers were gnarled
+pulling roots and crop from the fouled soil and his feet bled from the glass of the dunes.
+Even now, entombed in so much metal, I think of him; his scarred flesh and those silk white eyes.
+- Anonymous Tanker’s Journal (burnt)
+PORTRAIT OF DON-MARQUÉS FADRIQUE CARADOC ESPINOZA
+Rinaldo Sfatina
+c. 1910
+Oil on canvas
+Painted as a gift to his patron the Don-Marqués, this portrait by Sfatina is retrospectively considered
+his masterpiece. Notable not only for its sumptuous detail, the portrait stands out as the earliest
+example of luminous inlay in Santagrine portraiture.
+Traditionally, a suit of baronial armor would be gilded, first by coating the armor in wax, then
+scratching the desired designs into the wax and applying a mild acid to etch the patterns onto the
+metal. The etchings would then be finely inlaid with gold, thus combining two individually difficult
+artistic processes into a singular boast of wealth. Among his many idiosyncrasies, the Don-Marqués
+possessed a sense of provocative fashion. Not satisfied with gold on his armor (the purchase of which
+was already in his time considered an eccentricity), the Don-Marqués commissioned a suit etched
+and inlaid with radium.
+Sfatina presents the Don-Marqués as the meeting of two halves: the spirit of chivalry enlivened in
+the heart of the modern intellectual. Lit only by an unseen gaslamp, the trim of the noble’s blackened armor glows ethereally in his darkening study. He is turned toward the viewer in a casual
+contrapposto. The garniture he wears is incomplete: the helmet and a single gauntlet rest within
+arm’s reach atop a vanity. His bare palm is outstretched to indicate he is listening. His eyes are
+lidded, and he smiles with foresight.
+Having gone unnoticed for decades, Sfatina’s original was eventually discovered in a private collection after the Thirty-Six Years’ War. Within a year, it would go on to become the most indigenously
+copied painting in Santagrine history.
+MOTHER PRODUCED from under the bed a pilots’ rifle wrapped in a veil. Pointing to a gold
+illumination on the receiver, she told me to read aloud and tell me what it means.
+Os vi ait linguā universalis. “This mouth speaks the universal language of power.”
+- Felipe Cirenza, Armiger
+5-10 - SUPPLEMENTAL FILES
+
+FM 100-4-8X
+MC.17-86 “SPADA-FRESCO”
+
+MC.17-86 “SPADA-FRESCO” - 20 pts
+FIGHTER-BOMBER
+
+__________________________
+Air (CAP), M16”, Q3, T2, E2
+Afterburner
+
+__________________________
+Sb.38 20mm Autocannons, dual
+All, R8”, A3+, S4, D2, Ammo 3,
+Radar Anti-Air
+500-lber HE Bombs, various models
+Gnd, R0”, A3+, S6, D1, Ammo 2,
+Air-Filling, Barrage (2), Radius (3”),
+Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+What’s a knight? Whatever feels right.
+
+TYPE: FIGHTER-BOMBER
+
+__________________________
+REMARKS
+Light single-engine multirole jet. Designed
+before the advent of the guided air-toair missile, the Spada-Fresco is an aging
+design by modern standards. Baronial air
+forces with access to better aircraft relegate their Spada-Frescos to ground attack
+roles. Many nonetheless conduct combat
+air patrol duty as the steeds of ledge knights
+and lesser sons, sourced from boneyards
+and operating from unfinished airstrips.
+Primary armament is a paired set of Sb.38
+20mm autocannons in a nose mount.
+Various marks of 500-lb. (227 kg) high explosive bombs are carried on wing mounts.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Yeah, yeah. That answer would get me beheaded in the Land of Saintly Fields. There’s
+a long list of ashen traditions and flash-burnt
+paintings you’ve got to pay homage to, and it’s
+never the same between places and days. You
+want the unifying factor? It’s the drive.
+For some young men that’s all that’s important. Your father’s attack helicopter; his
+holdings, his alliances, his troops; learning
+to command while skating over the ground,
+guiding and defending your braves—a load of
+bullshit. Just motions to go through in between
+autocannon tilts.
+That’s what moves these kids to the boneyards
+in the early mornings. What gets them working
+on the old corroded jets, with a fistful of old
+military manuals and a fire in their heart.
+Drome village mamas cry when they hear a
+turbine rise from the grave. Their son isn’t
+coming back. He’s a man of the skies now.
+- Rayleigh Irving, Federal Intelligence
+
+PLANES - 5-11
+
+FM 100-4-8X
+MC.20-01C “ROCINANTE”
+
+MC.20-01C “ROCINANTE” - 30 pts
+MULTI-ROLE FIGHTER
+
+__________________________
+Air (CAP), M18”, Q3, T3, E3
+Afterburner, Decoy Protection (1),
+Flower of the Atom
+
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R8”, A3+, S4, D3, Ammo 2,
+Radar Anti-Air
+Lerna 15-lber Dual Rocket Pods
+Inf/Vec, R6”, A4+, S4, D4, Ammo 2,
+Barrage (2), Slow Round
+SUR-4 127mm Infrared AAM
+Air, R30”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: MULTI-ROLE FIGHTER
+
+__________________________
+REMARKS
+Versatile single-engined fighter. The most
+common fighter across Santagria, manufactured in large numbers by the old Commonwealth and continually produced and
+upgraded by guild factories today. Most
+contemporary Rocinantes feature stronger
+engines and sturdier airframes than the
+original MC.20-01 series.
+Weapon loads vary by pilot’s choice, but
+the customary loadout (outside of judicial
+dogfights) consists of the Allant rotary
+cannon, a pair of SUR-4 air-to-air missiles,
+and dual Lerna 15-lber (55mm) rocket pods
+for strikes against ground targets.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-12 - PLANES
+
+They call him Rodrigo the Ghost. His hair lay
+ghastly white upon his head, his green eyes
+bug wildly about his skull. He is forty-two.
+The radon water took his jaw by thirty-seven;
+the rest of his teeth had followed soon thereafter. He seems to live off of brandy and gazpacho, and I doubt much beyond skin lay upon
+his bones beneath the ruffs of his pressure-suit.
+He’d said, while he could still talk, that the
+radon honed his senses, steeled his nerves and
+his wits.
+Fifteen planes, he’s taken from his cockpit.
+With the Pushes-Of-Gee he endures, not even
+the eldritch craft of the Rygoles can hold on
+him. Perhaps he speaks truth.
+- Juan Cervantes
+
+FM 100-4-8X
+
+DC/B.2K “JONQUIL”
+
+DC/B.2K “JONQUIL” - 30 pts
+MULTI-ROLE FIGHTER
+
+__________________________
+Air (CAP), M14’’, Q3, T3, E1
+Afterburner, Decoy Protection (2),
+Flower of the Atom
+
+__________________________
+Rb.12 9-lber Air-to-Air Rockets
+All, R6’’, A4+, S3, D3, Ammo 2,
+Barrage (2), Radar Anti-Air,
+Slow Round
+Mf.59 60-lber Semi-Active AAM
+Air, R50”, A3+, S8, D1, Ammo 4,
+Air-Filling, Guided Missile (1), No CC
+9GR3 275mm AGM
+Vec, R60”, A2+, S24/8, D1, Ammo 3,
+Guided Missile (2), MCLOS,
+Shaped Charge
+
+TYPE: MULTI-ROLE FIGHTER
+
+__________________________
+REMARKS
+
+We are fortunate that our enemies, the Federals, are honorable. They build excellent missiles; and, in times of peace, gladly sell them
+to us. Then, when we wage war, they charge
+gallantly to their deaths behind their counter-rotating windmills and rocket plumes.
+
+Subsonic two-seater with a unique tailboom arrangement. Designed for close
+air support, with solid construction and a
+reduced profile, the Jonquil’s increased vulnerability to modern anti-aircraft weapons
+has seen it relegated to standoff and radar
+guidance roles.
+
+For a brother Santagrine, it is right and proper
+to rely on one’s guns alone, and to respond
+to his IFF transponder’s signal with a record
+of your name and achievements. A foreign
+enemy may have what you give him. But an
+honorable pilot will still let a lone Federal fire
+his missiles first.
+
+Primary armament is a set of long-ranged
+semi-active air-to-air missiles, supported
+by unguided anti-aircraft rockets in retractable chin pods. Imported Federal 9GR3 airto-ground missiles, benefitting from the
+Jonquil’s higher speed than their original
+carriers, are also frequently fielded.
+
+- Brother Torres
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A missile boat isn’t much of a glamorous or
+noble posting; you fly a Jonquil because you’re
+stuck with it and it pays well. You’ll still get to
+face the danger you’re seeking, though. Your
+colleagues won’t stick around to escort you for
+long.
+- Rayleigh Irving, Federal Intelligence
+PLANES - 5-13
+
+FM 100-4-8X
+
+DC.4E “BAVIECA”
+
+DC.4E “BAVIECA” - 40 pts
+AIR SUPERIORITY FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E2
+Afterburner, Decoy Protection (2),
+Flower of the Atom
+
+__________________________
+Allant 1.8-lber Rotary Cannon, modified
+All, R8’’, A3+, S4, D4, Ammo 2,
+Radar Anti-Air
+Breakspear 60-lber Semi-Active AAM
+Air, R60’’, A3+, S8, D1, Ammo 4,
+Air-Filling, Guided Missile (1), No CC
+SUR-4 127mm IR AAM, modified
+Vec/Air, R36’’, A3+, S6, D1, Ammo 4,
+Air-Filling, Barrage (2),
+Guided Missile (1), Homing
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: AIR SUPERIORITY FIGHTER
+
+__________________________
+REMARKS
+High-performance pre-war heavy fighter.
+Formerly the pride of the Commonwealth
+Air Force; now, the queens of baronial
+hangars. Though originally designed as
+a multirole platform, the Bavieca’s speed
+and maneuverability mean almost all contemporary examples are equipped for pure
+air superiority.
+Armaments include an Allant 1.8-lber
+(25mm) rotary cannon with its rate of fire
+increased and a battery of light and heavy
+air-to-air missiles. The SUR-4 infrared missiles on Baviecas are frequently hand-tuned
+to permit locking onto ground targets.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-14 - PLANES
+
+He was Alfonso the Brave, Knight of the
+Stratosphere Blue, and his steed was Bavieca.
+He paid fealty to no lord but his heart, and accepted no pay but fuel and repairs from righteous hands, in whose hangars he would not
+stay longer than Bavieca required.
+His sword was the Allant rotary cannon, and
+his lance was the mighty Breakspear. He was a
+killer of men and a breaker of horses; a friend
+to his ancestors’ fields, and a lover of women
+he would never see again. There was a good
+knight.
+Before the War he was a grocer.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+CHAPTER 6
+
+EMPLACEMENTS
+Various improvised or pre-war traps and field fortifications are used by groundling forces
+to shore up their defenses. Poison gas mines, anti-tank obstacles, quick-deployed rearming
+points, and barrage balloon systems to hinder close air support are all commonly employed.
+While generally outdated, these tools remain useful with clever placement.
+EMPLACEMENTS
+M.34-32 “ENCÉLADITOS” - ANTI-PERSONNEL MINES . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
+TOLLBOOTHS - ANTI-AIRCRAFT OBSTACLE  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-2
+CABALLOS BÁRBAROS - ANTI-TANK OBSTACLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-3
+PENNANT - FORWARD ARMING POINT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6-3
+
+EMPLACEMENTS - 6-1
+
+FM 100-4-8X
+M.34-32 “ENCÉLADITOS”
+ANTI-PERSONNEL MINES
+
+__________________________
+Trap
+
+TOLLBOOTHS
+ANTI-AIRCRAFT OBSTACLE
+
+__________________________
+Trap
+
+__________________________
+
+__________________________
+
+This trap’s Radius value is used to determine
+
+This trap is always identified. Planes which
+
+the range at which a unit can trigger it. When
+
+pass through its Radius are not forced to stop
+
+an attack is triggered, the listed 3” Chemical
+
+short. This trap may be cleared from up to 6”
+
+Weapon cloud is placed at the triggering unit’s
+
+away by any non-plane unit with an Air or
+
+exact position. Units which trigger this trap
+
+All-targeting weapon. If that weapon has an
+
+immediately gain three pin.
+
+Ammo value, clearing costs one Ammo.
+
+__________________________
+
+__________________________
+
+M.34-32 “Encéladito” Phosgene Gas Mine
+Inf/Vec, A++, D1, Ammo 6,
+Chemical Weapon (3”), Radius (6”)
+
+“Tollbooth” Barrage Balloon
+Air, A++, S4, D1, Ammo 4,
+Radius (6”), Rear Attack
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL MINES
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-AIRCRAFT OBSTACLE
+
+__________________________
+
+__________________________
+
+REMARKS
+
+REMARKS
+
+A flat “can” mine filled with gas rather than
+conventional explosives. Common workshop-made continuance of the Commonwealth’s universal landmine system.
+
+“Tollbooth” is a blanket category referring
+to any variety of tethered aerostat utilizing cabling to function as an anti-aircraft
+defense system. Materials vary.
+
+The mine is composed of two sections:
+above, a metal pressure plate attached
+to a firing pin; below, a small detonating
+charge surrounded by phosgene gas. The
+detonating charge blows off the pressure
+plate and aerosolizes the gas as it spreads.
+
+Balloons are tethered in a common area
+and lashed together with steel cables, with
+excess cables being allowed to dangle, in
+order to create a “net” which is capable
+of snagging the wings or rotors of passing
+aircraft. Some systems utilize contact-detonated explosive charges on the cables to
+further damage caught aircraft.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Meant mostly for lupar. Santis can just hold
+their breath.
+- Johannes Veeneman, F.S-A. General Staff
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Why “tollbooth”? Doesn’t matter what they’re
+flying with. Someone always thinks they can
+thread the needle. They end up paying the toll.
+- Rayleigh Irving, Federal Intelligence
+
+6-2 - EMPLACEMENTS
+
+FM 100-4-8X
+CABALLOS BÁRBAROS
+ANTI-TANK OBSTACLE
+
+__________________________
+Fortification
+
+PENNANT
+FORWARD ARMING POINT
+
+__________________________
+Fortification
+
+__________________________
+
+__________________________
+
+Designate a 40mm x 40mm square of terrain
+
+Designate a 40mm x 40mm square of terrain
+
+as “caballos bárbaros”, which is impassable to
+
+as a “pennant”. One vehicle or landed aircraft
+
+vehicles. Aircraft cannot land in this terrain.
+
+which is inside of this square during Upkeep
+
+Infantry can pay 2” to move through this
+
+may choose to gain 1 Ammo for one weapon of
+
+terrain, but they cannot end their turn inside
+
+choice and lose one extra pin in Support Phase.
+
+of it (like a vehicle husk).
+
+Leviathan vehicles also regain a Leviathan
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK OBSTACLE
+
+__________________________
+REMARKS
+Towable anti-tank barricades traditionally
+built in a “spiked club” configuration, with
+a uniform metal body surrounded by perpendicular spikes jutting in four directions.
+Difficulty in crossing may be aggravated by
+the digging of adjacent anti-tank ditches.
+When laid densely, traversal with vehicles
+is rendered impossible. Infantry may surmount caballos safely, but with difficulty.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Old military stockpiles. If there’s anything the
+Commonwealth built more than these, I’ve
+yet to see it. They were afraid of us. Afraid of
+the blue tanks in their unending waves rolling
+over their broad open plains.
+There’s a kind of rural house that uses these as
+part of its foundation now.
+
+point, but do not regain any lost weapons.
+After the pennant has been used once, it is
+removed from play.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: FORWARD ARMING POINT
+
+__________________________
+REMARKS
+A hidden cache of military supplies: ubiquitous across Santagria. Typically identified with a secret sign located nearby, and
+then with the colors of its noble house
+inside. In case it must be used mid-battle, a
+deployable flagpole can mark its position.
+Includes limited quantities of all manner
+of provisions, including plastic refueling
+tanks, additional heavy munitions, field
+repair tools, and extra applique armor.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“There is no luck without friends.”
+- Motto of House de Haro
+
+- Rayleigh Irving, Federal Intelligence
+EMPLACEMENTS - 6-3
+
+FM 100-4-8X
+
+6-4 - EMPLACEMENTS
+
+FM 100-4-8X
+CHAPTER 7
+
+SCENARIO UNITS
+Not all of the Santagrine people fall under the umbrella of the Atom Barons. Across the Sea
+of Masts, the colonial holdings of the Santagrine Overseas avoided the nuclear bombardment of
+their homeland. These remnants continue to exist as a rump state of the Commonwealth: maintaining its name, claim of legitimacy, and all of its colonial military equipment and personnel.
+Closer to the homeland, the Atom Barons occasionally field non-indigenous equipment
+and troops: their distaste for dishonorable foreigners overriden by pragmatism when victory is
+needed. Many field exported Federal Razorbacks (see FM 100-1-8X), many of which are crewed
+by mercenary Federal “tanksknecht” crews.
+The units below do not fall into the standard roster for this faction, but are presented for thematic
+scenario creation and play. Scenario units may disrupt the balance of the faction (e.g. by covering one
+of its major weaknesses). If you’d like to use them in a regular game, your opponent ought to agree to it.
+SCENARIO UNITS
+TENANT OFFICER - COMMAND TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 pts / 7-2
+COMMONWEALTH RIFLES - LINE SQUAD  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 7-3
+VEHICLE CREW - LINE TEAM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+0 pts / 7-4
+
+VD.35 “LATA” - ARMORED PERSONNEL CARRIER . . . . . . . . . . . . . . . . . . . . . . . . .  10 pts / 7-5
+VC.4 “JAVELINA” - MAIN BATTLE TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 pts / 7-6
+
+SCENARIO UNITS - 7-1
+
+FM 100-4-8X
+
+TENANT OFFICER
+
+TENANT OFFICER - 0 pts
+COMMAND TEAM
+
+__________________________
+Inf, H1, S16’’, M4’’, Q3, T1-/1-/1-, C3
+Brigade (3, 8”)
+
+__________________________
+This unit may be alternatively designated as
+a “Baronial Tenant”. Baronial Tenants gain
+NBC and Tercio, but replace their Rh-49 with
+the weapon listed under the dashed line.
+
+__________________________
+
+TYPE: COMMAND TEAM
+
+__________________________
+REMARKS
+While all noble or mercenary commanders
+are mounted as a matter of course, levied
+groundlings are often left to command
+themselves in low-level operations such
+as settlement defense or guerilla fighting.
+Many low-born commanders take inspiration from their counterparts in the Santagrine Overseas, whose successful “little
+wars” have earned them some renown on
+the mainland.
+Primary armament is the Hi-10 1.8-lber
+(60mm) grenade launcher, built from a
+modified bolt-action rifle and firing light
+HEAT and smoke rounds.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-2 - SCENARIO UNITS
+
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Hi-10 1.8-lber Grenade Launcher
+D1, Ammo 6
+→ 1.8-lb. HEAT
+Inf/Vec, R2”, A4+/6+, S7/1+,
+Shaped Charge, Slow Round
+→ 1.8-lb. Smoke
+Gnd, R14”, A++/++, No CC,
+Smoke (2”)
+---------------------------Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Funny name, huh? If it’s an Overseas man,
+it’s a respectful shortening of “lieutenant”,
+like “el-tee” or “boss” here. If it’s a mainlander, it’s a reminder from their lord. Command
+your little band; win your glory. But pay my
+rent.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-4-8X
+COMMONWEALTH RIFLES
+
+COMMONWEALTH RIFLES - 10 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S16’’, M4’’, Q2, T1/1-/1-
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A3+/4+, S1/1+, D1,
+Small Arm
+MhL-42I .305 MG
+All, R12”, A4+/xx, S1/1+, D2,
+Defensive CC
+“Bajante-D” 75mm RPG
+Inf/Vec, R8’’, A5+/6+, S7/1+, D1,
+Ammo 6, Barrage (2), Shaped Charge,
+Small Arm, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LINE SQUAD
+
+__________________________
+REMARKS
+The nuclear devastation of the Santagrine
+Commonwealth resulted in the disbanding
+of both its central government and standing army on their native soil. However, the
+colonial holdings in the Santagrine Overseas have variously maintained loyalty to
+the “old country”, as well as sizable stockpiles of its issued equipment.
+Lacking the feudal expertise and access to
+mainland aircraft factories of their baronial counterparts, the remaining “Commonwealth” forces must instead rely on professional infantry: today a rarity in Santagria
+outside militia levies and the yeomanry.
+
+When I turned eighteen, my father sent me
+from Tovaralba—city of our family’s namesake since the dimmest past; city of white
+stones—to the Overseas. There I built a radio
+station, like my father, and made a tidy profit.
+But my heart stayed in Tovaralba. And when
+my station had signed off for the night I would
+sit in the quiet building and listen to the late
+shows of my faraway home.
+My father’s station was presenting, at the
+fateful hour, a recording of the city opera
+house. I never had an ear for it, nor have I
+learned the name of the piece. I never even
+heard its second half. The station went off the
+air mid-note.
+No; my father, my home, they did not survive,
+though what parts of the city did not walk
+away have been rebuilt, and many men now
+inhabit it. They are not my countrymen. We,
+the beset Overseas, are all who are left.
+- Sancho de Tovaralba
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SCENARIO UNITS - 7-3
+
+FM 100-4-8X
+
+VEHICLE CREW
+
+VEHICLE CREW - 0 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S16’’, M4’’, Q2, T1-/1-/1-
+
+__________________________
+Fearless, NBC
+
+__________________________
+This unit is placed on the board as part of the
+Crew Bailout optional rule.
+
+__________________________
+Engram .32 Machine Pistol
+All, R2’’, A5+/5+, S1-/1-, D2
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Now we had put some rounds through the Cataphract, and she was “guttering”, as is called
+the wavering flames that precedes the ammunition-fire’s jet from the hatches, and surely
+the beautiful old tank was doomed.
+TYPE: LINE TEAM
+
+__________________________
+REMARKS
+Horseless Santagrine cavalrymen. Vehicle
+crewmen vary wildly in equipment, mount,
+social class and training across Santagria.
+Their sole unifying feature is their strong
+unwillingness to dismount: whether facing
+the loss of a valuable fighting vehicle or the
+shame and dishonor of defeat. Generally,
+vehicle crews will only be found quitting a
+vehicle once it is burnt.
+Armament varies across the baronies, but
+the Engram machine pistol is a popular
+choice for its low profile and intimidating
+design, especially when carried in a manat-arm’s underarm crossdraw holsters.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-4 - SCENARIO UNITS
+
+But though the loader and driver leapt off, the
+gunner was unaccounted for in my binoculars, and the tank commander serenely fought
+on behind the autocannon he had fitted to
+his cupola turret. He went on firing until the
+flames twisted him like burning paper, and I
+saw him sag down into the open hatch and be
+consumed.
+When the tank had finally burnt out, I sent
+a man forward to see what could be found
+inside. And he reported that the husks of the
+tank commander and his gunner were at their
+seats, and that the hands of the gunner could
+not be pried off the handles, but that neither
+had any valuables that had survived the fire.
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-4-8X
+
+VD.35 “LATA”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+VD.35 “LATA” - 10 pts
+
+REMARKS
+
+__________________________
+
+After the Santagrine Overseas was cut off
+from the devastated mainland, its holdout
+troops were forced to maintain antique  
+equipment for lack of better options. The
+Lata, one of the Commonwealth’s first
+forays into mechanizing its infantry, still
+persists today among its holdouts in the
+Overseas.
+
+Vec (W), H2, S16’’, M8’’, Q2, T2/2/1+
+PC (4, Rear), Resupply (2), Tow (2)
+
+__________________________
+
+The sole armament is a single MhL-60 .50
+(12.7mm) HMG in a pintle mount. The
+Lata, like other wartime half-tracks, is inferior in mobility and protection to modern
+APCs; its armor plate is barely rifle-resistant. As an open-topped vehicle, it is highly
+vulnerable to indirect fire.
+The large and empty interior of the Lata
+provides excellent space for troop and
+supply carriage. It sees use as a personnel
+carrier, supply truck, and artillery tractor—
+often for lack of any other option.
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+This unit cannot road dash.
+
+__________________________
+MhL-60 .50 HMG
+All, R20’’, A4+/6+, S2/3, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A Lata rattles by—men, sharp-cheeked and
+dusty, weathered old packs, grease and residue
+and rust—a scene from the war, twenty-five
+years past. The son takes his father’s helmet off
+the gravepost and sweats in the same spot on
+the Lata’s benches. The Federals believe that
+men massacred in ambushes drive on at dusk,
+stamping track-marks across the sky. We may
+outdo them. We are well-practiced at playing
+the part of ghosts.
+- Sancho de Tovaralba
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SCENARIO UNITS - 7-5
+
+FM 100-4-8X
+
+VC.4 “JAVELINA”
+
+VC.4 “JAVELINA” - 30 pts
+MAIN BATTLE TANK
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T12/6/5
+NBC
+
+__________________________
+MhL-42 .305 MG, hull
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+24-lber Gun, local manufacture
+R40’’, A3+/4+, D1, Ammo 4,
+No CC (Inf.), Turret
+→ 24-lb. APDS
+Vec, S12/18
+→ 24-lb. HESH
+Inf/Vec, S8/3, Shaped Charge,
+Slow Round
+902R 81mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: MAIN BATTLE TANK
+
+__________________________
+REMARKS
+First generation main battle tank, imported from the Intermarine Federation (see
+FM 100-1-8X). Its reputation as a “foreign”
+weapon—emblematic of the old Federal
+enemy—has largely relegated its use to
+mercenary armored companies (“tracked
+horse” or “tanksknecht”). Many such mercenaries are of Intermarine birth themselves. Some remain in use in the Overseas.
+The “Javelina” (as the Razorback is colloquially referred to as in Santagria) typically
+fits local-production 24-lber (90mm) guns
+firing Commonwealth-standard rounds,
+offering similar anti-tank performance to
+the original 100mm gun.
+Razorback export deals were historically
+drawn from stockpiled early production
+tanks. These lack the upgrade packages of
+those now in Federal service: basic composite armor, thermal sights, and a cupola
+heavy machine gun are all absent.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-6 - SCENARIO UNITS
+
+FM 100-4-8X
+
+SCENARIO UNITS - 7-5
+
+FM 100-4-8X
+
+APPENDIX A - ARMY SPECIAL RULES
+This appendix section describes the underlined special rules of the Atom Barons of Santagria.
+
+Leviathan (X)
+
+Tercio
+
+Whether rolling or flying, this monstrosity takes
+incredible punishment to kill.
+
+Santagrine levies usually fight in archaic, pre-arranged formations, sacrificing flexibility for mass.
+
+This unit must suffer X number of kills
+to be destroyed. When it suffers a kill, place a
+leviathan token on it and choose one non-Small
+Arm weapon on its statline to be destroyed. Destroyed weapons cannot be used and no special
+rule benefits may be derived from them for the
+rest of the game. Leviathans cannot be towed.
+Leviathan helicopters do not force hits
+against them to confirm beyond 12” away.
+
+i. Formation
+Units with this rule may be deployed in
+a special tercio formation. A tercio consists of
+three infantry units placed into mutual basal
+contact. To form a tercio, place all constituent units in the shape of a triangle, with one
+leading unit in front and two supporting units
+in the rear. Tercios can’t be formed mid-game.
+A tercio may be deliberately disbanded.
+This is declared during Upkeep in the Support
+Phase and costs no command tokens. After the
+former tercio’s pin has been divided (detailed
+below), the constituent units behave as normal
+and are not affected by the following rules.
+
+Flower of the Atom
+
+Forward air control does not task a knight: it only
+humbly requests he pursue a specific target.
+Instead of moving, a plane with this
+rule that has not yet fired on or gotten into a
+dogfight with its mission target may instead
+choose to lose its current mission target and
+tilt. A tilt allows the plane to immediately
+select any spotted enemy on the board as its
+new mission target.
+   Draw a new strafing line from the plane’s
+current position through the selected unit and
+apply one pin to the plane. The plane then
+immediately moves toward its new target.
+The plane must attempt to fire upon its target,
+diving if necessary, before it can leave the
+board or wave off.
+   The command token used to activate the
+TACOM (or Pages) that originally called the
+mission then returns to the controlling player’s
+command pool to be used during the Maneuver
+Phase. A TACOM which has had its command
+token refunded can later call a brigade and
+move and act normally, i.e. as if it did not activate during the Support phase.
+  If a plane with Flower of the Atom is the target
+of an interception by a living plane, it may not
+change targets until its interceptor is dead.
+A-1 - ARMY SPECIAL RULES
+
+ii. Pin & Quality
+Tercios can accrue up to twelve pin.
+Rather than losing one inch of movement per
+one pin accrued, and suffering a -1 Accuracy
+modifier per two, the tercio loses one inch of
+movement per two and -1 Accuracy per four.
+A tercio’s Quality is the sum of all its
+living units’ Quality. Tercios sprint 1/3 of their
+Quality stat in inches rather than 1/2.
+When a tercio with pin disbands, the
+pin must be divided equally between the newly
+disbanded units. Any remainder is assigned
+at the player’s discretion. No single unit can
+receive more than one pin from the remainder.
+If only one unit remains in the tercio,
+that unit immediately takes the leading unit’s
+position and the tercio disbands. The survivor
+inherits up to six pin from the former tercio.
+iii. Movement
+Tercios attack, move, embark, and
+disembark as a single unit. The Movement statistic of a tercio is equal to that of the slowest
+constituent unit. When moving, only consider
+the leading unit, then check at the end if there
+is room for supporting units (i.e. as if towed).
+
+FM 100-4-8X
+A vehicle must be able to fit the whole
+tercio to transport it, but the tercio may split
+between the carrier’s PC and desant capacity. While embarked or desanting, a tercio is
+temporarily disbanded, and its pin is divided
+as such. The tercio may disembark as a single
+activation. When a tercio exits its carrier, it
+exits in the same configuration as when it embarked, adding together its units’ pin.
+Tercios count as being three units (or
+two, if one constituent unit has been killed) for
+the purpose of garrisoning buildings.
+When charging with a tercio, the
+leading unit must make basal contact with its
+frontal arc to create a valid close combat. A
+move cannot result in basal contact with an
+enemy if no enemies end up in basal contact
+with the leading unit’s frontal arc. A tercio can
+charge multiple enemies as long as at least one
+of them is in the leading unit’s frontal arc.
+iv. Suffering Hits & Kills
+Tercios are targeted as a single unit by
+non-Radius attacks which can target at least
+one of its units. Attacks target the arc of the
+closest unit targetable by the attacker. When
+struck, the tercio uses the toughness of the
+leading unit to determine the target number of
+the kill roll. If the tercio suffers a kill, that kill
+must be applied to the leading unit.
+Tercios targeted by a Radius attack
+receive an attack for each of its units within
+the Radius. Each unit in the tercio is struck by
+individually resolved attacks that use the unit’s
+own Toughness, not that of the leading unit.
+Hits against desanting members of a Tercio are
+also resolved individually.
+When the leading unit is fully killed (not
+just depleted), one of the two supporting units
+must immediately move up and replace it. The
+other supporting unit enters full basal contact
+with the rear of the new leading unit, resulting
+in a straight “column” of two unit bases.
+If the tercio suffers multiple kills simultaneously, then kills are assigned to the leading
+unit until it is fully dead. All overflowing kills
+must then be assigned to one of the two supporting units (of the defender’s choice) before
+the next leading unit is moved forward.
+
+v. Firing & Terrain
+A tercio attacks simultaneously, with
+all units using their weapons within normal
+facing and range restrictions. Each constituent
+unit may select a different target and draw LOS
+out of any other unit’s base in the same tercio.
+Tercios are spotted and identified as
+one unit. A tercio is concealed if all of its constitutent units are concealed. It is in ambush
+if the leading unit can enter ambush and the
+supporting units are in ambush, concealed, or
+out of LOS from all enemies. The whole tercio
+uses the leading unit’s Cover Modifier.
+Constituent units of a tercio benefit
+from their special rules individually. Parachuting tercios take pin as if disbanded.
+KEY:
+1 = LEAD
+2 = SUPPORTING
+3 = SUPPORTING
+
+TERCIO MOVES LIKE
+A TOW CHAIN (WITH
+NO EXTRA TURN COST)
+
+2 3
+1
+
+3
+2
+1
+LEADING UNIT MOVES,
+SUPPORTING UNITS
+THEN PLACED BEHIND
+
+2
+1 3
+
+1
+
+PROPER TERCIO
+AMBUSH
+
+RADIUS ATTACKS
+HIT UNITS IN RADIUS
+INDIVIDUALLY
+
+2 3
+1
+
+2 3
+
+3
+NON-RADIUS
+ATTACKS CAN
+TARGET ANY UNIT
+BUT LEADING UNIT
+IS ALWAYS HIT
+
+ARMY SPECIAL RULES - A-2
+
+FM 100-4-8X
+
+APPENDIX B - BUILDING AN ARMY LIST
+This appendix section describes the structure of baronial armies and provides advice for
+building an army list.
+MILITARY ORGANIZATION
+Outside of certain equipment commonalities and general trends in strategy, the A.B.S.
+do not field anything resembling a modern
+conventional army. Armies are chiefly categorized according to social class (thus, grade of
+equipment) rather than by a national or doctrinal standard. Variable motivations and chaotic
+politics mean that any combination of social
+classes may be observed fighting together.
+When writing an army list, it helps to
+give it a theme by envisioning what kind of
+regiment your platoon or company is part of.
+(Even with no more national army, Santagrines
+place great stock in the title “regiment”.) Santagrine regimental names are prefixed with a
+demonym or place-name of the region the regiment was raised from, followed by a descriptive name which designates its social class. The
+regiment name is then appended by its specialization. Ultimately it boils down to what you,
+the lord, find suitable. Some examples are:
+Fendible: Groundling regiment. Used only
+when chiefly groundling-led.
+Séquito: Professional regiment of the yeomanry or lower nobility.
+Séquito Libre: Mercenaries of mixed
+wealth and stature; a “free company”.
+Señorial: Chiefly nobility, but supported by
+other troops either bought or levied.
+If the regiment specializes in infantry or vehicles, it is specified as de Pie or de
+Caballo con Tracción, respectively. Artillery
+and airmobile units are not called regiments
+directly, but simply referred to as Artillería or
+Armada, respectively.
+B-1 - BUILDING AN ARMY LIST
+
+In addition to a descriptive name, many
+regiments bear a nickname based on the color
+or symbol of their standard or a lord’s heraldry. If there must be a number, it is written in
+Roman numerals. For example:
+III. Alghemain Regimiento Señorial de
+Caballo con Tracción, “Primavera”
+In the case of bandits, guerillas, or
+short-term rural levies, your force may simply
+be its leader’s “band” or “boys”.
+ARMY LIST COMPOSITION
+A typical Santagrine army relies on
+excellence in the air and mass on the ground;
+most must be designed with aircraft in mind,
+even if only a light command helicopter. Tercios
+backed by vehicles and Pages to call close air
+support is a quintessential formation. Never
+fear to coup-de-grace with your TACOMs.
+For lower-tier formations, cheap infantry can be shored up by various types of towed
+gun to ward off enemy armor and aircraft.
+Expensive armored units are always complemented by cheaper things which can fire either
+offensive or defensive smoke clouds.
+For higher-tier formations, gunships
+and paratroopers allow lightning-quick flanking drives, while heavy tanks apply steady
+head-on pressure along the frontline.
+Generally, Santagrine units are specialists; they do something relatively well and struggle when placed outside their niche. Some exceptions include the versatile Retumbo towed
+gun and the Exto heavy personnel carrier, at
+the cost of middling overall efficiency.
+It is good practice to begin by buying
+some key units to form the core of your army
+list and its strategy. Then, use the remaining
+points to round out its general capabilities.
+
+FM 100-4-8X
+SUB-UNIT NAMES
+Owing to the lack of any cohesive military regulations or doctrine, the fundamental
+units of the baronial armies vary. Infantry
+and vehicles are put into “hemipelotóns”, or
+half-platoons. Two to four infantry units make
+up a “pelotón”, or platoon; two to four vehicles
+make a “tropa”, or troop. Tropas, pelotóns, and
+hemipelotóns are combined into companies.
+Units may be identified either by a folk
+name or a Roman numeral. Thus:
+I. Pelotón or Tropa
+bI. Hemipelotón
+bII. Hemipelotón
+Formerly, an “escuadrón”, or squadron,
+was a formation of twelve or more aircraft.
+With pilot numbers diminished, escuadrón
+now refers honorarily to any group of at least
+four aircraft. The command air section is the
+“Escuadrón Primo” regardless of size. Escuadróns are numbered ordinally in Spanish.
+Any formation which is too small to fit
+into any of the above categories is a “sección”,
+or section. Thus:
+Escuadrón Primo
+Escuadrón Segundo
+bI. Sección
+bII. Sección
+CALLSIGNS
+When deploying the units of an army
+list as blinds, it is useful to give each blind a
+snappy callsign. While it is easiest to assign
+callsigns methodically (“Tercio I”, “Tercio II”,
+“Vehicula I”, etc.), illustrative names are far
+more entertaining and memorable.
+In the wake of the bombs, the Santagrines have adopted a culture of romance and
+mysticism. Their names should all at once
+inspire bravery, warm with comfort, and stun
+with awe. Romantic literary allusions, such as
+mythical weapons, famous steeds, and places
+of historic battles are a good start.
+
+A beautifully painted plane may be
+dubbed “Luminosa”, a reliable one “Bucephalus”; an elderly band of militia could call themselves “Los Immortales”; tanks with storied
+kills could be titled “Excalibur”, “Gram”, or
+“Durendal”.
+OFFICERS & NAMES
+Choose one TACOM in your army list—
+that’s you. You were born to rule. Your gunship
+is your steed; your cannon, your sword. Your
+language is that of power and virtue.
+The names of Santagria are cobbled
+togethered from all the dialects of Romance
+language south of the Pyrenees, sometimes
+infected slightly with French affectations (especially Basque). Some truly strange and inventive names inspired by people of the South
+American Hispanidad can be found among the
+peasants, who have invented or kept to their
+own local cultures after the Commonwealth.
+Nobles of unquestionable pedigree are
+classically, Peninsularly Spanish, and abide
+by modern Spanish spellings: a mark of the
+former society of the Commonwealth.
+As with callsigns, never neglect to give
+yourself a nickname. Consider this archetypal
+name for a commander of baronial gunships:
+Capitan-Major Rocco “El Cavo” Hidalgo IV
+EXAMPLE ARMY LISTS
+The following pages have generic,
+example army lists which embody the tenets
+of Santagrine doctrine at the 100, 200, 300, and
+400 point brackets. Use these as practice lists or
+points of comparison for creating army lists of
+your own.
+These army lists do not come with
+suggested regiment names or callsigns, as you
+are encouraged to come up with your own and
+to modify these as you see fit. These lists also
+do not make use of dummies or most support
+cards, as it is not recommended to use these
+“advanced” units until a player has learned the
+ropes of the game.
+BUILDING AN ARMY LIST - B-2
+
+FM 100-4-8X
+A.B.S. MILITIA ANTI-TANK PLATOON
+EXAMPLE - 100 PTS, 2 COMMAND
+
+A.B.S. FREE MECHANIZED PLATOON
+EXAMPLE - 200 PTS, 5 COMMAND
+
+__________________________
+
+__________________________
+
+Escuadrón Primo - Headquarters
+PEG.123-AC “Graf” - 0 pts (TACOM)
+
+Escuadrón Primo - Headquarters
+PEG.123-AC “Graf” - 0 pts (TACOM)
+UNI.28-AC “Don” - 25 pts (TACOM)
+MC.17-86 “Spada-Fresco” - 20 pts
+
+I. Hemipelotón - Fire Support
+VC.2 “Veldjen” - 20 pts
+- [T] Sb.18 “Retumbo” - 20 pts
+Hexamer - 10 pts
+- [T] Sb.15 1-lber “Pom-Pom” - 10 pts
+II. Hemipelotón - Infantry
+Steam Tractor - 5 pts
+- [T] War Wagon - 5 pts
+- [D/1] Santagrine Militia - 5 pts
+- [E/2] Santagrine Militia - 5 pts
+- [E/3] Volley Team - 5 pts
+- [E] Light Gun Team - 5 pts
+- [T] Field Gun - 10 pts
+
+I. Hemipelotón - Anti-Tank
+“Exto” - 25 pts
+- [T] Field Gun - 10 pts
+- [E/1] Grenadier Team - 10 pts
+- [E/2] Machine Gun Team - 10 pts
+- [E/3] Volley Team - 5 pts
+- [D] Light Gun Team - 5 pts
+II. Hemipelotón - Mortar
+- [E/1] Grenadier Team - 10 pts
+- [E/2] Machine Gun Team - 10 pts
+- [E/3] Volley Team - 5 pts
+- [D] Bombard Team - 15 pts
+
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+  [1/2/3] - Position in Tercio
+All written tows/infantry mountings are strictly advisory.
+
+I. Sección - Fire Support
+OSM “Mogul” - 40 pts
+- [T] Sb.15 1-lber “Pom-Pom” - 10 pts
+
+At 100 points, a Santagrine list is quite
+strapped for command. This example fendible
+list fields several cheap towed weapons in order
+to create serious dilemmas for an aggressive
+opponent. Consider the centerpiece weapon:
+the Retumbo, which both provides heavy indirect fire and offers a redundancy in capability
+for both the Field Gun and the Pom-Pom.
+The cheap tercio in the second hemipelotón is hard to kill and can be quite dangerous if it gets to encircle an enemy vehicle, but it
+mostly serves as a large, lumbering distraction
+from the far more valuable towed guns. The
+infantry are well supported by the Veldjen and
+Hexamer, which can lay their covering smoke.
+The list is flawed because it is slow and
+relies too much on casualty-trading to gamble
+for a victory. It lacks the maneuverability of a
+higher-point list by excluding planes entirely.
+Tercios can always be reconfigured to
+have a different specialty. For example, the
+Hexamer can be switched to a Steam Tractor to
+upgrade a Militia unit into a Grenadier Team.
+B-3 - BUILDING AN ARMY LIST
+
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+  [1/2/3] - Position in Tercio
+All written tows/infantry mountings are strictly advisory.
+
+At 200 points, a Santagrine list is able to
+choose a capability specialization, but still has
+to widely diversify its units to remain generally
+effective. This mechanized platoon includes
+a few expensive, higher-end units in order to
+secure ideal fighting positions for its leading
+armored infantry elements.
+The infantry pelotón has two tercios
+which fit entirely inside of one Exto, which
+serves as an adequate general fire support platform for its disembarking infantry and lends
+extra ammunition to the indirect fire weapons.
+The Mogul is the fulcrum of this list.
+Use it to suppress enemy guns and conceal
+your troops in smoke.
+Defend your troops from enemy aircraft or ground flankers with the Spada-Fresco.
+For the sake of extra anti-tank firepower, the Field Gun and Pom-Pom can be
+exchanged for a Veldjen or Retumbo.
+
+FM 100-4-8X
+A.B.S. YEOMAN ARMOR PLATOON
+EXAMPLE - 300 PTS, 10 COMMAND
+
+A.B.S. NOBLE AIRMOBILE PLATOON
+EXAMPLE - 400 PTS, 10 COMMAND
+
+__________________________
+
+__________________________
+
+Escuadrón Primo - Assault
+UNI.28-AC “Don” - 25 pts (TACOM)
+UNI.28-AC “Don” - 25 pts (TACOM)
+PEG.123 “Knight-Errant” - 30 pts
+MC.20-01C “Rocinante” - 30 pts
+
+Escuadrón Primo - Assault
+UNI.28-AC “Don” - 25 pts (TACOM)
+UNI.28-AC “Don” - 25 pts (TACOM)
+UNI.28-08 “Lancer” - 60 pts
+UNI.28-03 “Man-at-Arms” - 50 pts
+
+I. Hemipelotón - Headquarters
+VBD.127-DB “Castellan” - 40 pts (TACOM)
+- [D] Yeoman Paras - 15 pts
+
+Escuadrón Segundo - Reconnaissance
+PEG.123-AC “Graf” - 0 pts (TACOM)
+PEG.123-AC “Graf” - 0 pts (TACOM)
+PEG.123 “Knight-Errant” - 30 pts
+
+II. Hemipelotón - Armor
+VE.378 “Cataphract” - 40 pts
+CB.76 “Miséricorde” - 15 pts
+- [D] Yeoman Paras - 15 pts
+III. Hemipelotón - Reconnaissance
+VC.44R “Whirlwind” - 35 pts
+CB.61 “Galgo” - 15 pts
+- [D] Yeoman Paras - 15 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 300 points, a Santagrine list has
+weaned its dependence on towed fire support.
+Cheaper lists have to spend every point wisely,
+but this list can afford to “go tall” on several expensive, survivable units.
+This force’s relatively low unit count
+complements its relatively high command, a
+far cry from the 100 point list. This army can
+fight carefully and reactively.
+Note the pivot away from tercios and
+carriers into elite infantry and tanks. Some of
+these forces can reach objectives fast enough
+that deploying desant is no issue. The sluggish
+Cataphract can afford to show up a little late
+while the infantry and light vehicles screen.
+The command section is made up of
+hardy gunships which offer near-comprehensive anti-air capability, but they need to coordinate closely with ground forces to stay alive.
+The Rocinante can be exchanged with a
+Jonquil for use against armies especially light
+on infantry and aircraft.
+
+I. Pelotón - Infantry
+CB.76 “Miséricorde” - 15 pts
+- [D] Yeoman Paras - 15 pts
+- [D] Groundsmen - 10 pts
+CB.61 “Galgo” - 15 pts
+- [D] Yeoman Paras - 15 pts
+PEG.80-01A “Sambuca” - 25 pts
+- [E] Pages - 10 pts
+- [E] Black Fangs - 20 pts
+- [E] Yeoman Paras - 15 pts
+I. Sección - Air Support
+DC.4E “Bavieca” - 40 pts
+DC/B.2K “Jonquil” - 30 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 400 points, a Santagrine list is replete
+with specialized units. This list is quintessentially Santagrine, sporting multiple fighting
+helicopters, some support aircraft, and a significant number of paratroopers which make
+deployment unpredictable. With 70 points dedicated to heavy-hitting planes, mind-games are
+key.
+The infantry’s Sambuca deploys an incredible reserve. Pages make directing planes
+easier, and Black Fangs keep the Pages secure.
+Use gunship rocket pod strafes to split
+enemy forces during decisive engagements.
+The infantry section is mostly made
+up of parachuting units, which allows the Yeomanry and Groundsmen to be deployed with
+their vehicles as an air-dropped tercio.
+BUILDING AN ARMY LIST - B-4
+
+FM 100-4-8X
+
+APPENDIX C - QUICK UNIT REFERENCE
+This appendix section includes all unit cards from the main chapters.
+
+TACOMS
+PEG.123-AC “GRAF” - 0 pts
+COMMAND HELICOPTER
+
+__________________________
+Air, H1, S32”, M36”, Q4, T2/1/1, C2
+Brigade (4, 16”), Decoy Protection (1), NBC
+
+__________________________
+
+MhM-76 .305 Minigun
+All, R12”, A4+/5+, S1/1+, D4, Turret
+Lerna 15-lbr Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+SUR-4 127mm Air-to-Air Missile
+Air, R60”, A3+/3+, S6/6, D1, Ammo 1,
+Air-Filling, Guided Missile (1),
+Homing
+120dB Megaphone Array
+Inf/Vec, R16”, A++/++, D1, Rally,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+UNI.28-AC “DON” - 25 pts
+COMMAND GUNSHIP
+
+__________________________
+Air, H2, S32”, M24”, Q4, T4/3/3, C3
+Brigade (3, 12”), Leviathan (2), NBC
+
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R32”, A4+/4+, S4/6, D3, Ammo 3
+SUR-4 127mm Air-to-Air Missile
+Air, R60”, A3+/3+, S6/6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+120dB Megaphone Array
+Inf/Vec, R16”, A++/++, D1,
+Rally, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-1 - QUICK UNIT REFERENCE
+
+VBD.127-DB “CASTELLAN” - 40 pts
+COMMAND MAIN BATTLE TANK
+
+__________________________
+Vec, H2, S32”, M8”, Q4, T16/7/5, C4
+Brigade (2, 8”), NBC
+
+__________________________
+Whenever this unit scores a kill on an enemy
+vehicle, it may Rally a friendly unit within 8”.
+
+__________________________
+
+MhL-42 .305 MG
+All, R12”, A4+/4+, S1/1+, D2,
+Thermal Sights, Turret
+Sb.98 55-lber Gun
+R40”, A3+/3+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights, Turret
+→ 55-lb. APDS
+Vec, S14/21
+→ 55-lb. HESH
+Inf/Vec, S9/4, Shaped Charge,
+Slow Round
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A4+/5+, S4/4, D4,
+Ammo 1, No CC (Inf.), Slow Round,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY - LINE SQUADS
+SANTAGRINE MILITIA - 5 pts
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q1, T1/1/1
+NBC, Tercio
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-4-8X
+MOUNTED SERJEANTS - 10 pts
+CAVALRY TROOP
+
+__________________________
+Inf (S), H2, S24”, M8”, Q2, T1/1/1Fearless, NBC
+
+__________________________
+May not embark or desant.
+
+__________________________
+Cavalry Carbine, local manufacture
+All, R8”, A5+/5+, S1/1+, D1,
+Small Arm
+18-oz. Lance Mine
+Vec, R0”, A1+/1+, S6/1, D1, Ammo 2,
+Melee, Shaped Charge
+Heirloom Backsword
+Inf, R0”, A1+/1+, S1/1, D2, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+YEOMAN PARAS - 15 pts
+PARATROOPER SQUAD
+
+__________________________
+Inf (S), H1, S16”, M5”, Q3, T1/1-/1Assault Specialist, Fearless, NBC, Paradrop,
+Tercio
+
+__________________________
+
+MhL-48 .455 SMG
+All, R8”, A3+/3+, S1-/1+, D2,
+Small Arm
+Hi-25 2.5-lber Spigot Mortar
+Inf/Vec, R6”, A3+/5+, S7/1+, D1,
+Ammo 3, Light Indirect (0),
+Shaped Charge, Small Arm,
+Slow Round
+
+INFANTRY - WEAPON TEAMS
+VOLLEY TEAM - 5 pts
+ANTI-TANK TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q1, T1-/1-/1NBC, Tercio
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+“Tricorne” Triple RPG, improvised
+Inf/Vec, R8”, A5+/6+, S5/1, D3,
+Ammo 2, Shaped Charge,
+Small Arm, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LIGHT GUN TEAM - 5 pts
+ANTI-TANK TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q1, T1/1-/1NBC
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Sb.1 1-lber Gun
+Inf/Vec, R24’’, A5+/xx, S14/2, D1,
+Ammo 3, Defensive CC,
+Shaped Charge, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-2
+
+FM 100-4-8X
+GRENADIER TEAM - 10 pts
+SHOCK TEAM
+
+BOMBARD TEAM - 15 pts
+SUPPRESSION TEAM
+
+__________________________
+
+__________________________
+
+Inf, H1, S16”, M4”, Q2, T2/1+/1+
+NBC, Tercio
+
+Inf, H1, S24”, M4”, Q2, T1-/1-/1NBC
+
+__________________________
+
+__________________________
+
+Engram .32 Machine Pistol
+All, R2”, A5+/5+, S1-/1-, D2,
+Small Arm
+S-5 40mm Grenade Pistol, sawn off
+R6”, D1, Ammo 4, Small Arm
+→ 40mm HE
+Inf/Vec, A4+/4+, S1+/1+,
+Slow Round, Ignore Cover (1)
+→ 40mm Smoke
+Gnd, A++/++, No CC, Smoke (2”)
+
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Hi-14 Three-Quarters Bombard
+Gnd, R24”, D1, Ammo 4,
+Light Indirect (2), No CC
+→ 26-lb HE
+A4+/xx, S[D6], Air-filling,
+Radius (2”)
+→ 14-lb Plutonium Core
+A++/xx, Radius (4”)*
+*Roll a D6 for each unit in the radius.
+If the result is above the unit’s 		
+Quality, it takes max pin, otherwise
+it takes one pin.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MACHINE GUN TEAM - 10 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Inf, H1, S16”, M4”, Q2, T1/1-/1NBC, Tercio
+
+INFANTRY - SPECIAL
+
+__________________________
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+Depredador Cortes .455 MG
+All, R14’’, A4+/xx, S1+/2, D2,
+Defensive CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+GROUNDSMEN - 10 pts
+SNIPER TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1/1-/1Fearless, NBC, Paradrop, Sense (6”), Tercio
+
+__________________________
+
+SMHH Combination Gun, .276 Barrel
+All, R12’’, A3+/4+, S1/1+, D1, Scoped,
+Small Arm
+12-gauge Slug Barrel
+Inf/Vec, R6’’, A*, S1+/2, D1,
+Underbarrel (SMHH)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-3 - QUICK UNIT REFERENCE
+
+FM 100-4-8X
+PAGES - 10 pts
+FORWARD AIR CONTROL TEAM
+
+ATOMIC PILGRIMS - 60 pts
+NUCLEAR WEAPONS TEAM
+
+__________________________
+
+__________________________
+
+Inf, H1, S32’’, M5’’, Q2, T1/1-/1-
+
+Inf, H1, S24’’, M4’’, Q4, T1-/1-/1Fearless, NBC
+
+Fearless, NBC
+
+__________________________
+
+__________________________
+
+May activate to call a plane mission during
+
+Engram .32 Machine Pistol
+Inf, R2”, A5+/5+, S1-/1-, D2,
+Small Arm
+“Violet Mace” Recoilless Gun, Nuclear
+Gnd, R24'', A++/xx, D1, Ammo 1,
+Nuclear (1”-2”-6”)
+
+the Support Phase, replacing a friendly
+TACOM's turn.
+
+__________________________
+AFME-42/58 .439 Automatic Rifle
+All, R8’’, A4+/6+, S1+/1+, D2,
+Small Arm
+Coincidence Rangefinder, craft-produced
+All, R32’’, A++/xx, D1, Discreet,
+Designator
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+BLACK FANGS - 20 pts
+COMMANDO TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q4, T2/1+/1+
+Assault Specialist, Fearless, NBC
+
+__________________________
+LMG, various make & caliber
+All, R10”, A2+/3+, S1/1+, D2,
+Small Arm
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22’’, A4+/xx, S4/4, D4,
+Ammo 1, No CC (Inf.), Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - LOGISTICS
+STEAM TRACTOR - 5 pts
+PRIME MOVER
+
+__________________________
+Vec (W), H2, S16”, M6”, Q2, T4/4/3
+NBC, PC (1, Any), Tow (16)
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A5+/6+, S1/1+, D2, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WAR WAGON - 5 pts
+TOWED PERSONNEL CARRIER
+
+__________________________
+Vec (C), H2, S8”, M0”, Q1, T3/3/3
+NBC, Tow (∞), PC (4, Any), Resupply (2)
+
+__________________________
+Engram .32 Snub Nose, driver’s issue
+Inf, R2”, A5+/5+, S1-/1-, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-4
+
+FM 100-4-8X
+VEHICLES - PERSONNEL CARRIERS
+
+VEHICLES - ARMOR
+
+CB.76 “MISÉRICORDE” - 15 pts
+
+“HEXAMER” - 10 pts
+
+__________________________
+
+AIRMOBILE ASSAULT GUN
+
+__________________________
+
+Vec, H1, S24”, M8”, Q3, T5/4/2
+NBC, Paradrop, Tow (2)
+
+Vec, H2, S16”, M6”, Q2, T4/4/3
+NBC, Tow (6)
+
+TRACTOR TANK
+
+__________________________
+
+__________________________
+
+Uses a 40x40mm infantry base. May fire while
+
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+Sb.1 1-lber Gun
+R20”, D1, Ammo 4, Turret
+→ 1-lb. APDS
+Vec, A4+/6+, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, A4+/6+, S1+/2,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 1-lb. Smoke
+Gnd, A++/++, No CC, Smoke (2'')
+
+carrying desanting infantry. Carries up to PC
+(3) desants instead of PC (2).
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+Sb.21 20-lber Mountain Gun
+R24”, D1, Ammo 3, No CC (Inf.)
+→ 20-lb. HESH
+Inf/Vec, A4+/6+, S8/3
+Shaped Charge, Slow Round
+→ 20-lb Smoke
+Gnd, A++/++, No CC, Smoke (3’’)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“EXTO” - 25 pts
+INFANTRY SUPPORT CRAWLER
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T4/4/4
+Leviathan (2), NBC, PC (6, Sides), Resupply
+(4), Tow (3)
+
+__________________________
+
+Rh-49 .305 Self-cycling Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+SAE 2-lber AA Gun
+All, R36”, A4+/5+, S5/7, D2,
+Ammo 4, No CC (Inf.),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-5 - QUICK UNIT REFERENCE
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VC.2 “VELDJEN” - 20 pts
+MEDIUM TANK
+
+__________________________
+Vec, H2, S32”, M6”, Q2, T8/6/5
+NBC, Tow (3)
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+MhL-60 .50 HMG
+All, R20”, A4+/5+, S2/3, D2
+Multi-Gun
+14-lber Gun, various make
+R32”, D1, Ammo 6, Turret
+→ 14-lb. APHE
+Vec, A4+/6+, S8/12, No CC (Inf.),
+Slow Round
+→ 14-lb. HESH
+Inf/Vec, A4+/6+, S7/2, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 14-lb. Smoke
+Gnd, A++/++, No CC, Smoke (3'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-4-8X
+VC.44R “WHIRLWIND” - 35 pts
+MAIN BATTLE TANK
+
+VE.378 “CATAPHRACT” - 40 pts
+HEAVY TANK
+
+__________________________
+
+__________________________
+
+Vec, H2, S32”, M10”, Q2, T12/6/5
+NBC, Tow (5)
+
+Vec, H2, S32”, M6”, Q2, T16/10/6
+NBC
+
+__________________________
+
+__________________________
+
+This unit ignores up to 90 degrees of rotation
+
+MhL-60 .50 HMG
+All, R20”, A4+/6+, S2/3, D2, Turret
+Sb.1 1-lber Gun
+R20”, A4+/6+, D1, Ammo 3,
+Multi-Gun, No CC (Inf.), Turret
+→ 1-lb. APDS
+Vec, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, S1+/2, Ignore Cover (1),
+Slow Round
+Sb.92 55-lber Gun
+R40”, D1, Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+→ 55-lb. APDS
+Vec, A2+/5+, S14/21
+→ 55-lb. HESH
+Inf/Vec, A3+/5+, S9/4,
+Shaped Charge, Slow Round
+
+to the right, but must pay an additional 1” the
+first time it rotates to the left in a move.
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+24-lber Gun, local manufacture
+R40'', A3+/4+, D1, Ammo 4,
+No CC (Inf.), Turret
+→ 24-lb. APDS
+Vec, S12/18
+→ 24-lb. HESH
+Inf/Vec, S8/3, Shaped Charge,
+Slow Round
+→ 24-lb. WP Smoke
+Gnd, S1+/1+, Ignore Cover (2),
+Smoke (3’’), Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-6
+
+FM 100-4-8X
+“VAUBAN” - 60 pts
+LAND FRIGATE
+
+__________________________
+Vec, H2, S32’’, M6’’, Q4, T6/6/4
+Leviathan (3), NBC
+
+__________________________
+
+VEHICLES - FIRE SUPPORT
+FIELD GUN - 10 pts
+TOWED ANTI-TANK GUN
+
+__________________________
+Vec (C), H1, S32”, M3”, Q2, T2/1/1
+NBC
+
+Takes pin like a Tercio. May desant at PC (4).
+
+__________________________
+
+If the CIWS has not been destroyed, the unit
+
+__________________________
+
+gains Active Protection (∞). This Protection
+has infinite ammo but only triggers once per
+round and only against Guided Missiles.
+
+__________________________
+GAP-61 .61 CIWS
+All, R24’’, A4+/4+, S3/4, D3,
+Multi-Gun, Radar Anti-Air, Turret
+SAP 14-lber Naval Gun
+R40”, A4+/4+, D2, Ammo 4,
+No CC (Inf.), Radar Anti-Air,
+Slow Round, Turret
+→ 14-lb. APHE
+Vec, S8/12
+→ 14-lb. Proximity Fuze HE
+All, S3/3, Air-Filling
+VIM-4 “Copa” 90-lber VLS Missiles
+Vec/Air, R24-60”, A4+/4+, S8/8, D1,
+Ammo 4, Air-Filling,
+Guided Missile (2), Radar Anti-Air,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+This unit uses a 40x40mm base.
+
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Field Gun, various make & caliber
+R40'', D1, Ammo 4, No CC
+→ HESH, variable weight
+Inf/Vec, A4+/xx, S9/4,
+Shaped Charge, Slow Round
+→ Gas, variable composition & weight
+Gnd, A++/xx, Chemical Weapon (4'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SB.15 1-LBER “POM-POM” - 10 pts
+TOWED ANTI-AIR GUN
+
+__________________________
+Vec (C), H1, S32”, M3”, Q2, T2/1/1
+NBC
+
+__________________________
+This unit uses a 40x40mm base.
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Sb.15 1-lber Autocannon
+All, R32'', A4+/xx, S4/6, D2, Ammo 4,
+Tracking Anti-Air, Turret, No CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-7 - QUICK UNIT REFERENCE
+
+FM 100-4-8X
+CB.61 “GALGO” - 15 pts
+AIRMOBILE ARMORED CAR
+
+OSM “MOGUL” - 40 pts
+SELF-PROPELLED SIEGE GUN
+
+__________________________
+
+__________________________
+
+Vec (W), H2, S32”, M10”, Q3, T4/3/2
+NBC, Paradrop
+
+Vec, H2, S32”, M6”, Q2, T18/12/8
+NBC, Tow (5)
+
+__________________________
+
+__________________________
+
+MhL-77 .61 HMG
+All, R24”, A4+/5+, S3/4, D2, Turret
+No. 20 4-lb. Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC,
+Smoke (2''), Turret
+
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+S-10 250-lber Siege Gun
+Ammo 3
+→ 250-lb. HE
+Inf/Vec, R40”, A3+/4+, S8/8, D1,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 250-lb. Phosgene Gas
+Gnd, R∞”, A++/++, D2,
+Chemical Weapon (4”),
+Heavy Indirect (3), No CC
+→ 250-lb. WP Smoke
+Gnd, R∞”, A4+/5+, S1+/1+, D2,
+Air-Filling, Heavy Indirect (3),
+Ignore Cover (2), No CC, Smoke (4”),
+Rear Attack
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SB.18 22-LBER “RETUMBO” - 20 pts
+TOWED ANTI-AIR GUN
+
+__________________________
+Vec (C), H2, S32”, M2”, Q2, T2/1/1
+NBC
+
+__________________________
+Bolt Action Rifle, various make & caliber
+All, R10”, A5+/5+, S1/1+, D1,
+Small Arm
+Sb.18 22-lber Anti-Aircraft Gun
+Ammo 4, No CC, Radar Anti-Air,
+Turret
+→ 22-lb. AP
+Vec, R40”, A3+/xx, S8/12, D1,
+Slow Round
+→ 22-lb. Timed Fuze HE
+All, R40”, A4+/xx, S3/3, D1,
+Air-Filling, Slow Round
+→ 22-lb. Frag
+Gnd, R∞”, A4+/xx, S[D3], D2,
+Air-Filling, Heavy Indirect (3),
+Radius (2'')
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - SPECIAL
+LDAL “PIETRO” - 10 pts
+LANDING CRAFT
+
+__________________________
+Vec, H2, S16”, M8”, Q1, T5/4/1+
+PC (8, Front), NBC, Watercraft
+
+__________________________
+Sb.1 1-lber Dual Guns
+R20”, D1, Ammo 6, Barrage (2),
+Turret
+→ 1-lb. APDS
+Vec, A4+/6+, S3/4
+→ 1-lb. SAPHE
+Inf/Vec, A4+/6+, S1+/2,
+Ignore Cover (1), No CC (Inf.),
+Slow Round
+→ 1-lb. Smoke
+Gnd, A++/++, No CC, Smoke (2’’)
+QUICK UNIT REFERENCE - C-8
+
+FM 100-4-8X
+AIRCRAFT - HELICOPTERS
+PEG.60-11 “SQUIRE” - 20 pts
+UTILITY HELICOPTER
+
+__________________________
+Air, H2, S32”, M32”, Q3, T1+/1+/1+
+NBC, PC (2, Rear)
+
+__________________________
+MhL-42 .305 MG
+All, R12”, A4+/5+, S1/1+, D2,
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+PEG.80-01A “SAMBUCA” - 25 pts
+HEAVY LIFT HELICOPTER
+
+__________________________
+Air, H2, S32”, M24”, Q3, T3/3/3
+Decoy Protection (1), NBC, PC (6, Rear), Tow (2)
+
+__________________________
+
+MhL-60 .50 HMG
+All, R20”, A4+/5+, S2/3, D2,
+Door Gun (Sides, Rear)
+Lerna 15-lber Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 1, Strafing, Slow Round
+PEG.123-00 “KNIGHT-ERRANT” - 30 pts
+SCOUT ATTACK HELICOPTER
+
+__________________________
+Air, H1, S32”, M36”, Q3, T2/1/1
+Decoy Protection (2), NBC
+
+__________________________
+SOAA Target Designator
+All, R40”, A++/++, D1, Discreet,
+Designator
+Chilon 30-lbr High-Velocity Missile
+S8/5, D1, Ammo 4,
+Guided Missile (1)
+→ Air-to-Ground Targeting
+Vec, R12-60”, A3+/3+
+→ Air-to-Air Targeting
+Air, R60”, A4+/4+
+
+C-9 - QUICK UNIT REFERENCE
+
+UNI.28-05 “CONQUISTADOR” - 40 pts
+JALOPY GUNSHIP
+
+__________________________
+Air, H2, S32”, M24”, Q3, T3/3/3
+Leviathan (2), NBC
+
+__________________________
+Sb.38 20mm Autocannon
+All, R32”, A4+/4+, S4/6, D2, Ammo 4
+Sarvara 46-lber Dual Rocket Pod
+Inf/Vec, R24”, A6+/5+, S10/2, D2,
+Ammo 2, Barrage (2), Shaped Charge,
+Strafing, Slow Round
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+UNI.28-03 “MAN-AT-ARMS” - 50 pts
+ATTACK GUNSHIP
+
+__________________________
+Air, H2, S32”, M24”, Q4, T4/3/3
+Leviathan (2), NBC
+
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R32”, A4+/4+, S4/6, D3, Ammo 3
+9GR1M 125mm ATGM
+Vec, R6-60”, A3+/4+, S16/3, D1,
+Ammo 4, Guided Missile (2),
+Shaped Charge
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-4-8X
+UNI.28-08 “LANCER” - 60 pts
+__________________________
+
+DC/B.2K “JONQUIL” - 30 pts
+
+Air, H2, S32”, M24”, Q4, T4/4/3
+Leviathan (2), NBC
+__________________________
+
+__________________________
+
+SDV 6-lber High Velocity Autocannon
+Vec/Air, R40”, A4+/4+, S12/18, D2,
+Ammo 3, Thermal Sights
+Lerna 15-lber Dual Rocket Pod
+Inf/Vec, R22”, A6+/5+, S4/4, D4,
+Ammo 2, Barrage (2), Strafing,
+Slow Round
+Silene 285-lber Dual WP Rocket Pod
+Gnd, R28”, A4+/4+, S1+/1+, D1,
+Ammo 2, Barrage (2),
+Ignore Cover (2), Rear Attack,
+Smoke (4”)
+
+AIRCRAFT - PLANES
+MC.17-86 “SPADA-FRESCO” - 20 pts
+__________________________
+Air (CAP), M16”, Q3, T2, E2
+Afterburner
+__________________________
+Sb.38 20mm Autocannons, dual
+All, R8”, A3+, S4, D2, Ammo 3,
+Radar Anti-Air
+500-lber HE Bombs, various models
+Gnd, R0”, A3+, S6, D1, Ammo 2,
+Air-Filling, Barrage (2), Radius (3”),
+Rear Attack
+MC.20-01C “ROCINANTE” - 30 pts
+__________________________
+Air (CAP), M18”, Q3, T3, E3
+Afterburner, Decoy Protection (1),
+Flower of the Atom
+__________________________
+Allant 1.8-lber Rotary Cannon
+All, R8”, A3+, S4, D3, Ammo 2,
+Radar Anti-Air
+Lerna 15-lber Dual Rocket Pods
+Inf/Vec, R6”, A4+, S4, D4, Ammo 2,
+Barrage (2), Slow Round
+SUR-4 127mm Infrared AAM
+Air, R30”, A3+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+
+MULTI-ROLE FIGHTER
+
+Air (CAP), M14’’, Q3, T3, E1
+Afterburner, Decoy Protection (2),
+Flower of the Atom
+
+__________________________
+Rb.12 9-lber Air-to-Air Rockets
+All, R6’’, A4+, S3, D3, Ammo 2,
+Barrage (2), Radar Anti-Air,
+Slow Round
+Mf.59 60-lber Semi-Active AAM
+Air, R50”, A3+, S8, D1, Ammo 4,
+Air-Filling, Guided Missile (1), No CC
+9GR3 275mm AGM
+Vec, R60”, A2+, S24/8, D1, Ammo 3,
+Guided Missile (2), MCLOS,
+Shaped Charge
+DC.4E “BAVIECA” - 40 pts
+AIR SUPERIORITY FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E2
+Afterburner, Decoy Protection (2),
+Flower of the Atom
+
+__________________________
+Allant 1.8-lber Rotary Cannon, modified
+All, R8’’, A3+, S4, D4, Ammo 2,
+Radar Anti-Air
+Breakspear 60-lber Semi-Active AAM
+Air, R60’’, A3+, S8, D1, Ammo 4,
+Air-Filling, Guided Missile (1), No CC
+SUR-4 127mm IR AAM, modified
+Vec/Air, R36’’, A3+, S6, D1, Ammo 4,
+Air-Filling, Barrage (2),
+Guided Missile (1), Homing
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-10
+
+FM 100-4-8X
+
+APPENDIX D - PAINTING GUIDE
+This appendix section provides full-color references for painting your Atom Baron miniatures.
+INFANTRY NOTES
+Groundling militiamen wear a
+loud assortment of colors taken from
+the traditional tinctures of Santagrine
+heraldry. Exceptionally poor or recently refitted troops may only be able
+to afford undyed textiles.
+Yeomanry dress practically, in
+olive drab or jungle green tigerstripe
+fatigues from the old army: now a
+mark of their social station.
+Noble infantry (pages) have the
+same sense of fashion as militia, but
+their costumes are far more sophisticated and expensive: the “real stuff”.
+Old military surplus items,
+such as canteens, bandoliers, chest
+rigs, and haversacks, are khaki or olive.
+Heirloom guns tend towards worn
+blued metal and wooden furniture.
+Armor finishes are customarily
+black, but other colors may be found.
+Groundling officers may sport blued
+helmets with gold trim.
+NBC gear of all sorts is utilized
+by baronial armies, either integrated
+into helmets or worn separately. Many
+old army gas masks are white rubber.
+Common Flesh Tones
+
+Common Hair Colors
+
+D-1 - PAINTING GUIDE
+
+Helmet
+
+BLACK ARMOR
+#3F3832
+Bandolier
+
+DUNE KHAKI
+#B29B70
+
+WOOD FURNITURE
+#764F2B
+
+BLUNDERBUSS BEIGE
+#A2A287
+
+ALUMINUM DUCT
+#A0ACBB
+
+Stock
+
+Barrel
+
+Ducts & Caps
+
+Canteen
+
+OLIVE DRAB
+#50582E
+
+SANTAGRINE HERALDRIC TINCTURES
+AZUR
+#1A2B83
+
+VAO
+#5172B7
+
+VERMELHO
+#E92725
+
+AMARELO
+#DEDB25
+
+VERDE
+#397D2A
+
+ERVA
+#85C98F
+
+CARDEO
+#8E3C9E
+
+CASTANHO
+#DC8828
+
+PRETO
+#00000
+
+BRANCO
+#FFFFFF
+
+LEIRA
+#98652
+
+GRIS
+#E3DDD3
+
+FM 100-4-8X
+Striping #1
+
+Primary
+
+Striping #2
+Secondary
+
+Primary
+
+Escutcheons
+
+VERDE
+#397D2A
+
+GRIS
+#E3DDD3
+Santagrine Crest
+
+Secondary
+
+Primary
+
+AIRCRAFT NOTES
+Planes and helicopters are
+painted like baronial vehicles are,
+although with far greater care and
+craftsmanship. Wings are thought of
+as a space for murals. They are never
+repainted in green when fighting
+foreign opponents. Family heraldry
+is preferred to national crests.
+The helicopters of the yeomanry are, as always, tigerstriped.
+
+GREEN STRIPE
+#2D311F
+
+OLIVE DRAB
+#50582E
+Simplified Crest #1
+
+Simplified Crest #2
+
+Simplified Crest #3
+
+ARMOR NOTES
+Most Santagrine vehicles belong to baronial formations, so they are painted with the same baroque heraldric sensibilities as the war dress of infantry.
+Baronial armies fielded against one another are
+decorated variously, typically using bold, high-contrast
+colors. However, when Santagrine forces are unified
+against a foreign opponent, it is traditional to adopt a
+scheme of solid Verde or Erva (with striping of Branco or
+Gris) for the sake of friendly identification. Regardless,
+the colorful personal or familial arms of officers and
+crewmen are painted on steel escutcheons used as applique armor on fighting vehicles.
+Yeomanry paint their vehicles like they dress
+themselves: practical, sharp jungle tigerstripe.
+Vehicles and towed guns which are fielded by poor
+groundlings may arrive to the battle in a rusted, chipped
+olive drab: once the standard scheme of the Commonwealth. It is not uncommon to see earthy brown and
+red drabs among the drome villages of lands rendered
+semi-barren from radiation.
+Jerrycans and other minor accoutrements retain
+the olive drab of the Commonwealth.
+Crests based on dynastic blazons of the old Santagrine Commonwealth are commonly used as status
+symbols on more expensive military vehicles.
+PAINTING GUIDE - D-2
+
+FM 100-4-8X
+
+D-3 - PAINTING GUIDE
+
+* Special thanks to Briggs on Discord and @morgrim.the.tidy
+on Instagram for the lovely models.
+
+FM 100-4-8X
+
+PAINTING GUIDE - D-4
+
+“...The crash of skins and pulsing hum of rotors
+in the night
+Drove in the hearts of Rampo’s enemies an
+awful fright.
+But too late did the retinue detect the mortal
+din
+before the stroke, for Rampo’s knights had
+flanked and fell therein.
+The champion’s horde descended as a cloud
+upon its foe,
+The fast ones cut the rear while the van began
+to close.
+The host in chase relented and the pallor of
+their knights
+Was desert-shade or lighter; there was terror
+in their flight.
+Their lances fired, trailed, dissembled, burst,
+and sought, and missed,
+Squires fell, band lost meter, heaving pistons
+wheezed and hissed,
+The blood of yeomen loosened pilots’ levers
+from their fists,
+And rotors twisted masters and their pages
+into grist.
+A carnage worse than what a saintly casus
+could insist,
+So was the slaughter of the enemies in Rampo’s
+midst.
+The bombs had scourged that land of life about
+the site but save
+One flowering field to mark the thousand
+parachuting graves...”
+- Cantar de Rampo Guerrero, Canto I.43-58
+
+FM 100-4-8X
+03/10/85
+By Order of the Ministry of Defense:
+
+DANEEL DAAF
+
+JOHANNES VEENEMAN
+
+General of the Air,
+General Staff of the Federal States-Army
+
+General of the Army,
+General Staff of the Federal States-Army
+
+Signatories:
+
+BRIGGS CARTOGRAAF
+
+JAAN SCHRIMM
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+MARLIJN MUNTTHEE
+
+KENNET PLUUSMAN
+
+Brigadier General,
+Main Rocket & Artillery Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+MANFIELD GARFIELD
+
+ITTIE BEBSON
+
+Brigadier General,
+Main Topographical Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+JAKUB DROOK
+
+MAXIMILLIAAN BROOD
+
+Major General,
+Main Luparic Readiness Directorate
+
+Lieutenant General,
+Main Publishing Directorate
+
+DIJKEN EIKKSEN
+
+Major General,
+Main Tactics & Doctrine Directorate
+DISTRIBUTION:
+Active Army, Whitewater Guard, Ready Reserves, Irregular Militia Partnership Program: To be
+distributed in accordance with DA Form 12-1A, Keystone Knowledge for the Federal Soldier
+(Qty rqr block no. 174).
+
+F O RT M .
+
+.C
+
+EK
+
+D
+
+R
+
+AL
+
+AR
+
+. ▪ FEDE
+
+MY ▪ DR
+
+Additional copies may be requisitioned from the F.S-A.-M.T. & D.D. General Publications
+Center, 1322 Worstenrij, Brunbok, Vykeland-and-Deire 21450.
+
+S T AT E S
+
+-
+
+

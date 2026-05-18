@@ -121,7 +121,7 @@ const santalist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -2620,7 +2620,7 @@ const santalist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -2708,7 +2708,7 @@ const santalist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 },
                 {
@@ -3136,7 +3136,7 @@ const santalist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -3156,7 +3156,7 @@ const santalist = [
                 "S*\"",
                 "M14\"",
                 "Q3",
-                "T4",
+                "T3",
                 "E1"
             ],
             "type": {
@@ -3226,6 +3226,10 @@ const santalist = [
                 {
                     "rule": "Afterburner",
                     "params": ""
+                },
+                {
+                    "rule": "Decoy Protection",
+                    "params": "2"
                 },
                 {
                     "rule": "Flower of the Atom",
@@ -3316,11 +3320,433 @@ const santalist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 },
                 {
                     "rule": "Flower of the Atom",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "Tenant Officer",
+            "faction": [
+                "santagri"
+            ],
+            "value": 0,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q3",
+                "T1-/1-/1-",
+                "C3"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 3,
+            "weapons": [
+                {
+                    "weaponName": "Rh-49 .305 Self-cycling Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "Hi-10 1.8-lber Grenade Launcher",
+                    "weaponAmmo": "6",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "",
+                            "attackRange": "",
+                            "attackDice": "D1",
+                            "attackAccuracy": "",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Ammo 6"
+                            ]
+                        },
+                        {
+                            "attackName": "1.8-lb. HEAT",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R2\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S7/1+",
+                            "attackTags": [
+                                "Shaped Charge",
+                                "Slow Round",
+                                "Small Arm"
+                            ]
+                        },
+                        {
+                            "attackName": "1.8-lb. Smoke",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R14\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "No CC",
+                                "Smoke (2\")",
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Brigade",
+                    "params": "3, 8\""
+                },
+                {
+                    "rule": "Baronial Tenant",
+                    "params": "This team may alternatively be designated as a Baronial Tenant: gain NBC and Tercio, but replace the Rh-49 rifle with a bolt-action rifle (R10\", A5+/5+, S1/1+, D1, Small Arm) per FM 100-4-8X."
+                }
+            ]
+        },
+        {
+            "name": "Commonwealth Rifles",
+            "faction": [
+                "santagri"
+            ],
+            "value": 10,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q2",
+                "T1/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Squad",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Rh-49 .305 Self-cycling Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A3+/4+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "MhL-42I .305 MG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/xx",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Defensive CC"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "\"Bajante-D\" 75mm RPG",
+                    "weaponAmmo": "6",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A5+/6+",
+                            "attackStrength": "S7/1+",
+                            "attackTags": [
+                                "Barrage (2)",
+                                "Shaped Charge",
+                                "Small Arm",
+                                "Slow Round"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Vehicle Crew",
+            "faction": [
+                "santagri"
+            ],
+            "value": 0,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q2",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "Engram .32 Machine Pistol",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R2\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A5+/5+",
+                            "attackStrength": "S1-/1-",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Fearless",
+                    "params": ""
+                },
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "This unit is placed on the board as part of the Crew Bailout optional rule.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "VD.35 Lata",
+            "faction": [
+                "santagri"
+            ],
+            "value": 10,
+            "stats": [
+                "H2",
+                "S16\"",
+                "M8\"",
+                "Q2",
+                "T2/2/1+"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Wheeled",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "MhL-60 .50 HMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R20\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S2/3",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "PC",
+                    "params": "4, Rear"
+                },
+                {
+                    "rule": "Resupply",
+                    "params": "2"
+                },
+                {
+                    "rule": "Tow",
+                    "params": "2"
+                },
+                {
+                    "rule": "This unit cannot road dash.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "VC.4 Javelina",
+            "faction": [
+                "santagri"
+            ],
+            "value": 30,
+            "stats": [
+                "H2",
+                "S32\"",
+                "M8\"",
+                "Q2",
+                "T12/6/5"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Tracked",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "MhL-42 .305 MG, hull",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/5+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Multi-Gun"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "MhL-42 .305 MG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/5+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "24-lber Gun, local manufacture",
+                    "weaponAmmo": "4",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "",
+                            "attackRange": "R40\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A3+/4+",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Ammo 4",
+                                "No CC (Inf.)",
+                                "Turret"
+                            ]
+                        },
+                        {
+                            "attackName": "24-lb. APDS",
+                            "attackTargets": "Vec",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S12/18",
+                            "attackTags": []
+                        },
+                        {
+                            "attackName": "24-lb. HESH",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S8/3",
+                            "attackTags": [
+                                "Shaped Charge",
+                                "Slow Round"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "902R 81mm Smoke Launchers",
+                    "weaponAmmo": "1",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R6\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Light Indirect (1)",
+                                "No CC",
+                                "Smoke (3\")",
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "NBC",
                     "params": ""
                 }
             ]

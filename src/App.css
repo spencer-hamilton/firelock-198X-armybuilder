@@ -654,8 +654,12 @@
 }
 
 .fm-attack {
-  margin-left: 12px;
   margin-bottom: 2px;
+}
+
+/* Base profile under weapon title; ammo types get extra indent + → label */
+.fm-attack--sub {
+  margin-left: 10px;
 }
 
 .fm-attack-label {

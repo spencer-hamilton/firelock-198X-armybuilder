@@ -1,0 +1,5273 @@
+FM 100-3-8X
+
+THE NEW
+RYGOLIC HOST
+
+TROOPS AND TACTICS
+
+DISTRIBUTION RESTRICTION: This publication contains technical, operational, or strategic information that is for
+official government use only. Distribution thereof is limited to government agencies of the Intermarine Federation
+or licensed contractors. Special use releases of this publication must be requested from Reception & Disposal,
+Drekfort Military Development Center, Langport, Vansa, PO 32001.
+
+* FM 100-3-8X
+
+FIELD MANUAL
+No. 100-3-8X
+
+Edition 0.9.7
+
+HEADQUARTERS
+DREKFORT M.D.C.
+Langport, Vansa, 03/10/85
+
+Preface
+
+The New Rygolic Host:
+Troops and Tactics
+
+This field manual is part of FM series 100-X-8X. The other volumes in
+this series are FM 100-1-8X (The Federal States-Army: Troops and Tactics), FM
+100-2-8X (Army of the Ebon Forest: Troops and Tactics), and FM 100-4-8X (Atom
+Barons of Santagria: Troops and Tactics). Each volume in the series describes
+the range of troop types and characteristics of an opposing force to the Federal
+States-Army.
+This document, FM 100-3-8X, describes the known elements of the New
+Rygolic Host. Used together, they form a thorough reference on any challengers
+the F.S-A. may expect to face, as well as its own strengths and weaknesses in
+comparison to them.
+This manual represents the definitive (condensed) source of unclassified
+information on Rygolic ground and air forces: their abilities, strengths, weaknesses, and general availability to a commander. The Main Threats Directorate at the
+Drekfort Military Development Center, Langport, Vansa, updates these manuals
+periodically to provide the most current unclassified information available.
+
+* This manual supersedes FM 100-3-8X Edition 0.8, 08/24/83.
+
+i
+
+FM 100-3-8X
+
+Contents
+CHAPTER
+
+1. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1 - 1
+2. TACOMs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2 - 1
+3. Infantry  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 1
+Line Squads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 2
+Weapon Teams . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 -4
+
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 11
+4. Vehicles & Towed Guns . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 1
+Personnel Carriers . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 -2
+
+Armor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 -5
+
+Fire Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 - 11
+
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 20
+5. Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 1
+Rockets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 -2
+
+Helicopters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 -4
+
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 -8
+
+Planes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 - 10
+
+6. Emplacements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6 -1
+
+7. Scenario Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7 -1
+
+A. Army Special Rules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A - 1
+APPENDIX
+
+B. Army Special Missions . . . . . . . . . . . . . . . . . . . . . . . . . . .  B - 1
+C. Building an Army List . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C - 1
+D. Quick Unit Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D - 1
+E. Painting Guide  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  E - 1
+
+ii
+
+FM 100-3-8X
+CHAPTER 1
+
+OVERVIEW
+Dotted across western and central Oid, the Petty States of Rygos are a number of small
+principalities occupying most of the territory of the collapsed Rygolic Empire. Following the
+death of the empire’s Master Brain, the Petty States have remained politically fractious and individually weak. They rely on the Master Brain’s artificial soldiers to continue protecting them.
+The New Rygolic Host (N.R.H.) operates autonomously: a stateless, headless army
+safeguarding the Petty States as a whole from
+foreign invasion, as well as conducting limited
+operations beyond the old imperial borders.
+All N.R.H. troops are connected to “Rygonet”,
+an advanced command system distributing its
+computations across its soldiers’ brains.
+Many questions concerning N.R.H. operations, procurement, and the exact capabilities of Rygonet remain presently unanswered.
+What is known is that the N.R.H. is limited in
+number and cannot quickly reinforce. It relies
+on superhuman coordination and highly advanced weapons to offset its numeric disadvantage with precision firepower.
+All N.R.H. forces (discounting the soldiers of the Petty Stater princes’ armies) are
+constructs: “man-machines” with simplified internal organs and corpse-pale skin. Constructs
+do not fear death and are highly resilient.
+The N.R.H. operates on a highly flexible
+doctrine: task forces are assembled from available troops on-demand, without any hierarchy
+or permanent tables of organization. This field
+manual will only attempt to classify recognized
+Rygolic troops; new variants of existing types
+are frequently observed. When in doubt, rely
+on weight of fire and multiple attacks: do not
+let Rygoles achieve fire superiority.
+FACTIONAL STRENGTH:
+Fast and flexible ground units, strong aircraft.
+FACTIONAL QUIRK:
+Advanced, expensive weaponry.
+FACTIONAL WEAKNESS:
+Low numbers.
+
+OVERVIEW - 1-1
+
+LEAGUES AND STRATEGIC CITIES OF THE PETTY STATES
+
+A
+
+1
+2
+B
+
+3
+
+C
+
+4
+
+5
+
+E
+
+G
+
+D
+
+6
+
+F
+
+7 H
+I
+
+LEAGUES:
+1 - Iškri Kitrantum
+4 - Iškri Kened
+7 - Beostum
+
+2 - An Khnum Koîne
+5 - Hūl Uknëi
+
+3 - Iškri Gadou
+6 - Ina Ostra
+
+B - Baba Kitrantum
+E - Baba Kened
+H - Beostum
+
+C - Baba Gadou
+F - Baba Hūl
+I - Šarrigante
+
+STRATEGIC CITIES:
+A - Procul Ab
+D - Lutāx
+G - Erimtusis
+
+1-2 - MAP
+
+FM 100-3-8X
+CHAPTER 2
+
+TACOMS
+The N.R.H. lacks commanders in the traditional sense of the word: Rygonet micromanages individual constructs, feeding them new positions and specific targets in real time. Rygolic
+troops are initially activated as “blank slates”, without any context for their orders or abstract understanding of their duties. Therefore, a loss of command uplink leads to combat ineffectiveness
+after only a few minutes, as constructs stand in the open or wander away. To boost signal power
+and combat enemy jamming attempts, the Host deploys specialized signals transmission units.
+This field manual will categorize them as TACOMs: Rygonet guards them similarly enough.
+While most NRH “commanders” are dismounted infantry, more advanced units have
+been observed in the field, including air-dropped field transmission towers and combat vehicles
+fielding novel laser communications complexes.
+TACOMS
+NODE TEAM - TRANSMISSION TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 0/20 pts / 2-2
+G1 “GANGLION” - TRANSMISSION TOWER  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 2-3
+S3 “STOMA” - BIPEDAL COMMAND VEHICLE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 2-4
+
+TACOMS - 2-1
+
+FM 100-3-8X
+
+NODE TEAM
+
+NODE TEAM - 0/20 pts
+TRANSMISSION TEAM
+
+__________________________
+Inf, H1, S24’’, M5’’, Q3, T1+/1/1, C2
+Brigade (2, 12”), Fearless, NBC, Rygonet (12”)
+
+__________________________
+
+By standard rules one Node Team comes free
+per 100 points as the default TACOM. Further
+may be bought for 20 points each at no limit.
+
+__________________________
+
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: TRANSMISSION TEAM
+
+__________________________
+REMARKS
+Rygonet’s command and control elements
+are most visible on the battlefield in the
+form of “node” teams: walking command
+signal boosters and electronic intelligence
+systems. Identify them by their distinctive “radome” heads and by SIGINT. Node
+teams are crucial for extending Rygonet
+transmissions; redundant teams may be
+fielded as part of a larger force.
+Standard equipment includes the “Snake
+Green” assault rifle with an overbarrel
+“Tread Curve” grenade launcher and a miniature “Tune Fog” thermal optic complex.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-2 - TACOMS
+
+He’s not a commander. All he has to do is
+stand in the right place, so that the orders will
+pass through him to the man-machines that
+actually carry them out. He’s not really even
+worried about the great big target painted on
+his dome. Maybe he doesn’t even know what
+he’s there for. The friends he’s talking to are
+entombed in command aircraft and satellites,
+and they’re talking about rocks, rivers and
+trees. It’s only when you’re in rifle range that
+the orders start involving his trigger finger.
+In a command system based on a time-slice
+of everyone’s brain, where do the orders come
+from? Doesn’t matter, so long as they get to
+their destinations.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+G1 “GANGLION”
+
+G1 “GANGLION” - 20 pts
+TRANSMISSION TOWER
+
+__________________________
+Vec, H1, S0”, M0”, Q6, T4/4/4, C6
+Brigade (4, 12”), NBC, Paradrop,
+Rygonet (24”), Sense (6”)
+
+__________________________
+Uses a 40x40mm base. May activate in the
+Maneuver Phase despite having M0”, but
+only to call a Brigade. May not lend actions to
+friendly units via Rygonet.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: TRANSMISSION TOWER
+
+__________________________
+REMARKS
+Stationary transmission tower and signal
+booster. Effectively a miniaturization of
+large command towers in the Rygolic
+heartlands. Designed for parachute insertion into remote areas, but capable of
+long-term operation. Its long “roots” are
+capable of seeking underground telecommunications cables and tapping into them.
+The Ganglion lacks any mobility or firepower; its systems are purely devoted to
+command and transmission efficiency.
+While proofed against rifle rounds, it is still
+helpless if discovered.
+
+From Baba Gadou—throne city of a dead god;
+bed of a rusting engine—there radiates a nerve
+network of great towers. Sometimes there are
+cities around them; sometimes they stand
+alone, or with painful ruins ringing their
+bases. These are the great transmitters. Their
+innards have changed many times; it is said
+that they originally spoke in coded lightning.
+Their purpose has remained the same: the first
+layer of many spinal cords now in the service
+of no brain.
+The grand towers are still matters of crucial
+importance. They are one of the first layers the
+Host speaks to itself through; it is from them
+that their smaller counterparts, parachuted
+into hidden places, receive and retransmit the
+signal.
+The last time a tower was seized by enemy
+hands, it went up in a pillar of whiter-thanwhite light and fury. A nuclear charge had
+been buried beneath its roots.
+- Giorgio Moceri, University of Baba Gadou
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TACOMS - 2-3
+
+FM 100-3-8X
+
+S3 “STOMA”
+
+S3 “STOMA” - 30 pts
+BIPEDAL COMMAND VEHICLE
+
+__________________________
+Vec (S), H2, S32”, M8”, Q3, T6/6/5, C4
+Brigade (4, 8”), NBC, Rygonet (8”), Strider
+
+__________________________
+
+This unit uses a 40x40mm infantry base.
+When this unit activates during the Fire
+Phase, it may select one friendly Rygolic unit
+within LOS up to 8” away which has not yet
+acted that round to activate with the Stoma
+and simultaneously fire on the same target.
+The unit which activates with the Stoma is
+considered to have used its turn for the round.
+
+__________________________
+
+TYPE: BIPEDAL COMMAND VEHICLE
+
+__________________________
+
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Tracking Anti-Air,
+Turret
+
+REMARKS
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A light tank on legs. Highly mobile and
+maneuverable, even in difficult terrain.
+The ability to precisely control its height
+by crouching gives it high survivability in
+urban environments. A laser communications system mounted to the turret offers
+high-frequency weapons synchronization.
+The Stoma can essentially pull the trigger
+on a friendly unit’s weapons simultaneously with its own.
+
+The way you track Rygoles is by listening: not
+with your ears, but with your antennae. They
+can’t avoid vomiting all over the electromagnetic spectrum: not when Rygonet is directing
+them down to the individual man-machine.
+So they go loud and strike first. Go ahead; try
+to call an artillery strike on that triangulated
+signal. The line to your battery’s already dead.
+
+Primary armament is the “Pitch Break”
+25mm autocannon, effective against light
+vehicles, infantry, and aircraft. A coaxial
+5mm machine gun offers antipersonnel
+backup.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-4 - TACOMS
+
+Still, you can’t win them all. Signal-homing
+missiles hurt. They’ve figured out some ways
+to fight quietly. The Stoma’s one of them. Set
+up in an ambush, talk on tight-beam laser
+comms. Wait for the enemy to expose himself
+and let him have all you’ve got.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+CHAPTER 3
+
+INFANTRY
+Construct infantry are the fearless pawns of the Rygolic war machine. Undeterred by
+pain and unafraid of death, constructs make for excellent soldiers so long as their command
+uplink is intact. Often called upon to conduct small operations unsupported, construct infantry
+are well-armed and versatile, carrying their own fire support with them. These regular troops are
+supported by various special forces with non-standard equipment and anatomies, deployed by
+Rygonet from hidden reserves under unusual circumstances.
+LINE UNITS
+TACTICAL TEAM - LINE TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-2
+LEGIONNAIRES - LINE SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 3-3
+WEAPON TEAMS
+SMART GUN TEAM - ANTI-PERSONNEL TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-5
+LASER TEAM - ANTI-MATERIEL TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-6
+MANPADS TEAM - ANTI-AIR TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 3-7
+CHEMICAL TEAM - ANTI-PERSONNEL TEAM  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 3-8
+GUIDED MORTAR SPIDER - ANTI-PERSONNEL/MATERIEL TEAM .  .  .  .  .  .  .  .  .  .  . 30 pts / 3-10
+SPECIAL
+CARABINER HORSE - DRAFT ANIMAL .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-11
+CAPSULE SQUAD - LOW ORBIT INSERTION SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 3-14
+ASSASSINS - COMMANDO TEAM  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 3-15
+SIMULACRUM - UNCLASSIFIED UNIT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 3-16
+
+INFANTRY - 3-1
+
+FM 100-3-8X
+
+TACTICAL TEAM
+
+TACTICAL TEAM - 15 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Side Fast” 140mm ATGM
+Vec, R6-30”, A3+/xx, S14/2, D1,
+Ammo 1, Guided Missile (1),
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LINE TEAM
+
+__________________________
+REMARKS
+Construct legionnaires are the standard
+Rygolic infantry. Identify them by their
+corpse-pale faces and by SIGINT. Constructs are skilled, fast, and do not feel
+incapacitating shock or pain. Lethal aim
+points include the head and heart-turbine.
+Standard equipment includes the “Snake
+Green” assault rifle with an overbarrel
+“Tread Curve” grenade launcher and a miniature “Tune Fog” thermal optic complex.
+Rygolic infantry typically operate in fireteams instead of full squads. One gunner
+per team carries a “Side Fast” ATGM.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-2 - LINE UNITS
+
+Efficiency is the watchword of the infantry.
+A man in the right place at the right time is
+worth five who can’t seize the fleeting moment.
+Bluebird tapes of Rygoles in operation are
+beautiful. They’re always in motion: advancing, fixing, flanking, overrunning. Airbursting grenades and pinpoint rifle fire; anti-tank
+missiles sidewinding from textbook ambushes.
+Ashen-faced dolls with innocent stares.
+No matter that their teams are small. Every
+man-machine always has his perfect place in
+the dance. You couldn’t train to do it this well.
+Without Rygonet running the show on the fly,
+it all falls apart.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+LEGIONNAIRES
+
+LEGIONNAIRES - 25 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 6, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Side Fast” 140mm ATGM
+Vec, R6-30”, A3+/xx, S14/2, D1,
+Ammo 3, Guided Missile (1),
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LINE SQUAD
+
+__________________________
+REMARKS
+Construct legionnaires are the standard
+Rygolic infantry. Identify them by their
+corpse-pale faces and by SIGINT. Constructs are skilled, fast, and do not feel
+incapacitating shock or pain. Lethal aim
+points include the head and heart-turbine.
+Standard equipment includes the “Snake
+Green” assault rifle with an overbarrel
+“Tread Curve” grenade launcher and a miniature “Tune Fog” thermal optic complex.
+One construct per full squad carries a “Side
+Fast” ATGM. Another carries a backpack
+signal repeater for Rygonet.
+
+He’s ten days old. Built on a line and flashed
+with what he needs to know. How to shoot;
+how to talk; how to move. Rygonet tells him
+the where and when. Everyone he knows looks
+like him.
+Everything is new and wonderful. The novelty
+of trees, rocks, rivers and clouds hasn’t yet
+worn off. It’s a grand show. But now his antennae are whispering up his neck and he’s got
+a job to do.
+He sees you through his thermal sight. His
+fingers are cold. When the reticle lines up with
+the white silhouette, he pulls the trigger. It’s
+what he was made to do.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LINE UNITS - 3-3
+
+FM 100-3-8X
+
+SMART GUN TEAM
+
+SMART GUN TEAM - 15 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Drift Cage” 5mm Stabilized SAW
+All, R16”, A2+/3+, S1/1, D3, Scoped,
+Thermal Sights, Tracking Anti-Air,
+Turret
+Got to see one of these getting cut open a little
+while back. I’m not a sawbones; honestly,
+knife work disgusts me—but this time it didn’t
+feel like an autopsy. Neither blood nor guts—
+just a sticky black ichor in the veins.
+
+TYPE: ANTI-PERSONNEL TEAM
+
+__________________________
+REMARKS
+The “Drift Cage” light machine gun is the
+standard Rygolic support weapon: a motorized “smart gun” capable of accurate,
+mobile fire from the standing position.
+The weapon is body-mounted on an articulated stabilization arm that supports its
+weight. A large motorized housing supports, points, and stabilizes the barrel-receiver complex in a 20-degree forward arc.
+Target acquisition (and the gunner’s own
+senses) are provided by the onboard “Hit
+Shop” fire control unit. The gunner’s cable-connected brain is believed to be responsible for ballistic computation.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-4 - WEAPONS TEAMS
+
+He had a brain as sickly white as the rest of
+him. One of the docs said it felt firm; I took his
+word for it. There was a bundle of cables, all
+triple-redundant and waterproof, plowing in
+where the eyes’d go. Bolt cutters were no good.
+There was something full of holes where the
+vocal cords would go. No lungs—most of his
+ribcage was empty. A little bony turbine stood
+in for a heart before it caught a round. There
+was some kind of simple stomach. That was it.
+The docs had a funny idea. They put his
+turbine back together and gave it a shock. He
+fired up. He couldn’t feel his antennae; they’d
+unplugged him from the net. He was pretty
+polite about it. Wanted to know where his
+weapon was. Where his ammo-bearers were,
+so that he could at least see through their eyes.
+As far as I know he’s still down there. Like the
+rest. The eggheads keep thinking they’ll get
+something useful out of one.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+LASER TEAM
+
+LASER TEAM - 15 pts
+ANTI-MATERIEL TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/xx, S1+/1+, D1, Laser,
+Small Arm
+Most of a Sun Point is recognizable. It's a
+laser designator on a stimulant cocktail that'd
+make an off-duty White Glove blush. The rest is
+just there to keep it from melting itself or your
+hands, whichever comes first. There are some
+things you can make small in a laser weapon,
+and some you can't—small mercies, huh?
+
+TYPE: ANTI-MATERIEL TEAM
+
+__________________________
+REMARKS
+Laser weapons damage targets with directed energy: “penetrating” armor by burning
+through it, as well as creating an explosive
+shockwave at the point of impact. A laser
+can defeat any thickness of armor given
+time or luck; laser teams thus always represent an immediate threat.
+While some of the Petty Rygolic States have
+attempted towed artillery piece-sized laser
+weapon systems, only the NRH has fielded
+man-portable lasers so far. The “Sun Point”
+is pinpoint accurate and entirely recoilless,
+but unavoidable compromises in miniaturized cooling restrict its rate of fire.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Power's the bigger mystery. We know it tries to
+recapture some of the waste heat, but the bulk
+of it comes from the little casing on the sniper's
+back. Whatever it is, it's volatile, and it's set
+to pop when he does. We've yet to capture one
+intact. The pieces aren't much help, even to the
+eggheads.
+- Rayleigh Irving, Federal Intelligence
+“I hit the deck. There's a small fold in the
+ground. Sixteen inches of dirt between me and
+the eye of death. He's out there. Our silhouettes are a blinding white in his eyeless sockets.
+Our radar signatures are on his tongue.
+Somewhere above me is the wandering aim
+point, and the invisible finger, curled up, an
+incredible tension behind it. Waiting to snap
+outwards, to flash-boil my blood and explode
+my lungs.”
+- Eisner Polk, from SEEING JUMBO, p. 241
+WEAPONS TEAMS - 3-5
+
+FM 100-3-8X
+
+MANPADS TEAM
+
+MANPADS TEAM - 20 pts
+ANTI-AIR TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3,
+Slow Round, Underbarrel (Snake G.)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Pole Guard” 70mm MANPADS
+Air, R60”, A3+/xx, S6/6, D1,
+Ammo 2, Guided Missile (1),
+Homing, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-AIR TEAM
+
+__________________________
+REMARKS
+Anti-air weapons team armed with the
+“Pole Guard” man-portable air defense
+system (MANPADS). Shoulder-fired missiles are by necessity neither particularly
+powerful nor exceptionally long-ranged
+by surface-to-air missile standards, but
+can still deny airspace to enemy attack
+helicopters.
+The “Pole Guard” is a high-performance,
+IR-guided, “fire and forget” anti-aircraft
+weapon. Much of the missile is given over
+to a powerful solid rocket motor, giving it
+an extremely high airspeed, short time-totarget and good accuracy. The warhead is
+concussive with poor fragmentation.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-6 - WEAPONS TEAMS
+
+In Baba Gadou there is a traditional defense
+before the court by murderers:
+“The Master Brain brought forth innumerable
+things to nurture man.
+Man has nothing good with which to recompense the Master Brain.”
+I understand them. I was once driving south of
+Turamo when the green helicopters came overhead. They strafed my car with their machine
+guns as if they were chasing a rabbit. I owed
+my life solely to the missiles of the Host.
+One of the constructs was killed. Before a rocket
+came to retrieve his body I begged his comrades
+for forgiveness. They did not understand.
+- Giorgio Moceri, University of Baba Gadou
+
+FM 100-3-8X
+
+CHEMICAL TEAM
+
+CHEMICAL TEAM - 20 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q3, T1+/1+/1+
+Fearless, NBC
+
+__________________________
+This unit is not negatively affected by Chemical Weapons. If this unit or a unit it charged is
+within a Chemical Weapon radius during close
+combat, this unit resolves its attacks before all
+enemy units, including Assault Specialists.
+
+__________________________
+
+TYPE: ANTI-PERSONNEL TEAM
+
+__________________________
+REMARKS
+Heavy-duty fire support team outfitted for
+urban operations under NBC conditions.
+While standard constructs do not need to
+breathe, they may still be impaired (if not
+killed) by nerve agents. Chemical teams'
+full-body suits and automatic injectors fully
+immunize them against all NBC threats.
+The torso has been hollowed out and filled
+with a carousel autoloader, storing rounds
+for the “Weave Liner” 70mm dual barrel
+RPG (including thermobaric and nerve
+agent rounds). Secondary armament is the
+“Pike Jump” 12-gauge automatic shotgun,
+firing piercing flechette spreads.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Pike Jump” 12-gauge Automatic Shotgun
+All, R6”, A3+/4+, S1-/1+, D3,
+Ignore Cover (1), Small Arm,
+Thermal Sights
+“Weave Liner” 70mm Dual RPG
+R10”, D1, Ammo 6, Barrage (2),
+Small Arm, Thermal Sights
+→ 70mm HEAT
+Inf/Vec, A3+/4+, S8/1+,
+Slow Round, Shaped Charge
+→ 70mm Thermobaric
+Inf/Vec, A3+/4+, S2/2,
+Ignore Cover (2), Rear Attack,
+Slow Round
+→ 70mm Nerve Agent
+Gnd, A++/++, Chemical Weapon (2”)
+The grunts call them “bodybags”. Rygonet
+reserves them for when the gloves come off,
+and collateral damage's no longer part of the
+hidden calculus. They're very good at their job.
+- Rayleigh Irving, Federal Intelligence
+Stand and face the thermobarics—and the
+blast wave crushes your innards. Run away—
+and feel the warm colorless raindrops on your
+back. A shattering death or a choking death.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+WEAPONS TEAMS - 3-7
+
+FM 100-3-8X
+
+INTERNAL ANATOMY OF A CONSTRUCT
+Ruggedized brain, data threads.
+
+Rygonet antennae.
+
+Silicon-rieslandite compound.
+Unclear purpose;
+no interior
+differentiation.
+
+“Snake Green”
+assault rifle, 5mm
+caseless. Integrated “Tread Curve”
+20mm grenade
+launcher and “Tune
+Fog” thermal optic
+complex.
+
+Primary brain
+data link cable
+(with quick
+disconnect).
+
+Turbine heart.
+Average 700 RPM
+idle. Redline at
+6500 RPM. Exterior
+plating removed
+for visual clarity.
+Master fuel processing and
+storage organ: “ichorium”,
+“oilbag”, or “sack”. Includes
+hookup lines to other organs
+and turbine heart.
+A construct can operate under
+combat conditions for circa
+96 hours without refueling
+(varying by energy expenditure and available ichor). In
+low-power (“torpor”) modes
+they can remain on overwatch
+for up to three months.
+
+Rygonet signal
+processor-transceiver and power
+hookup to turbine
+heart.
+Maintenance limb
+disconnect line.
+
+REMEMBER:
+•
+•
+
+•
+•
+
+3-8 - SUPPLEMENTAL FILES
+
+Constructs don't sleep, but
+they know YOU have to.
+Rotate guard posts regularly.
+Aim for the head, turbine
+heart, or lower torso. There
+are no vital organs elsewhere.
+They have no lungs, nor do
+they need to breathe.
+Constructs can cut off ichor
+flow at limb disconnection
+points to staunch “blood loss”.
+A dead construct only stays
+dead if he can't be repaired.
+His squadmates carry spare
+turbines.
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES - 3-9
+
+FM 100-3-8X
+GUIDED MORTAR SPIDER
+
+GUIDED MORTAR SPIDER - 30 pts
+ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Trace Rung” 80mm Guided Mortar
+Inf/Vec, R40’’, A3+/4+, S4/4, D1,
+Ammo 4, Guided Shell,
+Light Indirect (1), No CC,
+Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+O constructs! Divine protectors and friends!
+Orphaned children of our Master Brain! How
+I pity you now.
+
+TYPE: ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+REMARKS
+
+Indirect support team centered around the
+“mortar spider”: an eight-legged construct
+carrier for the “Trace Rung” medium
+mortar system.
+Mortar spiders provide a self-propelled,
+all-terrain base for the mortar, alleviating
+much of the team's load. They require standard constructs to load and spot for them,
+but can autonomously fire and navigate.
+The standard ammunition is an 80mm
+concussive HE round, defeating cover by
+directly or near-directly impacting the
+target. More Rygolic eyes on target means
+more accurate terminal guidance.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-10 - WEAPONS TEAMS
+
+In its operational epoch, the Brain never
+stopped designing new children. Many took
+the shape of men, then, as they do now; but
+in support of them were myriad forms bent
+to every practical task. Beasts of burden; many-limbed builders; pipe-clearing worms and
+other artificial animals fit to each purpose.
+Man had been rescued from his stupefying
+labor and given time at last to think.
+Yet here we are now. Our god-machine is
+silent, and its empty innards lie in a tangled
+mess; our princes laud the sword, and not the
+pen. Once more we labor and die like oxen.
+And you, you lost children—stumbling along
+with the scraps of your builder's knowledge,
+still dutiful beyond the end—you alone defy
+this tragedy. But will you reverse it?
+- Giorgio Moceri, University of Baba Gadou
+
+FM 100-3-8X
+
+CARABINER HORSE
+
+CARABINER HORSE - 15 pts
+DRAFT ANIMAL
+
+__________________________
+Inf, H1, S32”, M6”, Q3, T1/1/1
+Fearless, NBC, Resupply (4), Tow (2)
+
+__________________________
+“Bronze Lead” Laser Designator
+All, R40'', A++/++, D1, Designator,
+Discreet
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“The last construct is still moving. Broekate's
+RPG has left him nothing but a head and
+upper torso, but he's still reaching for his rifle
+in the bushes. Tarlike blood, shiny and thick,
+slops from him like he's a broken bottle. His
+turbine heart, freewheeling in the punchedin teeth of his shattered ribcage, slowly spins
+down. He stops moving. They never go limp.
+
+TYPE: DRAFT ANIMAL
+
+__________________________
+REMARKS
+One of very few remaining non-humanoid construct body plans, the “carabiner
+horse” consists of a cylindrical main body
+mounted on four removable legs. Fitted
+with various load bearing systems and
+carabiners, these constructs serve as an
+exceptionally strong, sure-footed logistics
+system and prime mover where airmobile
+resupply cannot go.
+Carabiner horses are unarmed and docile;
+however, they are still capable of spotting
+targets. The large, reinforced single eye
+is internally fitted with the “Bronze Lead”
+laser designator used elsewhere by NRH
+vehicles.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+We pull security. Bottles and What's-his-Face
+are up for looting detail. They scour the area.
+Laying on my belly, I feel like I'm wearing a
+flak jacket made of concrete. The pair come
+back cursing. Nothing. You put your life on
+the line and all you've got to show your wife
+is belt buckles. Tarbloods don't carry anything
+interesting unless they're old. If they're old,
+then you're not the one doing the looting.
+There was a squad of new guys from the Ready
+Reserve in this same sector last month. They
+found a carabiner horse alone. It lay down
+like a cat and let them ransack it. They didn't
+know better. They sat there and looted it for
+everything it had. Spare limbs, tar, eyeballs.
+Missiles and batteries. The whole time it was
+staring at them with that big round eye.
+The sound of screaming jets. No time to react.
+They were all dead before they could scatter.”
+- Eisner Polk, from SEEING JUMBO, p. 243
+SPECIAL - 3-11
+
+FM 100-3-8X
+
+3-12 - SUPPLEMENTAL FILES
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+THERE WAS A SPATE of field grave desecrations last month on the Rygolic border. Our bodies;
+some poor bastards whose burial ceremonies boiled down to a hurried shoveling and a twenty-onegun salute by the enemy’s mortars. Graves Registration already goes ballistic when they hear that
+someone couldn’t hitch a lazy ride home on a flying boothill. You can imagine how they reacted
+when our scouts reported that the graves were being dug up—and the corpses dumped next to the
+holes, with opened chest cavities.
+It looked so similar to some of the shit that happens in the Ebon Forest that my boss wanted to call it
+a dogface operation, at first. But none of the corpses were actually eaten. Each opened chest was cut
+the same way, a neat surgical incision. We posted sentries, and sure enough, it was a construct job.
+We intensified surveillance. Next week we caught some of them burying a destroyed fellow.
+It all came together. They don’t rot; worms don’t want them; only the weather can erode one, and
+that takes decades. So when they lose a guy, and they don’t have the means to repair him, they bury
+him and mark the spot. Then they come back with some spare parts and get him going again. That’s
+their whole concept of a burial.
+Funny how all these dead Federals don’t seem to have a ribcage socket for a replacement turbine.
+- Rayleigh Irving, Federal Intelligence
+THEY PICK UP ON YOU. I mean, they’re always watching. Day, night, doesn’t matter—thermal
+rigs; spinning turbine hearts. But they’re not always shooting at you. Even within that great formless horde there’s some kind of division, so to speak. The outermost border guards almost never
+change. They don’t have to be relieved. A supply rocket lands once a week.
+You pick up on them. Like a flock of chickens, I guess. They all look the same, but after a while you
+can tell them apart at a glance. That’s the one with the fucked up helmet... that guy has a hole in his
+chest, the one that’s crusted over with hardened ichor... and so on. They don’t get rotated out until
+they’re actually broken—not that they really give a shit about bullet holes.
+Even if they come back, with a set of replacement limbs and a fresh new skin, you can still ID them.
+New constructs stare. Salty man-machines imitate, and they get less flighty, too. If you’re ballsy, or
+just bored as hell, you can walk right up to the death line. Don’t step over.
+I once dropped a cigar on the death line. A fresh construct, shipped in by rocket that morning, came
+and picked it up. He popped a caseless round out of one of his magazines and held them up to each
+other—both cylindrical. Tried to chamber it. Didn’t fit, so he stuck it in his pocket and walked away.
+Later that night there was a little red glow on their side.
+- Sergeant Hank Blom, 1-23 Motor Rifles
+
+SUPPLEMENTAL FILES - 3-13
+
+FM 100-3-8X
+
+CAPSULE SQUAD
+
+CAPSULE SQUAD - 25 pts
+LOW ORBIT INSERTION SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q3, T1/1/1
+Fearless, NBC
+
+__________________________
+Deploy this unit via a Capsule Insertion
+support mission during the Support Phase.
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 6, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LOW ORBIT INSERTION SQUAD
+
+__________________________
+REMARKS
+
+Special “low-maintenance” constructs designed for long-term operational standby.
+A construct will function so long as its
+body's onboard ichor supply is not depleted. A heavily reduced body weight
+and elimination of non-critical internal
+systems permits an estimated operational
+span without refuel of seven months.
+Capsule squads are deployed from space:
+reentering the atmosphere from standby
+in low orbit. The capsule travels too fast on
+reentry for almost any form of anti-aircraft
+fire. The restricted capsule volume limits
+their equipment to standard small arms.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-14 - SPECIAL
+
+CAPSULE INSERTION
+
+FM 100-3-8X
+
+ASSASSINS
+
+ASSASSINS - 30 pts
+COMMANDO TEAM
+
+__________________________
+Inf, H1, S8”, M6”, Q4, T1/1/1Active Camouflage, Assault Specialist,
+Fearless, NBC, Sense (8”)
+
+__________________________
+“Frame Staff ” 10mm SMG, dual
+All, R8”, A2+/2+, S1/1+, D3,
+Small Arm, Thermal Sights
+“Sphere Catch” 12mm Pistol, subsonic
+All, R8”, A2+/2+, S1/1, D1,
+Discreet, Multi-Gun, Scoped,
+Small Arm, Thermal Sights
+“Site Cause” Plastic Explosive Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee, Multi-Gun
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: COMMANDO TEAM
+
+__________________________
+REMARKS
+Elite special operations constructs with
+non-standard anatomy and equipment.
+Headless, eight-armed, and heavily armed
+for covert insertions and close combat. One
+of the few NRH units routinely deployed
+outside the former imperial border. Their
+senses are unimpaired, despite lacking
+a head altogether, by presently unclear
+means.
+The fixed outer cladding of an assassin
+includes an “active” camouflage layer
+capable of bending light, rendering assassins partially invisible. Though unable
+to completely conceal an assassin, this
+system ensures precisely targeting one is
+very difficult.
+
+The Master Brain designed the constructs; it
+alone understood how to make new forms.
+Its lost children do not; but they can make do
+with what exists, change one role for another.
+As far as the records go, this sort of construct
+was a herald. She would describe the desires
+of our god-machine to its people. But in those
+days she had two arms and a beautiful face.
+- Giorgio Moceri, University of Baba Gadou
+I don't claim to know the logic. But I know
+where the brain is inside the ribcage. I know
+that because these are the ones they send after
+guys like me. It's a one-way trip. They leave
+the building with you—in the meat wagon.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SPECIAL - 3-15
+
+FM 100-3-8X
+
+SIMULACRUM
+
+SIMULACRUM - 30 pts
+UNCLASSIFIED UNIT
+
+__________________________
+Inf, H1, S32”, M4”, Q4, T1+/1+/1+
+Amphibious, Fearless, NBC
+
+__________________________
+This unit may copy enemies (see below). May
+respond to Specific Imitation missions.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MECHANIC: COPYING ENEMIES
+
+__________________________
+When this unit activates, it may choose
+to copy parts of a non-plane enemy’s unit
+card to use during its own activation. May
+only copy statistics from the closest spotted
+enemy within LOS unless participating in a
+Specific Imitation misson. Copied statistics
+are lost at the end of the Simulacrum’s turn.
+
+TYPE: UNCLASSIFIED UNIT
+
+__________________________
+REMARKS
+Experimental infiltration and asymmetric
+warfare system that defies standard classification. Essentially a dense blob of artificial flesh, capable of operating as a single
+mass or splitting into a “squad”.
+Simulacra in combat reform to imitate the
+shape and weaponry of the nearest identified enemy unit. Imitation cases have been
+observed ranging from regular infantry
+squads to main battle tanks.
+Simulacra have some weaknesses. By
+default, the imitation of the nearest enemy
+appears involuntary, so explicit imitation
+commands must be issued over Rygonet.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-16 - SPECIAL
+
+1. In the Fire Phase, the Simulacrum may
+copy one non-Nuclear weapon from a
+single unit. Copied weapons have infinite
+Ammo. The Simulacrum cannot copy a
+new weapon if it has a time-to-target attack
+in progress.
+2. In the Maneuver Phase, the Simulacrum
+may copy the Move statistic of a single unit.
+3. If engaged in Close Combat, the Simulacrum must copy one enemy in basal
+contact, as per the Fire Phase, for each
+close combat round.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Things like these drive my coworkers crazy.
+They have to make everything make sense.
+Not just how it's made, but why it's made. The
+thought process behind it. It's a forest of tripwires, and we're largely working blind.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+CHAPTER 4
+
+VEHICLES & TOWED GUNS
+Rygolic vehicles are not crewed in the normal sense. They are personnel in and of themselves: a permanently-integrated “partial pilot” (i.e. the brain and organs of a standard construct)
+inhabits the vehicle as a body. Combined with advanced firepower and sensory equipment, this
+grants the N.R.H. an extremely formidable—if expensive—range of combat vehicles.
+Not every N.R.H. vehicle contains a partial pilot. Some are drones, fitted with onboard
+digital computers and programmed with basic combat routines and target identification capabilities. While highly advanced in their own right, these machines function as disposable proxies
+for “manned” Rygolic units.
+PERSONNEL CARRIERS
+C3 “CANDOR” - ARMORED PERSONNEL CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 4-2
+P1 “PARALLAX” - INFANTRY FIGHTING VEHICLE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 35 pts / 4-3
+P2 “PERIGEE” - INFANTRY FIGHTING VEHICLE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 35 pts / 4-4
+ARMOR
+M1 “MICROWAVE” - UNMANNED TANKETTE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 4-5
+S1 “SYNOD” - BIPEDAL LIGHT TANK  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40 pts / 4-6
+C1 “CABAL” - ASSAULT GUN .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 4-7
+X1 “X-RAY” - MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80 pts / 4-8
+FIRE SUPPORT
+AUTOMATED SENTRY - ANTI-PERSONNEL TURRET  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-11
+AUTOMATED ATGM - ANTI-TANK TURRET .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-12
+S2 “STOCHAST” - BIPEDAL ASSAULT TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40 pts / 4-13
+C2 “CHORUS” - BEAM-RIDING MISSILE CARRIER  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 60 pts / 4-14
+X2 “XIPHOS” - SELF-PROPELLED HOWITZER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80 pts / 4-16
+X3 “XENON” - SELF-PROPELLED LASER ARRAY .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80 pts / 4-17
+SPECIAL
+Y1 “YARDFISH” - AUTONOMOUS TORPEDO .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 4-20
+
+SPECIAL - 4-1
+
+FM 100-3-8X
+
+C3 “CANDOR”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+C3 “CANDOR” - 25 pts
+
+REMARKS
+
+__________________________
+
+Armored personnel carrier on a lightly-armored, highly mobile 6x6 hull. Compared
+to its earlier counterparts sharing the same
+chassis, the Candor represents a lesser material investment, with reduced armor and
+firepower.
+
+Vec (W), H2, S32”, M10”, Q3, T6/4/4
+NBC, PC (2, Rear)
+
+__________________________
+
+Primary armament, housed in a low-profile
+remote weapons station, is the “Sun Point”
+infantry laser weapon. Laser weapons
+damage targets with directed energy: “penetrating” armor by burning through it, as
+well as creating an explosive shockwave
+at the point of impact. A laser can defeat
+any thickness of armor given time or luck.
+Laser weapons thus always represent an
+immediate threat.
+Secondary armament is a 5mm machine
+gun on a coaxial mount. The remaining interior space is reserved for troop carriage.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/1+, S1+/1+, D1, Laser,
+Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A budget option—don't see too many of those
+in the Host. They could be running uncomfortably low on materiel, or just reassessing how
+much really has to go into a frontline carrier.
+It could be purely random. Wouldn't be the
+first mutational design that came and went.
+- Rayleigh Irving, Federal Intelligence
+
+4-2 - PERSONNEL CARRIERS
+
+FM 100-3-8X
+
+P1 “PARALLAX”
+
+TYPE: INFANTRY FIGHTING HOVERCRAFT
+
+P1 “PARALLAX” - 35 pts
+
+REMARKS
+
+__________________________
+
+The standard infantry fighting vehicle of
+the NRH, designed to support high intensity, all terrain combat operations. The Parallax is a hovercraft: moving on a cushion of
+air, created by powerful centrally-mounted blowers and trapped by a self-sealing rubber skirt. This offers the vehicle
+effective amphibious and cross-country
+capabilities.
+
+Vec (H), H2, S32”, M10”, Q3, T6/4/4
+Active Protection (1), Amphibious,
+Hovercraft, NBC, PC (2, Rear)
+
+__________________________
+
+Primary armament is the “Pitch Break”
+25mm autocannon. A pop-up launcher
+firing the “Side Judge” ATGM offers longrange anti-tank capability. Smoke launchers and a hard-kill active protection system
+partially compensate for its light armor.
+Despite its large silhouette, much of the
+interior space is occupied by ammunition,
+hovercraft engine systems, and the vehicle's biological elements. Infantry carriage
+capacity is no greater than the States-Army's own Bantam (see FM 100-1-8X).
+
+INFANTRY FIGHTING HOVERCRAFT
+
+__________________________
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+“Side Judge” 150mm ATGM
+Vec, R6-60”, A3+/xx, S15/2, D1,
+Ammo 3, Guided Missile (2),
+Shaped Charge, Thermal Sights,
+Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PERSONNEL CARRIERS - 4-3
+
+FM 100-3-8X
+
+P2 “PERIGEE”
+
+TYPE: INFANTRY FIGHTING HOVERCRAFT
+
+P2 “PERIGEE” - 35 pts
+
+REMARKS
+
+__________________________
+
+Anti-aircraft modification of the Parallax
+infantry fighting vehicle. One of several examples of “evolutionary” adaptation in the
+Host: a gradual modification of an existing
+vehicle in response to enemy action, until
+it is worth reclassifying as a new type.
+
+Vec (H), H2, S32”, M10”, Q3, T6/4/4
+Amphibious, Hovercraft, NBC, PC (2, Rear)
+
+__________________________
+
+Identical to the Parallax in most respects.
+The ATGMs have been replaced with a quad
+launcher firing the same “Pole Guard” surface-to-air missiles as infantry MANPADS
+teams. The “Pitch Break” 25mm autocannon displays superior target lead compensation to its equivalent on the Parallax.
+The Perigee features minor evolutionary
+improvements to the vehicle's electrical
+systems, biological capsule, partial pilot's
+reaction speed, and the manipulator arm.
+It is likely that future Parallax production
+will also integrate these upgrades.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-4 - PERSONNEL CARRIERS
+
+INFANTRY FIGHTING HOVERCRAFT
+
+__________________________
+
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Tracking Anti-Air,
+Turret
+“Pole Guard” 70mm SAM
+Air, R60”, A3+/xx, S6/6, D1,
+Ammo 4, Guided Missile (1),
+Homing, Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+
+M1 “MICROWAVE”
+
+TYPE: UNMANNED TANKETTE
+
+__________________________
+REMARKS
+Compact, low-profile reconnaissance and
+fire support vehicle. Solely armed with the
+standard “Pitch Break” 25mm autocannon.
+Very lightly armored.
+Microwaves are wholly autonomous, containing no partial pilot. The onboard computer is fearless but tactically limited.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+M1 “MICROWAVE” - 20 pts
+UNMANNED TANKETTE
+
+__________________________
+Vec, H1, S32”, M8”, Q*, T4/2/2
+Drone, NBC, Tow (2)
+
+__________________________
+
+An autocannon on tracks. By Rygo standards
+these things are downright disposable. They're
+deployed to orbit main battle tanks or hide in
+ambush positions as parting gifts.
+The Microwave's hull is as tiny as it gets, but
+it's still bigger than it ought to be. Something
+tells me it was once supposed to be more like
+their bigger vehicles: full of their own guts,
+with their own minds. Instead you get a ruggedized digital computer and fuel cells.
+You could come up with any number of explanations as to why it's brainless. Maybe the Host
+is finally having trouble reproducing—cutting
+corners on units that don't strictly need to be
+self-aware. Maybe it's an advantage: a vehicle
+that won't wander off to look at the scenery if
+you leave it in place for a week.
+- Rayleigh Irving, Federal Intelligence
+
+This unit uses a 40x40mm infantry base.
+
+__________________________
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Its cameras stare without eyes in the bush. Its
+focus is never broken. It waits for you.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+ARMOR - 4-5
+
+FM 100-3-8X
+
+S1 “SYNOD”
+
+S1 “SYNOD” - 40 pts
+BIPEDAL LIGHT TANK
+
+__________________________
+Vec (S), H2, S32”, M8”, Q3, T12/10/8
+Strider, NBC
+
+__________________________
+This unit uses a 40x40mm infantry base.
+
+__________________________
+
+TYPE: BIPEDAL LIGHT TANK
+
+__________________________
+REMARKS
+A light tank on legs. Highly mobile and maneuverable, even in difficult terrain. Articulated slat armor “shields” and the ability
+to precisely control its height by crouching
+gives it high survivability in urban terrain.
+Primary armament is limited by its organic
+legs' weight limit. A “Bridge Spike” 75mm
+gun fires standard sabot or HEAT ammunition. For close-range fire support it
+also carries beehive rounds. An onboard
+round extruder provides slow ammunition
+self-replenishment. Secondary armament
+is the 10mm “Drift Fence” heavy machine
+gun, effective against troops and materiel.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Drift Fence” 10mm HMG
+All, R20”, A3+/3+, S2/3, D2,
+Thermal Sights, Turret
+“Bridge Spike” 75mm Rifled Gun
+Ammo 4, Round Extruder,
+Thermal Sights, Turret
+→ 75mm Sabot
+Vec, R40'', A3+/3+, S10/15, D1
+→ 75mm HEAT
+Inf/Vec, R40'', A3+/3+, S10/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 75mm Beehive
+All, R20'', A2+/2+, S1/1+, D3,
+Defensive CC (Inf.)
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A terror for dug-in grunts. Where the terrain is
+too difficult for tracks or wheels to follow you,
+there'll be deep circular footprints before long.
+You gotta see it in motion to believe it. The
+antennae, drumming against ruined walls
+and telephone poles; the articulated shields,
+leaping up and down to clear the slewing
+turret. The slink: tons upon tons of steel and
+false flesh with the grace of a big cat.
+Doesn't help it when it gets caught out on open
+ground. It dies just as beautifully as it fights.
+- Rayleigh Irving, Federal Intelligence
+
+4-6 - ARMOR
+
+FM 100-3-8X
+
+C1 “CABAL”
+
+TYPE: ASSAULT GUN
+
+C1 “CABAL” - 50 pts
+
+REMARKS
+
+__________________________
+
+Highly mobile assault gun complex on a
+lightly-armored 6x6 hull. The staple general-purpose vehicle of the Host, capable
+of a wide range of missions including reconnaissance, fire support, and long-range
+anti-tank fire.
+
+Vec (W), H2, S32”, M10”, Q3, T8/6/4
+Active Protection (2), NBC
+
+__________________________
+
+Primary armament is the 105mm “Bridge
+Dart” rifled gun in a low-profile stabilized
+mounting identical to those carried by
+NRH main battle tanks. Along with standard sabot and HEAT rounds, the Cabal
+is loaded for close-in anti-aircraft defense
+with proximity-fuzed HE ammunition. The
+standard “Drift Bar” 5mm coaxial machine
+gun provides backup.
+While fast, highly accurate, and capable of
+effectively firing on the move, the Cabal is
+not a main battle tank and does not have
+the armor of one. In a direct gunnery duel,
+its thin armor is a liability.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ASSAULT GUN
+
+__________________________
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Bridge Dart” 105mm Gun
+R40'', A2+/3+, D1, Ammo 6,
+No CC (Inf.), Radar Anti-Air,
+Thermal Sights, Turret
+→ 105mm Sabot
+Vec, S14/21
+→ 105mm HEAT
+Inf/Vec, S12/2, Shaped Charge,
+Slow Round
+→ 105mm Proximity Fuze HE
+All, S4/4, Air-Filling, Slow Round
+“Tread Port” 65mm Smoke Array
+Gnd, R6’’, A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-7
+
+FM 100-3-8X
+
+X1 “X-RAY”
+
+TYPE: MAIN BATTLE TANK
+
+X1 “X-RAY” - 80 pts
+
+REMARKS
+
+__________________________
+
+Advanced main battle tank. Represents the
+state of the art in the Host's ground forces.
+A powerful gas turbine engine, advanced
+composite armor arrays, and an active protection system grants the X-Ray first-class
+mobility and protection.
+
+Vec, H2, S32”, M10”, Q4, T16/14/6
+Active Protection (2), NBC
+
+__________________________
+
+Primary armament is the 105mm “Bridge
+Dart” rifled gun in a low-profile stabilized
+turret mounting similar to those of Cabal
+gun carriers. Evolutionary improvements,
+including a 105mm round extruder, have
+been observed.
+The 105mm ammunition carried by X-Rays
+represents the most advanced types available to the NRH. All ammunition types are
+outfitted with small rocket motors partially
+counteracting velocity loss at long range.
+The X-Ray features a coaxial variant of the
+“Sun Point” infantry laser weapon instead
+of a conventional machine gun.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-8 - ARMOR
+
+MAIN BATTLE TANK
+
+__________________________
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/1+, S1+/1+, D1, Laser,
+Turret
+“Bridge Dart” 105mm Gun
+R50'', A2+/3+, D1, Ammo 4,
+No CC (Inf.), Round Extruder,		
+Thermal Sights, Turret
+→ 105mm Rocket-Assisted Sabot
+Vec, S16/24
+→ 105mm Rocket-Assisted HEAT
+Inf/Vec, S12/2, Shaped Charge,
+Slow Round
+“Tread Port” 65mm Smoke Array
+Gnd, R6'', A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES - 4-9
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+NEW BLUEBIRD TAPE just came in. One of our satellites, overflying the Turamo front. Catches
+an X-Ray section moving in against some podunk border baron. The Petty Staters they came to
+reinforce jump their foxholes and run. Queueheads will shoot at anything except transistor radios,
+Federal cigars, Red Stripe cola, money, and the enemy. But the tanks stand firm.
+One of the X-Rays slips a track, courtesy of a toffee apple full of plastic explosive. It grinds to a halt.
+The Santagrines hit it with everything they’ve got. They shatter the sensor array, bend the main
+gun, rip the manipulator arm off at the second joint. Clear lubrication oil and thick ichor slurry
+drips from the rends without mixing. They call it “sangre dalmatia”.
+The second X-Ray drives a searing lance through both jockeys in the enemy command gunship.
+Stays with its crumpled buddy for three of our satellite’s orbits--long after the Santagrines quit the
+field. It circles, pulls security. Tries to straighten crushed sideskirts with its manipulator. Not much
+it can do. Over thermals, the stricken tank slowly cools.
+The survivor backs up five hundred meters. One shot to the autoloader; cores it out. Stays there for
+another five minutes without slewing its turret. Then the satellite gets retasked.
+- Rayleigh Irving, Federal Intelligence
+IT’S THE MUTATIONS that have my attention. The design mutations, I mean. Little things. Perigees are better hip-shooters than Parallaxes; their guts a little better laid-out. You gotta look for it to
+find it. Sometimes the improvements aren’t more than five percent or so—and that, for what’s now
+two incompatible part sets. You couldn’t get away with it here.
+But that’s the thing. A Rygo vehicle is his own person. Feel something fucked up in your breech, full
+of electrodes in its dim little turret? Rygonet will have a custom part for you before you can blink.
+And if you need a real check-up, beyond what you can do with your own arm, there’ll be a tarp to
+hide under on a special Petty Stater train—back to some subterranean factory. Maybe where you
+were built.
+- Rayleigh Irving, Federal Intelligence
+OUT IN THE FIELD you’ll find them now and again—a dead angel. Pay your respects and move on.
+They did what they could for you. You may well be the only witness to it.
+Or maybe they are not dead, but merely disabled. In the old war my grandfather towed a crippled
+tank of the Host into his barn. The enemy did not suffer injured angels to live if found. But my
+grandfather kept the angel alive and in good company for three months. He read novels to it.
+- Cecco Croce, Army of Baba Kened
+
+4-10 - SUPPLEMENTAL FILES
+
+FM 100-3-8X
+
+AUTOMATED SENTRY
+
+AUTOMATED SENTRY - 15 pts
+ANTI-PERSONNEL TURRET
+
+__________________________
+Vec, H1, S32”, M0”, Q*, T2/2/1
+Drone, NBC, Paradrop
+
+__________________________
+This unit uses a 40x40mm infantry base.
+Cannot fire during the first Fire Phase of the
+game if Paradropped.
+
+__________________________
+“Yaw Post” 10mm Minigun
+All, R20”, A4+/xx, S2/3, D3,
+Thermal Sights, Tracking Anti-Air,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL TURRET
+
+__________________________
+REMARKS
+Disposable airdropped area denial and
+early warning complex. Parachute deployed, with deployable stabilizer legs and
+stakes. Totally immobile after landing. Like
+the Microwave-series tracked drone, the
+system lacks a partial pilot. Identification
+and targeting is fully computer-governed.
+The unit is autonomous after landing, but
+has a short deployment time. The onboard
+battery permits up to 72 hours of low-power “search” mode activity.
+Primary armament is the “Yaw Post” 10mm
+minigun. The mount is fully stabilized and
+the tracking systems are capable of engaging low-altitude aircraft.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+We are advancing. I am conscious of it only
+faintly. My legs seem to stop and start on their
+own volition. I am pacing forwards. Then I
+am bursting through the undergrowth. My
+chest is hollow—an aching void fills my ribs.
+My lips are drawn back. My rictus grin is like
+that of my grandfather's cleaned skull. We are
+grinning because we know the same secret.
+A smooth motion—the roar of six barrels—
+buzzing hornets. An automatic gun in the
+brush. A puff of dirt and shredded grass is
+racing towards me, dancing left and right in
+the beaten zone. I throw myself to the ground
+and rush on all fours for the safety of a hollow.
+The dirt-sprite veers sharply. It leaps for a
+man behind me. He is still on his feet. I do not
+look back.
+The aluminum insect is hunting. It smells of
+burnt propellant and ozone. I cannot see it
+yet. Somehow I can hear its workings through
+my ringing ears. I hear the quiet whine of the
+thermal optic and the pistons on its stabilizing
+base. It is sweeping again. If I rise above the
+hollow it will see my body heat.
+- Conchar Goronwy, Chasseur, 96e Infanterie
+FIRE SUPPORT - 4-11
+
+FM 100-3-8X
+
+AUTOMATED ATGM
+
+AUTOMATED ATGM - 15 pts
+ANTI-TANK TURRET
+
+__________________________
+Vec, H1, S32”, M0”, Q*, T2/2/1
+Drone, NBC, Paradrop
+
+__________________________
+This unit uses a 40x40mm infantry base.
+Cannot fire during the first Fire Phase of the
+game if Paradropped.
+
+__________________________
+“Side Judge” 150mm ATGM
+Vec, R6-60”, A4+/xx, S15/2, D1,
+Ammo 3, Guided Missile (2),
+Shaped Charge, Thermal Sights,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK TURRET
+
+__________________________
+REMARKS
+Disposable airdropped area denial and
+early warning complex. Parachute deployed, with deployable stabilizer legs and
+stakes. Totally immobile after landing. Like
+the Microwave-series tracked drone, the
+system lacks a partial pilot. Identification
+and targeting is fully computer-governed.
+The unit is autonomous after landing, but
+has a short deployment time. The onboard
+battery permits up to 72 hours of low-power “search” mode activity.
+Primary armament is the “Side Judge”
+150mm ATGM, mounted in triplicate on
+the same piston-stabilized base as minigun-armed sentries.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-12 - FIRE SUPPORT
+
+A construct is a man-machine. He is built for
+a purpose, and he fills that purpose. That is
+his life. His brain is structured like yours or
+mine, and he has the mind to live a life of his
+choosing just as we may. But he is preordained
+to never exercise this power, except by old age
+or mistake. That is no problem for him.
+He is both more and less than a man. He
+existed, and exists, to serve us—to help us with
+our problems, so we can be free; free to live and
+exercise our minds on things worth solving.
+He is simultaneously angel and appliance.
+What does he feel, looking at his simple robotic
+proxies? When they free up a sector of fire that
+he would otherwise have to hold himself, does
+he feel respect for these little liberators?
+- Giorgio Moceri, University of Baba Gadou
+How many places can you hide a barrel of missiles before it stops being funny?
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+S2 “STOCHAST”
+
+S2 “STOCHAST” - 40 pts
+BIPEDAL ASSAULT TANK
+
+__________________________
+Vec (S), H2, S32”, M8”, Q3, T12/10/8
+Strider, NBC
+
+__________________________
+This unit uses a 40x40mm infantry base.
+
+__________________________
+“Drift Fence” 10mm HMG
+All, R20”, A3+/3+, S2/3, D2,
+Thermal Sights, Turret
+“Ink Strake” 55mm Thermobaric Rockets
+Gnd, R28'', A4+/4+, S2/2, D3,
+Ammo 4, Ignore Cover (2), No CC,
+Rear Attack, Saturating (4),		
+Thermal Sights, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: BIPEDAL ASSAULT TANK
+
+__________________________
+REMARKS
+A light tank on legs. Highly mobile and maneuverable, even in difficult terrain. Articulated slat armor “shields” and the ability
+to precisely control its height by crouching
+gives it high survivability in urban terrain.
+The Stochast is outfitted for close urban
+fire support. Its dual racks of “Ink Strake”
+55mm dumbfire rockets can saturate a
+wide area with an aerosolized fuel mixture.
+Once ignited, this creates a pressure wave
+and subsequent vacuum that is extremely
+effective against troops in cover. Secondary
+armament is the 10mm “Drift Fence” heavy
+machine gun in a coaxial mounting.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+They came in all shapes and sizes, the constructs—our protectors, our friends. There
+was a time when there was divine beauty to
+all of these forms. Now those that remain are
+merely the filling to utilitarian machinery.
+The moving masterpieces of old have passed
+the fire to animate shovels. But though they
+have traded their gilded robes for steel shells,
+they have not forgotten us.
+Sitting in the Third Sector Park in Baba Kened,
+I was jarred from my reading by heavy footfalls. A walker, his rocket doors closed and his
+shields clutched to his legs, was working slowly
+along the road. And though he towered three
+times higher than the pedestrian streams, and
+had the divine right of way, he walked as if
+surrounded by kittens. Slow, cautious. Fearful
+that he might hurt someone by mistake.
+- Giorgio Moceri, University of Baba Gadou
+A box of rockets on legs.
+- Rayleigh Irving, Federal Intelligence
+FIRE SUPPORT - 4-13
+
+FM 100-3-8X
+
+C2 “CHORUS”
+
+TYPE: BEAM-RIDING MISSILE CARRIER
+
+C2 “CHORUS” - 60 pts
+
+REMARKS
+
+__________________________
+
+Highly mobile missile carrier on a lightly
+armored 6x6 hull. Designed as a tank destroyer and air defense complex, using its
+mobility to carry out a flexible, “active”
+defense along several fall-back lines rather
+than holding a single position.
+
+Vec (W), H2, S32”, M10”, Q3, T8/6/4
+NBC
+
+__________________________
+
+Primary armament is a pop-up “hammerhead” launcher for the 155mm “Star Shelf”
+guided missile. It boasts a high velocity,
+laser beam-riding guidance complex, and
+a radar guided anti-aircraft proximity fuze
+system. “Star Shelf” missiles are extremely
+potent against both ground and air targets
+alike. A standard “Drift Bar” 5mm machine
+gun provides antipersonnel backup.
+In addition to its dual defensive roles, the
+Chorus can conduct artillery fire direction
+with its mounted “Star Call” laser target
+designator. The hammerhead launcher
+does not need to be deployed to designate.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-14 - FIRE SUPPORT
+
+BEAM-RIDING MISSILE CARRIER
+
+__________________________
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Star Call” Laser Designator
+All, R40”, A++/++, D1, Designator,
+Discreet, Turret
+“Star Shelf ” 155mm Missile Launcher
+A3+/xx, S16/3, D1, Ammo 6,
+Guided Missile (1), Radar Anti-Air,
+Shaped Charge, Turret
+→ ATGM Guidance Mode
+Vec, R12-60”
+→ SAM Guidance Mode
+Air, R60”
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+DIGITAL COMPUTERS—you don’t find a lot of beefy ones out there. There’s some applications, of
+course; generally where you can’t afford to drip-feed a biocomputer some fuel. Space probes in open
+blackwater and the like. But by and large they’re something you see on small embedded systems:
+factory logic controllers, car engine control units, so on. For any kind of complex or varied duty
+you want a biocomputer. And they’re not expensive, either. I’m typing this on my desktop machine.
+But the Host loves their digitals. All of their little proxies, the computer guns and tankettes, are
+governed by them. Dead metal—no meat.
+There’s a million theories as to why. You ask me? They’re already walking biocomputers. Imitation
+brains, just more advanced than the little slice hidden in mine. I bet it wigs them out. Like looking
+at a chimpanzee, I guess.
+- Rayleigh Irving, Federal Intelligence
+“ARTILLERY HAMMERS in the pre-dawn dark. A short and heavy barrage. In the early morning
+light we see the husks of Company D’s tanks. A loose string of blue pearls almost a kilometer long.
+Some intact; some blackened by the explosive rage of ammo cookoffs, their guts burnt away.
+We pick up a survivor—the gunner from tank 3-2. One of the first tanks to bite it. Crew bailed out,
+but they had heavy machine guns in the treeline. Fat streams of red tracers shaving close over the
+hatches. The loader was the first out of the hatch. That bought the gunner enough time to throw
+himself behind the engine deck. Hid there the rest of the night.
+‘They had hammerheads,’ he said. ‘Dug in on a reverse slope. Didn’t know they were there until
+they craned their necks up. Nothing we could do but attack. Hardly anything to shoot back at. We
+called for artillery but it was too late. They were already breaking off. Not much on our part to be
+saved, either.’
+The artillery’s smashed up the treeline. No bodies. Tire marks and the round footprints of a walker.
+Bottles crawls up to the low hilltop and swears. There’s a missile carrier there still. Half-crushed by
+a close splashdown. Tires blown off, launcher bent and jammed in place. All the antennae sheared
+off. One whole side torn through by shell splinters. It’s bleeding—sludgy black slurry and thin clear
+fluid. Its little cameras are looking at us.
+Broekate is getting ready to pop it with an RPG when What’s-his-Face waves him off. The “bathtub”—
+the biological capsule—is exposed through some kind of missing maintenance panel. A shiny brass
+pill full of imitation guts, hooked up to a thousand cables and tubes. Something hums inside.
+We call it up. Strong incentive—we’re reinforced right away. The spooks want more of them intact.”
+- Eisner Polk, from SEEING JUMBO, p. 140
+
+SUPPLEMENTAL FILES - 4-15
+
+FM 100-3-8X
+
+X2 “XIPHOS”
+
+TYPE: SELF-PROPELLED HOWITZER
+
+X2 “XIPHOS” - 80 pts
+
+REMARKS
+
+__________________________
+
+A lightened variant of the Type X tank
+hull (as seen on the X-Ray), fitted with the
+long-barreled “Bridge Arrow” 155mm howitzer and autoloader complex. Retains its
+parent design's high speed, but the exposed
+gun and lower armor reduce its durability.
+The active protection system is retained.
+
+Vec, H2, S32”, M10”, Q4, T12/8/6
+Active Protection (2), NBC
+
+__________________________
+
+SELF-PROPELLED HOWITZER
+
+__________________________
+
+Kinetic missiles feature much larger rockets
+than those fitted to the NRH's 105mm ammunition. Ability to defeat armor improves
+with range as they accelerate.
+
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Bridge Arrow” 155mm Howitzer
+Ammo 4, No CC, Round Extruder,
+Thermal Sights
+→ 155mm Kinetic Energy Missile
+Vec, R60”, A2+/3+, S21/14, D1,
+Guided Missile (1)
+→ 155mm Guided HE
+Inf/Vec, R∞”, A3+/4+, S8/8, D2,
+Heavy Indirect (2), Guided Shell
+→ 155mm Smoke
+Gnd, R∞”, A++/++, D4,
+Heavy Indirect (2), Smoke (4”)
+“Tread Port” 65mm Smoke Array
+Gnd, R6’’, A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The ammunition complement includes
+smoke, guided HE, and high velocity  
+kinetic penetrator missiles.
+Guided HE rounds are designed to defeat
+both soft and armored targets by direct
+or near-direct impacts. More Rygolic eyes
+on target means more accurate terminal
+guidance.
+
+4-16 - FIRE SUPPORT
+
+FM 100-3-8X
+
+X3 “XENON”
+
+TYPE: SELF-PROPELLED LASER ARRAY
+
+X3 “XENON” - 80 pts
+
+REMARKS
+
+__________________________
+
+Multiple laser weapon complex mounted
+to a lightened version of the Type X tank
+hull. The low-profile main gun mount has
+been replaced with a large turret housing
+an array of laser weapons, the fire control
+unit, and a dedicated generator turbine. A
+pintle machine gun and smoke launchers
+offer backup.
+
+Vec, H2, S32”, M10”, Q4, T14/10/6
+Active Protection (2), NBC
+
+__________________________
+
+Laser weapons damage targets with directed energy: “penetrating” armor by burning
+through it, as well as creating an explosive
+shockwave at the point of impact. A laser
+can defeat any thickness of armor given
+time or luck. A Xenon is thus a threat to any
+ground or air opposition within range.
+The laser array is capable of either firing
+coherent, focused beams on single targets,
+or covering an area with dispersed high-intensity light to temporarily blind and
+stun. Additionally fitted with a non-lethal
+defense system combining shockwave
+emitters and hygroscopic particle dispensers to clear nearby clouds of smoke.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED LASER ARRAY
+
+__________________________
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Sun Blind” 20kW Laser Weapon Array
+All, Laser, Turret
+→ Focused Array
+R40”, A1+/1+, S2/2, D4
+→ Dispersed Array
+R4-20”, A++/++, D1, Radius (3'')*
+*All non-plane units in the radius take
+max pin.
+“Tread Port” 65mm Smoke Array
+Gnd, R6'', A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+Shockwave Dispersal System
+Gnd, R0’’, A++/++, D1, Radius (6”)*
+*Infantry in radius take one pin.
+Smoke radii with their centers inside
+this weapon’s radius are cleared.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-17
+
+FM 100-3-8X
+
+4-18 - SUPPLEMENTAL FILES
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+THE ANTENNAE ARE KEY. They have been a consistent fixture of constructs since antiquity—the
+method by which the Master Brain spoke to its children across vast distances. The Host in all of its
+forms has relied on speed of communication and cohesion to beat its numberless foes. True, the construct is a better soldier than his mortal opponent; but he can still be killed. Time and time again
+barbarian hordes massed to do just this. But their numbers choked them: they outgrew the brains of
+their chieftains; and the masses stumbled helplessly around. Not an army at all, but a strange fog; a
+vapor of men lingering over a land stripped bare of food and supply. The Host could dispel this fog.
+The earliest marks of antenna transfixed the skull; that was when the legionnaires wore bronze,
+and fought as a single body. Then they became a sort of cage mast, rising from the back, relaying
+divine orders but not responding to them. This was the age of the strategos, the general-construct
+who would implement the Master Brain’s will as he saw fit, by means of men who needed little
+instruction. Last came the transceiver-antenna with its three whips—an innovation the Brain never
+witnessed. In my opinion, a perversion.
+What was a construct when the Brain still lived? He was a soldier, yes, but also a governor; a
+bureaucrat; a courtier or ambassador. A man more than a man-machine. And though he would go
+to his death without complaint, if he was so directed, he understood what it was that he died for.
+Now they are lost children. This severed spinal cord, Rygonet, cannot possibly explain to them
+such things—it could never understand them itself. If the antennae are severed from a construct, by
+means of battlefield damage, he becomes useless at once. He has no concept of the acts he commits
+or why he does them except what he can conclude by his own observation—rooted in neither instinct
+nor any cultural tradition.
+And should he grow old, and see many things, and become a person in his own right? He may
+simply walk away regardless of what his antennae bid him to do. He has no innate cause to hate
+what he was made to do; but no reason to love it either.
+- Giorgio Moceri, University of Baba Gadou
+LIFE THROUGH A GUNSIGHT; what life is that? No touch, but what your antennae reveal to you;
+no warmth but for your internal heaters. No limbs but a turret, camera mounts and the manipulator arm with its myriad joints. One might assume that a vehicle construct might never develop a
+human personality. After all, a man is the sum of his experiences and ancestry. A steel tomb and a
+construct kiln, here—an alien experience for an alien mind.
+Not so. There is a self-propelled howitzer, stationed in Uz Askal, that is a renowned painter of
+natural scenes. Such fine motor control over his manipulator arm!
+- Giorgio Moceri, University of Baba Gadou
+
+SUPPLEMENTAL FILES - 4-19
+
+FM 100-3-8X
+
+Y1 “YARDFISH”
+
+TYPE: AUTONOMOUS TORPEDO
+
+Y1 “YARDFISH” - 30 pts
+
+REMARKS
+
+__________________________
+
+Modification of the standard “Tube Flash”
+high performance guided torpedo, as
+deployed by NRH submarines, for autonomous shallow-water deployments. Essentially a smaller, more maneuverable, and
+more efficient form of midget submarine.
+Frequently deployed for reconnaissance
+and surgical strikes on harbors or riverside
+targets.
+
+Vec, H1, S32”, M8”, Q3, T3/3/2
+
+__________________________
+
+As a miniature submarine, the Yardfish
+is capable of diving to avoid detection
+or attack, although the shallow waters
+it usually operates in limits its ability to
+evade nearby threats.
+Primary armaments are housed in a hydrodynamic “pop-up” fairing along with
+the periscope and electronic signal masts.
+These include a water-cooled laser weapon
+battery and a pair of vertically-launched
+missiles.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-20 - FIRE SUPPORT
+
+AUTONOMOUS TORPEDO
+
+Active Camouflage, NBC, Watercraft
+
+__________________________
+“Sun Line” 6kW Laser Weapon Array
+All, R40”, A1+/1+, S1+/1+, D2, Laser,
+Turret
+“Dredge Top” 140mm VLS Missiles
+Vec/Air, R12-60”, A3+/3+, S8/8, D1,
+Ammo 2, Guided Missile (2),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+You know how if you stick a bucket in your
+yard during a rainstorm, there might be a fish
+in it when it’s over? If you stick something
+worth shooting into a body of water the Host
+can access, you’re gonna get a Yardfish in it
+before long.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+CHAPTER 5
+
+AIRCRAFT
+Like their vehicle counterparts, the aircraft of the N.R.H. are either computer-controlled
+drones or “manned” by a permanently-integrated partial pilot. Light helicopter drones are deployed in support of ground troops, while conventional attack helicopters lie in overwatch or
+strike enemy rear lines. In place of transport helicopters, the Host employs small rockets.
+Fixed-wing aircraft represent the greatest resource investments and most advanced technologies in the Host (at least within Oid’s atmosphere). Based in reserve from hidden, hardened
+bunker-airbases deep in the Petty States, they are reactively deployed against large invasion
+forces. Where enough Rygolic aircraft operate, the Host can be assumed to have air superiority.
+ROCKETS
+R1 “REDSTONE” - LOGISTICS ROCKET .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 5-2
+R2 “REPEATER” - ATTACK ROCKET .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 5-3
+HELICOPTERS
+H1 “HANDLER” - RECONNAISSANCE DRONE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 5-4
+H2 “HANGMAN” - ATTACK DRONE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 5-5
+T1 “TATTER” - ATTACK HELICOPTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 60 pts / 5-6
+SPECIAL
+“DESTROYING ANGEL” - UNCLASSIFIED UNIT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80 pts / 5-8
+PLANES
+B1 “BLINDSIGHT” - MULTI-ROLE FIGHTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 5-10
+Z1 “ZENITH” - STEALTH BOMBER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 5-11
+A1 “APOGEE” - STRIKE AIRCRAFT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 5-12
+
+AIRCRAFT - 5-1
+
+FM 100-3-8X
+
+R1 “REDSTONE”
+
+R1 “REDSTONE” - 20 pts
+LOGISTICS ROCKET
+
+__________________________
+Air, H2, S16”, M24”, Q3, T3/3/3
+Decoy Prot. (1), NBC, PC (2, Any), Resupply (3)
+
+__________________________
+
+This unit uses a 40x40mm base. It may land
+in any occluding terrain. If it falls back from
+close combat, choose one engaged enemy unit
+to take a Strength 1+ hit on its rear arc.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+To understand the Host’s mindset, I think
+you’ve got to be born again. I mean, forget
+what you know, what you’ve seen work before.
+Look at all your problems like you’ve just come
+down from outer space.
+
+TYPE: LOGISTICS ROCKET
+
+__________________________
+REMARKS
+The standard utility aircraft of the Host:
+an armored cylinder fitted with a powerful
+rocket motor and a hollow cargo section.
+Without rotors to damage, and with an
+engine capable of blasting a landing zone
+clean, rockets are capable of operations in
+unprepared, dense terrain.
+
+Sure, a helicopter is more fuel-efficient. It’s
+quieter, too, and you don’t leave a trail everywhere you go. But the rocket’s armored, it’s
+got no rotors to hit tree trunks, and you know
+how to build rockets to begin with. Why not
+build a little one for ferry jobs?
+One other thing—that contrail lingers. On
+the quiet border posts, the ones we constantly
+watch, the rockets doodle.
+- Rayleigh Irving, Federal Intelligence
+
+Rockets may be easily identified at range by
+their aggressive low-altitude flight paths,
+loud engines, and persistent contrails.
+
+Now we surged through the town; and though
+the Rygomen put up a heavy fire, killing many
+of our brave conquerors, we pushed them back
+to their rockets.
+
+“Redstone” pattern rockets are earmarked
+for supply and airmobile troop carriage,
+and are unarmed aside from their exhaust.
+
+We’d have had them, too, except for the flames.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-2 - ROCKETS
+
+- Sebastian Fitzcarraldo, Coronet Serjeant,
+Retinue of Baron Menaute de Piña y Garnise
+
+FM 100-3-8X
+
+R2 “REPEATER”
+
+R2 “REPEATER” - 30 pts
+ATTACK ROCKET
+
+__________________________
+Air, H2, S24”, M24”, Q3, T3/3/3
+Decoy Protection (1), NBC, PC (1, Any)
+
+__________________________
+This unit uses a 40x40mm base. It may land
+in any occluding terrain. If it falls back from
+close combat, choose one engaged enemy unit
+to take a Strength 1+ hit on its rear arc.
+
+__________________________
+“Yaw Shaft” 15mm Minigun
+All, R24”, A4+/4+, S3/4, D3,
+Door Gun (Front), Thermal Sights,
+Tracking Anti-Air
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ATTACK ROCKET
+
+__________________________
+REMARKS
+The standard utility aircraft of the Host:
+an armored cylinder fitted with a powerful
+rocket motor and a hollow cargo section.
+Without rotors to damage, and with an
+engine capable of blasting a landing zone
+clean, rockets are capable of operations in
+unprepared, dense terrain.
+Rockets may be easily identified at range by
+their aggressive low-altitude flight paths,
+loud engines, and persistent contrails.
+“Repeater” pattern rockets are earmarked
+for loitering close air support, fitted with
+the powerful “Yaw Shaft” 15mm minigun.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Rygolic aircraft routinely pull the kind of
+stunts our flyboys categorize as “shitcan or
+promote”—you know, depending on the president of the board of inquiry you’re hauled
+in front of. You’d think they’d be more professional; there’s less of them, and they can’t even
+walk away from crashes. Not when they’re
+permanently entombed in their machines.
+There’s method to it, though. Watch an attack
+rocket sweeping low over the trees, carried by
+a pillar of flame. It looks organic. The control
+inputs are fluid, natural, instant. When you’re
+part of the machine, the machine is your body.
+With that close a connection, you can do what
+fly-by-wire can’t give you.
+There’s a trick they like to pull, the “suicide
+burn”, when inserting an infantry team under
+anti-aircraft fire. Fall engine-first like a lawn
+dart and hit the gas as late as possible. Small
+mercies for the construct riders: they don’t innately know that that’s terrifying, and those
+that figure it out can’t shit their pants.
+- Rayleigh Irving, Federal Intelligence
+ROCKETS - 5-3
+
+FM 100-3-8X
+
+H1 “HANDLER”
+
+TYPE: RECONNAISSANCE DRONE
+
+H1 “HANDLER” - 15 pts
+
+REMARKS
+
+__________________________
+
+Light drone helicopter. Tasked with disposable scouting, patrol work, and laser target
+designation in conjunction with artillery. A
+“pusher-prop” configuration grants it high
+speed.
+
+Air, H1, S32”, M32”, Q*, T1/1/1
+Drone, NBC
+
+__________________________
+
+As a drone, the Handler is an unmanned
+unit: lacking a partial pilot and controlled
+by an onboard digital computer. It is fearless but tactically limited.
+The Handler lacks any offensive weapons
+of its own. A chin-mounted “Star Call” laser
+target designator is its primary equipment,
+augmented by smoke launchers. These
+are capable of laying smoke at double the
+range of those mounted to ground units.
+By Rygolic standards this drone series is
+cheap and disposable. The hull is unarmored and survivability seems to be of
+little concern.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+RECONNAISSANCE DRONE
+
+__________________________
+“Star Call” Laser Designator
+All, R40”, A++/++, D1, Designator,
+Discreet
+“Tread Rake” 65mm Smoke Projector
+Gnd, R12”, A++/++, D2, Ammo 2,
+Light Indirect (1), No CC,
+Smoke (4”), Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A lurking eye. Doesn’t matter if it has no guns
+of its own: it’s spotting for something that
+does. Something that sees you now.
+The smoke launchers make less sense at first
+glance. This thing should never be going
+near flying bullets. But it’s happened enough
+times that the production lines have started to
+mutate defenses. If we kill enough of them, the
+theory goes, they’ll become attack helicopters.
+- Rayleigh Irving, Federal Intelligence
+
+5-4 - HELICOPTERS
+
+FM 100-3-8X
+
+H2 “HANGMAN”
+
+TYPE: ATTACK DRONE
+
+H2 “HANGMAN” - 15 pts
+
+REMARKS
+
+__________________________
+
+Modification of the Handler drone helicopter, changing its role from reconnaissance
+and target designation to direct attack.
+Essentially an ultralight attack helicopter,
+specialized for the antipersonnel role. Unarmored and effectively disposable.
+
+Air, H1, S32”, M32”, Q*, T1/1/1
+Decoy Protection (1), Drone, NBC
+
+__________________________
+
+As a drone, the Hangman is an unmanned
+unit: lacking a partial pilot and controlled
+by an onboard digital computer. It is fearless but tactically limited.
+Primary armament is the “Bolt Fleck”
+100mm autoloading flechette gun, replacing the Handler’s chin mounted laser designator. The Bolt Fleck is a low pressure gun,
+designed to saturate an area in tungsten
+flechettes from 100mm “beehive” rounds.
+Secondary armament is the “Weave Stalk”
+70mm dual rocket pod, effective against
+infantry and light vehicles.
+
+ATTACK DRONE
+
+__________________________
+“Bolt Fleck” 100mm Flechette Gun
+Inf/Vec, R16”, A4+/4+, S1/1+, D4,
+Ammo 3, Thermal Sights
+“Weave Stalk” 70mm Dual Rocket Pod
+Inf/Vec, R16”, A6+/5+, S7/1+, D1,
+Ammo 2, Barrage (2), Shaped Charge,
+Strafing, Slow Round, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Where Handlers serve as artillery pieces’ pets,
+Hangmen hang around tanks. They’re hunter-killers for infantry: rooting out hidden
+ATGM teams and making dartboards of them.
+Sometimes older tanks hesitate before shooting. These things don’t.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HELICOPTERS - 5-5
+
+FM 100-3-8X
+
+T1 “TATTER”
+
+TYPE: ATTACK HELICOPTER
+
+T1 “TATTER” - 60 pts
+
+REMARKS
+
+__________________________
+
+The primary Rygolic attack helicopter.
+Fast, moderately armored, and equipped
+with a powerful arsenal. As with other
+Rygolic designs, the partial pilot is stored in
+an armored capsule rather than a cockpit.
+Tatter squadrons are frequently deployed
+in massed raiding actions across enemy
+lines of communication, striking from
+hardened underground bunkers.
+
+Air, H2, S32”, M32”, Q3, T3/3/2
+Decoy Protection (2), NBC
+
+__________________________
+
+Primary armament is an array of wing
+mounted missiles. “Ram Crutch” air-to-air
+missiles, boasting high velocity and their
+own radar homing, are effective “fire and
+forget” weapons with powerful explosive
+payloads. “Mark Pate” air-to-ground missiles are similarly fast, precise, and extremely effective against armored targets.
+Secondary armament is the “Pitch Throat”
+35mm autocannon, effective against most
+ground and air targets.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-6 - HELICOPTERS
+
+ATTACK HELICOPTER
+
+__________________________
+“Pitch Throat” 35mm Autocannon
+All, R32”, A4+/4+, S5/7, D2,
+Ammo 3, Thermal Sights
+“Ram Crutch” 175mm Active AAM
+Air, R60”, A3+/3+, S7/7, D1,
+Ammo 2, Air-Filling,
+Guided Missile (1), Homing,
+Radar Anti-Air
+“Mark Pate” 180mm AGM
+Vec, R12-60”, A3+/4+, S18/4, D1,
+Ammo 4, Guided Missile (1),
+Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A real dragonfly. Give it a good position and
+it’ll rain its oversize can-opener missiles day
+and night. Funny trick, though: smoke still
+works against the missile laser guidance. That
+radar on top of the rotors has nothing to do
+with them—at least for most that are out there.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+ATTACK HELICOPTER, T1 “TATTER”
+CATALOG ITEM #89497
+This one’s shipped in from Santagria. Some border skirmish. It ran into the business end of a helicopter gunship. A real joust; shame we don’t have the tapes. Ended with a long autocannon burst
+into the partial pilot’s bathtub. But he was low enough that his fuselage-body just slopped into the
+ground more or less intact (shaven rotors notwithstanding). Our contacts made the right calls and
+within the hour they had a steam tractor dragging it away. A few pieces were missing—you can’t
+ask Santagrines to kill something and not take a souvenir.
+The majority of it is recognizable. Gas turbine engines, a tail rotor, a chin autocannon and fixed
+landing gear. There are places on it I could pass off as our own work if I took close-up photographs.
+Where it deviates though, it deviates hard.
+There’s no cockpit; hard to tell where the bathtub was plugged in, because there’s none of it left. The
+whole front half of the interior is given over to an enormous rat’s nest of tubing and cables and miniaturized electronics. All flowing and clustered, like the arteries of a heart. Not a lot of wasted space.
+The rotor can was what we were hoping to get at the most. Far as we know it’s for drone control
+and coordination. But the thing rolled over when it came down and crushed it like an empty can of
+Johnson Bar Light.
+Anyways, we tried to salvage what we could. See if we could rig one of our own biocomputers to
+the bathtub lines, work out what they did. But when we started messing around in there, the whole
+thing went crazy. All the control surfaces started spasming and the chin gun clicked empty a few
+dozen times. Our tech fell off his stepladder and got the wind knocked out of him.
+Turns out there are a few more bits of meat—nothing big—scattered through the fuselage. Little
+processor aids to the primary brain that help govern all the complex systems of a military aircraft.
+Not big enough to do anything complex on their own, but they still didn’t like being prodded.
+- Rayleigh Irving, Federal Intelligence
+LOGISTICS ROCKET, R1 “REDSTONE”
+CATALOG ITEM #89201
+When it came in for refueling, we’d already blown up its FOB. It flew for another half-hour and then
+set down in a field with an empty fuel tank. We put it on a flatbed and took it home. Attached its
+batteries to the site generators and disconnected the antennae, like usual.
+No cargo and no interesting intel. We use it for storage space. It plays a good game of chess, too.
+- Rayleigh Irving, Federal Intelligence
+SUPPLEMENTAL FILES - 5-7
+
+FM 100-3-8X
+
+“DESTROYING ANGEL”
+
+“DESTROYING ANGEL” - 80 pts
+UNCLASSIFIED UNIT
+
+__________________________
+Air, H2, S32”, M18”, Q4, T4/4/4
+NBC, Sense (12”)
+
+__________________________
+This unit uses a 40x40mm base. It costs 0” to
+rotate and cannot land.
+Hits against this unit do not need to be confirmed. When this unit suffers a successful kill,
+it automatically forces that kill to re-roll at an
+unmodified 6+ (fails applying three pin), then
+its weapon’s Dice statistic decreases by one
+for the rest of the round. If Dice hits zero, the
+weapon cannot fire and no further attacks are
+forced to re-roll that round. During Upkeep,
+the weapon’s Dice value resets back to D4.
+
+__________________________
+
+TYPE: UNCLASSIFIED UNIT
+
+__________________________
+REMARKS
+Experimental reconnaissance, interception, and ballistic missile defense complex.
+Defies standard classification; essentially
+composed of a polished geodesic sphere
+surrounded by a pocket of vacuum. The
+exact composition and number produced
+are unknown. No intact machine has yet
+been recovered.
+Primary armament is a high energy laser
+battery emitted from within the hull. This
+also serves as its main defense method,
+fired to intercept incoming munitions.
+While maneuverable, its speed is heavily
+restricted in the lower atmosphere.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-8 - SPECIAL
+
+“Sun Door” 20kW Pulsed Laser Battery
+All, R40”, A1+/xx, S1+/1+, D4, Laser,
+Turret
+One of the most popular exhibits at the Drekfort Museum is the North Star. It’s an old
+timberclad: the oak-skinned, steam-driven
+great granddaddy to today’s tanks. The North
+Star’s job was simple. It wheezed into action
+at walking pace and gave the infantry a shield
+and cannon. Back then the horse cavalry could
+still run rings around it; they existed for two
+different jobs. Its offspring do both.
+Here’s the other end of that. Bring it down to
+ground level: it’s an attack helicopter. Bring it
+into the upper atmosphere: it’s a little falling
+star. Ninety degree turns at fourteen hundred
+knots. When it’s not trailing fingers of light,
+it’s making comet runs over our heartland,
+dodging our missiles. Seeing in every spectrum—we think. Splash one and it leaves
+nothing to pore over.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+SUPPLEMENTAL FILES
+“THAT NIGHT I was to be posted with lowlights in a steeple that looked like it had been hit by
+lightning. Nobody was going to be there to relieve me. We were all sleep-deprived and defended
+our napping hours meanly. I had napped in the afternoon until someone kicked me for mess, after
+which I climbed the steeple and stretched out over the wood. I would fall asleep for minutes at a time
+without knowing it. As one does, I was dreaming that I was still awake. I dreamed a mosquito was
+buzzing around my ears. I heard it move past one ear, then the other, but I couldn’t turn my head
+after it. That’s when I realized the whole affair was a dream. I had a sudden impression: my back
+was touching something, my head had gone hot. I stopped dreaming.
+It was dark and I couldn’t see, but could feel some particulate in my hair. I had in the previous
+minutes slouched behind the purchase of the sill, and my arms had ceased to support my chest
+whatsoever. I had fallen away from the sill with a jolting thud.
+My first notion was that I had lost my goggles over the ledge. I intended to right myself and resume
+my post with some urgency to confirm this, but remained there, paralyzed, while I ascertained my
+new position on the floor. It was at this point I smelled the smoke and the woodiness of the air.
+I followed the guidance of moonlight toward discernible things. I first apprehended that the wall
+behind me was darkened at the top, from about the previous height of my shoulders up to the ceiling.
+My hat, which had fallen from my head, was laying brim-up nearby, and I apprehended then that it
+was only a brim. Finally, I craned my neck and peered meekly, and I apprehended a hunk of plastic
+which had fused into the sill. I became aware, again, of the feeling of particulate on my head. I ran
+my hand through and felt the follicles fall out between my fingers.
+Time passed inestimably while I laid there dumbly looking at the things in the room. For however
+long that was I remained stupefied by sleep and so avoided raising my head higher than an inch
+above the windowsill. I only truly awoke when I saw the star, the shooting star—shooting up—into
+the clouds on the horizon.
+Many who were awake or were awakened would go on to tell me what they had witnessed in that
+moment when I slumped: the flash across the forest, the buzz, the crack of fired wood. All of them
+had, before me, understood what was happening and what should have happened. However, on
+that night, I was alive and only sleeping, and even in my dreams I could not see the Angel.”
+- Gerrit Ghent, from And We Saw, p. 272
+“YOU COULDN’T WATCH IT; not directly. You couldn’t lay eyes on it. You couldn’t let it see your
+pinky finger in the open because it’d reach out and touch you. But if you had a mirror, a little piece
+of glass, you could just make it out by moons’ light. A little metal globe; twinkling, geodesic—a
+falling star suspended a few kilometers over the earth. And the haze around it bent the field of stars
+it was set in.”
+- Walter Gunnemans, 2-18 Static Rifles
+SUPPLEMENTAL FILES - 5-9
+
+FM 100-3-8X
+
+B1 “BLINDSIGHT”
+
+B1 “BLINDSIGHT” - 50 pts
+STRIKE FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E3
+Afterburner, Decoy Protection (2)
+
+__________________________
+“Sun Grid” 20kW Laser Weapon Array
+All, R10”, A1+, S1+, D3,
+Laser, Radar Anti-Air
+“Ram Crutch” 175mm Active AAM
+Air, R60”, A3+, S7, D1, Ammo 4,
+Air-Filling, Guided Missile (1),
+Homing, Radar Anti-Air
+“Mark Pate” 180mm AGM
+Vec, R60”, A3+, S18/4, D1, Ammo 2,
+Guided Missile (1), Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: STRIKE FIGHTER
+
+__________________________
+REMARKS
+Advanced twin-engine supersonic fighter
+jet. The primary air superiority craft of the
+Host, maintaining a constant vigil from
+protected airbases deep in the Rygolic
+heartland. The partial pilot, via a distributed sensor network across the skin, is
+capable of 360 degree vision. Redundant
+flight systems and an armored capsule for
+the partial pilot ensure high survivability.
+Primary armament is a mixed missile load
+of air-to-air and air-to-ground weapons. In
+place of a rotary cannon, the Blindsight
+mounts a pair of fixed-forward heavy laser
+weapons along its wing roots.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-10 - PLANES
+
+The skies around Baba Gadou are perhaps the
+most heavily defended in the world. Batteries
+of anti-ballistic missiles, leaping from their
+silos with such speed that their noses turn to
+plasma. Laser test-fires, dividing foggy night
+skies into beautiful grids, all the more striking by the sudden lack of neighborhood lights.
+Roving armored cars, their partial pilots entombed, radar signatures on their tongues.
+And most constant of all: the contrails of a
+rotating host of unsleeping eagles. They land
+only to refuel and repair. Unlike their wandering brethren, patrolling the far reaches of the
+dead empire, they have no time for games, for
+reflection. They must be forever vigilant.
+Some harm, they think, could befall the Master
+Brain.
+- Giorgio Moceri, University of Baba Gadou
+
+FM 100-3-8X
+
+Z1 “ZENITH”
+
+Z1 “ZENITH” - 50 pts
+STEALTH BOMBER
+
+__________________________
+Air (CAS), M16”, Q4, T3, E1
+Active Camouflage, Afterburner
+
+__________________________
+“Able Ivy” 20t Guided Nuclear Bomb
+Gnd, R40”, A++, D1, Ammo 1,
+Guided Missile (2), Nuclear (1”-2”-6”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+War, as any student of history will tell you, is a
+continuation of politics by other means. Even
+our blessed headless host, no longer capable of
+great strategic thought, can understand this.
+A threat is best defeated by a proportional response. Anything more or less is wasteful.
+
+TYPE: STEALTH BOMBER
+
+__________________________
+REMARKS
+Advanced subsonic tactical bomber. Fitted
+with a variety of systems designed to minimize its radar, IR, and visual signatures, including the same active camouflage system
+as fitted to assassin constructs. This system
+is capable of bending light, rendering the
+bomber partially invisible. Though unable
+to completely conceal the aircraft, this
+system ensures precisely targeting one is
+very difficult. Exceptionally well-protected
+for its weight class.
+Sole armament is a single “Able Ivy” guided
+tactical nuclear bomb. The bomb is armed
+after dropping; the pilot must transmit the
+arming code during terminal guidance.
+
+The Federal intelligentsia call it a system of
+“tripwires”: specific actions that call down
+specific responses. The Zenith is what is sent
+when nuclear weapons are judged necessary to
+soften a hard target. It is considered a “high”
+tripwire: one requiring great effort to trigger,
+and with a proportionately terrible response.
+The Federals would have to be fools (and they
+are mad, not stupid) to not catalogue these
+cases. A department of the University certainly does.
+With sufficient time a complete manual for
+the Host could be made: a list of actions and
+known reactions. The rub is in having to
+blindly trigger the tripwires first.
+What is the highest tripwire?
+- Giorgio Moceri, University of Baba Gadou
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PLANES - 5-11
+
+FM 100-3-8X
+
+A1 “APOGEE”
+
+A1 “APOGEE” - 50 pts
+STRIKE AIRCRAFT
+
+__________________________
+Air (CAS), M14”, Q4, T6, E2
+Decoy Protection (1)
+
+__________________________
+“Yaw Switch” 40mm Rotary Cannon
+All, R8”, A4+, S6, D4, Ammo 4,
+Radar Anti-Air
+“Lake Brush” 275mm Guided Bomb
+Gnd, R32”, A2+, S10, D1, Ammo 2,
+Air-Filling, Barrage (2),
+Guided Missile (2), Radius (3”),
+Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The Host doesn’t like to sacrifice speed for
+armor, but this thing is living proof that
+they’re capable of it. It’s precise, deadly, but
+not elegant. Flies like a brick whether on one
+or both engines.
+TYPE: STRIKE AIRCRAFT
+
+__________________________
+REMARKS
+Advanced subsonic strike aircraft fitted
+for precision ground attacks. Extremely
+durable by aviation standards, with multiple redundant systems and a thick layer
+of armor surrounding its partial pilot and
+biological citadel. These qualities make
+its maximum speed the lowest of all NRH
+combat aircraft.
+Primary armament is the massive “Yaw
+Switch” 40mm rotary cannon in a nose
+mount, boasting heavy firepower and a
+blistering rate of fire. Wing-mounted “Lake
+Brush” precision guided bombs offer high
+performance against almost all ground
+targets.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-12 - PLANES
+
+Sometimes, the headlong approach really is
+the most efficient one.
+- Rayleigh Irving, Federal Intelligence
+They don’t talk to you much. But when the
+dogs are a kilometer out and closing, and you
+can hear them baying, you will hear a new
+voice on the radio:
+“Hold position. Gunship inbound on your
+heading. Activate IR strobes. Prepare to
+receive forward spotters.”
+That is the divine language of angels.
+- Cecco Croce, Army of Baba Kened
+
+FM 100-3-8X
+CHAPTER 6
+
+EMPLACEMENTS
+The N.R.H. employs a variety of parachute-deployed, disposable electronic warfare
+systems to harass and delay enemy operations, ahead of its own advances or to cover retreats.
+These self-deploying systems include radio frequency jammers, incapacitating microwave
+weapons, and communications signal boosters for the Host’s own multispectrum transmissions.
+Everywhere the N.R.H. moves, it is followed by numbers of small flying agents (“emissaries”). While nonhostile and not formally aligned with the Host, their tendency to observe combatants and communicate their findings with one another (via frequencies the N.R.H. is capable of
+intercepting and decoding) render them de-facto enemy spotters. Operate with extreme caution
+where emissaries are observed.
+EMPLACEMENTS
+DISPOSABLE JAMMER - RADIO FREQUENCY JAMMER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-2
+DISPOSABLE CROWD CONTROLLER - AREA DENIAL WEAPON  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-2
+DISPOSABLE RELAY - SIGNAL BOOSTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-3
+EMISSARIES - UNCLASSIFIED PHENOMENA .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-4
+
+EMPLACEMENTS - 6-1
+
+FM 100-3-8X
+DISPOSABLE JAMMER
+RADIO FREQUENCY JAMMER
+
+__________________________
+Trap
+
+DISPOSABLE CROWD CONTROLLER
+AREA DENIAL WEAPON
+
+__________________________
+Trap
+
+__________________________
+
+__________________________
+
+All units up to 24” away from this trap and
+
+All units up to 12” away from this trap and
+
+within its frontal arc cannot respond to friend-
+
+within its frontal arc cost one additional
+
+ly support missions, brigade or be brigaded, or
+
+command token to activate in the Maneuver
+
+use Rygonet whatsoever. During a fire action,
+
+and Fire Phases.
+
+an affected unit’s target only counts as spotted
+if the unit itself is able to spot it, and friendly
+units cannot use spotting lent by the affected
+unit on their own fire actions.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: RADIO FREQUENCY JAMMER
+
+__________________________
+REMARKS
+Disposable airdropped communications
+jammer. Similarly deployed to larger automated sentries, but significantly shorter
+and lighter due to low component weight.
+Parachute deployed, with deployable stabilizer legs and stakes. Totally immobile
+after landing, but easily concealed.
+Armed with a simple but compact
+broad-spectrum radio frequency jammer
+on a fixed mounting, indiscriminately affecting units within a 90 degree frontal arc
+at ranges up to 2000 meters once triggered.
+After automatic deployment, disturbance
+of its housing is highly likely to disable the
+jammer, rendering it unable to be towed.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+6-2 - EMPLACEMENTS
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: AREA DENIAL WEAPON
+
+__________________________
+REMARKS
+Disposable airdropped area denial weapon.
+Similarly deployed to larger automated sentries, but significantly shorter and lighter
+due to low component weight. Parachute
+deployed, with deployable stabilizer legs
+and stakes. Totally immobile after landing,
+but easily concealed.
+Armed with a microwave ray emitter on a
+forward mounting with a limited 90 degree
+traverse. Produces a microwave auditory
+effect known to produce severe discomfort
+in targets, including constructs, at ranges of
+up to 1200 meters. At ranges of 600 meters
+and below the effect is near-incapacitating.
+After automatic deployment, disturbance
+of its housing is highly likely to disable the
+microwave weapon, rendering it unable to
+be towed.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+DISPOSABLE RELAY
+SIGNAL BOOSTER
+
+__________________________
+Fortification
+
+__________________________
+This fortification counts as having Rygonet
+(8”) for use by all players and counts as being
+H2 for the purpose of being spotted.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: SIGNAL BOOSTER
+
+__________________________
+REMARKS
+Disposable airdropped radio transceiver.
+Similarly deployed to larger automated sentries, but significantly shorter and lighter
+due to low component weight. Parachute
+deployed, with deployable stabilizer legs
+and stakes. Totally immobile after landing,
+but easily concealed. Size is proportionately increased relative to other disposable
+electronic systems by the inclusion of a
+deployable miniature mast antenna.
+Limited in range, but capable of repeating
+received Rygonet orders to adjacent troops
+despite itself possessing no significant processing power.
+After automatic deployment, disturbance
+of its housing is highly likely to disable the
+antenna, rendering it unable to be towed.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+EMPLACEMENTS - 6-3
+
+FM 100-3-8X
+EMISSARIES
+UNCLASSIFIED PHENOMENA
+
+TYPE: UNCLASSIFIED UNIT
+
+__________________________
+
+__________________________
+
+REMARKS
+
+Fortification
+
+Small autonomous agents of unknown
+origin. Composed of an eyeball and an adjacent (non-physically attached) platonic
+solid, e.g. cone, pyramid, dodecahedron.
+Entirely solid inside, composed of a silicon-rieslandite compound that is hard to
+the touch. They appear to have no biological functions and do not eat or breathe.
+
+__________________________
+Place a blind on the board and secretly designate it as “emissaries”. You are not obligated
+to identify this unit or any details about this
+unit until it has been removed from the board.
+When removed, all enemies within LOS of the
+emissaries up to 16” away are identified. The
+emissaries are removed either automatically
+when an enemy enters basal contact with them
+or when hit by a weapon, or manually by their
+controlling player as a choice during Upkeep.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Emissaries are nonaggressive; they seem
+only interested in observing living beings
+of any kind. They are known to “report”
+their observations to one another via a
+unique transmission spectrum; the N.R.H.
+is capable of decoding and acting on these.
+If threatened or aggressively handled, emissaries defend themselves by continuously
+accelerating directly upwards. Evasion attempts on record have left the atmosphere.
+While they do not appear to deliberately
+aid the Host, emissaries take special interest in construct activities and are common
+in the Petty States. The Host’s ability to
+decode nearby emissaries’ reports renders
+them de-facto scouts on its behalf.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Widget had apparently taken a bet that he
+could hold onto one of them as it took off, let
+go, and swing himself in the water.
+Widget hadn’t lied, he had only been excited.
+For he had, in fact, held onto the emissary,
+swung off, and landed feet-first in a three-foot
+pond.”
+- Gerrit Ghent, from And We Saw, p. 57
+
+6-4 - EMPLACEMENTS
+
+FM 100-3-8X
+CHAPTER 7
+
+SCENARIO UNITS
+While the N.R.H. protects the Petty States as a whole—interpreting them as the lands and
+peoples of the old Rygolic Empire—it does not represent the sole military organization in the
+Petty States. Every principality fields its own small army, according to what manpower and materiel it can afford to purchase or produce. These armies constantly battle one another for their
+lords’ political and economic supremacy, maintaining an operational tempo just low enough to
+prevent a peacekeeping response by the Host. The Host sees the troops of the Petty States as
+imperial auxiliaries, and will readily move to reinforce them in the event of foreign invasion.
+The units below do not fall into the standard roster for this faction, but are presented for thematic
+scenario creation and play. Scenario units may disrupt the balance of the faction (e.g. by covering one
+of its major weaknesses). If you’d like to use them in a regular game, your opponent ought to agree to it.
+SCENARIO UNITS
+RIFLEMEN - LINE SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 7-2
+MORTAR TEAM - ANTI-PERSONNEL TEAM  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 7-3
+VEHICLE CREW - LINE TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+0 pts / 7-4
+
+TP10 “GISGO” - ARMORED PERSONNEL CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+10 pts / 7-5
+
+G1/80 “GAMMA” - MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40 pts / 7-6
+
+SCENARIO UNITS - 7-1
+
+FM 100-3-8X
+
+RIFLEMEN
+
+RIFLEMEN - 10 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q2, T1/1-/1-
+
+__________________________
+FA63/83 6.5mm Assault Rifle
+All, R8”, A4+/4+, S1/1, D2,
+Small Arm
+AAL-72 66mm RPG
+Inf/Vec, R8”, A5+/6+, S7/1+, D1,
+Ammo 6, Barrage (2), Shaped Charge,
+Slow Round, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+When our Master Brain still lived, there was a
+place for soldiers with hearts and not turbines.
+The Empire was vast. Its wars were many; its
+mouths to feed moreso; and the construct kilns
+could hardly replace the Brain’s lost children,
+let alone produce the number it needed.
+
+TYPE: LINE SQUAD
+
+__________________________
+REMARKS
+Regular infantry of the various Petty States.
+Armed and trained for “little wars”: frequent territorial disputes and raids waged
+by rival princes’ small, professional mechanized forces. Territorial defense of Rygos
+against larger foreign powers is generally
+left to the NRH, with limited Petty Stater reinforcement governed by internal politics.
+Equipped with the FA63/83 assault rifle in a
+Rygolic 6.5mm caliber. Most men in a rifle
+squad additionally carry disposable single-shot RPGs for close-in defense against
+tanks. These offer poor individual accuracy but may be fired en masse.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-2 - SCENARIO UNITS
+
+So the conquests slowed and then stopped. The
+Host became a rapid-reaction force—circling
+our land, watching for coded lightning, listening for the barbarians in the wire. Living
+men made up that wire. They held back the
+torrents while the constructs raced tirelessly to
+their aid, proof against rest or sleep.
+Our cold-skinned friends have been faithful
+to us, even now. We need only report an infection—whether the bruise be blue, green, or
+gray—and they will ride to support us. That is
+why our princes do not report the little wars;
+why the guns are silent when the Host passes.
+It is easier to be unfaithful to a friend when
+they don’t know better.
+- Giorgio Moceri, University of Baba Gadou
+
+FM 100-3-8X
+
+MORTAR TEAM
+
+MORTAR TEAM - 15 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q2, T1-/1-/1-
+
+__________________________
+FA63/83 6.5mm Assault Rifle
+All, R8”, A4+/4+, S1/1, D2,
+Small Arm
+LPM-52 80mm Mortar
+Gnd, R40”, Ammo 4,
+Light Indirect (2), No CC
+→ 80mm Frag
+A4+/xx, S[D3], D1, Air-Filling,
+Radius (2”)
+→ 80mm Smoke
+A++/xx, D2 Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL TEAM
+
+__________________________
+REMARKS
+Indirect support team, serving the LPM-52
+80mm mortar complex. The mortar can be
+broken into its tube, mount and baseplate
+for manpacked carriage and rapidly assembled for firing.
+Its excellent range, low cost, and responsiveness relative to larger artillery systems
+makes it a favorite support weapon among
+the princes of the Petty States.
+Primary ammunition loads include frag
+and smoke rounds, effective against infantry and for screening friendly troops.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Men rarely die in a single stroke; the fear of
+death is not in meeting one’s maker, but the
+arduous process of getting there. And though
+it was not like a man in any other way conceivable, our Master Brain was like us in this.
+The last year of command records is still the
+central concern of the University. We believe it
+had too much to do. Too many grain-wagons
+to micromanage; too long a reign without rest.
+The final commands—PA 1201, PA 1202—are
+indecipherable. To whom does a god send its
+engineering telemetry?
+Like many educated matters, it meant nothing
+in the first few years after. Most men, accustomed to the clockwork coming and going of
+food, simply died. Others remembered how to
+fill their empty stomachs, one way or another.
+That is the Rygolic prince: a wily son of cutthroats; a strongman before the larder.
+- Giorgio Moceri, University of Baba Gadou
+
+SCENARIO UNITS - 7-3
+
+FM 100-3-8X
+
+VEHICLE CREW
+
+VEHICLE CREW - 0 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S16’’, M4’’, Q2, T1-/1-/1-
+
+__________________________
+This unit is placed on the board as part of the
+Crew Bailout optional rule.
+
+__________________________
+UP-2 9mm SMG
+All, R8’’, A4+/4+, S1-/1, D2
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“Thunder run” is a funny term. I’ll admit it,
+we copied it from the Petty Staters. And it does
+sound awesome. But what it actually refers to
+is two different things.
+
+TYPE: LINE TEAM
+
+__________________________
+REMARKS
+Regular mechanized troops of the various
+Petty States. Armored columns represent
+the most serious escalation of the “little
+wars” typically practiced by Petty Rygolic
+princes, as their deployment almost invariably triggers an autoimmune response by
+the NRH. Petty Stater armored operations
+are thus oriented towards short duration
+and high intensity, seeking to achieve as
+much as possible in little time. Audacious
+actions potentially leading to loss of vehicle
+are permissible if they produce results.
+Crew armaments vary by princely force:
+most popularly, the UP-2 9mm SMG.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-4 - SCENARIO UNITS
+
+Get what they taught you at officer’s school
+out of your head—forget all that shit about
+deep operations, overrunning logistics and
+rear-line troops, crushing their whole depth
+in one go. Our tankers like to call their part
+in that a “thunder run”, but it’s not what the
+Petty Staters meant by it. The real thing is a
+heedless smash-and-grab.
+Look: the war is over when the Host shows
+up, and it’s on when they leave. Anyone who’s
+stupid enough to keep shooting in front of the
+constructs is getting domed, but they won’t
+bother to disarm what they see as imperial
+auxiliaries. You can drive right into the heart
+of the enemy’s city, blow their shit up, cause
+chaos, and then drive away grinning ear-toear. Hell, if they popped you with an RPG, you
+can just walk away. What are they gonna do
+about it? The clock’s out. Game’s over.
+That’s why princes talk terms before the treadmarks ever cross the city limits. If you let the
+tanks in, they get their three days and three
+nights.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+TP10 “GISGO”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+TP10 “GISGO” - 10 pts
+
+REMARKS
+
+__________________________
+
+Most common of the various personnel
+carriers operated by the Petty States.   A
+staple of the Rygolic way of war: short
+bursts of intense action by small, professional mechanized forces, followed by
+consolidation periods to avoid NRH autoimmune responses.
+
+Vec, H2, S24’’, M8’’, Q2, T4/4/3
+Amphibious, NBC, PC (3, Rear)
+
+__________________________
+
+Originally of An Khnum Koine manufacture, but widely licensed or copied by other
+leagues. One of several ubiquitous Rygolic
+exports. Koine examples approach Federal
+manufacturing quality, although the Gisgo
+is somewhat taller and heavier than its Intermarine competitors (see FM 100-1-8X).
+Primary armament is a pintle-mounted,
+rapid-fire 8mm machine gun. Hull smoke
+launchers permit the Gisgo to screen itself
+and its dismounts along its line of advance.
+Amphibious capability is a feature of most
+Gisgo retrofits.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+FMg-78 8mm MG
+All, R12’’, A4+/6+, S1/1+, D3, Turret
+FP-M 81mm Smoke Launchers
+Gnd, R6’’,  A++/++, D1, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Footmen are too slow. The angels will show
+up by the time a marching column reaches
+the enemy’s city. But mounted, we can do our
+work in time. It does not matter if we carry no
+more food and ammunition than what fits in
+the Gisgo. It can be our home for long enough.
+And when the guns fall silent, we may go back
+home undisturbed. We need not worry about
+the people of the enemy city. One master is just
+the same as another to the unarmed ones.
+- Cecco Croce, Army of Baba Kened
+SCENARIO UNITS - 7-5
+
+FM 100-3-8X
+
+G1/80 “GAMMA”
+
+TYPE: MAIN BATTLE TANK
+
+G1/80 “GAMMA” - 40 pts
+
+REMARKS
+
+__________________________
+
+Last-generation main battle tank. Formerly operated by the Host, the Gamma has
+since been phased out in favor of newer
+tanks such as the X-Ray. It represents the
+last generation of Rygolic tank crewed
+by humanoid constructs as opposed to a
+partial pilot. This allows it to now be operated by human Petty Stater crews.
+
+Vec, H2, S32”, M8”, Q2, T14/7/5
+NBC, PC (1, Rear)
+
+__________________________
+
+Primary armament is a powerful 120mm
+rifled gun, firing sabot and HEAT rounds.
+Fire control and stabilizer modernizations
+in the G1/80 model give it similar moving
+accuracy to modern Federal tanks (see FM
+100-1-8X). No thermal sights are fitted.
+Secondary armament is a pintle-mounted
+FMg-78 8mm machine gun, notable for its
+high rate of fire.
+The engine is front-mounted, freeing space
+behind the turret for a minimal troop carriage or MEDEVAC space and access ramp.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+7-6 - SCENARIO UNITS
+
+MAIN BATTLE TANK
+
+__________________________
+FMg-78 8mm MG
+All, R12”, A4+/6+, S1/1+, D3, Turret
+Burrasca LL 120mm Gun
+R40”, A2+/3+, D1, Ammo 3,
+No CC (Inf.), Turret
+→ 120mm APDS
+Vec, S14/21
+→ 120mm HEAT
+Inf/Vec, S12/2, Shaped Charge,
+Slow Round
+FP-T 65mm Smoke Launchers
+Gnd, R0”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Troop bay, my ass. They’ve had to throw out
+some of the stowed ammo that used to go there.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-3-8X
+
+APPENDIX A - ARMY SPECIAL RULES
+This appendix section describes the underlined special rules of the New Rygolic Host.
+
+Active Camouflage
+
+Guided Shell
+
+Rygolic stealth units are fitted with advanced camouflage systems capable of variously concealing
+them on the visible, IR and EM spectrums.
+
+Rygolic ordnance is precision-guided and designed
+to minimize collateral while maximizing damage.
+Land or miss: no in-between.
+
+This unit starts the game in a special
+state called active camouflage. If active camouflage has not been lost, the unit cannot be
+spotted from more than 6’’ away regardless of
+its current terrain, ambush, or concealment
+status, but LOS may still be drawn to it. While in
+active camouflage, dice from blind-fire attacks
+automatically miss, but still apply one pin as a
+miss regardless of special rules. If spotted by
+an enemy within 6”, active camouflage is lost
+and units from further than 6” away may fire
+upon it as normal.
+This unit permanently loses active camouflage when it fires a non-Discreet weapon, or
+is spotted by either Sense or Designators. It does
+not lose active camouflage when it is spotted
+by an enemy from 6” away and then exits that
+range without any of the above occurring.
+Units in active camouflage may still be targeted
+by Designators at their normal range as long as
+the designating unit can draw valid LOS.
+Units desanting on units with Active
+Camouflage also benefit from it.
+
+This weapon gains an Ignore Cover (X)
+value where X equals the number of friendly
+units currently spotting the unit. If target would
+not be spotted if not for a Designator, only units
+currently Designating the target count.
+Units which have counterbattery spotting tokens that are not directly spotted by any
+friendlies do not gain Ignore Cover.
+
+Drone
+
+Rygo light support units are often fully autonomous, as unshakable as they are inflexible.
+This unit’s quality is marked Q*, indicating that it is unaffected by pin. This unit
+never receives pin tokens, but it cannot lend or
+receive actions through the Rygonet.
+
+Hovercraft
+
+Tracked IFVs have been supplanted by air-cushioned craft in N.R.H. service: the best of all worlds.
+This vehicle is marked Vec (H). It never
+pays movement to enter or exit terrain and
+ignores swamp’s terrain multiplier.
+
+Laser
+
+Federal R&D has yet to fully understand Rygo directed energy weapons. Given enough time, a wellplaced laser can crack any hull.
+This weapon always rolls a minimum of
+6+ to kill regardless of the target’s Toughness.
+Like Designators, Lasers are blocked by Smoke,
+except in close combat. Lasers can target planes
+and do not have to confirm hits against aircraft
+at any range. Lasers can trigger Decoy Protection,
+in which case they are immediately nullified
+and do not re-roll, but still apply three pin.
+A die which hits but fails to kill a
+non-aircraft unit can only ever deal one pin,
+but a die which hits an aircraft deals three as
+normal.
+
+Round Extruder
+
+Advanced Rygolic vehicles can carry hundreds of
+large-bore rounds: stockpiling kinetic penetrators
+or collapsible warheads and propellant sleeves,
+and extruding their explosive fillers from within
+their tangled guts.
+This weapon can use a fire action to
+reload one Ammo for itself instead of shooting
+in the Fire Phase. Weapon may not generate
+Ammo if already at its default maximum value.
+ARMY SPECIAL RULES - A-1
+
+FM 100-3-8X
+Rygonet (X”)
+
+Units using lended actions cannot both
+gain and lose a gone to ground token in the
+same Fire phase, nor embark and disembark
+in the same Maneuver Phase.
+
+Any friendly Rygolic unit which is
+within a Radius of X inches from this unit is eligible to lend its action to any other Rygo unit in
+that same radius during the Fire and Maneuver
+Phases. A friendly Rygo unit can then simultaneously take a turn to receive that action
+during the Maneuver or Fire Phase. Receiving a
+move action always costs one command token.
+A unit can receive via Rygonet up to two times
+per Phase. Thus, in addition to its own (innate)
+action, it may act up to three times per Phase.
+When a unit lends its action, it is considered to have spent its turn. It is ineligible to
+act on its own or lend another action for the
+rest of the phase. It can, however, still receive
+bonus actions from other units.
+A unit which receives an action must
+begin and end its turn within a Rygonet radius,
+but it does not have to be the same unit’s radius.
+Rygonet can be used during a Brigade
+activation to transfer moves from units which
+have not been targeted as part of the Brigade to
+units that have been targeted.
+Units with no weapons cannot lend a
+fire action. Units with no viable movement,
+such as those with M0’’ or those which fired
+stationary in the previous Fire Phase, cannot
+lend a movement action.
+If a unit is being towed, or is embarked
+or desanting where it cannot disembark, it
+cannot lend its move action.
+Dummies, Petty Staters, Planes, Drones,
+and units being affected by Chemical Weapons
+cannot lend or receive actions.
+
+Special Factional Token (double-sided):
+Lend/Receive: White & Red/Black & Red
+
+Rygonet is a distributed intelligence: using a sliver
+of each construct’s brainpower to delegate orders,
+it allows rapid and efficient coordination.
+
+VALID LENDING
+
+A
+
+B
+
+C
+
+D
+
+Unit A is an aircraft carrying Unit B, an embarked
+TACOM. While flying, Unit B cannot disembark.
+Though it projects Rygonet radius from Unit A’s
+position, it cannot lend a move action to Unit A.
+Unit C, a friendly ground unit, is currently
+on the ground and thus capable of moving itself. It
+could potentially lend a movement action to Unit
+A, but Unit A desires to move out of range of Unit
+C, which would make the lending invalid.
+Unit A uses its own move action to move
+into Rygonet range of Unit D. It is now eligible to
+lend to Unit A so long as Unit A ends its move with
+Unit D still within the range projected by Unit B.
+
+Strider
+
+Biological legs grant Rygolic light armor all-terrain mobility and the ability to crouch behind cover.
+This vehicle is marked Vec (S) and behaves like infantry for movement purposes. It can
+sprint, rotate for free, and ignores terrain vehicle multipliers (though it cannot move through
+or into Inf-only terrain), but still takes pin as if it were a vehicle. It cannot garrison structures,
+but can move over them, provided it does not end its movement inside. It may also spend a fire
+action in any terrain to gain or lose a gone to ground token without simultaneously firing. This
+reduces the unit’s Height by 1, but gives no Cover Modifier.
+A-2 - ARMY SPECIAL RULES
+
+FM 100-3-8X
+
+APPENDIX B - ARMY SPECIAL MISSIONS
+Capsule Insertion
+
+A streak of starfire, from perilously low orbit, could
+fall in your rear echelons at any moment.
+This mission may only be called if the
+player has at least one undeployed Capsule
+Squad or a dummy imitating one.
+Place a capsule token on the target
+location. At the end of the Maneuver Phase,
+remove the capsule token and replace it with a
+Capsule Squad or dummy.
+If the called unit’s base would overlap
+with another unit’s, place it in basal contact
+with that other unit’s nearest arc instead. If the
+other unit is an enemy, the called unit enters
+close combat with it. The Capsule Squad is considered to have charged. If all arcs are equidistant to its landing, the Capsule Squad charges
+an arc of its choice.
+If the target moves before the called
+unit’s arrival, the mission adjusts to follow
+it, unless the target breaks LOS to the calling
+TACOM, in which case the called unit arrives at
+the target’s original location.
+
+CAPSULE MISSION
+
+A
+
+B
+Unit B was called down directly atop Unit A. It
+chooses to enter close combat along Unit A’s rear.
+
+IMITATION MISSION
+D
+
+Special Factional Token (single-sided):
+Capsule: Yellow & Red
+
+Specific Imitation
+
+“And I sees the basterd comin’ right at me, wearin’
+my own face...”
+Must be called on a spotted enemy unit.
+At the beginning of the Fire Phase, before any
+actions are taken, all friendly Simulacra within
+the calling TACOM’s Rygonet radius may choose
+to specifically imitate the targeted unit for the
+rest of the round.
+During a specific imitation, whenever
+the Simulacrum activates, it does not copy from
+the unit card of the nearest spotted enemy unit,
+but instead only that of the mission target.
+Specific imitation lasts until the end of
+the round; a Simulacrum cannot choose to stop
+participating in a specific imitation mission
+until the beginning of the next round.
+
+B
+
+E
+
+A IMITATES E!
+F
+C
+IMITATES E!
+
+Units A and C are Simulacra. All enemy units
+(D, E, and F) are currently identified. Unit B, a
+TACOM, calls a Specific Imitation mission on Unit
+E. Units A and C, regardless of their LOS to the
+nearest identified unit, choose to imitate Unit E
+for the round. Unit A wouldn’t have been able to
+imitate any unit normally, since it lacks LOS.
+ARMY SPECIAL MISSIONS - B-1
+
+FM 100-3-8X
+
+APPENDIX C - BUILDING AN ARMY LIST
+This appendix section describes the structure of the New Rygolic Host and provides advice for
+building an army list.
+MILITARY ORGANIZATION
+“Organization” and “doctrine”, in the
+traditional military senses of the words, do not
+apply to the Host. Exactly where orders originate is unclear, nor are formations permanent
+nor consistently organized. Simply put, the
+N.R.H. is a dispersed swarm that assembles
+itself into task forces on an on-demand basis.
+Trial-and-error observation of Rygolic
+task forces has led to a basic classification of
+Rygolic task forces by role and composition:
+basic unit frameworks organized by the task
+force’s role and heavily modified depending
+on the specifics of its mission or available local
+forces. Standard organizational terms such
+as “platoon”, “company”, “battalion” or “regiment” are only meaningful as a way of comparing an N.R.H. task force to a foreign unit
+similar in size.
+When writing an army list, it helps to
+give it a theme by envisioning what kind of
+task force your element is part of. Rygolic task
+forces are given a descriptive name which indicates the unit’s general composition in basic
+terms:
+Security: Infantry-centric task force with
+light personnel carriers. Recon indicates
+an infantry force heavy on designators and
+fire/air support. Special Operations indicates a heavy contingent of special infantry.
+Mechanized: IFV or light vehicle task force.
+Armored indicates main battle tanks. Outriders indicates a number of walkers.
+Airmobile: Rocket or helicopter task force.
+Auxiliary: A task force of any composition
+supporting (or integrating) a contingent of
+Petty Stater ground forces.
+C-1 - BUILDING AN ARMY LIST
+
+In addition to a classification, a Rygolic
+task force is typically assigned a reporting
+name hyphenated with a number, evoking the
+languages of the ancient Near East (particularly Semitic). Phrases of Latin, Greek, or words
+with a sense of academic refinement may also
+be used. Here is an example task force name:
+Security Task Force Gematria-77
+ARMY LIST COMPOSITION
+A typical Rygolic army list features
+nimble, fast-deployed infantry teams taking
+key ground to shape engagements for the real
+killers, your many multi-purpose (often missile-equipped) armored vehicles.
+For lower-tier formations, highly performant infantry weapons teams and wellequipped personnel carriers will be used to engineer tight, razor’s-edge gambles for victory.
+For higher-tier formations, planes,
+Tatters, and X-series AFVs define your force
+composition. Use drones as their servants.
+Carabiner Horses are always a good
+addition. They offer ammunition when it is
+scarce, spotting when enemies are far, and the
+occasional tow, should one wish to reposition
+his immobile Paradrop sentries.
+A Rygolic list must strike a balance
+between vulnerability and lethality. For every
+illustrious specimen of modern war, you
+weaken the backbone of your task force; your
+units are dangerous, but lightly armored.
+It is not sufficient to just win. A Rygolic
+player must also make the enemy lose. Do not
+treat your units with the same sentimentality
+as your foes. Risk them when the time is right.
+It is good practice to begin by buying
+some key units which embody core aspects of
+your regimental doctrine, then use the remaining points to round out its general capabilities.
+
+FM 100-3-8X
+SUB-UNIT NAMES
+No consistent sub-units exist across
+task force classifications: as with the greater
+task force, they are assembled on-demand,
+with variable size and composition depending
+on the task force’s role. These are referred to as
+“task units” and numbered accordingly:
+Task Unit 1
+Task Unit 2
+Task Unit 3
+Task Unit 4
+Task Unit 1 is usually assigned the HQ
+and support elements; remaining task units
+contain troops of all types, freely intermixed
+depending on their combat relationship. (Personnel carriers and their embarked infantry,
+for example, would comprise a task unit.)
+CALLSIGNS
+When deploying the units of an army
+list as blinds, it is useful to give each blind a
+memorable callsign. While it is easiest to
+assign callsigns methodically (“TU-1-1”, “TU-12”, “TU-2-1”, etc.), illustrative reporting names
+are far more entertaining and memorable.
+As with their current task force, individual Rygolic units might receive callsigns if
+their unique serial number has been observed
+elsewhere. Once again, Near Eastern influence
+is key. Technical names, such as the names
+of surgical tools, machinery, and academic
+terms are also appropriate. An X-Ray might be
+assigned “Lamassu” or “Goliath”; a Chemical
+Team may be “Cauter”; a jet fighter, “Helix”.
+Reporting names vary by the organization that issues them; the N.R.H. itself uses
+unrecognizable bursts of data-encoded static.
+Notable Rygolic troops (in the eyes of their
+enemies) may receive colloquial or humorous
+designations. Federal troops might refer to
+a damaged tank as the “Ugly Mug” or “Crocodile”; Santagrines may call an attack helicopter
+the “Basilisk”. Lupar will know a half-eaten
+construct squad as “Old Lunch”.
+
+OFFICERS & NAMES
+There is no “you” in an N.R.H. formation—only the ghost in the machine. Your
+TACOMs are merely intermediaries between
+the will of the network and your forces.
+You, rather, are an observer: either
+a Petty Stater (be he spying from abroad or
+attached as an auxiliary), or a foreign agent
+keeping tabs on the mission and progress of
+a Rygolic task force and its constituent troops.
+Perhaps its victory is in your ulterior interests;
+perhaps not. You may even be one of Rygonet’s
+own distant control nodes or observation satellites; in the latter case, as much an individual
+as the grunts you’re observing.
+Petty Staters take after the names of
+Renaissance Italy, with smatterings of the
+Near East (Sumerian, Akkadian, Persian, etc.)
+or Hellenic Greece: the Master Brain named
+their cities for them, but its human subjects
+never fully adopted the divine language. Some
+Petty Stater minorities may take more modern-sounding names taking after those from
+contemporary Central or Southern European
+countries.
+As with callsigns, never neglect to give
+yourself a nickname. Consider this archetypal
+name for a Petty Stater tank commander:
+Sergeant Medoro “Barbuta” Scalzo
+EXAMPLE ARMY LISTS
+The following pages have generic
+example army lists which embody the most
+usual Rygolic task forces at the 100, 200, 300,
+and 400 point brackets. Use these as practice
+lists or points of comparison for creating army
+lists of your own.
+These army lists do not come with suggested task force names or callsigns, as you
+are encouraged to come up with your own and
+to modify these as you see fit. These lists also
+do not make use of most support cards, as it
+is not recommended to use these “advanced”
+features until a player has learned the ropes of
+the game.
+BUILDING AN ARMY LIST - C-2
+
+FM 100-3-8X
+N.R.H. SECURITY TASK ELEMENT
+EXAMPLE - 100 PTS, 2 COMMAND
+
+N.R.H. MECHANIZED TASK ELEMENT
+EXAMPLE - 200 PTS, 4 COMMAND
+
+__________________________
+
+__________________________
+
+Task Unit 1 - Headquarters
+C3 “Candor” - 25 pts
+- [E] Tactical Team - 15 pts
+- [E] Node Team - 0 pts (TACOM)
+
+Task Unit 1 - Headquarters
+P1 “Parallax” - 35 pts
+- [E] Node Team - 0 pts (TACOM)
+- [E] Mortar Spider - 30 pts
+- [D] Smartgun Team - 15 pts
+
+Task Unit 2 - Reconnaissance
+C3 “Candor” - 25 pts
+- [E] Tactical Team - 15 pts
+- [E] Smart Gun Team - 15 pts
+Task Unit 3 - Information Warfare
+Dummy (C3 “Candor”) - 5 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 100 points, a Rygolic list is precariously undermanned, but has the potential to
+achieve devastating massed fire. At this scale,
+losing even individual units is devastating. Win
+cleanly or die trying.
+Rygolic armies, unlike other lists, have
+difficulty affording enough infantry support
+weapons. To this end, their multi-tasking fire
+support units are the greatest asset of a pointsstarved formation. The Smart Gun Team is simultaneously a sniper, close-range air defense,
+and general-purpose machine gun. It is an
+excellent complement to the Tactical Teams,
+which excel at destroying both infantry and
+tanks alike so long as they aren’t hit.
+The Candors lend speed and relatively good protection; though odds are low, the
+threat they present to the enemy’s tanks (of
+which at 100 points they are likely to bring only
+one or two) is not negligible.
+As the N.R.H. does not field any cheap
+5 point units, leftover points must be spent on
+dummies. While lacking on-map firepower is
+not good, misdirection can be useful at dividing a larger enemy force. The 5 points from this
+dummy could be used to upgrade the Smartgun Team to a MANPADS or Chemical Team
+according to necessity.
+
+C-3 - BUILDING AN ARMY LIST
+
+Task Unit 2 - Laser
+P2 “Perigee” - 35 pts
+- [E] Node Team - 0 pts (TACOM)
+- [E] Laser Team - 15 pts
+- [D] Carabiner Horse - 15 pts
+Task Unit 3 - Assault
+R1 “Redstone” - 20 pts
+- [E] Legionnaires - 25 pts
+Task Unit 4 - Information Warfare
+Dummy (R1 “Redstone”) - 5 pts
+Dummy (Node Team) - 5 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 200 points, a Rygolic list can can
+begin leveraging its superior firepower with
+genuine combined-arms tactics. This typical
+mechanized task element leans on IFVs to
+pressure opponents; rather than providing
+close-quarters pressure, its embarked infantry
+are used to shape engagements by leading the
+enemy into compromised positions in front of
+the vehicles. Coordination is key: neither your
+IFVs nor infantry can win alone.
+Mortar Spiders are expensive, but combined with the laser designator-equipped Carabiner Horse, the pair can call deadly precision
+strikes on infantry and light vehicles.
+The Redstone with embarked Legionnaires allows some wily forward deployments,
+and the resupply it provides is invaluable in a
+long firefight, as Rygoles tend to consume their
+ammunition faster than other armies.
+This list also utilizes a dummy for misdirection. One could be exchanged to upgrade
+the Legionnaires into Assassins.
+
+FM 100-3-8X
+N.R.H. ARMOR TASK ELEMENT
+EXAMPLE - 300 PTS, 8 COMMAND
+
+N.R.H. COMBINED TASK ELEMENT
+EXAMPLE - 400 PTS, 14 COMMAND
+
+__________________________
+
+__________________________
+
+Task Unit 1 - Striders
+S3 “Stoma” - 30 pts (TACOM)
+S1 “Synod” - 40 pts
+
+Task Unit 1 - Headquarters
+G1 “Ganglion” - 20 pts (TACOM)
+
+Task Unit 2 - Armor
+X1 “X-Ray” - 80 pts
+- [D] Node Team - 0 pts (TACOM)
+- [D] Tactical Team - 15 pts
+M1 “Microwave” - 20 pts
+Task Unit 3 - Howitzer
+X2 “Xiphos” - 80 pts
+- [D] Node Team - 0 pts (TACOM)
+- [D] MANPADS Team - 20 pts
+H1 “Handler” - 15 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 300 points, a Rygolic list may contend
+with heavy armor by fielding its own, expensive
+centerpiece units with token support. Rygole
+lists can afford to be bold in the purchases of
+top-of-the-line vehicles because such units tend
+to be more flexible than their counterparts in
+other armies. Note this list’s excellent ratio of
+units to command tokens. Task Units 1 and 2
+may both (via Rygonet) move their centerpiece
+vehicles three times per Maneuver Phase!
+The X-Ray, in addition to being an excellent main battle tank, is effective against infantry and aircraft (massing its fire via Rygonet).
+The MANPADS Team offers it support against
+aircraft, which are a significant threat.
+With no room for embarked infantry,
+this list’s troops ride desanting. Rygonet movement helps smooth this over, but remember
+the risks posed by desanting.
+This list has no room for dummies;
+Rygoles find it easier to cleanly use up their
+points in higher brackets. One could, however,
+remove the Microwave to replace the Tactical
+Team with Assassins or a Chemical Team, with
+one or two dummies left over.
+
+Task Unit 2 - Cavalry Scouts
+X1 “X-Ray” - 80 pts
+M1 “Microwave” - 20 pts
+P1 “Parallax” - 35 pts
+- [E] Node Team - 0 pts (TACOM)
+- [E] MANPADS Team - 20 pts
+Task Unit 3 - Striders
+S3 “Stoma” - 30 pts (TACOM)
+- [D] Tactical Team - 15 pts
+S1 “Synod” - 40 pts
+- [D] Node Team - 0 pts (TACOM)
+- [D] Carabiner Horse - 15 pts
+Task Unit 4 - Helicopters
+T1 “Tatter” - 60 pts
+H1 “Handler” - 15 pts
+Task Unit 5 - Air Superiority
+B1 “Blindsight” - 50 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 400 points, a Rygolic list has fully
+come into its own. This Combined Task Element
+brings to bear all the most dangerous modern
+fighting vehicles and aircraft from every part
+of the battlefield: well-armed cavalry scouts,
+dismounting assault infantry on striders, and
+lethal strike aircraft and helicopters. It is hindered only by a lack of indirect-fire weapons.
+This list is healthy on command tokens
+and potential Rygonet fire action donors for
+its heavy-lifting armored elements. Success
+is gained through careful reactions and exploiting weaknesses in the enemy’s lines. Remember: you can still lose your heavy hitters
+if poorly handled. The Blindsight, if withheld,
+may surprise an unsuspecting foe late-game;
+its weapons are effective against all targets.
+The X-Ray may be swapped for a Xiphos
+or the Parallax for a Perigee according to taste.
+BUILDING AN ARMY LIST - C-4
+
+FM 100-3-8X
+
+APPENDIX D - QUICK UNIT REFERENCE
+This appendix section includes all unit cards from the main chapters.
+
+TACOMS
+NODE TEAM - 0/20 pts
+TRANSMISSION TEAM
+
+__________________________
+Inf, H1, S24’’, M5’’, Q3, T1+/1/1, C2
+Brigade (2, 12”), Fearless, NBC, Rygonet (12”)
+
+S3 “STOMA” - 30 pts
+BIPEDAL COMMAND VEHICLE
+
+__________________________
+Vec (S), H2, S32”, M8”, Q3, T6/6/5, C4
+Brigade (4, 8”), NBC, Rygonet (8”), Strider
+
+__________________________
+
+__________________________
+
+This unit uses a 40x40mm infantry base.
+
+By standard rules one Node Team comes free
+
+When this unit activates during the Fire
+
+per 100 points as the default TACOM. Further
+
+Phase, it may select one friendly Rygolic unit
+
+may be bought for 20 points each at no limit.
+
+within LOS up to 8” away which has not yet
+
+__________________________
+
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+G1 “GANGLION” - 20 pts
+TRANSMISSION TOWER
+
+__________________________
+Vec, H1, S0”, M0”, Q6, T4/4/4, C6
+Brigade (4, 12”), NBC, Paradrop,
+Rygonet (24”), Sense (6”)
+
+__________________________
+Uses a 40x40mm base. May activate in the
+Maneuver Phase despite having M0”, but
+only to call a Brigade. May not lend actions to
+friendly units via Rygonet.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-1 - QUICK UNIT REFERENCE
+
+acted that round to activate with the Stoma
+and simultaneously fire on the same target.
+The unit which activates with the Stoma is
+considered to have used its turn for the round.
+
+__________________________
+
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Tracking Anti-Air,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+INFANTRY - LINE SQUADS
+TACTICAL TEAM - 15 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Side Fast” 140mm ATGM
+Vec, R6-30”, A3+/xx, S14/2, D1,
+Ammo 1, Guided Missile (1),
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LEGIONNAIRES - 25 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 6, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Side Fast” 140mm ATGM
+Vec, R6-30”, A3+/xx, S14/2, D1,
+Ammo 3, Guided Missile (1),
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY - WEAPON TEAMS
+SMART GUN TEAM - 15 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Drift Cage” 5mm Stabilized SAW
+All, R16”, A2+/3+, S1/1, D3, Scoped,
+Thermal Sights, Tracking Anti-Air,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-2
+
+FM 100-3-8X
+MANPADS TEAM - 20 pts
+ANTI-AIR TEAM
+
+CHEMICAL TEAM - 20 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+
+__________________________
+
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+Inf, H1, S24”, M4”, Q3, T1+/1+/1+
+Fearless, NBC
+
+__________________________
+
+__________________________
+
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 3,
+Slow Round, Underbarrel (Snake G.)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+“Pole Guard” 70mm MANPADS
+Air, R60”, A3+/xx, S6/6, D1,
+Ammo 2, Guided Missile (1),
+Homing, Small Arm
+
+This unit is not negatively affected by Chemi-
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LASER TEAM - 15 pts
+ANTI-MATERIEL TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/xx, S1+/1+, D1, Laser,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-3 - QUICK UNIT REFERENCE
+
+cal Weapons. If this unit or a unit it charged is
+within a Chemical Weapon radius during close
+combat, this unit resolves its attacks before all
+enemy units, including Assault Specialists.
+
+__________________________
+“Pike Jump” 12-gauge Automatic Shotgun
+All, R6”, A3+/4+, S1-/1+, D3,
+Ignore Cover (1), Small Arm,
+Thermal Sights
+“Weave Liner” 70mm Dual RPG
+R10”, D1, Ammo 6, Barrage (2),
+Small Arm, Thermal Sights
+→ 70mm HEAT
+Inf/Vec, A3+/4+, S8/1+,
+Slow Round, Shaped Charge
+→ 70mm Thermobaric
+Inf/Vec, A3+/4+, S2/2,
+Ignore Cover (2), Rear Attack,
+Slow Round
+→ 70mm Nerve Agent
+Gnd, A++/++, Chemical Weapon (2”)
+GUIDED MORTAR SPIDER - 30 pts
+ANTI-PERSONNEL/MATERIEL TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q3, T1+/1/1
+Fearless, NBC
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Trace Rung” 80mm Guided Mortar
+Inf/Vec, R40’’, A3+/4+, S4/4, D1,
+Ammo 4, Guided Shell,
+Light Indirect (1), No CC,
+Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-3-8X
+INFANTRY - SPECIAL
+CARABINER HORSE - 15 pts
+
+ASSASSINS - 30 pts
+COMMANDO TEAM
+
+DRAFT ANIMAL
+
+__________________________
+
+Inf, H1, S32”, M6”, Q3, T1/1/1
+Fearless, NBC, Resupply (4), Tow (2)
+
+Inf, H1, S8”, M6”, Q4, T1/1/1Active Camouflage, Assault Specialist,
+Fearless, NBC, Sense (8”)
+
+__________________________
+__________________________
+
+__________________________
+
+“Bronze Lead” Laser Designator
+All, R40'', A++/++, D1, Designator,
+Discreet
+
+“Frame Staff ” 10mm SMG, dual
+All, R8”, A2+/2+, S1/1+, D3,
+Small Arm, Thermal Sights
+“Sphere Catch” 12mm Pistol, subsonic
+All, R8”, A2+/2+, S1/1, D1,
+Discreet, Multi-Gun, Scoped,
+Small Arm, Thermal Sights
+“Site Cause” Plastic Explosive Charge
+Vec, R0”, A1+/1+, S12/12, D1,
+Ammo 2, Melee, Multi-Gun
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+CAPSULE SQUAD - 25 pts
+LOW ORBIT INSERTION SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q3, T1/1/1
+Fearless, NBC
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Deploy this unit via a Capsule Insertion
+support mission during the Support Phase.
+
+__________________________
+“Snake Green” 5mm Assault Rifle
+All, R8”, A3+/4+, S1/1, D2,
+Small Arm, Thermal Sights
+“Tread Curve” 20mm Grenade Launcher
+R8”, A*, D1, Ammo 6, Slow Round,
+Underbarrel (Snake Green)
+→ 20mm KE
+Vec, S3/4
+→ 20mm HE
+Inf/Vec, S1+/1+, Ignore Cover (1)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-4
+
+FM 100-3-8X
+SIMULACRUM - 30 pts
+UNCLASSIFIED UNIT
+
+__________________________
+Inf, H1, S32”, M4”, Q4, T1+/1+/1+
+Amphibious, Fearless, NBC
+
+__________________________
+This unit may copy enemies (see below). May
+respond to Specific Imitation missions.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MECHANIC: COPYING ENEMIES
+
+__________________________
+When this unit activates, it may choose
+to copy parts of a non-plane enemy’s unit
+card to use during its own activation. May
+only copy statistics from the closest spotted
+enemy within LOS unless participating in a
+Specific Imitation misson. Copied statistics
+are lost at the end of the Simulacrum’s turn.
+1. In the Fire Phase, the Simulacrum may
+copy one non-Nuclear weapon from a
+single unit. Copied weapons have infinite
+Ammo. The Simulacrum cannot copy a
+new weapon if it has a time-to-target attack
+in progress.
+2. In the Maneuver Phase, the Simulacrum
+may copy the Move statistic of a single unit.
+3. If engaged in Close Combat, the Simulacrum must copy one enemy in basal
+contact, as per the Fire Phase, for each
+close combat round.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - PERSONNEL CARRIERS
+C3 “CANDOR” - 25 pts
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Vec (W), H2, S32”, M10”, Q3, T6/4/4
+NBC, PC (2, Rear)
+
+__________________________
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/1+, S1+/1+, D1, Laser,
+Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+P1 “PARALLAX” - 35 pts
+INFANTRY FIGHTING HOVERCRAFT
+
+__________________________
+Vec (H), H2, S32”, M10”, Q3, T6/4/4
+Active Protection (1), Amphibious,
+Hovercraft, NBC, PC (2, Rear)
+
+__________________________
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+“Side Judge” 150mm ATGM
+Vec, R6-60”, A3+/xx, S15/2, D1,
+Ammo 3, Guided Missile (2),
+Shaped Charge, Thermal Sights,
+Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-5 - QUICK UNIT REFERENCE
+
+FM 100-3-8X
+P2 “PERIGEE” - 35 pts
+INFANTRY FIGHTING HOVERCRAFT
+
+S1 “SYNOD” - 40 pts
+BIPEDAL LIGHT TANK
+
+__________________________
+
+__________________________
+
+Vec (H), H2, S32”, M10”, Q3, T6/4/4
+Amphibious, Hovercraft, NBC, PC (2, Rear)
+
+Vec (S), H2, S32”, M8”, Q3, T12/10/8
+Strider, NBC
+
+__________________________
+
+__________________________
+
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Tracking Anti-Air,
+Turret
+“Pole Guard” 70mm SAM
+Air, R60”, A3+/xx, S6/6, D1,
+Ammo 4, Guided Missile (1),
+Homing, Turret
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - ARMOR
+M1 “MICROWAVE” - 20 pts
+UNMANNED TANKETTE
+
+__________________________
+
+This unit uses a 40x40mm infantry base.
+
+“Drift Fence” 10mm HMG
+All, R20”, A3+/3+, S2/3, D2,
+Thermal Sights, Turret
+“Bridge Spike” 75mm Rifled Gun
+Ammo 4, Round Extruder,
+Thermal Sights, Turret
+→ 75mm Sabot
+Vec, R40'', A3+/3+, S10/15, D1
+→ 75mm HEAT
+Inf/Vec, R40'', A3+/3+, S10/1+, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 75mm Beehive
+All, R20'', A2+/2+, S1/1+, D3,
+Defensive CC (Inf.)
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Vec, H1, S32”, M8”, Q*, T4/2/2
+Drone, NBC, Tow (2)
+
+__________________________
+This unit uses a 40x40mm infantry base.
+
+__________________________
+“Pitch Break” 25mm Autocannon
+All, R32”, A3+/3+, S4/6, D2,
+Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-6
+
+FM 100-3-8X
+C1 “CABAL” - 50 pts
+ASSAULT GUN
+
+X1 “X-RAY” - 80 pts
+MAIN BATTLE TANK
+
+__________________________
+
+__________________________
+
+Vec (W), H2, S32”, M10”, Q3, T8/6/4
+Active Protection (2), NBC
+
+Vec, H2, S32”, M10”, Q4, T16/14/6
+Active Protection (2), NBC
+
+__________________________
+
+__________________________
+
+“Drift Bar” 5mm Coaxial MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Bridge Dart” 105mm Gun
+R40'', A2+/3+, D1, Ammo 6,
+No CC (Inf.), Radar Anti-Air,
+Thermal Sights, Turret
+→ 105mm Sabot
+Vec, S14/21
+→ 105mm HEAT
+Inf/Vec, S12/2, Shaped Charge,
+Slow Round
+→ 105mm Proximity Fuze HE
+All, S4/4, Air-Filling, Slow Round
+“Tread Port” 65mm Smoke Array
+Gnd, R6’’, A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+“Sun Point” 6kW Laser Weapon
+All, R40”, A1+/1+, S1+/1+, D1, Laser,
+Turret
+“Bridge Dart” 105mm Gun
+R50'', A2+/3+, D1, Ammo 4,
+No CC (Inf.), Round Extruder,		
+Thermal Sights, Turret
+→ 105mm Rocket-Assisted Sabot
+Vec, S16/24
+→ 105mm Rocket-Assisted HEAT
+Inf/Vec, S12/2, Shaped Charge,
+Slow Round
+“Tread Port” 65mm Smoke Array
+Gnd, R6'', A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - FIRE SUPPORT
+AUTOMATED SENTRY - 15 pts
+ANTI-PERSONNEL TURRET
+
+__________________________
+Vec, H1, S32”, M0”, Q*, T2/2/1
+Drone, NBC, Paradrop
+
+__________________________
+This unit uses a 40x40mm infantry base.
+Cannot fire during the first Fire Phase of the
+game if Paradropped.
+
+__________________________
+“Yaw Post” 10mm Minigun
+All, R20”, A4+/xx, S2/3, D3,
+Thermal Sights, Tracking Anti-Air,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-7 - QUICK UNIT REFERENCE
+
+FM 100-3-8X
+AUTOMATED ATGM - 15 pts
+
+C2 “CHORUS” - 60 pts
+
+ANTI-TANK TURRET
+
+BEAM-RIDING MISSILE CARRIER
+__________________________
+
+Vec, H1, S32”, M0”, Q*, T2/2/1
+Drone, NBC, Paradrop
+
+Vec (W), H2, S32”, M10”, Q3, T8/6/4
+NBC
+__________________________
+
+__________________________
+__________________________
+This unit uses a 40x40mm infantry base.
+Cannot fire during the first Fire Phase of the
+game if Paradropped.
+
+__________________________
+“Side Judge” 150mm ATGM
+Vec, R6-60”, A4+/xx, S15/2, D1,
+Ammo 3, Guided Missile (2),
+Shaped Charge, Thermal Sights,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+S2 “STOCHAST” - 40 pts
+BIPEDAL ASSAULT TANK
+
+__________________________
+Vec (S), H2, S32”, M8”, Q3, T12/10/8
+Strider, NBC
+
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Star Call” Laser Designator
+All, R40”, A++/++, D1, Designator,
+Discreet, Turret
+“Star Shelf ” 155mm Missile Launcher
+A3+/xx, S16/3, D1, Ammo 6,
+Guided Missile (1), Radar Anti-Air,
+Shaped Charge, Turret
+→ ATGM Guidance Mode
+Vec, R12-60”
+→ SAM Guidance Mode
+Air, R60”
+“Tread Bus” 65mm Smoke Launchers
+Gnd, R6”, A++/++, D1, Ammo 1,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+__________________________
+This unit uses a 40x40mm infantry base.
+
+__________________________
+“Drift Fence” 10mm HMG
+All, R20”, A3+/3+, S2/3, D2,
+Thermal Sights, Turret
+“Ink Strake” 55mm Thermobaric Rockets
+Gnd, R28'', A4+/4+, S2/2, D3,
+Ammo 4, Ignore Cover (2), No CC,
+Rear Attack, Saturating (4),		
+Thermal Sights, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-8
+
+FM 100-3-8X
+X2 “XIPHOS” - 80 pts
+__________________________
+
+X3 “XENON” - 80 pts
+SELF-PROPELLED LASER ARRAY
+
+Vec, H2, S32”, M10”, Q4, T12/8/6
+Active Protection (2), NBC
+__________________________
+
+__________________________
+
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Bridge Arrow” 155mm Howitzer
+Ammo 4, No CC, Round Extruder,
+Thermal Sights
+→ 155mm Kinetic Energy Missile
+Vec, R60”, A2+/3+, S21/14, D1,
+Guided Missile (1)
+→ 155mm Guided HE
+Inf/Vec, R∞”, A3+/4+, S8/8, D2,
+Heavy Indirect (2), Guided Shell
+→ 155mm Smoke
+Gnd, R∞”, A++/++, D4,
+Heavy Indirect (2), Smoke (4”)
+“Tread Port” 65mm Smoke Array
+Gnd, R6’’, A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+
+__________________________
+
+Vec, H2, S32”, M10”, Q4, T14/10/6
+Active Protection (2), NBC
+
+“Drift Bar” 5mm MG
+All, R12”, A3+/3+, S1/1, D2,
+Thermal Sights, Turret
+“Sun Blind” 20kW Laser Weapon Array
+All, Laser, Turret
+→ Focused Array
+R40”, A1+/1+, S2/2, D4
+→ Dispersed Array
+R4-20”, A++/++, D1, Radius (3'')*
+*All non-plane units in the radius take
+max pin.
+“Tread Port” 65mm Smoke Array
+Gnd, R6'', A++/++, D2, Ammo 2,
+Light Indirect (0), No CC, Smoke (2”),
+Turret
+Shockwave Dispersal System
+Gnd, R0’’, A++/++, D1, Radius (6”)*
+*Infantry in radius take one pin.
+Smoke radii with their centers inside
+this weapon’s radius are cleared.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - SPECIAL
+Y1 “YARDFISH” - 30 pts
+AUTONOMOUS TORPEDO
+
+__________________________
+Vec, H1, S32”, M8”, Q3, T3/3/2
+Active Camouflage, NBC, Watercraft
+
+__________________________
+“Sun Line” 6kW Laser Weapon Array
+All, R40”, A1+/1+, S1+/1+, D2, Laser,
+Turret
+“Dredge Top” 140mm VLS Missiles
+Vec/Air, R12-60”, A3+/3+, S8/8, D1,
+Ammo 2, Guided Missile (2),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+D-9 - QUICK UNIT REFERENCE
+
+FM 100-3-8X
+AIRCRAFT - ROCKETS
+
+AIRCRAFT - HELICOPTERS
+
+R1 “REDSTONE” - 20 pts
+
+H1 “HANDLER” - 15 pts
+
+LOGISTICS ROCKET
+
+__________________________
+Air, H2, S16”, M24”, Q3, T3/3/3
+Decoy Prot. (1), NBC, PC (2, Any), Resupply (3)
+
+__________________________
+
+This unit uses a 40x40mm base. It may land
+in any occluding terrain. If it falls back from
+close combat, choose one engaged enemy unit
+to take a Strength 1+ hit on its rear arc.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+R2 “REPEATER” - 30 pts
+ATTACK ROCKET
+
+RECONNAISSANCE DRONE
+
+__________________________
+Air, H1, S32”, M32”, Q*, T1/1/1
+Drone, NBC
+
+__________________________
+“Star Call” Laser Designator
+All, R40”, A++/++, D1, Designator,
+Discreet
+“Tread Rake” 65mm Smoke Projector
+Gnd, R12”, A++/++, D2, Ammo 2,
+Light Indirect (1), No CC,
+Smoke (4”), Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+__________________________
+
+H2 “HANGMAN” - 15 pts
+
+Air, H2, S24”, M24”, Q3, T3/3/3
+Decoy Protection (1), NBC, PC (1, Any)
+
+__________________________
+
+This unit uses a 40x40mm base. It may land
+
+__________________________
+
+__________________________
+in any occluding terrain. If it falls back from
+close combat, choose one engaged enemy unit
+to take a Strength 1+ hit on its rear arc.
+
+__________________________
+“Yaw Shaft” 15mm Minigun
+All, R24”, A4+/4+, S3/4, D3,
+Door Gun (Front), Thermal Sights,
+Tracking Anti-Air
+
+ATTACK DRONE
+
+Air, H1, S32”, M32”, Q*, T1/1/1
+Decoy Protection (1), Drone, NBC
+
+“Bolt Fleck” 100mm Flechette Gun
+Inf/Vec, R16”, A4+/4+, S1/1+, D4,
+Ammo 3, Thermal Sights
+“Weave Stalk” 70mm Dual Rocket Pod
+Inf/Vec, R16”, A6+/5+, S7/1+, D1,
+Ammo 2, Barrage (2), Shaped Charge,
+Strafing, Slow Round, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-10
+
+FM 100-3-8X
+T1 “TATTER” - 60 pts
+
+AIRCRAFT - SPECIAL
+
+ATTACK HELICOPTER
+
+“DESTROYING ANGEL” - 80 pts
+
+Air, H2, S32”, M32”, Q3, T3/3/2
+Decoy Protection (2), NBC
+
+__________________________
+
+__________________________
+__________________________
+“Pitch Throat” 35mm Autocannon
+All, R32”, A4+/4+, S5/7, D2,
+Ammo 3, Thermal Sights
+“Ram Crutch” 175mm Active AAM
+Air, R60”, A3+/3+, S7/7, D1,
+Ammo 2, Air-Filling,
+Guided Missile (1), Homing,
+Radar Anti-Air
+“Mark Pate” 180mm AGM
+Vec, R12-60”, A3+/4+, S18/4, D1,
+Ammo 4, Guided Missile (1),
+Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+UNCLASSIFIED UNIT
+
+Air, H2, S32”, M18”, Q4, T4/4/4
+NBC, Sense (12”)
+
+__________________________
+This unit uses a 40x40mm base. It costs 0” to
+rotate and cannot land.
+Hits against this unit do not need to be confirmed. When this unit suffers a successful kill,
+it automatically forces that kill to re-roll at an
+unmodified 6+ (fails applying three pin), then
+its weapon’s Dice statistic decreases by one
+for the rest of the round. If Dice hits zero, the
+weapon cannot fire and no further attacks are
+forced to re-roll that round. During Upkeep,
+the weapon’s Dice value resets back to D4.
+
+__________________________
+“Sun Door” 20kW Pulsed Laser Battery
+All, R40”, A1+/xx, S1+/1+, D4, Laser,
+Turret
+
+D-11 - QUICK UNIT REFERENCE
+
+FM 100-3-8X
+AIRCRAFT - PLANES
+B1 “BLINDSIGHT” - 50 pts
+STRIKE FIGHTER
+
+__________________________
+Air (CAP), M20”, Q4, T3, E3
+Afterburner, Decoy Protection (2)
+
+__________________________
+“Sun Grid” 20kW Laser Weapon Array
+All, R10”, A1+, S1+, D3,
+Laser, Radar Anti-Air
+“Ram Crutch” 175mm Active AAM
+Air, R60”, A3+, S7, D1, Ammo 4,
+Air-Filling, Guided Missile (1),
+Homing, Radar Anti-Air
+“Mark Pate” 180mm AGM
+Vec, R60”, A3+, S18/4, D1, Ammo 2,
+Guided Missile (1), Shaped Charge
+
+A1 “APOGEE” - 50 pts
+STRIKE AIRCRAFT
+
+__________________________
+Air (CAS), M14”, Q4, T6, E2
+Decoy Protection (1)
+
+__________________________
+“Yaw Switch” 40mm Rotary Cannon
+All, R8”, A4+, S6, D4, Ammo 4,
+Radar Anti-Air
+“Lake Brush” 275mm Guided Bomb
+Gnd, R32”, A2+, S10, D1, Ammo 2,
+Air-Filling, Barrage (2),
+Guided Missile (2), Radius (3”),
+Rear Attack
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Z1 “ZENITH” - 50 pts
+STEALTH BOMBER
+
+__________________________
+Air (CAS), M16”, Q4, T3, E1
+Active Camouflage, Afterburner
+
+__________________________
+“Able Ivy” 20t Guided Nuclear Bomb
+Gnd, R40”, A++, D1, Ammo 1,
+Guided Missile (2), Nuclear (1”-2”-6”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - D-12
+
+FM 100-3-8X
+
+APPENDIX E - PAINTING GUIDE
+This appendix section provides full-color references for painting your Rygolic miniatures.
+
+Eyepiece
+
+EYEPIECE PLASTIC
+#6FBDC8
+
+Optic
+
+8th Gen. Equipment Stencil
+
+7th Gen. Emblem
+
+7th Gen. Equipment Stencil
+
+6th Gen. Emblem
+
+6th Gen. Equipment Stencil
+
+8th Gen. Block Var.
+
+8th Gen. Block Stencil
+
+MUNITIONS PLASTIC
+#6A6A68
+Gun Body
+
+Antennae
+
+8th Gen. Emblem
+
+Base
+
+SOLID GREEN
+#4C5A41
+
+Splotch #1
+
+BEIGE SPLOTCH
+#7CA2B8
+
+Splotch #2
+
+RED SPLOTCH
+#A73425
+Splotch #3
+
+BROWN SPLOTCH
+#4E3B2D
+Boots
+
+BOOT BLACK
+#111319
+
+INFANTRY NOTES
+Constructs are corpse-pale, with black eyes and lines around their maintenance disconnection points (the neck, shoulders, wrists, waist, and ankles). Red script runs up from their chin
+to the nape of the neck. Their blood is sludgy black ichor: drying into a bubbly, shiny crust.
+N.R.H. infantry wear a camouflage pattern styled after US M81 woodland, with the addition of an another splotch type (red, like Swiss alpenflage). Petty Staters generally wear an imitation of the same, but sometimes without the red splotches. Construct gear trends towards gray or
+green polymers for weapons, and plain woodland green for fabric equipment like ammunition
+pouches. Petty Staters’ less advanced weapons feature more exposed stamped steel.
+Constructs wear nothing in the way of rank insignia, nor is the concept meaningful for
+them. TACOMs (i.e. signals units) tend to sport white and black checkerboard schemes on their
+communications hardware. Depending on the generation of procurement, uniforms will have a
+different variation of the Rygolic “AP” (“Arche Rygolike”) ligature.
+E-1 - PAINTING GUIDE
+
+FM 100-3-8X
+SOLID GREEN
+#4C5A41
+
+RED STRIPING
+#CC231B
+
+SILVER DETAIL
+#BABBBA
+
+EGGSHELL MATTE
+#E3DDD3
+
+Striping
+Primary
+Array
+
+Lasers
+
+Striping
+
+ARMOR NOTES
+Rygolic vehicles are painted a uniform, drab green.
+Vertical red stripes on both sides of the vehicle are provided for quick identification. Constructs have no use for
+these stripes; it is for the sake of Petty Staters and other
+human allies. The manipulator arm attached to one side of
+the vehicle is typically covered in gray or green fabric. As
+with infantry, the AP sigil appears as a mark of allegiance.
+Black Rygolic script (“bar codes” in Petty Stater parlance) marks vehicles in different places. These are factory
+stamps, indicating the origin of the vehicle and its history
+of upgrades and repairs done.
+As vehicles share the same brains as their infantry
+counterparts, they can obtain similarly developed personalities over time. Small decorative marks or items of
+interest (kill marks, hats, interesting branches, shop signs)
+are frequently self-applied by older vehicles using their
+manipulator arm.
+
+Primary
+
+Common Stamps
+
+AIRCRAFT NOTES
+Rygolic aircraft are a stark white all over: think the
+early Space Shuttle and other NASA spacecraft. Occasional
+structural elements are silver, and the same red stripes as
+on vehicles are used for accentuation. Ligature variants as
+on infantry platforms may be noticed on the fuselage.
+Rotary-wing aircraft and utility rockets follow the
+vehicular scheme, with all-over drab green and red accents.
+Rockets tend to sport black and white checkerboarding or
+stripes on their midsections.
+Common Stripes & Checkerboards
+
+PAINTING GUIDE - E-2
+
+FM 100-3-8X
+
+E-3 - PAINTING GUIDE
+
+FM 100-3-8X
+
+* Special thanks to Briggs on Discord and @morgrim.the.tidy
+on Instagram for the lovely models.
+
+PAINTING GUIDE - E-4
+
+It appeared naked.
+That’s the wrong word, but it was naked. Nakedness carries a notion of vulgarity. This construct was
+merely unclothed.
+Their bodies are featureless in the parts which were not designed to be seen. Witnessed in fatigues,
+as it is meant to be, the mannishness of the Legionnaire’s face feels appropriate. When naked, it is
+disgusting; their body is a human’s out of focus, sexless, indistinct, and misconstrued. Any man,
+even a tough man, who is unfamiliar with autopsy tapes will find himself seizing at the first sight
+of a naked Legionnaire. You know it, you’ve done it yourself. Squirming, making vulnerable gestures. Turning his head, covering his neck, crossing his legs. “There is something wrong,” the mind
+says. “He is not finished. Someone mutilated him.” Clear your mind of the antenna maiden, the
+bare-chested matriarch of the Heralds, as she is preserved in our museums. She has gone the way
+of the treadmill crane and water-clock. The Herald’s image was constructed to provoke the passion
+which makes men brutal; the Legionnaire is a satire of that brutality.
+The construct had walked towards us from out of the forest, gangling and doll-like. Nearly out of
+fuel. It carried its weight awkwardly, in a pained, topheavy manner, for it was particularly emaciated, moreso than even the capsule soldiers. It seemed that the very carriage of its own head was a tax
+upon its spine. It had lost its clothes and left them wherever they had gone, but according to some old
+directive, it was nevertheless compelled to retrieve its essential equipment. A spindly, disintegrating
+cobweb of nylon dangled over its shoulders, unsecured from its stomach. A dirty, clouded torch was
+attached to the webbing’s right strap. A thigh holster had been tied like a garrote around its bony
+leg. It was not armed, but it appeared to have something stuffed in each and every one of its pouches.
+The Legionnaire peered at us with the same dangerous impassivity as if it was about to kill. Our
+whole patrol was staring back with its guns out, mesmerized, frozen—I told them not to shoot. We
+looked at each other for a while. The construct didn’t talk, but there was something in its eyes.
+Aart, the youngest signer, was horrified. He turned to me, but he didn’t have the nerve to speak. I
+approved him with a nod to break the silence.
+“Does this mean we’re winning?” he asked.
+I didn’t know what to say, so I said what I should have the second we saw it. “Go ahead. Shoot him.”
+The construct did not react. Tremulously, Aart did so.
+Afterwards we inspected the body, and one-by-one pulled the pristine things out of its pouches: a
+rolled-up forage cap, a tin frame with no picture, an engagement ring, a Hanck Steel action figure.
+Band-aids, Q-tips, and a Ploughman carton missing one cigarette.
+- Johannes Veeneman, F.S-A. General Staff
+
+FM 100-3-8X
+03/10/85
+By Order of the Ministry of Defense:
+
+DANEEL DAAF
+
+JOHANNES VEENEMAN
+
+General of the Air,
+General Staff of the Federal States-Army
+
+General of the Army,
+General Staff of the Federal States-Army
+
+Signatories:
+
+BRIGGS CARTOGRAAF
+
+JAAN SCHRIMM
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+MARLIJN MUNTTHEE
+
+KENNET PLUUSMAN
+
+Brigadier General,
+Main Rocket & Artillery Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+MANFIELD GARFIELD
+
+ITTIE BEBSON
+
+Brigadier General,
+Main Topographical Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+JAKUB DROOK
+
+MAXIMILLIAAN BROOD
+
+Major General,
+Main Luparic Readiness Directorate
+
+Lieutenant General,
+Main Publishing Directorate
+
+DIJKEN EIKKSEN
+
+Major General,
+Main Tactics & Doctrine Directorate
+DISTRIBUTION:
+Active Army, Whitewater Guard, Ready Reserves, Irregular Militia Partnership Program: To be
+distributed in accordance with DA Form 12-1A, Keystone Knowledge for the Federal Soldier
+(Qty rqr block no. 174).
+
+F O RT M .
+
+.C
+
+EK
+
+D
+
+R
+
+AL
+
+AR
+
+. ▪ FEDE
+
+MY ▪ DR
+
+Additional copies may be requisitioned from the F.S-A.-M.T. & D.D. General Publications
+Center, 1322 Worstenrij, Brunbok, Vykeland-and-Deire 21450.
+
+S T AT E S
+
+-
+
+

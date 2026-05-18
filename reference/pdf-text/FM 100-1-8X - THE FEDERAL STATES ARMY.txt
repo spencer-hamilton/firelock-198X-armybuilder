@@ -1,0 +1,4835 @@
+FM 100-1-8X
+
+THE FEDERAL
+STATES-ARMY
+
+TROOPS AND TACTICS
+
+DISTRIBUTION RESTRICTION: This publication contains technical, operational, or strategic information that is for
+official government use only. Distribution thereof is limited to government agencies of the Intermarine Federation
+or licensed contractors. Special use releases of this publication must be requested from Reception & Disposal,
+Drekfort Military Development Center, Langport, Vansa, PO 32001.
+
+* FM 100-1-8X
+
+FIELD MANUAL
+No. 100-1-8X
+
+Edition 0.9.7
+
+HEADQUARTERS
+DREKFORT M.D.C.
+Langport, Vansa, 03/10/85
+
+Preface
+
+The Federal States-Army:
+Troops and Tactics
+
+This field manual is part of FM series 100-X-8X. The other volumes in this
+series are FM 100-2-8X (Army of the Ebon Forest: Troops and Tactics), FM 100-38X (The New Rygolic Host: Troops and Tactics), and FM 100-4-8X (Atom Barons of
+Santagria: Troops and Tactics). Each volume in the series describes the range of
+troop types and characteristics of an opposing force to the Federal States-Army.
+This document, FM 100-1-8X, describes the States-Army itself in the same
+fashion. Used together, they form a thorough reference on any challengers the
+F.S-A. may expect to face, as well as its own strengths and weaknesses in comparison to them.
+This manual represents the definitive (condensed) source of unclassified
+information on Federal ground and air forces: their abilities, strengths, weaknesses, and general availability to a commander. The Main Threats Directorate at the
+Drekfort Military Development Center, Langport, Vansa, updates these manuals
+periodically to provide the most current unclassified information available.
+
+* This manual supersedes FM 100-1-8X Edition 0.8, 08/24/83.
+
+i
+
+FM 100-1-8X
+
+Contents
+CHAPTER
+
+1. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1 - 1
+2. TACOMs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2 - 1
+3. Infantry  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 1
+Line Squads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 2
+Weapon Teams . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 5
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 - 10
+4. Vehicles & Towed Guns . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 1
+Logistics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 2
+Personnel Carriers . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 3
+Armor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 7
+Fire Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 16
+Special . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4 - 23
+5. Aircraft . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 1
+Helicopters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 2
+Planes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 - 5
+6. Support Cards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6 - 1
+7. Scenario Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7 - 1
+
+APPENDIX
+
+A. Army Special Rules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  A - 1
+B. Building an Army List . . . . . . . . . . . . . . . . . . . . . . . . . . . .  B - 1
+C. Quick Unit Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . .  C - 1
+D. Painting Guide  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  D - 1
+
+ii
+
+FM 100-1-8X
+CHAPTER 1
+
+OVERVIEW
+The Intermarine Federation is a republic of seven sovereign member states (Cydoland,
+Vansa, Riesling, Sumpkassel, Eddelaw, Djekker, and Vykeland-and-Deire) governed by a unicameral interstate legislature. It occupies most of the central landmass of Oid between the Rygolic
+Petty States and the Ebon Forest to the west, and the nation of Calekrossa to the east.
+The Federal States-Army (F.S-A.) constitutes the land and air troops of the Armed
+Forces of the Intermarine Federation. Its subordinate branches include the States-Army
+Air Corps (F.S.A.A.C.), the Ready Reserve, and
+the Whitewater Guard state militia. Included
+also are units from the Expeditionary Corps
+(F.E.C.). It is the largest, most well-armed, and
+least orderly collection of thieves, drunkards,
+smugglers, and friends of liberty between the
+Sea of Lights and the Sea of Masts.
+Whether you have joined out of an irrepressible desire to defend freedom, justice,
+and the Intermarine way of life—or to avoid
+your local authorities—the F.S-A. welcomes
+you. The stalwart citizens of the Intermarium’s
+member states both salute your bravery and
+envy your firepower (see FM 62-1, “Private Purchase of Issue Small Arms & Armored Vehicles
+Upon Discharge”).
+The States-Army prides itself on its
+rolling thunder. It boasts a wide variety of powerful vehicles fit for any task or price point.
+Though F.S-A. soldiers might lack the superhuman ability, skill, willpower, or coordination of the Intermarium’s enemies, a surfeit of
+heavy firepower and churning treads makes all
+things even. Just keep them well-oiled and try
+to ignore the rust.
+FACTIONAL STRENGTH:
+Heavy armor; wide range of vehicles.
+FACTIONAL QUIRK:
+Cost-effective “tiers” of vehicle for most niches.
+FACTIONAL WEAKNESS:
+Inferior aircraft.
+
+OVERVIEW - 1-1
+
+STATES AND STRATEGIC CITIES OF THE INTERMARIUM
+
+A
+
+B
+
+1
+
+3
+
+2
+D
+
+E
+
+C
+
+6
+
+F
+
+4
+
+5
+
+G
+
+7
+
+H
+
+STATES:
+1 - Cydoland
+4 - Riesling
+7 - Eddelaw
+
+2 - Sumpkassel
+5 - Djekker
+
+3 - Vansa
+6 - Vykeland-and-Deire
+
+B - Langport
+E - Vlaand
+H - Triest
+
+C - Brunbok
+F - Sumpkassel
+
+STRATEGIC CITIES:
+A - Grotehaven
+D - Hijmeier
+G - Djekker’s Ferry
+
+1-2 - MAP
+
+FM 100-1-8X
+CHAPTER 2
+
+TACOMS
+Federal commanders are generally career soldiers, either promoted from the ranks
+or fished from the more promising end of the junior officers’ school at the Drekfort Military
+Development Center. Whether they’re an old hand or a pencil-pusher stumbling into live fire,
+they’re always issued a ceremonial Pequod single-action revolver. The standard mount for a new
+commander is an unarmed command post carrier with the appropriate signal equipment and
+amenities of rank. However, it is a time-honored and informal tradition for those risen from the
+ranks to retain their service vehicle and crew (as adjutants).
+The Expeditionary Corps maintains its own command structure when operating with
+regular F.S-A. formations. In keeping with its tradition of aggressive, parachute-deployed forward
+action, its commanders are jump-trained and expected to lead from the front.
+TACOMS
+TYPE 68C “APPOMATTOX” - COMMAND POST CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 0 pts / 2-2
+EXPEDITIONARY COMMAND - COMMAND PARATROOPER SQUAD .  .  .  .  .  .  .  .  .  . 15 pts / 2-3
+TANK TACOMS - SPECIAL  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-4
+
+TACOMS - 2-1
+
+FM 100-1-8X
+
+TYPE 68C “APPOMATTOX”
+
+TYPE: COMMAND POST CARRIER
+
+TYPE 68C “APPOMATTOX” - 0 pts
+
+REMARKS
+
+__________________________
+
+Bantam-derived armored command post
+carrier. Home on the range. Laden with
+command computers, multiple-frequency
+radios, and a small ice cream machine.
+Well-equipped for command and control.
+
+Vec, H2, S32”, M8”, Q3, T6/4/4, C3
+Amphibious, Brigade (3, 12”), NBC
+
+__________________________
+
+Essentially unarmed bar the commander
+and crew’s personal Pequod SA revolvers,
+for which pistol ports are provided. Sufficiently armored to keep out small arms fire
+and most shell splinters.
+Smoke launchers are a ubiquitous field
+retrofit, permitting the vehicle to safely
+withdraw from an overrun field H.Q. position. For more audacious shoulderboards,
+they serve to screen the tanks under their
+command in direct proximity to the enemy.
+
+The roof-mounted 1M1V target bearing
+transmitter, linked to the vehicle’s computers, calculates a target’s grid coordinates for relay to fire support.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+2-2 - TACOMS
+
+COMMAND POST CARRIER
+
+__________________________
+Pequod SA 11.5mm, commander’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+1M1V Target Bearing Transmitter
+All, R32”, A++/xx, D1, Designator,
+Discreet
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Wipe your boots before stepping into the box;
+most officers stuck in one of these treat it like
+a mobile home. You’ll find little bits and bobs
+from every campaign they’ve been in. Handcarved forest gods; throw rugs from the far
+south; the latest mini-cooler on the market,
+shipped from stateside.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+EXPEDITIONARY COMMAND
+
+EXPEDITIONARY COMMAND - 15 pts
+PARATROOPER COMMAND SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1/1-/1-, C5
+Assault Dismount, Brigade (2, 8”), Fearless,
+Paradrop
+
+__________________________
+
+All units targeted in Brigade (including self)
+lose all pin tokens.
+
+__________________________
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L3 40mm HEDP Grenade Launcher
+Inf/Vec, R8”, A*, S5/1+, D1, Ammo 4,
+Shaped Charge, Slow Round,
+Underbarrel (6G1A)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARATROOPER COMMAND SQUAD
+
+__________________________
+REMARKS
+
+Unlike their fellows in the regular F.S-A. (a
+catch-all mixture of day drinkers, eccentric old men, and upstanding jailbirds),
+the Expeditionary Corps recruits only the
+straight-backed and the steely eyed. That,
+at least, is the claim. The truth is that they
+simply look for more pugnacious madmen.
+The Expeditionary Corps exclusively promotes and commissions from the ranks.
+Expeditionary command squads are outfitted for radio command and control. They
+prefer to coordinate their airborne operations by direct participation.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Yeah—you wear a combat onesie in the Corps.
+The big sleeves are to break up your silhouette
+and to stuff scrim in them. The rest is just there
+to be comfortable while you’re parachuting
+into an early grave. It’s not half bad, actually.
+Lots of pockets, unlike the States-Army’s kit.
+You stand out wherever you go: girls swoon for
+a big Corps man to fall out of the sky into their
+lives. All the grunts in their dirty tunics and
+pipe boots look at you askew and mutter under
+their breath. They want to be you (and they
+know how much contraband can be stuffed
+into those big sleeves). It’s there in every TV
+ad. Even the dress uniform apes it.
+They need it. The Corps needs every man they
+can get. The way they die, even little perks
+help.
+- Rayleigh Irving, Federal Intelligence
+
+TACOMS - 2-3
+
+FM 100-1-8X
+
+TANK TACOMS
+Federal cavalrymen often retain command of their originally-issued fighting vehicles
+into their officer career—long after the typical infantry C.O. has installed a throw rug and air
+conditioning into his Appomattox. F.S-A. commanders can personally requisition any tank listed
+under the ARMOR section of CHAPTER 4 - VEHICLES & TOWED GUNS at special discount
+prices (see below). Normal TACOM fielding restrictions apply.
+COMMAND VARIANTS
+TYPE 40MC “VELDJEN-MC” - COMMAND MEDIUM TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-7
+TYPE 52C “DUCK-C” - COMMAND LIGHT TANK  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-8
+TYPE 52PC “MALLARD-C” - COMMAND AIRMOBILE LIGHT TANK  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-9
+TYPE 55MC “RAZORBACK-MC” - COMMAND MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  . 30 pts / 4-10
+TYPE 71C “TUSKER-KC” - COMMAND MAIN BATTLE TANK  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40 pts / 4-13
+TYPE 71BC “TUSKER-GMC” - COMMAND MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  . 70 pts / 4-14
+As TACOMs, these tanks retain all of their normal statistics, but also gain one additional point of
+Quality, Command 4, and Brigade (4, 6”).
+
+There is no scheme by which an officer’s tank
+may be identified over any of the enlisted in his
+command. Officers as a breed have the same
+knack for flair as their subordinate bluecoats.
+You will find their Tuskers done-up every
+which-way with graffiti, and when you see
+ten cresting over a hill, there can be no telling
+which one is leading them on the charge.
+Well—that is, except for the radio. It’s big,
+it’s obvious, and on command tanks there are
+two of them. You can bet that the dual-loop
+complex antenna has been mentioned in the
+V.I.D. curriculum of every armed force on Oid.
+Everybody knows it, and they all want to take
+their shot, even if it’s their last.
+So, about the graffiti: It’s like woad. It’s war
+paint. You put it on like a magic spell and,
+if you’re faithful, it turns main gun rounds
+aside. That is what makes us brave.
+- Johannes Veeneman, F.S-A. General Staff
+
+2-4 - TACOMS
+
+FM 100-1-8X
+CHAPTER 3
+
+INFANTRY
+Federal infantry are brave, resolute, and well-armed—if not as inhumanly tough or skilled
+as some of their opposition. In most respects they will give as good as they get, and can be relied
+upon to hold the line while the States-Army’s armored fist gets ready to swing. In keeping with
+their army’s combined-arms specialty, Federal infantry encompass a wide variety of niches and
+price points; you can almost always squeeze a needed team somewhere into your force. Old,
+mass-stockpiled ordnance may not always be as effective as bleeding-edge tech, however.
+LINE SQUADS
+RESERVISTS - MILITIA SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5 pts / 3-2
+STATES-GRENADIERS - LINE INFANTRY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 pts / 3-3
+FEDERAL EXPEDITIONARIES - PARATROOPER SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-4
+WEAPON TEAMS
+MORTAR TEAM - ANTI-PERSONNEL TEAM  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 3-5
+ATGM TEAM - ANTI-TANK TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 3-6
+MANPADS TEAM - ANTI-AIR TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 3-7
+RECOILLESS RIFLE TEAM - GENERAL-PURPOSE TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-8
+EXPEDITIONARY R. R. TEAM - PARATROOPER GENERAL-PURPOSE TEAM  .  .  . 15 pts / 3-9
+SPECIAL
+PUP CARSON SCOUTS - PATHFINDER TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 3-10
+INTERMARINE RANGERS - SCOUT-SNIPER TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 3-11
+
+INFANTRY - 3-1
+
+FM 100-1-8X
+
+RESERVISTS
+
+RESERVISTS - 5 pts
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q1, T1-/1-/1-
+
+__________________________
+6P3 11.5mm SMG
+All, R8”, A5+/5+, S1-/1, D2,
+Small Arm
+6L4 73mm RPG
+Inf/Vec, R8”, A5+/6+, S8/1, D1,
+Ammo 3, Shaped Charge,
+Slow Round, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+REMARKS
+
+Always counter to the States-Grenadier is the
+intractable Whitewater Guardsman. While
+Willie Bluecoat is out breaking sweet-tack with
+the sparrows, these meager sorts are greasing
+the wheels back home: directing traffic in the
+Lievenskom, ditch-digging in Eddelaw, watching fishers in the Masts. Ideally on speedboats,
+as per the constitutional clause; it started off
+that the Whitewaters were only in charge of
+the rivers. Well, now they have Razorbacks,
+which can’t float.
+
+“Reservist” is a catch-all term for the motley
+interior troops of the Intermarium, i.e. the
+Whitewater Guard, the Ready Reserve, and
+participants in the Irregular Militia Partnership Program. As a pejorative it applies
+also to rear-line F.S-A. garrison formations
+with low equipment priority.
+
+The militia you see fighting in the wider world
+aren’t the Whitewater, no sir. That’d be the
+Reserve. The Guard are homebodies, housecarls, stuck dying of boredom in bases along
+our coasts. Thence it is all search and rescue,
+mountain hiking, and hemp rope.
+
+TYPE: MILITIA SQUAD
+
+__________________________
+
+Primary armament varies almost by the
+squad, but the greatest proportion is the
+6P3 submachine gun (or “bullet hose”) no
+longer issued in regular formations. Basic
+anti-tank weapons like the obsolete 6L4
+light RPG are also issued when available.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-2 - LINE SQUADS
+
+Even though he chose his post, the Whitewater
+Guardsman remains envious. He is stuck in a
+worse job on a smaller boat for half the pay.
+His rations are cold and his weapon is ancient.
+When there are incursions, he is the first speedbump. This longstanding jealousy from one
+branch to another precludes all cooperation.
+Go to any checkpoint. You can see, in the
+corner of the Guardsman’s eye, the glimmer of
+hate for old wounds.
+- Johannes Veeneman, F.S-A. General Staff
+
+FM 100-1-8X
+
+STATES-GRENADIERS
+
+STATES-GRENADIERS - 10 pts
+LINE SQUAD
+
+__________________________
+Inf (S), H1, S16”, M4”, Q2, T1/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6G2 7.76mm GPMG
+All, R12”, A4+/xx, S1/1+, D2,
+Defensive CC
+6L1 85mm RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 3, Shaped Charge,
+Slow Round, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Rolled Tobacco, Personal Ration, “Belt Links”.
+
+TYPE: LINE SQUAD
+
+__________________________
+REMARKS
+Regular States-Army infantry; “Willy Bluecoat”. Well-armed and reasonably trained,
+with a focus on semi-auto marksmanship
+and close-range mechanized operations.
+The backbone—if not the punch—of the
+States-Army, relied upon to protect armor
+and hold positions seized by more mobile
+forces.
+Equipped with the standard issue 6G1 Flute
+battle rifle, supported by a squad machine
+gun and RPG offering basic shoulder-fired
+anti-tank capability. Without fire support,
+they’re best suited to defending.
+
+They’re the surest (legal) friend of the regular
+draftee-marksman. Even with how stuffed
+these things are, grunts and tankers alike still
+run through them at a cyclic pace. Anything
+to take the edge off of the assault, your amygdala off the treeline.
+Like with most good things, Federal Ordnance
+plays hands-off with the manufacturing. But
+there’s a handful of subcontractors that do the
+growing and rolling, and if you’re salty you
+can taste the difference. Dic Soupcan means
+clear skies; Visser means a package’s coming
+from home. Postpaard or Grote Boom mean
+bad news—there’s an assault or an ambush
+waiting, respectively. Dog Heads, you put out
+and keep, because dogfaces will trade good absinthe for them.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+LINE SQUADS - 3-3
+
+FM 100-1-8X
+FEDERAL EXPEDITIONARIES
+
+FEDERAL EXPEDITIONARIES - 15 pts
+PARATROOPER SQUAD
+
+__________________________
+Inf (S), H1, S16”, M5”, Q3, T1/1-/1Assault Dismount, Fearless, Paradrop
+
+__________________________
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L3 40mm HEDP Grenade Launcher
+Inf/Vec, R8”, A*, S5/1+, D1, Ammo 4,
+Shaped Charge, Slow Round,
+Underbarrel (6G1A)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARATROOPER SQUAD
+
+__________________________
+REMARKS
+The steely-eyed and the straight-backed;
+the berserk and the proud and the stupid-tough. Expeditionaries bring the North
+Star’s gleam to the ends of the world—or,
+more frequently, off the end of a transport
+plane over enemy lines. With a lineage
+dating to the days of horse and musket, on
+land, sea, and air, they are the Intermarium’s premier quick-reaction and power
+projection force.
+Their primary armament is a heavy barreled, drum-fed automatic variant of the
+6G1 battle rifle meant for close-in burst and
+full-auto firing. Squad leaders carry an underbarrel 40mm HEDP grenade launcher.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-4 - LINE SQUADS
+
+“...He counted long, he counted loud, he
+waited for the shock,
+He felt the wind, he felt the cold, he felt the
+awful drop,
+The pulsing beams were gleaming past and
+coring out the sky,
+And he ain’t gonna jump no more.
+Gory, gory, what a mess of a way to die!
+With a bottle in your left hand, falling right
+out of the sky!
+Gory, gory, what a mess of a way to die!
+And he ain’t gonna jump no more.
+The searing finger found his chest, his lungs
+blew out his back,
+The laser took his rib-meat and it cooked it on
+the rack,
+His head and hat came flying off and fell into
+my lap,
+And he ain’t gonna jump no more.”
+- Excerpt from “Smoke on the Risers”
+
+FM 100-1-8X
+
+MORTAR TEAM
+
+MORTAR TEAM - 10 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6L2 60mm Knee Mortar
+R16”, Ammo 6, Light Indirect (1),
+No CC
+→ 60mm Frag
+Inf/Vec, A4+/xx, S1+/1+, D2,
+Air-Filling
+→ 60mm Smoke
+Gnd, A++/xx, D1, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL TEAM
+
+__________________________
+REMARKS
+Knee mortars are the ubiquitous light fire
+support system of the States-Army. They
+are cheap to produce, handy, and portable
+along with their lightweight ammunition.
+While the 6L2 is equipped with a “sling
+sight”, seasoned operators usually establish
+range by intuition and muscle memory.
+Frag bombs, due to their small size, are
+utterly useless against armored vehicles
+of any kind, and they struggle against rigid
+body armor. Even when unable to score a
+kill, though, smoke bombs permit the knee
+mortar to help screen an advance.
+
+Knee mortars, huh? They still call them that?
+Hey, there’s some good in the world. Word to
+the wise: don’t fire this thing off your knee. It’s
+cute, and it’s not as bad to carry as a GPMG,
+but it’s got more kick than you’d think.
+A good seasoned crew, a few of these things,
+some bomb-handers crouching by, the kill
+zone zeroed well in advance with that cute
+little sling-sight—and you can tear up a whole
+dogface platoon in a few seconds.
+The Main Rocket & Artillery Directorate, a
+while back, tried a shaped charge warhead for
+these things. They thought you’d sink perfect
+shots right through thin tank rooftops. They
+had to cut it out. Grunts kept breaking their
+shoulders trying to fire it flat like a bazooka.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-5
+
+FM 100-1-8X
+
+ATGM TEAM
+
+ATGM TEAM - 10 pts
+ANTI-TANK TEAM
+
+__________________________
+Inf, H1, S32”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK TEAM
+
+__________________________
+REMARKS
+Anti-tank weapons team armed with the
+“manpack” variant of the old wire-guided
+9GR1 ATGM. Small enough to fit in a backpack (along with its control board and targeting hardware), the 9GR1 was one of the
+first weapons to grant small infantry teams
+the ability to destroy enemy tanks at standoff ranges. Vast stockpiles exist.
+The 9GR1 complex is not without its drawbacks. As a MCLOS system, it requires that
+the gunner both track the missile in flight
+and the target (to manually steer the first
+into the second). Suppressive fire directed
+at the gunner easily disrupts the concentration required to effectively steer the 9GR1.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-6 - WEAPONS TEAMS
+
+Waste not, want not, even when it gets you
+killed. The 9GR1 is older than most of the kids
+in the force now. There’re so many of them that
+you could hand them out as firecrackers, and
+come Victory Day they do, without noticeably
+denting the stocks. They’re built to last, too;
+some poor dumbass two hundred years from
+now is still gonna be a joystick jockey for one
+of these.
+The plain fact is that it works, and that’s all
+you get. If you can steer it into a moving,
+shooting target on a landscape that isn’t as
+flat as the practice range—if, if, and if—it’ll
+punch its way through pretty much any armor
+bar the most advanced stuff around.
+If you’re lucky (or, more likely, if you’re one
+of a half-dozen tank-killer teams in the same
+bush) you’ll bag something that cost way more
+to field than you did.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+MANPADS TEAM - 10 pts
+
+MANPADS TEAM
+
+ANTI-AIR TEAM
+
+__________________________
+Inf, H1, S32”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+9GR2 85mm MANPADS
+Air, R60”, A4+/xx, S5/5, D1,
+Ammo 2, Air-Filling,
+Guided Missile (2), Homing,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“I don’t know about you, but I’m damned
+creeped-out by these damned missiles.”
+“Yeah?”
+TYPE: ANTI-AIR TEAM
+
+__________________________
+REMARKS
+
+“Look at its eye.”
+“That’s the seeker. It’s—”
+
+Anti-air weapons team armed with the
+9GR2 man-portable air defense system
+(MANPADS). Shoulder-fired missiles are
+by necessity neither particularly powerful
+nor exceptionally long ranged by surfaceto-air missile standards, but can still deny
+airspace to enemy attack helicopters.
+
+“Yes, I know it’s a gyroscope and some
+magnets—but it feels so alive! Look how it
+follows my cigar around. It wants it, doesn’t
+it!”
+
+The 9GR2 system is an IR-guided, “fire and
+forget” solution to low-altitude air defense.
+Once locked on and fired, the missile will
+track the target’s heat signature to impact,
+regardless of what happens to the firer. It
+is not unerring—IR countermeasures or
+sharp evasion can confuse the seeker, and
+the missile’s size limits its flight profile.
+
+“I’m giving it what it wants.”
+
+“I—why are you putting it in the missile’s
+housing?”
+
+“You do realize we’re supposed to be evaluating these things, right? Not damaging them?”
+“What, did you pay for it yourself?”
+- Overheard in Room 502,
+Klein Grotehaven Proving Grounds
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-7
+
+FM 100-1-8X
+RECOILLESS RIFLE TEAM
+
+RECOILLESS RIFLE TEAM - 15 pts
+GENERAL-PURPOSE TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6L5 73mm Recoilless Rifle
+R24”, D1, Ammo 4
+→ 73mm HEAT
+Inf/Vec, A3+/xx, S8/1+, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 73mm Incendiary
+Inf/Vec, A3+/xx, S1+/1+,
+Ignore Cover (2), No CC (Inf.),
+Rear Attack, Slow Round
+→ 73mm Smoke
+Gnd, A++/xx, No CC, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: GENERAL-PURPOSE TEAM
+
+__________________________
+REMARKS
+Recoilless rifles are reliable, versatile, and
+lightweight for the heavy punch that they
+can deliver. Compared to an equivalent
+enclosed-breech cannon, they stress their
+mounting platform considerably less; thus,
+they are usually shoulder-fired or mounted
+to tripods.
+The 6L5 recoilless rifle is the standard
+F.S-A. heavy direct-fire support weapon.
+It fires a variety of ammunition: HEAT,
+napalm incendiaries, and smoke. In almost
+every tactical situation it has some utility.
+Compared to specialist weapons such as
+ATGMs and mortars it is generally less efficient against particular target types.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-8 - WEAPONS TEAMS
+
+The saying used to go: “Where a goat can go, a
+man can go. Where a man can go, he can drag
+a gun.” Small cannons aren’t much the style
+anymore, at least here between the seas, but
+any tube-lugger knows it by heart nonetheless.
+Back home in Cydoland—down in the mountains, right up to the face of the sea—they
+love these things like nothing else. It’s not just
+paranoia, or an excuse to fire off seventy-threes
+into the woods when you’re bored. The little
+mountain hamlets outside the big cantons use
+recoilless rifles for avalanche control. Better to
+break the snowdrift up while it’s still forming,
+before you and your whole town get buried
+overnight.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+EXPEDITIONARY R.R. TEAM
+
+EXPEDITIONARY R. R. TEAM - 15 pts
+PARATROOPER G. P. TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q3, T1/1-/1Assault Dismount, Fearless, Paradrop
+
+__________________________
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L6 57mm Light Recoilless Rifle
+Inf/Vec, A3+/5+, Ammo 4,
+Small Arm
+→ 57mm HEAT
+R24”, S6/1+, D1, Shaped Charge,
+Slow Round
+→ 57mm Canister
+R12”, S1/1, D3
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARATROOPER G. P. TEAM
+
+__________________________
+REMARKS
+Light recoilless rifle system designed for
+parachute deployment. Employed by the
+Expeditionary Corps as their staple fire
+support and anti-tank platform. Limited
+firepower, but small enough to be bundled
+to a paratrooper during a jump.
+Canister ammunition is provided to offset
+the limited fire support usually offered to
+the F.E.C. in its forward deployments—thus
+granting the 6L6 system a dual anti-tank
+and anti-personnel role. Designed for high
+portability, it is most frequently fired from
+the shoulder.
+
+A lot of the General Staff are contentious about
+this thing. They like to hold it up, really, the
+whole thing in front of the table, and cry
+about it. It’s too underweight for its job; it’s
+had its day already. The Expeditionaries are
+just being pig-headed in hanging onto such an
+obsolete hunk of junk.
+They clearly don’t watch their own tapes. I’ve
+seen one; it’s Bluebird footage, real crisp stuff,
+of an E.C. attack on a lupe howitzer battery.
+They dropped right on top of them—the ones
+that made it through the AA were loaded and
+shooting five seconds after they hit the ground.
+Knees of steel, and a ton of scrap in their wake.
+See, it’s not about the numbers, or how much
+steel it penetrates head-on. It’s about where
+you can put it.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+WEAPONS TEAMS - 3-9
+
+FM 100-1-8X
+
+PUP CARSON SCOUTS
+
+PUP CARSON SCOUTS - 10 pts
+PATHFINDER TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Amphibious, Sense (6”)
+
+__________________________
+Any vehicle with at least M6” which this unit
+embarks or desants on can make a “pathfinder
+move” during the Maneuver Phase, which is
+only M6”, but ignores terrain entrance/exit
+cost and all terrain multipliers.
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PATHFINDER TEAM
+
+__________________________
+REMARKS
+Lupar expatriates in contract service with
+the F.S-A. as scouts and navigators. Generally recruited from Cydoland’s forests.
+Valuable for their skill in guiding vehicles
+through difficult terrain. Most carry modified Federal small arms that are better
+suited to luparic anatomy than standard
+issue rifles.
+Named after the the folkloric “Pup Carson,”
+whose tenure with the early Confederate
+States-Army created a continuing tradition
+of cooperation between the men of the
+Federation and sympathetic lupar inhabiting Intermarine territory.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+3-10 - SPECIAL
+
+Pup Carson is from the cast of characters every
+Federal schoolchild learns before they’re ten.
+The scene should be familiar from song and
+story: the heady days of the Secession, when
+the four-state Intermarine Confederacy fought
+for its birth under wise old Hendrik van Veldjen’s leadership. Carson was a raider chieftain.
+Tall tales have it that he was three meters tall
+and red-furred (gray originally; it was all
+dried blood). Whatever his actual name was
+isn’t important.
+When his warband met with van Veldjen’s
+army in what’s now Sumpkassel, they dueled—
+wolfman to man. Veldjen won, in front of the
+whole host, torn and pale with blood loss. He
+spared the lupe’s life and so won his undying
+loyalty. They became allies and the best of
+friends: “Pup Carson” is a nickname that the
+dogface took along with his blue coat.
+They trot the story out now and again to Cydoland lupes. They need no convincing to join;
+most hate the Ebon Forest already.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+INTERMARINE RANGERS
+
+INTERMARINE RANGERS - 15 pts
+SCOUT-SNIPER TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q4, T1/1-/1Assault Dismount, Fearless
+
+__________________________
+This unit does not lose accuracy from pin
+tokens while it is not identified.
+
+__________________________
+6G5 7.76mm Sniper Rifle
+All, R16”, A2+/xx, S1/1+, D1,
+Discreet, No CC, Scoped, Small Arm,
+Thermal Sights
+6P3 11.5mm SMG
+All, R8”, A3+/3+, S1-/1, D2,
+Small Arm
+1A5P MVSO Acquisition Laser
+All, R40”, A++/xx, D1, Designator,
+Discreet
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: SCOUT-SNIPER TEAM
+
+__________________________
+REMARKS
+Special operators outside the regular army
+structure. All Rangers are practiced sharpshooters and outdoorsmen—the eyes and
+ears of the F.S-A., and the typical solution
+for troublesome enemy commanders.
+Typical armament is the 6G5 bolt-action
+sniper rifle (plus personal self-defense
+weapons) and the 1A5P handheld laser
+designator to tag targets for friendlies. As
+the first testers of Klein Grotehaven’s R&D,
+many are implanted with experimental
+biological multispectral antennae derived
+from enemy capture (see FM 100-3-8X).
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Communication Implant, 10I1 “Whisper”.
+Rygo ground forces are wired up with these
+things. They don’t talk in combat: any relevant info’s shared at the speed of light. Every
+advanced power on Oid envies that kind of
+tech. Our reverse-engineering program is the
+farthest along. That isn’t saying much.
+The Rangers were singled out as early adopters. They liked the idea: stealthy, efficient, and
+it let you silently shit-talk the grunts hanging
+back in their Grumbles as you solved their
+problems. Our imitation rigs even kind of
+work. The problem is that they’re hooked into
+human bodies and human brains, not plastic
+imitations with ruggedized data ports.
+The rejection rates and medical complications
+are almost not worth the trouble. Almost.
+- Rayleigh Irving, Federal Intelligence
+SPECIAL - 3-11
+
+FM 100-1-8X
+
+3-12 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+THE THIRD NIGHT OF THE BOMBARDMENT. One thousand 152mm shells a day, uncountable
+82 and 60mm mortar rounds, tank guns of every caliber, a pounding, pounding, an upheaval of the
+earth. Not a drumbeat but a continuous roar. The pained cry of a wounded mountain—and upon
+its eroding peaks an erupted pimple of sandbags and barbed wire and pulverized dog-flesh.
+My Korenbloem is silent. Though she weighs 600 kilograms, she’s rattled all day from her own
+metronomic blasts. Were my lighter to fail me, I could light my cigar against her barrel. Big guns
+never tire, but they do demand breaks. I lay in the pile of spent casings and smoke. My brain is split
+from my skull, a rattling dense mass, my eyes and ears jarred loose from their mountings.
+A slimy coldness crests my boot. It’s a “little corporal”: an iron-shod snail, grotesquely large and
+well-fleshed, its shell in dazzle livery. From a hump it’s grown a keratinous gun-barrel that waves
+back and forth as it slithers. We’re supposed to shoot them, because they keep shooting us. Nobody
+does. They’re proof positive that from the Great Gun came all life.
+The snail slips over the boot, into the massive casings, squeezing itself in and sucking in its disgusting eyestalks. I can’t hear it slopping at the unburnt residues, but I know what it sounds like.
+It’s methodical; you could call the insides polished. It couldn’t care less that the howitzers are still
+pounding not a hundred meters away.
+On the other end of the pile another’s crept up. Someone’s balanced their cap on this one’s shell. It
+makes for a serviceable hat rack. Not like it’ll run away.
+- Jan Oldegberts, Lieutenant, Battery A, Van Toor’s Consolidated Brigade
+FEDERALS CARRY THEMSELVES with an air of practiced stolidity. They seem immensely thickskinned, earnest, utterly uninterested in the opinions of others about themselves. And it is true
+that one hardly needs to mince words when dealing with them—something I find to be a greatly
+refreshing diversion from my usual clientele.
+But the truth is that their pride is easily wounded. Words roll off their back, and in conquest they are
+often magnanimous—but the matter must be settled first. And should you defeat them, or humiliate
+them in concrete action, they will seek their restitution. It may be tomorrow, or it may be in ten
+years, but it will happen. In matters of honor, their accounting is exact, and their drive to balance
+the books paramount.
+That is not wholly unusual. It is a national character that our rival princes in An Khnum Koine
+respect as kindred—and thus one I must deal with constantly, even in domestic affairs. But there are
+differences you ought to know. For one, the Koine princes cannot understand how Lowlanders can
+laugh off deadly insults in the street. They cannot see how such a people could go on existing. For
+another, those princes understand the concept of sunk cost as something applicable to war.
+- Corto Tulli, Antedirector, Kitrantum Central Bank
+SUPPLEMENTAL FILES - 3-13
+
+FM 100-1-8X
+
+3-14 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+CHAPTER 4
+
+VEHICLES & TOWED GUNS
+The pride and joy of the States-Army is its rolling thunder. There is a fighting vehicle for
+almost every description in the F.S-A., backed up by a competent logistics and artillery corps.
+Generally speaking, wherever infantry and aircraft prove lackluster, it is the tanks that must pick
+up the slack—something they are well-equipped to do.
+LOGISTICS
+LaF-301 “OX” - LOGISTICS TRUCK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 4-2
+PERSONNEL CARRIERS
+TYPE 60 “GRUMBLE” - ARMORED PERSONNEL CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 4-3
+TYPE 68 “BANTAM” - INFANTRY FIGHTING VEHICLE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 4-4
+TYPE 68B “BANTAM-MK” - INFANTRY FIGHTING VEHICLE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 4-5
+ARMOR
+TYPE 40M “VELDJEN-M” - MEDIUM TANK  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 4-7
+TYPE 52 “DUCK” - LIGHT TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 4-8
+TYPE 52P “MALLARD” - AIRMOBILE LIGHT TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 4-9
+TYPE 55M “RAZORBACK-M” - MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 40 pts / 4-10
+TYPE 71 “TUSKER-K” - MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 4-11
+TYPE 71B “TUSKER-GM” - MAIN BATTLE TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80 pts / 4-14
+FIRE SUPPORT
+2M9 “KORENBLOEM” - TOWED AUTOMATIC MORTAR  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 4-16
+2K52 “WHEAT” - TOWED HOWITZER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 4-17
+TYPE 60AT “RUNNER” - ATGM CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 4-19
+TYPE 52LW “FIREHOSE” - SELF-PROPELLED ANTI-AIR GUN .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 4-20
+TYPE 60MD “WAVE” - AUTOMATIC MORTAR CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 4-21
+TYPE 60LW “COACHMAN” - ANTI-AIR MISSILE CARRIER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 4-23
+TYPE 71H “TUSKER-AV” - SELF-PROPELLED HOWITZER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 50 pts / 4-24
+SPECIAL
+S36 “PADDLE” - RIVER GUNBOAT .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 4-25
+
+VEHICLES - 4-1
+
+FM 100-1-8X
+
+LaF-301 “OX”
+
+LaF-301 “OX” - 10 pts
+LOGISTICS TRUCK
+
+__________________________
+Vec (W), H2, S16”, M8”, Q2, T1/1/1
+PC (2, Rear), Resupply (6), Tow (3)
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LOGISTICS TRUCK
+
+__________________________
+REMARKS
+Unarmored medium transport and utility
+truck. Tough and reliable, with a well-tuned
+design. Not a fighting vehicle and thus recourseless against attack. Able to resupply
+ammunition and tow artillery pieces or
+vehicles; also able to transport infantry in
+a pinch. The cargo bed is modular and may
+be equipped with variable beds depending
+on the mission.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-2 - LOGISTICS
+
+It’s a truck.
+Well—it’s THE truck. The LaF-300 was a new
+toy when most of the brass were toddlers (officer
+cadets). Like most good things it’s the product
+of a couple thousand iterative refinements, of
+which the 301 series is the definitive version.
+You can find quite a few makes of crate-hauler
+hawked by the States-Army’s subcontractors,
+but LaF always wins the big contracts.
+I think it’s a familiarity thing more than anything else. It’s not a bad truck, by any means,
+but one look at the lines of the cab and you
+can tell this thing’s older than you. Not that
+the moldering coots in the General Staff would
+hear a word about replacing it—they’d rather
+die first, something they’re making good progress towards.
+You’ll never get the hardtack-and-coffee smell
+out of one of these. Take it from me.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+
+TYPE 60 “GRUMBLE”
+
+TYPE: ARMORED PERSONNEL CARRIER
+
+TYPE 60 “GRUMBLE” - 10 pts
+
+REMARKS
+
+__________________________
+
+Proven, reliable, and ubiquitous armored
+personnel carrier; the staple of Federal
+motor rifle regiments. A “battle taxi”: able
+to quickly ferry infantry squads, protected from small arms and fragments. Very
+lightly armored. The rear ramp is potentially penetrable by small arms fire in unlikely circumstances.
+
+Vec (W), H2, S24”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (3, Rear)
+
+__________________________
+
+Primary armament is the 2K15 automatic
+grenade launcher, offering effective fire
+support against entrenched or exposed
+infantry. The vehicle is also armed with
+the standard 6G2 machine gun in a coaxial
+mount.
+Capable of transporting a squad of infantry through all terrain, although less effectively than tracked vehicles. The Grumble
+is buoyant and can tread water with its
+wheels and a simple water-jet system.
+
+ARMORED PERSONNEL CARRIER
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/6+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Slow Round, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A tin can for Willy Bluecoat. Once you see the
+seating arrangements you’ll understand the
+name. Can fit a squad and either a few extra
+guys or some full coolers—guess which ends up
+riding on top. There’s a wall mounting bracket
+inside that I’m sure the designers intended for
+the cheap TV that grunts always hang from it.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PERSONNEL CARRIERS - 4-3
+
+FM 100-1-8X
+
+TYPE 68 “BANTAM”
+
+TYPE: INFANTRY FIGHTING VEHICLE
+
+TYPE 68 “BANTAM” - 20 pts
+
+REMARKS
+
+__________________________
+
+The pugnacious personnel carrier of a
+Federal tank regiment’s attached infantry,
+and a general replacement to the erstwhile
+Grumble in more elite units. Still lightly
+armored, but packs better cross-country
+mobility and vastly superior firepower (in
+turn reducing personnel carriage capacity).
+
+Vec, H2, S32”, M8”, Q3, T6/4/4
+Amphibious, NBC, PC (2, Rear),
+Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K28 low pressure gun, firing HEAT ammunition similar
+to that of infantry recoilless rifles. For longrange anti-tank use, a “pop-up” launcher
+with two 9GR1 ATGMs is provided. Smoke
+launchers partially negate its poor armor.
+With good ground and tactics, the Bantam
+can hold its own against enemy armor, and
+has the firepower to closely support its
+disembarked infantry. It is not, however, a
+real tank, and shouldn’t attack like one.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2K28 73mm Low-Pressure Gun
+Inf/Vec, R22”, A4+/4+, D1, Ammo 4,
+No CC (Inf.), Slow Round, Turret
+→ 73mm HEAT
+S9/1+, Shaped Charge
+→ 73mm HE-Frag
+S3/3, Ignore Cover (1)
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge, Turret
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-4 - PERSONNEL CARRIERS
+
+FM 100-1-8X
+
+TYPE 68B “BANTAM-MK”
+
+TYPE: INFANTRY FIGHTING VEHICLE
+
+TYPE 68B “BANTAM-MK” - 25 pts
+
+REMARKS
+
+__________________________
+
+A modification of the successful Bantam
+IFV, replacing its low pressure gun with
+a rapid-fire 23mm autocannon. All other
+vehicle systems, including its ATGMs and
+smoke launchers, remain the same. While
+formally accepted into service, it has not
+replaced the standard Bantam and remains
+less common. Preferred by some commanders, especially those of independent
+infantry or dragoon formations.
+
+Vec, H2, S32”, M8”, Q3, T6/4/4
+Amphibious, NBC, PC (2, Rear),
+Steel Watchbands
+
+__________________________
+
+While it lacks the firepower of the low pressure gun, the 2A34 autocannon reaches
+substantially farther and can effectively
+target helicopters as well as ground troops.
+It permits the Bantam-MK to support its
+dismounted infantry outside the range of
+most non-guided man-portable weapons.
+While powerful enough to destroy light
+vehicles, however, it is not effective against
+tanks head-on.
+
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2A34 23mm Autocannon
+All, R32”, A4+/4+, S4/6, D2,
+Ammo 4, No CC (Inf.), Turret
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge, Turret
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PERSONNEL CARRIERS - 4-5
+
+FM 100-1-8X
+
+THE FEDERALS are not good infantrymen. They are good shots and brave but they are men and
+not wolves. Their stomach is not in the attack on foot or the encirclement. The bayonets stay folded,
+the knives in their scabbards. But they beat us.
+They ride to battle on churning treads. They sit and shoot from a firing-port. They breathe air at
+positive pressure without poison or hateful silver. When our field guns shake the earth they are
+shielded from the shell splinters’ bite by steel armor. When the whistle blasts and the ramp drops
+they are fresh and the work is already half-done for them.
+We march on foot. When there are armored carriers we are kenneled inside and on the roofs for
+want of space. The fuel runs out and we are thrown off to make our own way. We discard our dear
+possessions and take up the double-quick and it is not enough. By the time we huddle in our new
+post the enemy has already broken through and we are exhausted in body and mind.
+The Federals need not be good infantrymen. They are present and fresh and that is better by far.
+- Conchar Goronwy, Chasseur, 96e Division d’Infanterie
+
+4-6 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+TYPE 40M “VELDJEN-M”
+
+TYPE: MEDIUM TANK
+
+TYPE 40M “VELDJEN-M” - 20 pts
+
+REMARKS
+
+__________________________
+
+Elderly, universally acclaimed medium
+tank of decades’ vintage. Named for the
+father of the States-Army. Profoundly out
+of date, despite heavy upgrades to nearly
+all its systems. Issued to reserve units,
+the Whitewater Guard, and available for
+surplus civilian purchase. No two are
+exactly alike.
+
+Vec, H2, S32”, M6”, Q2, T8/6/5
+NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K70 low-caliber
+high-velocity gun. The turret has been extensively refitted with a modern stabilizer,
+allowing accurate “rolling fire” while on
+the move. No explosive shell is provided.
+Secondary armament is the 2K15 automatic grenade launcher in a sponson mount,
+offering basic fire support against soft
+targets in cover.
+Inadequate armor to withstand modern
+tank guns and ATGMs.
+
+MEDIUM TANK
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2K70 57mm High Velocity Gun
+Vec, R40”, A4+/4+, S12/18, D1,
+Ammo 6, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/5+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Multi-Gun, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Any tank is better than no tank. But I don’t
+envy you if you’re driving one of these. Pick
+one, any one. Many wars ago, they powerwashed a crew out of it.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-7
+
+FM 100-1-8X
+
+TYPE 52 “DUCK”
+
+TYPE: LIGHT TANK
+
+TYPE 52 “DUCK” - 20 pts
+
+REMARKS
+
+__________________________
+
+Standard-issue light tank for States-Army
+reconnaissance and dragoon units, as well
+as a cheap substitute for heavier tanks in
+lower-tier motor rifle formations. Now that
+its teething problems have been resolved,
+the amphibious Duck has proven itself a
+useful augment to the States-Army’s mobile
+troops.
+
+Vec, H2, S32”, M10”, Q2, T6/5/4
+Amphibious, NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K81 hybrid
+gun-launcher, adapted from the heavyweight Tusker-GM MBT (albeit missing the
+ATGM control hardware and biocomputer).
+It is disproportionately powerful for the
+tank’s small size and thin armor. Propellant (and therefore both recoil and range)
+is reduced on the issued HEAT rounds to
+prevent damage to the tank over time.
+Anti-infantry utility is increased by flechette-packed “beehive” rounds capable of
+killing large numbers of dispersed troops.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-8 - ARMOR
+
+LIGHT TANK
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+2K81 152mm Gun-Launcher
+Inf/Vec, A4+/5+, Ammo 4, Turret
+→ 152mm HEAT
+R32”, S14/2, D1, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 152mm Beehive
+R16”, S1/1+, D5, Defensive CC (Inf.)
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+
+TYPE 52P “MALLARD”
+
+TYPE: AIRMOBILE LIGHT TANK
+
+TYPE 52P “MALLARD” - 20 pts
+
+REMARKS
+
+__________________________
+
+Modification of the Duck light tank, designed for and operated by the Expeditionary Corps. While the Duck was originally
+designed with paradrop capability, successive armor and firepower upgrades have
+removed that capability. The Mallard’s
+poorer armor and smaller main armament
+lightens it sufficiently for safe rocket-assisted parachute deployment; lesser protection is counterweighted by the addition
+of a rudimentary active protection system.
+
+Vec, H2, S32’’, M10’’, Q3, T4/3/3
+Active Protection (1), Amphibious, NBC,
+Paradrop, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K56 rifled gun,
+the final product in a long line of Federal
+76mm tank guns. HVAP and HE-frag
+rounds give it modest fire support and
+anti-armor capabilities. Smoke launchers
+partially negate its very light armor.
+Almost all Mallards in service have
+been retrofitted with a rifle-caliber 2A76
+minigun, “acquired” from neighboring
+helicopter troops and pintle-mounted as a
+powerful backup weapon.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AIRMOBILE LIGHT TANK
+
+__________________________
+2A76 7.76mm Minigun
+All, R12”, A4+/6+, S1/1+, D4, Turret
+2K56 76mm Gun
+R32’’, A4+/5+, D1, Ammo 3,
+No CC (Inf.), Turret, Slow Round
+→ 76mm HVAP
+Vec, S8/15
+→ 76mm HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1)
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The Corps doesn’t investigate stealing from
+sister services.
+- Rayleigh Irving, Federal Intelligence
+ARMOR - 4-9
+
+FM 100-1-8X
+
+TYPE 55M “RAZORBACK-M”
+
+TYPE: MAIN BATTLE TANK
+
+TYPE 55M “RAZORBACK-M” - 40 pts
+
+REMARKS
+
+__________________________
+
+First generation main battle tank, now relegated to second-line F.S-A. armor formations. While a marked improvement over
+the obsolete Veldjen, it is still not quite up
+to modern technical standards, even with
+successive fire control and armor retrofits.
+An outdated tank, however, is still much
+better than no tank at all.
+
+Vec, H2, S32”, M8”, Q3, T14/7/5
+NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K41 tank gun,
+firing 100mm sabot or high explosive
+shells. While its fire control is not modernized (lacking a biological fire control unit)
+it is still an accurate and reliable anti-tank
+weapon. The turret-mounted 6GZ1 heavy
+machine gun serves as an excellent general
+purpose backup weapon effective against
+all soft targets on land and air.
+While of limited purpose on a modern battlefield, the hull machine gun is still useful
+for suppressive fire at close quarters.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-10 - ARMOR
+
+MAIN BATTLE TANK
+
+__________________________
+6G2 7.76mm MG, hull
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+6GZ1 14.5mm HMG
+All, R24”, A4+/6+, S3/4, D2, Turret
+2K41 100mm Gun
+R40”, A3+/4+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights, Turret
+→ 100mm APDS
+Vec, S12/18
+→ 100mm HE-Frag
+Inf/Vec, S4/4, Ignore Cover (1),
+Slow Round
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES - 4-11
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+THE RULE is simple. Veldjen rolls up to your post, closed hatch, no familiar unit insignia. If it’s
+dirty, you’re being reinforced by the Whitewater Guard. Laugh away, they know, they hate it, it’s
+not your problem.
+If it’s clean, straighten your back and click your heels right away. You’re looking at a staff car, not
+a tank.
+- Rayleigh Irving, Federal Intelligence
+3GSh2 “BEEHIVE”
+I don’t like needles. I’ll admit it. I was plain terrified of them as a kid and I still don’t go out of my
+way to see the sawbones today. I guess Klein Grotehaven’s figured out mind-reading, because this
+stuff comes right out of my childhood nightmares.
+Take a flechette—a little sharp steel dart. Pack about five thousand of them real snug into a shell and
+you’ve got a beehive round. It’s called a beehive because it sounds like you just stirred up the ugliest
+hive in the crookedest tree. It’s a special sound. Hard to describe, but you’ll pick it up right away
+over the small arms and artillery once you know what to listen for.
+Duck jockeys carry more of these things than they do HEAT. See, they’re driving an aluminum
+box that’s just thick enough to not crumple when raindrops hit it. The Ducks are out there doing
+recon-in-force, flanking attacks, exploitation. All that nasty business in the enemy’s country, where
+a tank-killer team could be lurking around every corner, and nobody’s coming to back you up if you
+get stuck. It makes ‘em neurotic. The slightest hint of movement or sound (how they hear anything
+over their diesels, I’ll never figure out) and the big gun goes blasting off.
+Usually it’s nothing. A swathe of dense forest cleared of flora and fauna alike—birds and bugs and
+all that pinned to the trunks. An entomologist’s dream. Everything in place, just like his bug collection. Sometimes, the smoke clears and it’s a whole platoon of minced dogfaces.
+- Rayleigh Irving, Federal Intelligence
+A RAZORBACK is a taxi. You see all sorts come out of the hatch. Brown-eyed boy from Cydoland
+with a hint of baron’s blood in his nose; he’s the gunner. A blond chap from Djekker loads. The
+driver’s a pug-faced teen from Vykeland whose name they cut down to a letter. I once saw them pull
+out a half-shaven lupe whom they had caught trying to sap near their foxhole.
+Everyone is a passenger. Eventually, a new man from Sumpkassel has to come in and drive it away
+again, because you can’t have a tank with no driver. She’s nobody’s ride.
+- Johannes Veeneman, F.S-A. General Staff
+4-12 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+TYPE 71 “TUSKER-K”
+
+TYPE: MAIN BATTLE TANK
+
+TYPE 71 “TUSKER-K” - 50 pts
+
+REMARKS
+
+__________________________
+
+Lean, mean, and deadly: the main battle
+tank by which all other armor is defined
+and rated. Nothing less than the sum of
+the States-Army’s strengths, at a cost low
+enough to be widely available even in nontank regiments.
+
+Vec, H2, S32”, M8”, Q3, T16/8/6
+NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the smoothbore 2K43
+115mm tank gun, firing punishingly strong
+sabot or HEAT shells over long range. An
+onboard biological fire control computer
+ensures firing solutions are highly accurate. As on its older brother, the Razorback, the 6GZ1 heavy machine gun serves
+an all-purpose backup role from its cupola
+station.
+The armor array is a modern, classified
+composite offering significantly improved
+performance against even ATGMs (from
+the front) relative to older all-steel mixes.
+
+MAIN BATTLE TANK
+
+__________________________
+6GZ1 14.5mm HMG
+All, R24”, A4+/5+, S3/4, D2, Turret
+2K43 115mm Gun
+R40”, A2+/3+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights,
+Turret
+→ 115mm Sabot
+Vec, S14/21
+→ 115mm HEAT
+Inf/Vec, S12/2, Slow Round,
+Shaped Charge
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+ARMOR - 4-13
+
+FM 100-1-8X
+
+TYPE 71B “TUSKER-GM”
+
+TYPE: MAIN BATTLE TANK
+
+TYPE 71B “TUSKER-GM” - 80 pts
+
+REMARKS
+
+__________________________
+
+An extensive armor and weapons refit of
+the ubiquitous Tusker-K main battle tank
+for first-echelon Federal armored units.
+GM jockeys consider themselves a cavalry
+elite, and have a sterling performance
+record to back it up. The Tusker-GM
+represents the bleeding edge of Federal
+armored warfare—at least beyond the
+proving grounds at Klein Grotehaven.
+
+Vec, H2, S32”, M8”, Q4, T24/12/8
+NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2K81 152mm
+gun-launcher, capable of firing either
+tandem warhead HEAT shells or 9R111
+radio-guided missiles with either anti-tank
+or thermobaric warheads. Fully automatic
+ballistic calculation and missile guidance
+is provided by the onboard Advanced Biological Gunnery (ABG) unit. Its external
+housing may be easily identified by the
+constantly-scanning red “eye” of its optical
+suite. Tanks below serial number 996 still
+include an automatic fire authority mode.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MAIN BATTLE TANK
+
+__________________________
+6GZ1 14.5mm HMG
+All, R24”, A4+/4+, S3/4, D2,
+Thermal Sights, Turret
+2K81 152mm Gun-Launcher
+D1, Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+→ 152mm Gun-Launched ATGM
+Vec, R12-60”, A2+/xx, S18/3,
+Guided Missile (1), Shaped Charge
+→ 152mm Gun-Launched Thermobaric
+Gnd, R12-60”, A3+/xx, S3/3,
+Guided Missile (1), Ignore Cover (2),
+Radius (2”), Rear Attack
+→ 152mm Tandem HEAT
+Inf/Vec, R40”, A2+/3+, S18/3,
+Slow Round, Shaped Charge
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-14 - ARMOR
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+MORE THAN all else we hate the blue tanks. Heavy guns bombard us and airmen splash our
+dugouts with liquid fire. We can do nothing about these and so we endure them with patience. They
+pass. Only the stench of cordite or flesh too charred to eat remains. It is bad luck and nothing more.
+There will be the waykeepers and the burial rites. The decomposition agent that tastes bitter. A fact
+of life in war.
+But the tanks are terribly personal. They take our missiles on the nose and yet they roll on. Their
+caterpillar tracks grind over the land and negotiate the hollows without sense or fatigue. Neither
+round nor mine affects them.
+Mass! Bitter mass! They are steel made alive and vindictive. The yawning gun-barrels swing to and
+fro with intent and the scanning eyes glower at us in the dark. They run down the stragglers. The
+diesels roar like cave panthers and the tracks crackle like meat on the fire. The wounded are overtaken and crushed like emptying tubes. Those who hide are dragged from their foxholes by heavy shells
+and thrown in the air like tattered ragdolls.
+We wager flesh against steel. We crawl in the hollows with rocket tubes slung over our backs until
+we smell the cigars of the infantry escorts and we spear the great metal flanks as the earth rumbles
+under-elbow. Sometimes they burn and so do the men inside. Sometimes they are unhurt. It is never
+enough. The flotillas roll on and bury our foxholes with smart quarter-turns and stab at our noses
+with reeking exhaust.
+- Conchar Goronwy, Chasseur, 96e Division d’Infanterie
+THE OFFICER looked Lieutenant Scheffer up and down. Her stare was wooden. A low, rueful
+chuckle passed around the faces of the men in the dugout. The officer raised his hand for silence.
+“Lieutenant, welcome back to our lines. But there’s a problem.”
+Scheffer swallowed. The stare didn’t shift.
+“We were unable to identify the source of the fire that immobilized us, sir. An immobilized vehicle
+is a static target. A static target is a dead—”
+Her interrogator held up his hand again.
+“Spare me the recitation, Lieutenant. I am familiar. Your tank, hull serial number 996, seems to
+have eliminated the enemy in your sector—after you abandoned it.”
+Scheffer’s careful demeanor melted a little. “Perhaps we can recover it?”
+“Little chance of that, Lieutenant,” the officer told her truthfully. “996 is firing on us about as accurately as it is the enemy. I’m going to see to it you’re reassigned out of the experimental brigade.”
+Scheffer started, but the officer’s raised hand was unassailable. “They’ll need a teacher at the tank
+school who was there for this one.”
+SUPPLEMENTAL FILES - 4-15
+
+FM 100-1-8X
+
+2M9 “KORENBLOEM”
+
+TYPE: TOWED AUTOMATIC MORTAR
+
+2M9 “KORENBLOEM” - 25 pts
+
+REMARKS
+
+__________________________
+
+82mm automatic gun-mortar complex replacing older patterns of light field guns
+and muzzleloading mortars. The Korenbloem, although heavier than its predecessors,
+is capable of a blistering rate of fire via its
+recoil-operated, clip-fed loading system.
+Bursts of mortar fire can either cover wide
+kill zones or inflict disproportionate punishment in a concentrated barrage.
+
+__________________________
+
+__________________________
+
+Standard ammo issue includes HEAT, frag,
+smoke, and chemical-SP rounds (similar in
+composition, if not payload size, to those
+fired by the 2K52 howitzer). By loading
+a clip with variable ammunition, a fire
+mission can be “customized”. Frag-chemfrag barrages are particularly notable for
+their tendency to force infantry to go to
+ground in a hazardous NBC environment.
+Dispose of all chemical-SP rounds if under
+threat of capture.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-16 - FIRE SUPPORT
+
+TOWED AUTOMATIC MORTAR
+
+Vec (C), H1, S24”, M2”, Q2, T1/1-/1-
+
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+2M9 82mm Automatic Mortar
+Ammo 6, Barrage (3), No CC
+→ 82mm HEAT
+Inf/Vec, R28”, A3+/xx, S8/1+, D1,
+Shaped Charge, Slow Round
+→ 82mm Frag
+Gnd, R40”, A4+/xx, S[D3], D1,
+Air-Filling, Light Indirect (3),
+Radius (2”)
+→ 82mm Chemical-SP
+Gnd, R40”, A++/xx, D1,
+Light Indirect (3), Chemical-SP (2”)
+→ 82mm Smoke
+Gnd, R40”, A++/xx, D2,
+Light Indirect (3), Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+
+2K52 “WHEAT”
+
+TYPE: TOWED HOWITZER
+
+2K52 “WHEAT” - 25 pts
+
+REMARKS
+
+__________________________
+
+The go-to general-purpose field gun of the
+States-Army. Adept in both indirect fire
+support and direct anti-tank roles. Mass
+production has led it to supplant older 100
+and 122mm systems even in reserve units.
+
+__________________________
+
+__________________________
+
+For direct-fire self defense and anti-tank
+use, 2K52 batteries are issued HEAT shells
+akin to those employed by the Tusker-GM.
+Smoke shells are also standard-issue.
+The infamous chemical-SP round, including both conventional nerve agents and
+compressed silver particulate (“confetti”),
+is issued on a limited basis. Injuries inflicted by the latter upon unprotected lupar
+troops are comparable to advanced-stage
+acute radiation syndrome, but occur in
+minutes.
+Dispose of all chemical-SP rounds if under
+threat of capture.
+
+TOWED HOWITZER
+
+Vec (C), H1, S24”, M2”, Q2, T2/1-/1-
+
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+2K52 152mm Howitzer
+Ammo 3, No CC
+→ 152mm HEAT
+Inf/Vec, R40”, A3+/xx, S14/2, D1,
+Shaped Charge, Slow Round
+→ 152mm Frag
+Gnd, R∞”, A4+/xx, S[D6], D2,
+Air-Filling, Heavy Indirect (3),
+Radius (3”)
+→ 152mm Chemical-SP
+Gnd, R∞”, A++/xx, D1,
+Chemical-SP (4”), Heavy Indirect (3)
+→ 152mm Smoke
+Gnd, R∞”, A++/xx, D4,
+Heavy Indirect (3), Smoke (4”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-17
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+THE AIR OVER THE TRENCHES glittered. Innumerable silver particles hung in the air, dancing in
+the daybreak light like suspended dewdrops. Some settled now by Stoeten’s boots, on his helmet and
+hooded shoulders. Little specks stuck to his gas mask, worn even though it had been a straight-silver
+run without the nerve agents. Stoeten wiped a gloved hand over the lenses even as he kept his battle
+rifle trained on the parapet ahead. The demented howling had been audible from the rally point,
+three miles off. Now the earthworks were as silent and deserted as a boot-hill. Bayonet-first, Stoeten
+and his fellows descended into the ghostly works.
+They swept the zig-zagged trenches clean. Empty firing positions, discarded spades. Cans of open
+pork-loaf lay askew in the dirt, flesh flecked with silver. Sweat pooled in Stoeten’s boots. He found
+himself conscious of each step, eyes straining through his foggy lenses and seeking the chance glint
+off a tripwire, the disturbed earth over a cartridge trap. Nothing. At length the men came upon a
+dugout, a black hole in the earth. They rolled a grenade into it. There was a muffled thump and the
+entryway spat silver, as if choking. Wimons, the pointman, pushed through and on in.
+Before the second man could follow him, there came a horrible whirl of sound and motion. There
+was screaming, gurgling, from more than one throat. Two flash-cracks from a battle rifle lit up the
+entrance. Wimons came stumbling back, head askew. He collapsed and Stoeten saw the man’s spine
+through his neck. Out of the darkness, following the dead pointman, rocked a dogface—what was
+left of it.
+Gristle from Wimons’ neck mixed with the sloughing, fibrous remnants of the lupe’s snout. Its face
+and exposed extremities were a weeping, hairless mass, shot through with burns and bursting
+blisters. Layers of skin peeled away at the mere touch of the air, inviting silver particles into yet
+more raw flesh beneath. Its eye sockets were empty and its ears had rotted away, leaving the softened
+remnants of its head skull-like and barren. Robbed of every sense but touch, the lupe probed the air
+with its empty fingerbones, working its jaw-stubs, chewing even as its own innards came back up.
+The smell was cadaverous, so offensive that it pierced Stoeten’s gas mask. In the instant he laid eyes
+upon it he was reminded of the dying salmon he’d seen back home. Those that’d spawned in the
+river, then rotted alive.
+The dogface cringed at the fresher air, bringing its last teeth together hard, cracking their now-porous structures. It took another step forward and fell to one knee. Something escaped its boil-crusted
+lungs, rendered down to a frog-gurgle by its ruined trachea. Stoeten leveled his battle rifle and
+white-knuckled the trigger. The rifle bucked for three full seconds until it locked open. He dropped
+the weapon and scrabbled for the straps of his gas mask. Another man protested. He tore off the
+mask, pinched his nose, and vomited.
+When he had composed himself, Stoeten meekly rejoined the rest of the men. Little silvery flecks
+settled on his curling hair, his slight chin and nose, at his thin mustache. He made himself cough
+and put on his mask again. The squad leader firmly patted his shoulder.
+“You’ll get used to the smell, son. Like salmon.”
+
+4-18 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+TYPE 60AT “RUNNER”
+
+TYPE: ATGM CARRIER
+
+TYPE 60AT “RUNNER” - 25 pts
+
+REMARKS
+
+__________________________
+
+Modification of the Grumble APC into a
+tank destroyer. The turret complex has
+been replaced by a pop-up launch rack
+fitting up to six 9GR1Ms, an improvement
+of the 9GR1 ATGM sporting a modern guidance system and a tandem warhead. The
+Runner may fire either single-fire or in
+volleys of variable salvo size.
+
+Vec (W), H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+
+The Runner is a specialist vehicle designed
+purely for the anti-tank role. Although
+capable of destroying even the heaviest
+tanks with massed missile volleys, it is vulnerable at close range. The vehicle’s only
+self defense weapon is a 6G2 machine gun,
+either fired from a pintle mount or dismounted and used by on-foot crew pulling
+security.
+Enough space remains in the troop compartment to carry a small infantry team
+inside, alongside spare missiles and the
+launch controls.
+
+ATGM CARRIER
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+9GR1M 125mm ATGM Rack
+Vec, R12-60”, A3+/xx, S16/3, D1,
+Ammo 6, Barrage (3, Point),
+Guided Missile (2), Shaped Charge,
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A cheap missile dispenser and nothing more.
+It’s got the punch to drop heavy armor—or
+a couple littluns, one after the other—and
+the road speed to get out quick afterwards. I
+wouldn’t stick around in one of these things.
+Infantry tend to get vindictive about their
+burnt-out rides.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-19
+
+FM 100-1-8X
+
+TYPE 52LW “FIREHOSE”
+
+TYPE: SELF-PROPELLED ANTI-AIR GUN
+
+TYPE 52LW “FIREHOSE” - 30 pts
+
+REMARKS
+
+__________________________
+
+Standard short-range air defense complex
+of the States-Army. A modification of the
+Duck light tank, replacing the existing
+turret and weapons entirely. Despite the
+increased weight, the Firehose remains
+(barely) capable of amphibious travel.
+
+Vec, H2, S32”, M10”, Q3, T5/4/4
+Amphibious, NBC
+
+__________________________
+
+Its sole armament is the monstrous 2A37
+anti-aircraft rotary cannon, guided by an
+integrated fire control radar. The recoil
+from this complex is capable of lifting the
+front roadwheels of the vehicle entirely
+off the ground over prolonged bursts. It is
+also highly effective against light ground
+targets.
+While grossly over-gunned for its size,
+the Firehose retains the thin armor of its
+parent hull and is vulnerable to anti-tank
+weapons. It may serve as a fire support
+vehicle in a pinch, but it is not a tank.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED ANTI-AIR GUN
+
+__________________________
+6P3 11.5mm SMG
+All, R8”, A4+/4+, S1-/1, D2,
+Small Arm
+2A37 37mm Rotary Cannon
+All, R36”, A4+/4+, S5/7, D3,
+Ammo 4, No CC (Inf.),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Dirty little secret: these things shoot at infantry more than they do aircraft. Just seeing the
+rotary snout coming into position is enough to
+drive dogfaces out of their holes. I don’t blame
+‘em. Once the great big sheet-ripper stops
+singing there’s not much left of anything.
+Not much of the Firehose after a few years,
+either. They rattle themselves to death.
+- Rayleigh Irving, Federal Intelligence
+
+4-20 - FIRE SUPPORT
+
+FM 100-1-8X
+
+TYPE 60MD “WAVE”
+
+TYPE: AUTOMATIC MORTAR CARRIER
+
+TYPE 60MD “WAVE” - 30 pts
+
+REMARKS
+
+__________________________
+
+Self-propelled variant of the 2M9 Korenbloem heavy automatic mortar, mounted on
+the universally available Grumble wheeled
+chassis. Exhibits all the hallmarks of its
+parent hull: good road speed, poor off-road
+performance relative to tracks, and basic
+amphibious capability despite the added
+weight of the mortar complex.
+
+Vec (W), H2, S24”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+
+As with its dismounted variant, the Wave’s
+2M9 is capable of laying rolling barrages of
+heavy fire in quick succession. A variety of
+rounds are supplied, including frag, smoke,
+and the notorious chemical-SP shell. The
+mortar is incapable of direct fire. Ammunition storage demands mean that like the
+Runner, the Wave lacks internal space for
+transporting more than a small team.
+
+AUTOMATIC MORTAR CARRIER
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+2M9 82mm Automatic Mortar
+Gnd, R40”, Ammo 6, Barrage (3),
+Light Indirect (3), No CC
+→ 82mm Frag
+A4+/5+, S[D3], D1, Air-Filling,
+Radius (2”)
+→ 82mm Chemical-SP
+A++/++, D1, Chemical-SP (2”)
+→ 82mm Smoke
+A++/++, D2, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Dispose of all chemical-SP rounds if under
+threat of capture.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-21
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+GROOTVELD BLINKED and reseated the serial cable, then connected the terminal to the Tusker-AV’s firing computer again. Again, he keyed in the query.
+>QRY NEW FS FOR FS.LHADJ = 1 DEG 30 RAD NORTH_
+Again, the self-propelled gun’s computer spat back:
+>NO ADJUSTMENT NEEDED_
+He looked up and peered out over the test range, pulling his binoculars to his eyes. There was the
+captured lupar truck, its twisted frame blackened and riddled with small-caliber holes, but still in
+one piece. A little further up the heath was a still-smoking crater from the latest artillery shell.
+Grootveld leaned over and keyed in the equivalent computation in the FCS control panel again.
+Same response. He went back to the terminal.
+>QRY TCOORD FOR FS_
+The computer spat a list of angles and cartesians at him, which he set to at once on a little spiral
+notebook. Ugh, ballistic trigonometry. He hadn’t done well at this in the finishing school... but his
+values were close enough that he could see where he made an error, and if that was corrected...
+Grootveld sighed. If that were corrected, then the gun had hit exactly where it thought it was aiming.
+He turned and shouted for his superior, who was working another one of the big SPGs a ways away.
+The old man’s face appeared in the open hatch, and he dropped inside with a sour look. Shouting
+over the idling diesel, Grootveld explained the problem.
+“And you didn’t fatfinger der entry?” he accused.
+“No, sir. You can see the log of it in the terminal.”
+The man harrumphed.
+“Gun don’t always like der command, ‘specially if dere something better for shootin’. Starve it of der
+nutrient jar for a spell and see if he like der better after dat.”
+Each computer was just a little different, of course. Hence the baud dial rigamarole. Positive and
+negative reinforcement was part of the standard calibration procedure, though most new guns
+didn’t need this much…
+The technician tried to remember what had been there a little beyond the truck before the howitzer
+had hit it, but he couldn’t. Maybe one of those damn snails with the guns on their backs?
+
+4-22 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+TYPE 60LW “COACHMAN”
+
+TYPE: ANTI-AIR MISSILE CARRIER
+
+TYPE 60LW “COACHMAN” - 30 pts
+
+REMARKS
+
+__________________________
+
+Self-propelled missile air defense complex
+based on the ubiquitous Grumble APC.
+Comparable mobility to its parent hull, including amphibious capabilities.
+
+Vec (W), H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+
+The turret complex has been replaced by
+a four-tube missile launcher for the 9GR5,
+a heavy 120mm surface-to-air missile
+derived from the Air Corps’ wing-mounted
+models. Initial target search is via a small
+onboard radar, but the missile is solely
+IR-guided after firing. Single shots or
+salvoes can be fired.
+The vehicle carries a standard 6G2 machine
+gun for pintle or dismounted self-defense
+against infantry. It is otherwise of no value
+against ground targets.
+Enough space remains in the troop compartment to carry a small infantry team
+alongside spare missiles.
+
+ANTI-AIR MISSILE CARRIER
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+9GR5 120mm Infrared SAM
+Air, R60”, A4+/xx, S6/6, D1,
+Ammo 4, Air-Filling, Barrage (2),
+Guided Missile (2), Homing, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Not as large or far-reaching as the “telephone
+poles” of the rear air defenses, but hated even
+more. So close to the strike target, to the prey,
+tunnel-vision comes easy. But there waits the
+Coachman and his shotgun for the wolves.
+- Roul Lydon, Lieutenant, Escadron 1/1
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FIRE SUPPORT - 4-23
+
+FM 100-1-8X
+
+TYPE 71H “TUSKER-AV”
+
+TYPE: SELF-PROPELLED HOWITZER
+
+TYPE 71H “TUSKER-AV” - 50 pts
+
+REMARKS
+
+__________________________
+
+Combination of the 2K52 howitzer with
+the chassis and drivetrain of the Tusker-K main battle tank. The Tusker-AV is a
+tough “fightin’ artillery” system, ready for
+both indirect fire support and direct-fire
+gunnery exchanges (sporting the tank-derived armor necessary to endure the latter).
+
+Vec, H2, S32”, M8”, Q3, T14/6/6
+NBC, Steel Watchbands
+
+__________________________
+
+The Tusker-AV’s 2K52 howitzer is issued
+the same ammunition complement as its
+towed counterparts, including direct-fire
+HEAT, standard fragmentation, smoke,
+and chemical-SP shells. The turret mounting also includes a 6GZ1 heavy machine
+gun for point defense against infantry.
+Dispose of all chemical-SP rounds if under
+threat of capture.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED HOWITZER
+
+__________________________
+6GZ1 14.5mm HMG
+All, R24”, A4+/6+, S3/4, D2, Turret
+2K52 152mm Howitzer
+Ammo 4, Turret
+→ 152mm HEAT
+Inf/Vec, R40”, A3+/4+, S14/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 152mm Frag
+Gnd, R∞”, A4+/5+, S[D6], D2,
+Air-Filling, Heavy Indirect (3),
+No CC, Radius (3”)
+→ 152mm Chemical-SP
+Gnd, R∞”, A++/++, D1,
+Chemical-SP (4”), Heavy Indirect (3),
+No CC
+→ 152mm Smoke
+Gnd, R∞”, A++/++, D4,
+Heavy Indirect (3), No CC, Smoke (4”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+4-24 - FIRE SUPPORT
+
+FM 100-1-8X
+
+S36 “PADDLE”
+
+TYPE: RIVER GUNBOAT
+
+S36 “PADDLE” - 15 pts
+
+REMARKS
+
+__________________________
+
+Typical light patrol vessel of the Whitewater Guard. Regularly requisitioned by the
+greater F.S-A. (or worse, the States-Navy)
+for river security and special operations.
+Not nearly as dangerous as a river monitor,
+but faster and more maneuverable. The
+hull is resistant but not proof against heavy
+machine gun fire.
+
+Vec, H2, S32”, M8”, Q2, T3/3/1+
+PC (3, Any), Watercraft
+
+__________________________
+
+Standard armament is a bow-mounted
+2K15 automatic 40mm grenade launcher
+for raking shoreline positions supported
+by the States-Navy’s unpopular equivalent-caliber HMG, the 6GN3. In the canvas-covered pilothouse, an infantry-issue
+6G2 machine gun is mounted on a swivel
+ring.
+While less flexible than amphibious personnel carriers, the Paddle offers very
+heavy antipersonnel firepower and a good
+personnel capacity.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+RIVER GUNBOAT
+
+__________________________
+6GN3 14.5mm HMG
+All, R24”, A4+/4+, S3/4, D2, Turret
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2,
+Multi-Gun, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/4+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Multi-Gun, Slow Round, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Not exactly a comfortable posting. The River
+Service isn’t a pleasure cruise in the slightest.
+But hey, it’s lucrative, with the right connections. It’s not just ammo in those holds,
+sometimes.
+- Rayleigh Irving, Federal Intelligence
+
+SPECIAL - 4-25
+
+FM 100-1-8X
+
+4-26 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES - 4-27
+
+FM 100-1-8X
+
+4-28 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+CHAPTER 5
+
+AIRCRAFT
+The States-Army Air Corps, unlike the States-Navy, is not a full branch of the military.
+Some of the more ossified members of the General Staff would prefer not to think about it at all.
+While the Air Corps’ performance as a ground-support force is adequate, their various rotary
+and fixed-wing designs can charitably be called obsolete. With only light utility and transport
+helicopters available, lacking a true attack helicopter fleet altogether, the F.S-A.A.C.’s rotary-wing
+forces are generally relegated to patrol and logistics work, with some use by small commando
+outfits for covert insertion. Many are upgraded on an ad-hoc basis at the front lines, increasing
+their firepower and survivability.
+HELICOPTERS
+HzN-18 “MOOSE” - UTILITY HELICOPTER  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15 pts / 5-2
+HzN-22 “HUGAG” - HEAVY LIFT HELICOPTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 5-3
+HzN-18B “BISON” - MAKESHIFT GUNSHIP  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 5-4
+PLANES
+SiG-17 “HARDNOSE” - LIGHT BOMBER  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 5-5
+SiG-16 “RUFE” - MULTI-ROLE FIGHTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25 pts / 5-6
+SiG-16B “SCHROEF” - TACTICAL BOMBER  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 5-7
+
+AIRCRAFT - 5-1
+
+FM 100-1-8X
+
+HzN-18 “MOOSE”
+
+HzN-18 “MOOSE” - 15 pts
+UTILITY HELICOPTER
+
+__________________________
+Air, H2, S32”, M32”, Q2, T1+/1+/1+
+PC (2, Sides)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/5+, S1/1+, D2,
+Door Gun (Sides)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: UTILITY HELICOPTER
+
+__________________________
+REMARKS
+Standard general-purpose light utility helicopter. Capable of infantry transport, insertion and MEDEVAC. The airframe is aluminum, and not armored. Sole armament
+is the standard 6G2 machine gun, trained
+from its bay door mountings.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-2 - HELICOPTERS
+
+It works, to the lasting and bitter chagrin of
+the ranking stiffs that would rather have the
+wounded take old-fashioned boneshaker truck
+rides to the field hospital every time. Really,
+for how little love these things and their jockeys
+get from on high, the thanks the grunts give
+back makes up for it tenfold. Once you hear the
+beating rotors and see the white stripe on blue,
+you know you’re gonna make it.
+Not to say that’s the only trick you can teach
+a Moose. Over the Ebon Forest—I mean the
+parts where a squirrel could run end-to-end
+without touching the ground—these things
+are the fastest way to get around. Both the E.C.
+and the Rangers use them. Little operations,
+in and out, hopefully without too many holes
+in the chassis.
+Other things, too. But if I told you, I’d have to
+kill you.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+
+HzN-22 “HUGAG”
+
+TYPE: HEAVY LIFT HELICOPTER
+
+HzN-22 “HUGAG” - 20 pts
+
+REMARKS
+
+__________________________
+
+Heavy transport and logistics workhorse
+of the States-Army, complementing the
+ground truck fleet. A contemporary of the
+Moose, its inglorious but necessary function has singly justified the existence of the
+helicopter fleet to the General Staff so far.
+
+Air, H2, S32”, M24”, Q2, T2/2/2
+PC (6, Sides), Resupply (6), Tow (2)
+
+__________________________
+
+While poorly-armed for its size (with only
+a 2A76 rifle-caliber minigun for ground
+support and self-defense), the Hugag is as
+thick-skinned as its namesake beast. Its
+cavernous hold can transport several infantry squads at once and resupply ammunition for an extended time.
+Over its service life, several retrofits, including conformant drop-tanks to extend
+its range, have been issued. These only
+further lower the Hugag’s maximum speed.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HEAVY LIFT HELICOPTER
+
+__________________________
+2A76 7.76mm Minigun
+All, R12”, A4+/5+, S1/1+, D4,
+Door Gun (Sides)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+The Federal brass has admitted, with a bullish
+pride, to having no better ideas about rotorcraft than a pig about dentistry. Out there
+in the wider world they are putting rockets,
+heat-seeking missiles, and rotary cannons on
+the sides of their aircraft, and all we can think
+to do is fill up the Hugag with rounds for the
+infantry.
+But it works, it works.
+- Johannes Veeneman, F.S-A. General Staff
+
+HELICOPTERS - 5-3
+
+FM 100-1-8X
+
+HzN-18B “BISON”
+
+TYPE: MAKESHIFT GUNSHIP
+
+HzN-18B “BISON” - 25 pts
+
+REMARKS
+
+__________________________
+
+Semi-official firepower & survivability
+upgrade of the Moose utility helicopter.
+Although not produced by HzN or other
+contractors, the F.S-A. formally classifies it
+as a vehicle type of its own. Almost every
+Moose not earmarked for MEDEVAC or
+special ops becomes a Bison in time.
+
+Air, H2, S32”, M32”, Q3, T2/2/2
+Decoy Protection (1), PC (1, Sides)
+
+__________________________
+
+The standard 6G2 machine gun has been
+replaced with a 2A76 rifle-caliber minigun
+offering superior suppression while a 2K15
+grenade launcher (identical to that of the
+Grumble) is available under the chin. A pair
+of 9GR1 ATGMs (governed by control hardware duct taped to the copilot’s station) are
+mounted to the bay steps, offering mobile
+anti-tank capability. The space taken up by
+these weapon systems reduces the helicopter’s infantry carriage capacity.
+A general up-armoring of the airframe has
+somewhat increased the Bison’s survivability against anti-aircraft fire.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+5-4 - HELICOPTERS
+
+MAKESHIFT GUNSHIP
+
+__________________________
+2A76 7.76mm Minigun
+All, R12”, A4+/5+, S1/1+, D4,
+Door Gun (Sides)
+2K15 40mm HEDP Grenade Launcher
+Inf/Vec, R20”, A4+/5+, S5/1+, D2,
+Ammo 3, Shaped Charge, Slow Round
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/4+, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Better than a Moose, if you’re serious about
+fighting in one of these instead of playing skytaxi. But come on. It’s to a real attack helicopter what a truck with a machine gun is to a
+tank.
+- Rayleigh Irving, Federal Intelligence
+
+FM 100-1-8X
+
+SiG-17 “HARDNOSE”
+
+SiG-17 “HARDNOSE” - 20 pts
+LIGHT BOMBER
+
+__________________________
+Air (CAS), M10”, Q2, T3, E0
+
+__________________________
+6G2 7.76mm MGs, octet
+All, R2”, A4+, S1, D3, Radar Anti-Air
+4BB2 350kg Dual-Purpose Cluster Bomb
+Gnd, R0”, A2+, S6/1, D2, Ammo 6,
+Rear Attack, Saturating (6),
+Shaped Charge
+9GR6 200mm Beam-Riding AAM
+Air, R50”, A5+, S6, D1, Ammo 4,
+Air-Filling, Guided Missile (2),
+Barrage (2), No CC
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: LIGHT BOMBER
+
+__________________________
+REMARKS
+Twin-engine turboprop bomber designed
+for high payloads and low maintenance.  
+Retains characteristic Federal heft, but
+some armor has been conceded to accommodate a larger-than-normal bomb bay.
+Primary armament is a load of 4BB2 cluster
+bombs with “dual-purpose” submunitions:
+small shaped charges with an additional
+frag sleeve. The solid nose mounts eight
+pilot-operated 7.76mm machine guns for
+which the navigator doubles as loader.
+Though outdated, underwing “needlenose”
+9GR6 laser missiles are favored by crews in
+frontline outfits which may otherwise lack
+in long-ranged anti-air capability.
+
+Right after the first (and last) big atomic
+exchange—the one mostly checked by the
+then-novel satellite defense grid—there was a
+scramble to do it again, but right this time. A
+lot of stupid ideas flowed through the Drekfort
+on how to get atomic bombs on-target; among
+them was using low-flying bombers to do it.
+The Hardnose was designed to skirt radar at
+perilously low altitudes, using unexpected
+seaborne approaches to compensate for its
+low speed and relative fragility. Such a demanding mission plan meant it got the most
+dependable engines then on paper. Even if the
+pilots escaped the delayed-fuse nuclear blast,
+though, they probably wouldn’t have made
+it home once intercepted. That, back then,
+was enough to scrap the plan. Nowadays,
+it’s beside the point. Land-skimming cruise
+missiles take all the fun out of nuclear policy.
+Rather than abandon what was otherwise a
+sterling light bomber, the Air Corps picked it
+up for cluster runs. But the great oval bomb
+mounts are still in its bay.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+PLANES - 5-5
+
+FM 100-1-8X
+
+SiG-16 “RUFE”
+
+SiG-16 “RUFE” - 25 pts
+MULTI-ROLE FIGHTER
+
+__________________________
+Air (CAP), M10”, Q2, T4, E1
+Sprint Motor
+
+__________________________
+2A34 23mm Autocannons, triplet
+All, R8”, A4+, S4, D3, Ammo 3,
+Radar Anti-Air
+4BN2 350kg Napalm Bomb
+Gnd, R0”, A3+, S1+, D2, Ammo 2,
+Barrage (2), Ignore Cover (2),
+Lingering, Radius (2”), Rear Attack
+9GR4 120mm Infrared AAM
+Air, R30”, A4+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: MULTI-ROLE FIGHTER
+
+__________________________
+REMARKS
+Originally conceived as a low-cost ground
+attacker, the sturdiness and reliability of
+this turboprop fighter-bomber has seen it
+become the most common combat aircraft
+in the Air Corps.
+The Rufe’s trademark 23mm nose-autocannon is complemented with 4BN2 incendiary bombs and 9GR4 proximity-fuze air-toair missiles to provide multi-role ground
+and air support.
+Increasingly heavy arming and a retrofitted “sprint” rocket motor offer only marginal modern dogfighting ability.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Sieg-Garrott is part of that enduring stable of
+companies the States-Army keeps permanent
+telephone lines to. Its board of directors and
+the Army brass have a lot in common; they’re
+stubborn, old-fashioned, and enthusiastic for
+loud engines and visibly moving parts.
+SiG makes ugly, trusty, functional planes for
+all purposes. Their big revenue’s in civilian
+airliners and airtrucks, but the military will
+always have contracts for them. Like distressingly many things in the States-Army, the
+Rufe has become a keystone, a nostalgic piece
+that’ll always be updated, but never replaced.
+Something about running ten thousand hours
+between overhauls stays appealing.
+There’s only so many new tricks you can teach
+an old dog, though, especially one with limited
+airspeed. They fly in missile-disgorging flocks
+for a reason; three Rufes are a fair match for
+one jet. We have that many today—but what
+about tomorrow?
+- Rayleigh Irving, Federal Intelligence
+
+5-6 - PLANES
+
+FM 100-1-8X
+
+SiG-16B “SCHROEF”
+
+SiG-16B “SCHROEF” - 30 pts
+STRIKE AIRCRAFT
+
+__________________________
+Air (CAS), M10”, Q2, T4, E0
+Decoy Protection (2), Sprint Motor
+
+__________________________
+2A40 37mm Autocannons, triplet
+All, R8”, A4+, S5, D3, Ammo 3,
+Radar Anti-Air
+4BE1 500kg HE Bomb
+Gnd, R0”, A3+, S8, D1, Ammo 2,
+Air-Filling, Barrage (2), Radius (3”),
+Rear Attack
+9GR3 275mm AGM
+Vec, R50”, A2+, S24/8, D1, Ammo 2,
+Guided Missile (2), MCLOS,
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: STRIKE AIRCRAFT
+
+__________________________
+REMARKS
+Extensive refit of the SiG-16 “Rufe” for
+precision ground attack. Increased weight
+eliminates the Rufe’s already waning aerial
+combat capabilities in exchange for much
+greater anti-tank firepower.
+Traditional 23mm autocannons have been
+upgraded to the seldom-seen 2A40 37mm
+variant. Includes 4BE1 high explosive
+bombs and 9GR3 SAPHE air-to-ground
+missiles for use against protected ground
+targets. Shortcomings of the 9GR3’s obsolete radio guidance are compensated for by
+a new thermal “bomb’s-eye” camera sight.
+Survivability is marginally increased by
+the addition of decoy flares and an extensive ECM package.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+There are more patterns of Rufe than can be
+feasibly memorized by a normal person. Many
+of them aren’t even ours; it’s been exported
+across the globe. After all: one of the few things
+an Air Corps-spec Rufe can feasibly best in a
+one-on-one dogfight is another Rufe. Within
+our forces the most common sub-variant is
+the Schroef, a happy retirement for the elderly
+“multirole” idea the force still labors under.
+The Schroef is a tank-hunter and bunker-buster, making full use of its turboprop platform’s
+ability to skulk at low altitude. Like the original version it comes with missiles that are
+better than the plane. While the guidance
+suite’s good, you do have to hold the plane still
+while diving headfirst into leaden death—I
+can excuse the somewhat subpar hit rate. If
+that doesn’t work, the bombs do the trick.
+It’s a remarkably potent platform, especially
+for its price point; but pray the skies are yours
+if you’re flying it.
+- Rayleigh Irving, Federal Intelligence
+PLANES - 5-7
+
+FM 100-1-8X
+
+SUPPLEMENTAL FILES
+“BECAUSE I was a fresh signer and this was my first lift, Sergeant Leeuwen stopped me at the skid
+and told me to sit by the HEAT cases at the back of the Hugag. Once I was seated, I asked the man
+next to me why the sergeant put us here. He said, ‘If we’re hit, we’ll die first. Sarge feels bad for us.’ “
+- Gerrit Ghent, from And We Saw, p. 99
+AVIATOR BOORMAN was lounging in the common room. The sun was down. The beer in his hand
+was sweating. His feet were up, his eyes laid heavy on the television. One hour ago, Boorman had
+completed the day’s patrol work. So, like every pilot in Riesling, that meant he had nothing to do.
+The television played a movie about train robbers. Boorman put the bottle to his lips. It was a lager.
+“Gnomes is real,” said Aviator Hackle, who was sitting beside him.
+“Gnomes is not real,” belched Boorman.
+“I seen one again,” said Hackle, secretively.
+Boorman had heard the spiel time and time before, and he had no patience to hear it again. He
+tilted his head to begin cutting off his wingman, but Hackle, with sincerity, continued, just as if it
+were the first time Boorman had listened. “Gnomes is a sign of our natcherl innocence. They was
+around when we was born, and they watch us ‘til we’re growed. Ye know, they was helpin’ the
+woodsmen in the bad old days. Gnomes was with the Intermarines before they was words in our
+heads. But if ye have too much of life, they won’t come to ye. That’s why ye ain’t seen ‘em. Yer from
+Riesling, but I’m from Djekker. My town still ain’t got electric. The woods is the same as when Oid
+were young. They ain’t cut harshly.”
+Boorman did not dignify him. Briefly there was silence, and the movie went to commercial.
+“I gots proof,” insisted Hackle.
+Boorman could no longer resist. “Oh yeah? Horse pucky. You ain’t got no damn proof.”
+Hackle looked proud of himself for having finally ensnared him. He savored as he said, “The gnome
+saw my wings.”
+Though skeptical, the Rieslinger could not contain his wonder. He tightened up and said, “And just
+how is that proof?”
+“Well, ye may recall that under my wing’s a picture of Van Veldjen. Orn’mented in his very image,
+holdin’ a smokin’ pipe and a doglock, and posed, such as his statue, like when he took back Hijmeier.
+I say, through ‘n’ through, it is tu-roo-ly the image of Van Veldjen. And when that gnome saw him,
+he saluted. I tell you, it’s proof. The gnome’s a damn patriot!”
+
+5-8 - SUPPLEMENTAL FILES
+
+FM 100-1-8X
+CHAPTER 6
+
+EMPLACEMENTS
+Auxiliary reconnaissance and area denial systems are employed by the States-Army to
+augment its ground capabilities. Simple wooden fortifications and landmines (“torpedoes”) are
+common among Federal infantry, while the Air Corps supports a heavy advance with more potent
+air-dropped anti-tank ordnance and paradropped resupply canisters.
+EMPLACEMENTS
+APM4 “TORPEDOES” - ANTI-PERSONNEL MINES .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-2
+ATM7 “CROCKPOTS” - ANTI-TANK MINES .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-2
+1A15 MVI “RIFLE PIT” - HASTY FORTIFICATION .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-3
+1L10 “SOUPCAN” - RESUPPLY CANISTER .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-4
+
+EMPLACEMENTS - 6-1
+
+FM 100-1-8X
+APM4 “TORPEDOES”
+ANTI-PERSONNEL MINES
+
+__________________________
+Trap
+
+ATM7 “CROCKPOTS”
+ANTI-TANK MINES
+
+__________________________
+Trap
+
+__________________________
+
+__________________________
+
+APM4 “Torpedo” Wooden Mine
+Inf/Vec, A++, S1, D1, Ammo 6,
+Radius (4”), Rear Attack, Undetectable
+
+ATM7 “Crockpot” Anti-Tank Mine
+Vec, A++, S6, D1, Ammo 6,
+Radius (4”), Rear Attack
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-PERSONNEL MINES
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: ANTI-TANK MINES
+
+__________________________
+
+__________________________
+
+REMARKS
+
+REMARKS
+
+Mass-produced wooden stake mines designed for rapid en-masse deployment.
+Low-yield, but in persistent supply. Issued
+at battalion level for defensive operations.
+
+Short, cylindrical anti-tank mines set
+inside of a rectangular aeroballistic shell.
+Deployed densely by high-altitude strategic bombers in the expected advance paths
+of enemy armored columns.
+
+Explosive charge is detonated by a pull-action fuze commonly set with pressure-activated tripwire. The charge is set inside
+of a tightly sealed wooden sleeve, making
+camouflage easy and rendering the mine
+undetectable by minesweepers.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Between five and ten fall for every old hand.
+They arrive from the training camps. They
+have drank deeply of the propaganda and know
+that the enemy can be taken at their leisure.
+They feel themselves ancient and transformed
+by their ordeal into warrior spirits for whom
+nothing can be dangerous.
+They tread on wooden landmines that cannot
+be smelled. At once a foot or whole shin is
+carried off. How they scream!
+- Conchar Goronwy, Chasseur, 96e Infanterie
+
+6-2 - EMPLACEMENTS
+
+The charge detonates if the mine is disturbed or its pressure plate is activated
+by a sufficient weight. As the mines are
+air-dropped and thus uncamouflaged, they
+are mainly useful as a deterrent, funneling
+tanks into prepared killzones or halting
+their advances.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+“A man is not supposed to be heavy enough to
+detonate an antitank mine, but the ordnance
+sergeant was pretty fat...”
+- Gerrit Ghent, from And We Saw, p. 186
+
+FM 100-1-8X
+1F15 MVI “RIFLE PITS”
+HASTY FORTIFICATION
+
+__________________________
+Fortification
+
+__________________________
+Designate a 40mm x 40mm square of terrain
+as “rifle pits”, which offers -1 Cover Modifier
+to infantry. Cannot be placed on terrain which
+already has a Cover Modifier, but units inside
+can go to ground to gain a -2 Cover Modifier.
+Does not offer ambush unless terrain is also
+concealing. Vehicles may traverse this terrain
+at no penalty.
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: HASTY FORTIFICATION
+
+__________________________
+REMARKS
+Light, expedient wooden fortifications
+designed for speedy carriage by Federal
+weapons teams. Placed in a diamond configuration to provide cover in open terrain.
+Fortifications are roughly wrist-thick (8cm)
+and knee-height (55cm), allowing small
+arms fire from a crouching position over
+top or from prone position around the
+sides. Reinforce with available materials at
+the base whenever possible.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+A pile of interlocking rails for when there’s
+no other cover and the ground won’t take a
+spade. I’ve been behind one before. It’s not
+reassuring.
+- Rayleigh Irving, Federal Intelligence
+
+EMPLACEMENTS - 6-3
+
+FM 100-1-8X
+1L10 “SOUPCAN”
+RESUPPLY CANISTER
+
+TYPE: RESUPPLY CANISTER
+
+__________________________
+
+__________________________
+
+REMARKS
+
+Fortification
+
+Cheap steel canister designed for low-velocity air-drop where it is infeasible to
+supply by ground vehicle. Used for the
+delivery of all manner of field good, from
+weapons and ammunition to tents, rations,
+spare uniforms, and even mail.
+
+__________________________
+Designate a 40mm x 40mm square of terrain
+as a “soupcan”, which allows friendly units
+within 4” to use a stationary fire action in the
+Fire Phase to resupply their own Ammo. Soupcans count as Resupply (6).
+
+__________________________
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+1 can of Lean Beef, Onion, & Chop Noodles
+1 sauce packet of Spiced Cheese
+4 squares of Hardtack (Whole Rye)
+1 tube of Onion-Blueberry Jam
+1 bag of Musket Balls (Malted Milk Chocolate)
+1 packet of Dic’s Granulated Cider (Rhubarb)
+1 uncut Smoote cigar (Robusto)
+
+The moniker “Soupcan” is an eponym of
+the Dic Soupcan company, an interstate
+manufacturing monopoly which produces
+or sponsors the majority of food and care
+items delivered in 1L10s.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Remove top of sauce packet and add water
+to line, then pour into open can of beef and
+noodles. Mix well. If able, put to warm. Add
+water to cider and stir. Enjoy tack with jam
+and musket balls meanwhile, as you smoke.
+- Menu 16: States-Marine Pasta
+(Sponsored by Dic Soupcan)
+Jam, Service, Type 18
+Looks like black mold and tastes like it too.
+What kind of jam is it? It’s Service Jam. Unlike
+most menu items the contractor isn’t stamped
+on this one, but it surely isn’t Dic Soupcan.
+If it was, it’d at least be edible. If your ration
+turns up as Menu 14 and this shit—just forget
+it. It’ll be healthier to go hungry.
+- Rayleigh Irving, Federal Intelligence
+
+6-4 - EMPLACEMENTS
+
+“Would’t’ve killed ‘em t’ send sum’n
+fresh?”
+
+FM 100-1-8X
+CHAPTER 7
+
+SCENARIO UNITS
+The Federation is a heavily militarized society. A warlike spirit has been instilled by generations of strong gun culture, supported by a fiery national rhetoric of readiness and self-sufficiency. In addition, a majority (~70%) of the adult male population has completed basic training
+and performed at least incidental military service. States-Grenadiers are above-average shots,
+but even the rowdy, infirm, or just plain untrained participants of a guerilla unit (or angry mob)
+are a non-trivial threat should they find themselves in combat.
+Besides armed civilians, large Federal corporations are obliged by law to maintain sufficient standing security forces to perform as industrial garrison forces in times of crisis. These
+businesses, as well as the veterans and tank enthusiasts on their payrolls, have a tendency to
+retain at least a token number of outdated Type 40 “Veldjen” tanks: the obsolete, original model
+of great Thirty-Six Years’ War fame.
+The units below do not fall into the standard roster for this faction, but are presented for thematic
+scenario creation and play. Scenario units may disrupt the balance of the faction (e.g. by covering one
+of its major weaknesses). If you’d like to use them in a regular game, your opponent ought to agree to it.
+SCENARIO UNITS
+ARMED CITIZENS - MILITIA SQUAD .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5 pts / 7-2
+PRIVATE SECURITY - PARAMILITARY SQUAD  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10 pts / 7-3
+VEHICLE CREW - LINE TEAM .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 0 pts / 7-4
+TYPE 40 “VELDJEN” - MEDIUM TANK .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20 pts / 7-5
+TYPE 55LW “DOUBLET” - SELF-PROPELLED ANTI-AIR GUN .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30 pts / 7-6
+
+SCENARIO UNITS - 7-1
+
+FM 100-1-8X
+
+ARMED CITIZENS
+
+ARMED CITIZENS - 5 pts
+MILITIA SQUAD
+
+__________________________
+Inf (S), H1, S16’’, M4’’, Q1, T1-/1-/1-
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8’’, A4+/4+, S1/1+, D1,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Battle Rifle, 7.76mm, 6G1. “Flute”
+The Right Arm of the Whole World.
+I have one. You have one. Where’d you pick
+yours up? Maybe you took it home with you
+when you demobilized. Maybe you picked it
+up from the factory—it’s cheaper that way.
+Maybe it came with your new car, a stack of
+ammo cans in the trunk.
+TYPE: MILITIA SQUAD
+
+__________________________
+REMARKS
+In keeping with ancient Lowlander custom
+and tradition, all Federal adults, young and
+old, habitually bear arms, up to and including modern military grade equipment.
+For most Federal citizens, this is a matter
+of fashion, local sporting and militia club
+memberships, and home defense. Training
+and equipment standards consistently lag
+behind those of organized militias and military reserve formations.
+Bands of armed citizens represent the final
+line of defense for a Federal community: to
+hold one’s own street or die trying.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Feel the foregrip. Doesn’t matter if it’s wood
+or bakelite, yesterday or twenty years. Your
+hands haven’t forgotten the rifle.
+- Rayleigh Irving, Federal Intelligence
+My old man’s first night in the Intermarium
+was awful. He couldn’t sleep. Spent the whole
+night baring his fangs and pinning his ears.
+Sporadic shooting in the distance, day and
+night. Quiet place, otherwise; people appreciated silence; but the gunfire just didn’t register.
+Not my dad. Took him a week before his head
+could convince his heart that the Regent’s dogs
+weren’t coming to kill him. He got used to it.
+Called it “Federal birdsong”—taught me to
+recognize Flutes and Pennants and old nameless 6P3s by ear.
+- Marcel Laurent, Federal Marshal
+
+7-2 - SCENARIO UNITS
+
+FM 100-1-8X
+
+PRIVATE SECURITY
+
+PRIVATE SECURITY - 10 pts
+PARAMILITARY SQUAD
+
+__________________________
+Inf (S), H1, S16’’, M4’’, Q2, T1-/1-/1-
+
+__________________________
+Renfield TPMG 9.63mm SMG
+All, R8’’, A4+/4+, S1-/1, D2,
+Small Arm
+56-L-640 40mm Grenade Launcher
+R8’’, D1, Ammo 3, Small Arm
+→ 40mm HE
+Inf/Vec, A4+/4+, S1+/1+,
+Ignore Cover (1), Slow Round
+→ 40mm Tear Gas
+Gnd, A++/++, Chemical Weapon*,
+No CC, Smoke (2”)
+*Inflicts 3 pin in the Support Phase
+instead of rolling to kill. No effect
+on NBC units.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE: PARAMILITARY SQUAD
+
+__________________________
+REMARKS
+
+If you’re good at something, never do it for
+free. If you’re bad at it, find someone dumb
+enough to pay you anyways.
+
+Private security guards are ubiquitous
+across the Intermarium: the product of
+both heavily-armed criminals and the laws
+of corporate personhood extending to
+militia duties. Security groups vary widely,
+ranging from simple watchmen to paramilitary company troops.
+
+I get it. For every nuclear plant guard or
+shotgun messenger with a resume in the Expeditionary Corps, there’s a fat day watchman
+at the mall with a silver wheelgun on his hip.
+Not much excitement to enforcing closing
+hours and minimum age at the bar. A lot of
+standing and pretending to be what you are.
+
+Higher-end security personnel are armed
+for riot control and asset protection:
+submachine guns and surplus break-action grenade launchers, firing tear gas
+grenades. Military-grade high explosive
+rounds are reserved for defense against
+foreign raiding parties.
+
+It’s a different story out in the sticks. You’ve
+got a duty to stand your ground. Of course
+you’re not stopping real troops; doesn’t matter
+what toys you’re stashing in the boiler room.
+But you might buy the States-Army some time.
+- Rayleigh Irving, Federal Intelligence
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SCENARIO UNITS - 7-3
+
+FM 100-1-8X
+
+VEHICLE CREW
+
+VEHICLE CREW - 0 pts
+LINE TEAM
+
+__________________________
+Inf, H1, S16’’, M4’’, Q3, T1-/1-/1-
+
+__________________________
+This unit is placed on the board as part of the
+Crew Bailout optional rule.
+
+__________________________
+6P3 11.5mm SMG
+All, R8’’, A4+/4+, S1-/1, D2
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Submachine Gun, 6P3, 11.5mm Auto.
+A lot of history in a little stamped steel. They
+don’t manufacture them anymore; why would
+you? There’s enough to go around until the
+Last Firing. I don’t even want to think about
+the amount of old eleven-five laying about.
+TYPE: LINE TEAM
+
+__________________________
+REMARKS
+Unhorsed combat vehicle crewmen. While
+culturally averse to abandoning a fighting
+vehicle so long as some part of it is combat
+effective, even Federals can be compelled
+to quit a burning tank. Doctrine also rarely
+permits mounted troops to scout ahead,
+establish listening posts, or defend an
+unmanned vehicle on foot. Dismounted
+combat is considered extraordinary.
+The 6P3 submachine gun is the standard-issue personal weapon for all Federal
+mounted troops. It is adequate for closerange combat against unarmored enemy
+infantry.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+It’s gone by many names and many variants.
+Buffs will tell you all about the generations of
+stock, trigger, magwell and sights. That one’s
+a beauty, see. Not one of your post-war retrofits. That one was in the hands of a man in a
+Submachine Gun Brigade—at Block Massif; at
+Kladnec. That one spat fire. Not like yours.
+Look, I’m paid to count rivets, but granular
+shit like this doesn’t matter at the end of the
+day. Just hold down the trigger, and it’ll clatter
+away until you’re out of ammo or problems.
+- Rayleigh Irving, Federal Intelligence
+If you're on foot with a bullet hose, you're
+already fucked. Forty-seven tons of armor
+already wasn't enough to keep you safe. But
+some flame-retardant coveralls and a padded
+helmet will do. Sure.
+- Sander Eijkelhof, Sergeant, 2-26 Armored
+
+7-4 - SCENARIO UNITS
+
+FM 100-1-8X
+
+TYPE 40 “VELDJEN”
+
+TYPE: MEDIUM TANK
+
+TYPE 40 “VELDJEN” - 20 pts
+
+REMARKS
+
+__________________________
+
+Elderly, universally acclaimed medium
+tank of decades’ vintage. Named for the
+father of the States-Army. While those now
+in military service are upgraded models,
+large numbers never received retrofits and
+were simply sold off to interested civilian
+buyers. “Stock” Veldjens are ubiquitous
+in irregular militia and private security
+service, especially in rural areas where
+their firepower is worth the overhead cost.
+
+Vec, H2, S32”, M6”, Q2, T8/6/5
+NBC
+
+__________________________
+
+Primary armament is the 2K19 tank gun,
+firing obsolete 76.2mm rounds. General-purpose HEAT and armor-piercing
+kinetic rounds, drawn from vast wartime
+stockpiles, offer solid performance against
+infantry and light vehicles, if not modern
+tanks.
+Secondary armament is a sponson-mounted rifle-caliber machine gun.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+MEDIUM TANK
+
+__________________________
+56-G-325 7.76mm MG, hull
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+56-G-325 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+2K19 76mm Gun
+R32”, A4+/6+, D1, Ammo 6,
+No CC (Inf.), Slow Round, Turret
+→ 76mm APHE
+Vec, S8/12
+→ 76mm HEAT
+Inf/Vec, S8/1+, Shaped Charge
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Expensive, huh? A burnt distillery’s expensive.
+- Staunton Ross, CEO, Johnson Bar Brewery
+
+SCENARIO UNITS - 7-5
+
+FM 100-1-8X
+
+TYPE 55LW “DOUBLET”
+
+TYPE: SELF-PROPELLED ANTI-AIR GUN
+
+TYPE 55LW “DOUBLET” - 30 pts
+
+REMARKS
+
+__________________________
+
+Reserve air defense complex based on the
+Razorback main battle tank. Introduced to
+counter first-generation jet aircraft at the
+close of the Thirty-Six Years’ War; heavily
+armored to work closely with friendly
+tanks. Its purely optical tracking, minus
+any radar assistance, led to rapid obsolescence in this role. It has since seen widespread use among Whitewater Guard units
+and in export service.
+
+Vec, H2, S32’’, M8’’, Q2, T10/6/5
+NBC, Steel Watchbands
+
+__________________________
+
+Primary armament is the 2A30 57mm autocannon, twin-mounted to compensate for
+its low cyclic rate. Although long-ranged,
+hit rates against fast-moving aircraft are
+substandard. A square hit will destroy anything that flies.
+Against ground targets, the Doublet’s heavy
+firepower and considerable armor have
+given it a lasting role as heavy fire support.
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+SELF-PROPELLED ANTI-AIR GUN
+
+__________________________
+6P3 11.5mm SMG
+All, R8”, A4+/4+, S1-/1, D2,
+Small Arm
+6G2 7.76mm MG, hull
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+2A30 57mm Dual Autocannons
+R40’’, A4+/6+, D2, Ammo 5,
+No CC (Inf.), Tracking Anti-Air, Turret
+→ 57mm APCBC
+Vec, S6/9
+→ 57mm HE
+All, S4/4
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+I guess it’s “air defense” if the target’s hovering
+and braindead. What all Whitewater captains
+really use it for is as an autocannon tank.
+- Rayleigh Irving, Federal Intelligence
+
+7-6 - SCENARIO UNITS
+
+FM 100-1-8X
+
+APPENDIX A - ARMY SPECIAL RULES
+This appendix section describes the underlined special rules of the Federal States-Army.
+
+Assault Dismount
+
+Chemical-SP (X”)
+
+Federal regular infantry fight under armor until
+the last moment: disembarking into fire, supported by their carrier’s weaponry.
+
+Gas shells enriched with silver particulate “confetti” are notorious for their hideous effects against
+unprotected lupar: silver destroys cursed flesh.
+
+If this infantry unit is embarked or desanting on a vehicle (not aircraft), when that
+vehicle charges into close combat, the infantry
+may immediately declare an Assault Dismount.
+Replace the vehicle with this unit, then
+move the vehicle’s frontal arc into basal contact
+with the infantry’s rear arc. The enemy unit
+that was charged then receives 2 pin tokens
+from the vehicle’s covering fire (if the vehicle
+isn’t unarmed). The units which used Assault
+Dismount to charge count as having Assault Specialist for the rest of that close combat.
+The vehicle cannot itself be targeted by
+enemies in the subsequent close combat engagement, since it’s not in basal contact with
+any of them. It is not considered a participant
+in the close combat.
+If there are multiple units with this
+special rule in the same vehicle, then extra
+units after the first may consecutively disembark from the vehicle on the same Maneuver
+Phase turn, specifically to join the close combat
+engagement before it starts.
+If infantry with Assault Dismount can
+harm an enemy, the vehicle carrying them may
+still charge that enemy, even if the vehicle itself
+could not damage the enemy in close combat.
+Infantry may not embark or desant on
+a vehicle and trigger Assault Dismount in the
+same round.
+If Assault Dismount is used to charge
+into contact with multiple units or into a building, only one enemy unit in contact with the
+dismounting units receives two pin.
+
+This is a Chemical Weapon, but it rolls
+two separate kills against luparic units in
+Radius affected during Upkeep.
+
+Sprint Motor
+
+Space Corps rocket motors bridge the gap between
+old and new—at least until their fuel runs out.
+This turboprop plane is assisted by a
+powerful rocket motor with a separate fuel
+supply, allowing it to “sprint” much faster than
+its normal airspeed for a short duration.
+Once per game, when this unit moves,
+the plane may declare a rocket sprint until its
+next turn. During a rocket sprint, the plane
+doubles its movement, sets its Evasion statistic
+to E2, and gains Afterburner. When Sprint Motor
+has been used, mark the plane with a spent
+ammo token. May be used in dogfights.
+
+Steel Watchbands
+
+Federal tankers excel at firing shot after accurate
+shot while rolling onwards.
+During the Fire Phase, when this vehicle
+scores a successful kill with a non-indirect
+weapon on an enemy unit, it can immediately
+make a half-move, even if the unit fired with its
+stationary Accuracy. This move may not result
+in a charge.
+If the vehicle fired at moving Accuracy,
+then half-moved, no penalty is applied to its
+subsequent Manuever Phase movement.
+This special rule activates even if suffering the kill did not remove the enemy unit
+from the game, such as infantry depleting or
+a unit triggering Leviathan. It may not trigger
+multiple times in a single Fire Phase.
+ARMY SPECIAL RULES - A-1
+
+FM 100-1-8X
+
+APPENDIX B - BUILDING AN ARMY LIST
+This appendix section describes the structure of the Federal States-Army and provides advice
+for building an army list.
+MILITARY ORGANIZATION
+Though the Federal States-Army is a
+modern standing army, its administrative structure reflects the Federation’s roots as a loose
+confederation of independent states. Military
+research and strategy are centralized at the top
+level, but training and logistics are impossible
+to coordinate without the cooperation of state
+military apparatuses at the bottom.
+As a result, the doctrinal and technological standards of the F.S-A. are clearly defined,
+but its tactical unit organization is localized
+and irregular. Unit assignments are discretionary, and usually ad-hoc; support elements are
+frequently embedded as permanent attaches at
+the company level.
+When writing an army list, it helps to
+give it a theme by envisioning what kind of
+regiment your platoon or company is part of.
+Federal regiments are given a number and a
+descriptive name which indicates what the regiment’s style of equipment and doctrinal usage
+are. Here are some labeling guidelines:
+Rifles: Infantry regiment. Regimental type
+is further clarified with an adjective indicating doctrine or equipment, i.e. Motor
+Rifles, Light Rifles, or Static Rifles.
+Armor: Tank regiment. Cavalry indicates
+an elite, modernized regiment. Reinforced
+Armor is a tank regiment with significant
+embedded infantry elements.
+Expeditionary: Expeditionary Corps only,
+used for airborne and airmobile regiments.
+Reserve or Whitewater: Used in conjunction with other labels for Ready Reserve
+and Whitewater Guard, i.e. second-line
+regiments.
+
+B-1 - BUILDING AN ARMY LIST
+
+In addition to a descriptive name, most
+large Federal formations also have a moniker
+which evokes the colorful nicknames of American Civil War-era units on both sides. Here is
+an example regimental name:
+116th Motor Rifles, “Vredeveld Mules”
+ARMY LIST COMPOSITION
+A typical Federal army list features
+tanks and States-Grenadiers in personnel
+carriers as an effective combined arms force,
+backing them up with self-propelled or towed
+fire support. Airborne and airmobile elements
+may be present for use in flanking or reconnaissance in support of the main force.
+For lower-tier formations, basic allaround fire support is lent by infantry weapons
+teams. ATGM, mortar, and MANPADS teams
+are effective, cheap specialists. Recoilless rifles
+are versatile despite their low cost.
+For higher-tier formations, self-propelled gun platforms may supplant infantry
+teams for fire support, but the use of both is
+ideal for tactical flexibility.
+Intermarine Rangers are the F.S-A.’s
+premier reconnaissance force, equipped with
+extremely useful laser designators. They pair
+very well with air support.
+A truly well-rounded army has access
+to as many different weapons platforms as
+possible. However, the more support weapons
+that are brought, the less room there is for the
+main fighting elements. As such, although all
+forces must have the basic capability to engage
+aircraft, infantry, and tanks, a certain degree of
+specialization is inevitable.
+It is good practice to begin by buying
+some key units which embody core aspects of
+your regimental doctrine, then use the remaining points to round out its general capabilities.
+
+FM 100-1-8X
+SUB-UNIT NAMES
+The fundamental sub-unit of the F.S-A.
+is the section. The Intermarine Phonetic Alphabet assigns common male names as code
+words representing vowels. The first four
+vowels, A, E, O, and I, are used for a unit’s operational sections:
+Aart (A) Section
+Elmo (E) Section
+Olli (O) Section
+Isaac (I) Section
+The last vowel, U, is for command sections:
+Uther (U) Section
+The command element is listed at the
+top of the list, before the operational sections.
+The F.S-A. prefers triangular (that is, “three-section”) platoon organization, so typically only
+Aart through Olli is used for the unit’s main elements, while Isaac designates ad-hoc attached
+elements, such as air defense or indirect fire
+support. Any hanger-ons from depleted units
+or miscellaneous reinforcements might also
+fall into Isaac section.
+Uther may include supply vehicles or
+combat vehicles representing a kind of officer’s
+retinue.
+CALLSIGNS
+When deploying the units of an army
+list as blinds, it is useful to give each blind a
+snappy callsign. While it is easiest to assign
+callsigns methodically (“Aart-1”, “Aart-2”,
+“Elmo-1”, etc.), illustrative names are far more
+entertaining and memorable.
+Federal soldiers are known for their
+gallows humor and have a flair for rhyme and
+alliteration. Their nicknames are as clever as
+they are vulgar, and the sounds they use are
+short, blunt, and fierce. An ideal Federal callsign list draws references from things such as
+the nose art of the Vietnam War or the slang of
+the American western frontier.
+
+A Duck commander could name his
+ride the “Jackalope”; a fresh squad may well
+be the “Nosepickers” or “War Tourists”; an Ox
+which moves injuries is the “Chuckwagon”, and
+one which moves fatalities the “Muster Booth”.
+OFFICERS & NAMES
+Choose one TACOM in your army list—
+that’s you. Unlike some of your subordinates,
+you are more than a mere pencil-pusher; you
+are a proud, fighting field commander of the
+Federal States-Army. You lead from the cupola;
+you speak softly and carry a 115mm gun.
+The names of the Intermarium are
+inspired by those of West Germanic languages, chiefly Dutch, with some smatterings of
+German, Belgian, English, or even Scots. In
+some places names are tinged with affectations
+of Nordic languages like Danish or Norwegian.
+A surefire sign that you are a real dyedin-the-blue Intermarine is duplicated vowels (a
+“dipthong”) in the first name, such as “aa”, “ee”,
+or “oo”.
+As with callsigns, never neglect to give
+yourself a nickname. Consider this archetypal
+name for a commander of armored cavalry:
+Captain Denis “Mad Mug” Schoorl
+EXAMPLE ARMY LISTS
+The following pages have generic
+example army lists which embody the tenets of
+conventional Federal doctrine at the 100, 200,
+300, and 400 point brackets. Use these as practice lists or points of comparison for creating
+army lists of your own.
+These army lists do not come with
+suggested regiment names or callsigns, as you
+are encouraged to come up with your own and
+to modify these as you see fit. These lists also
+do not make use of dummies, planes, or most
+support cards, as it is not recommended to
+use these “advanced” units until a player has
+learned the ropes of the game.
+
+BUILDING AN ARMY LIST - B-2
+
+FM 100-1-8X
+F.S-A. MOTORIZED PLATOON
+EXAMPLE - 100 PTS, 3 COMMAND
+
+F.S-A. MECHANIZED PLATOON
+EXAMPLE - 200 PTS, 7 COMMAND
+
+__________________________
+
+__________________________
+
+Uther Section - Headquarters
+Type 68C “Appomattox” - 0 pts (TACOM)
+
+Uther Section - Headquarters
+Type 68C “Appomattox” - 0 pts (TACOM)
+Type 55MC “Razorback-MC” - 30 pts (TAC)
+Type 55M “Razorback-M” - 40 pts
+
+Aart Section - Anti-Tank
+Type 60 “Grumble” - 10 pts
+- [E] States-Grenadiers - 10 pts
+- [E] Recoilless Rifle Team - 15 pts
+Elmo Section - Ranger Attaches
+Type 60 “Grumble” - 10 pts
+- [E] States-Grenadiers - 10 pts
+- [E] Intermarine Rangers - 15 pts
+Olli Section - Mortar
+Type 60 “Grumble” - 10 pts
+- [E] States-Grenadiers - 10 pts
+- [E] Mortar Team - 10 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 100 points, a Federal army list must
+choose between numbers or firepower. This
+example motorized list utilizes the F.S-A.’s
+cheap weapons teams and Grumbles in order
+to field a full platoon, thus preserving tactical flexibility and affording room for your
+“hammer and anvil”: an Intermarine Ranger
+team for flushing enemies out of cover, and
+a Recoilless Rifle Team for hitting them hard
+while they’re exposed. A Mortar Team provides
+light cover and fire support.
+The list’s main drawback is command
+point inefficiency. It is necessary to use brigade
+moves to keep all units moving simultaneously.
+Lacking a “big gun” such as a 152mm
+howitzer or gun-launcher means that this list
+does not lean into Federal factional strengths.
+However, it is very well-rounded and safe to
+deploy because of its variety of weapons teams.
+Some of your States-Grenadiers may
+be changed to Reservists to open points for a
+command tank, such as a Veldjen-M or Duck.
+The Mortar Team may be exchanged for an
+ATGM or MANPADS on an as-needed basis.
+B-3 - BUILDING AN ARMY LIST
+
+Aart Section - Infantry
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+Elmo Section - Infantry
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+Olli Section - LAAD
+Type 68 “Bantam-MK” - 25 pts
+- [E] MANPADS Team - 10 pts
+Isaac Section - Fire Support
+LaF-18 “Ox” - 10 pts
+- [T] 2M9 “Korenbloem” - 25 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 200 points, a Federal list can exchange weapons teams for infantry fighting vehicles without drastically reducing the number
+of units in the platoon. Grumbles are fast and
+flexible because of their increased infantry
+capacity, but Bantams are tougher and can
+provide their own fire support. They effectively substitute both ATGM and Recoilless Rifle
+Teams, though they are less manuverable and
+concealable in occluding terrain than infantry.
+The addition of Razorbacks as a kind of
+“officer’s guard” permits this list to play offensively and use an enemy’s smoke against them.
+Although this list has no howitzers, the
+Korenbloem can be punishing when used carefully, particularly for counterbattery fire.
+This list can afford to change some of
+its fire support elements to suit your playstyle.
+For example, some of the States-Grenadiers
+can be exchanged for more specialized weapon
+teams, or vice-versa the MANPADS for some
+more States-Grenadiers.
+
+FM 100-1-8X
+F.S-A. REDUCED ARMOR COMPANY
+EXAMPLE - 300 PTS, 10 COMMAND
+
+F.S-A. FORWARD SECURITY COMPANY
+EXAMPLE - 400 PTS, 13 COMMAND
+
+Uther Section - Headquarters
+Type 68C “Appomattox” - 0 pts (TACOM) (x2)
+
+Uther Section - Headquarters
+Type 68C “Appomattox” - 0 pts (TACOM) (x3)
+
+Aart Platoon - Armor
+Type 71BC “Tusker-GMC” - 70 pts (TACOM)
+Type 71 “Tusker-K” - 50 pts
+Type 71 “Tusker-K” - 50 pts
+
+Aart Platoon - Armor
+Type 71C “Tusker-KC” - 40 pts (TACOM)
+Type 71 “Tusker-K” - 50 pts
+Type 71 “Tusker-K” - 50 pts
+
+Elmo Platoon - Infantry
+Type 60 “Grumble” - 10 pts
+- [E] States-Grenadiers - 10 pts
+Type 60 “Grumble” - 10 pts
+- [E] States-Grenadiers - 10 pts
+- [E] MANPADS Team - 10 pts
+
+Elmo Platoon - Infantry
+Type 68B “Bantam-MK” - 25 pts
+- [E] Intermarine Rangers - 15 pts
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+
+__________________________
+
+Olli Section - LAAD
+Type 52LW “Firehose” - 30 pts
+Isaac Section - Fire Support
+Type 71H “Tusker-AV” - 50 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 300 points, a Federal list may leverage
+its factional superiority in armored fighting vehicles without compromising its ability to deal
+with enemy infantry. This reduced company
+is able to afford three top-of-the-line tanks as
+its main offensive element, including one rare,
+powerful Tusker-GMC command tank, plus a
+motorized infantry support element.
+The Firehose and Tusker-AV are superlative dual-purpose units; the Firehose is effective in both anti-air and anti-personnel roles
+(and is well-complemented by the MANPADS),
+while the Tusker-AV is tough enough to hold its
+own in direct-fire engagements. Remember:
+vehicles are harder to conceal from return
+fire than infantry. This list also lacks an Ox,
+meaning ammo must be used wisely.
+The Tusker-AV is capable, but it is also
+expensive; by exchanging it for a Wheat or
+Korenbloem, more points will be open to field
+more infantry inside of the Grumbles.
+
+__________________________
+
+Olli Platoon - Infantry
+Type 68B “Bantam-MK” - 25 pts
+- [E] Intermarine Rangers - 15 pts
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+Type 68 “Bantam” - 20 pts
+- [E] States-Grenadiers - 10 pts
+Isaac Section - Fire Support
+Type 60MD “Wave” - 30 pts
+LaF-18 “Ox” - 10 pts
+- [E] MANPADS Team - 10 pts
+- [E] MANPADS Team - 10 pts
+* [E] - Embarked | [D] - Desanting | [T] - Towed
+All written tows/infantry mountings are strictly advisory.
+
+At 400 points, a Federal list is able to
+bring full-strength companies without any
+concessions. This forward security company
+weighs its strength equally in infantry and
+tanks, as it possesses both a cantankerous
+Tusker-K platoon and two mechanized, modernized platoons of infantry squads and scout
+teams capable of mutual support.
+Listbuilding is most fluid at 400 points;
+for example, replacing an entire platoon of
+Bantams with Grumbles opens points for infantry weapons teams, or an armored support
+weapon such as a Firehose or a Wheat.
+
+BUILDING AN ARMY LIST - B-4
+
+FM 100-1-8X
+
+APPENDIX C - QUICK UNIT REFERENCE
+This appendix section includes all unit cards from the main chapters.
+
+TACOMS
+
+INFANTRY - LINE SQUADS
+
+TYPE 68C “APPOMATTOX” - 0 pts
+
+RESERVISTS - 5 pts
+
+COMMAND POST CARRIER
+
+MILITIA SQUAD
+
+__________________________
+
+__________________________
+
+Vec, H2, S32”, M8”, Q3, T6/4/4, C3
+Amphibious, Brigade (3, 12”), NBC
+
+__________________________
+
+__________________________
+Pequod SA 11.5mm, commander’s issue
+All, R2”, A4+/4+, S1+/1+, D1,
+Small Arm
+1M1V Target Bearing Transmitter
+All, R32”, A++/xx, D1, Designator,
+Discreet
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Inf (S), H1, S16”, M4”, Q1, T1-/1-/1-
+
+6P3 11.5mm SMG
+All, R8”, A5+/5+, S1-/1, D2,
+Small Arm
+6L4 73mm RPG
+Inf/Vec, R8”, A5+/6+, S8/1, D1,
+Ammo 3, Shaped Charge,
+Slow Round, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+STATES-GRENADIERS - 10 pts
+LINE SQUAD
+
+EXPEDITIONARY COMMAND - 15 pts
+PARATROOPER COMMAND SQUAD
+
+__________________________
+Inf (S), H1, S24”, M5”, Q4, T1/1-/1-, C5
+Assault Dismount, Brigade (2, 8”), Fearless,
+Paradrop
+
+__________________________
+
+All units targeted in Brigade (including self)
+lose all pin tokens.
+
+__________________________
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L3 40mm HEDP Grenade Launcher
+Inf/Vec, R8”, A*, S5/1+, D1, Ammo 4,
+Shaped Charge, Slow Round,
+Underbarrel (6G1A)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-1 - QUICK UNIT REFERENCE
+
+__________________________
+Inf (S), H1, S16”, M4”, Q2, T1/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6G2 7.76mm GPMG
+All, R12”, A4+/xx, S1/1+, D2,
+Defensive CC
+6L1 85mm RPG
+Inf/Vec, R8”, A4+/6+, S9/1+, D1,
+Ammo 3, Shaped Charge,
+Slow Round, Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+FEDERAL EXPEDITIONARIES - 15 pts
+PARATROOPER SQUAD
+
+ATGM TEAM - 10 pts
+ANTI-TANK TEAM
+
+__________________________
+
+__________________________
+
+Inf (S), H1, S16”, M5”, Q3, T1/1-/1Assault Dismount, Fearless, Paradrop
+
+Inf, H1, S32”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+
+__________________________
+
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L3 40mm HEDP Grenade Launcher
+Inf/Vec, R8”, A*, S5/1+, D1, Ammo 4,
+Shaped Charge, Slow Round,
+Underbarrel (6G1A)
+
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY - WEAPON TEAMS
+MORTAR TEAM - 10 pts
+ANTI-PERSONNEL TEAM
+
+__________________________
+Inf, H1, S16”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6L2 60mm Knee Mortar
+R16”, Ammo 6, Light Indirect (1),
+No CC
+→ 60mm Frag
+Inf/Vec, A4+/xx, S1+/1+, D2,
+Air-Filling
+→ 60mm Smoke
+Gnd, A++/xx, D1, Smoke (3”)
+
+MANPADS TEAM - 10 pts
+ANTI-AIR TEAM
+
+__________________________
+Inf, H1, S32”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+9GR2 85mm MANPADS
+Air, R60”, A4+/xx, S5/5, D1,
+Ammo 2, Air-Filling,
+Guided Missile (2), Homing,
+Small Arm
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-2
+
+FM 100-1-8X
+RECOILLESS RIFLE TEAM - 15 pts
+GENERAL-PURPOSE TEAM
+
+__________________________
+Inf, H1, S24”, M4”, Q2, T1-/1-/1Assault Dismount
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+6L5 73mm Recoilless Rifle
+R24”, D1, Ammo 4
+→ 73mm HEAT
+Inf/Vec, A3+/xx, S8/1+, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 73mm Incendiary
+Inf/Vec, A3+/xx, S1+/1+,
+Ignore Cover (2), No CC (Inf.),
+Rear Attack, Slow Round
+→ 73mm Smoke
+Gnd, A++/xx, No CC, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+EXPEDITIONARY R. R. TEAM - 15 pts
+PARATROOPER G. P. TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q3, T1/1-/1Assault Dismount, Fearless, Paradrop
+
+__________________________
+6G1A 7.76mm Automatic Rifle
+All, R8”, A4+/4+, S1/1+, D2,
+Small Arm
+6L6 57mm Light Recoilless Rifle
+Inf/Vec, A3+/5+, Ammo 4,
+Small Arm
+→ 57mm HEAT
+R24”, S6/1+, D1, Shaped Charge,
+Slow Round
+→ 57mm Canister
+R12”, S1/1, D3
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INFANTRY - SPECIAL
+PUP CARSON SCOUTS - 10 pts
+PATHFINDER TEAM
+
+__________________________
+Inf, H1, S24”, M5”, Q2, T1/1-/1Amphibious, Sense (6”)
+
+__________________________
+Any vehicle with at least M6” which this unit
+embarks or desants on can make a “pathfinder
+move” during the Maneuver Phase, which is
+only M6”, but ignores terrain entrance/exit
+cost and all terrain multipliers.
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A4+/4+, S1/1+, D1,
+Small Arm
+Teeth & Claws
+Inf, R0”, A1+/1+, S1/1, D1, Melee
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+INTERMARINE RANGERS - 15 pts
+SCOUT-SNIPER TEAM
+
+__________________________
+Inf, H1, S32”, M5”, Q4, T1/1-/1Assault Dismount, Fearless
+
+__________________________
+This unit does not lose accuracy from pin
+tokens while it is not identified.
+
+__________________________
+6G5 7.76mm Sniper Rifle
+All, R16”, A2+/xx, S1/1+, D1,
+Discreet, No CC, Scoped, Small Arm,
+Thermal Sights
+6P3 11.5mm SMG
+All, R8”, A3+/3+, S1-/1, D2,
+Small Arm
+1A5P MVSO Acquisition Laser
+All, R40”, A++/xx, D1, Designator,
+Discreet
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-3 - QUICK UNIT REFERENCE
+
+FM 100-1-8X
+VEHICLES - LOGISTICS
+LaF-301 “OX” - 10 pts
+LOGISTICS TRUCK
+
+__________________________
+Vec (W), H2, S16”, M8”, Q2, T1/1/1
+PC (2, Rear), Resupply (6), Tow (3)
+
+TYPE 68 “BANTAM” - 20 pts
+INFANTRY FIGHTING VEHICLE
+
+__________________________
+Vec, H2, S32”, M8”, Q3, T6/4/4
+Amphibious, NBC, PC (2, Rear),
+Steel Watchbands
+
+__________________________
+
+__________________________
+
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2K28 73mm Low-Pressure Gun
+Inf/Vec, R22”, A4+/4+, D1, Ammo 4,
+No CC (Inf.), Slow Round, Turret
+→ 73mm HEAT
+S9/1+, Shaped Charge
+→ 73mm HE-Frag
+S3/3, Ignore Cover (1)
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge, Turret
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - PERSONNEL CARRIERS
+TYPE 60 “GRUMBLE” - 10 pts
+ARMORED PERSONNEL CARRIER
+
+__________________________
+Vec (W), H2, S24”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (3, Rear)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/6+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Slow Round, Turret
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-4
+
+FM 100-1-8X
+TYPE 68B “BANTAM-MK” - 25 pts
+INFANTRY FIGHTING VEHICLE
+
+TYPE 52 “DUCK” - 20 pts
+LIGHT TANK
+
+__________________________
+
+__________________________
+
+Vec, H2, S32”, M8”, Q3, T6/4/4
+Amphibious, NBC, PC (2, Rear),
+Steel Watchbands
+
+Vec, H2, S32”, M10”, Q2, T6/5/4
+Amphibious, NBC, Steel Watchbands
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2A34 23mm Autocannon
+All, R32”, A4+/4+, S4/6, D2,
+Ammo 4, No CC (Inf.), Turret
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/xx, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge, Turret
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/5+, S1/1+, D2, Turret
+2K81 152mm Gun-Launcher
+Inf/Vec, A4+/5+, Ammo 4, Turret
+→ 152mm HEAT
+R32”, S14/2, D1, No CC (Inf.),
+Shaped Charge, Slow Round
+→ 152mm Beehive
+R16”, S1/1+, D5, Defensive CC (Inf.)
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+VEHICLES - ARMOR
+
+TYPE 52P “MALLARD” - 20 pts
+
+TYPE 40M “VELDJEN-M” - 20 pts
+
+__________________________
+
+MEDIUM TANK
+
+Vec, H2, S32’’, M10’’, Q3, T4/3/3
+Active Protection (1), Amphibious, NBC,
+Paradrop, Steel Watchbands
+
+__________________________
+Vec, H2, S32”, M6”, Q2, T8/6/5
+NBC, Steel Watchbands
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2, Turret
+2K70 57mm High Velocity Gun
+Vec, R40”, A4+/4+, S12/18, D1,
+Ammo 6, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/5+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Multi-Gun, Slow Round
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+AIRMOBILE LIGHT TANK
+
+__________________________
+2A76 7.76mm Minigun
+All, R12”, A4+/6+, S1/1+, D4, Turret
+2K56 76mm Gun
+R32’’, A4+/5+, D1, Ammo 3,
+No CC (Inf.), Turret, Slow Round
+→ 76mm HVAP
+Vec, S8/15
+→ 76mm HE-Frag
+Inf/Vec, S3/3, Ignore Cover (1)
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-5 - QUICK UNIT REFERENCE
+
+FM 100-1-8X
+TYPE 55M “RAZORBACK-M” - 40 pts
+MAIN BATTLE TANK
+
+TYPE 71 “TUSKER-K” - 50 pts
+MAIN BATTLE TANK
+
+__________________________
+
+__________________________
+
+Vec, H2, S32”, M8”, Q3, T14/7/5
+NBC, Steel Watchbands
+
+Vec, H2, S32”, M8”, Q3, T16/8/6
+NBC, Steel Watchbands
+
+__________________________
+
+__________________________
+
+6G2 7.76mm MG, hull
+All, R12”, A4+/5+, S1/1+, D2,
+Multi-Gun
+6GZ1 14.5mm HMG
+All, R24”, A4+/6+, S3/4, D2, Turret
+2K41 100mm Gun
+R40”, A3+/4+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights, Turret
+→ 100mm APDS
+Vec, S12/18
+→ 100mm HE-Frag
+Inf/Vec, S4/4, Ignore Cover (1),
+Slow Round
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+
+6GZ1 14.5mm HMG
+All, R24”, A4+/5+, S3/4, D2, Turret
+2K43 115mm Gun
+R40”, A2+/3+, D1, Ammo 4,
+No CC (Inf.), Thermal Sights,
+Turret
+→ 115mm Sabot
+Vec, S14/21
+→ 115mm HEAT
+Inf/Vec, S12/2, Slow Round,
+Shaped Charge
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-6
+
+FM 100-1-8X
+TYPE 71B “TUSKER-GM” - 80 pts
+
+VEHICLES - FIRE SUPPORT
+
+MAIN BATTLE TANK
+
+2M9 “KORENBLOEM” - 25 pts
+
+Vec, H2, S32”, M8”, Q4, T24/12/8
+NBC, Steel Watchbands
+
+__________________________
+
+__________________________
+
+__________________________
+
+6GZ1 14.5mm HMG
+All, R24”, A4+/4+, S3/4, D2,
+Thermal Sights, Turret
+2K81 152mm Gun-Launcher
+D1, Ammo 4, No CC (Inf.),
+Thermal Sights, Turret
+→ 152mm Gun-Launched ATGM
+Vec, R12-60”, A2+/xx, S18/3,
+Guided Missile (1), Shaped Charge
+→ 152mm Gun-Launched Thermobaric
+Gnd, R12-60”, A3+/xx, S3/3,
+Guided Missile (1), Ignore Cover (2),
+Radius (2”), Rear Attack
+→ 152mm Tandem HEAT
+Inf/Vec, R40”, A2+/3+, S18/3,
+Slow Round, Shaped Charge
+902V 81mm Smoke Launchers
+Gnd, R6”, A++/++, D2, Ammo 1,
+Light Indirect (1), No CC, Smoke (3”),
+Turret
+
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+2M9 82mm Automatic Mortar
+Ammo 6, Barrage (3), No CC
+→ 82mm HEAT
+Inf/Vec, R28”, A3+/xx, S8/1+, D1,
+Shaped Charge, Slow Round
+→ 82mm Frag
+Gnd, R40”, A4+/xx, S[D3], D1,
+Air-Filling, Light Indirect (3),
+Radius (2”)
+→ 82mm Chemical-SP
+Gnd, R40”, A++/xx, D1,
+Light Indirect (3), Chemical-SP (2”)
+→ 82mm Smoke
+Gnd, R40”, A++/xx, D2,
+Light Indirect (3), Smoke (3”)
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-7 - QUICK UNIT REFERENCE
+
+TOWED AUTOMATIC MORTAR
+
+Vec (C), H1, S24”, M2”, Q2, T1/1-/1-
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+2K52 “WHEAT” - 25 pts
+TOWED HOWITZER
+
+TYPE 52LW “FIREHOSE” - 30 pts
+SELF-PROPELLED ANTI-AIR GUN
+
+__________________________
+
+__________________________
+
+Vec (C), H1, S24”, M2”, Q2, T2/1-/1-
+
+Vec, H2, S32”, M10”, Q3, T5/4/4
+Amphibious, NBC
+
+__________________________
+6G1 7.76mm Battle Rifle
+All, R8”, A3+/4+, S1/1+, D1,
+Small Arm
+2K52 152mm Howitzer
+Ammo 3, No CC
+→ 152mm HEAT
+Inf/Vec, R40”, A3+/xx, S14/2, D1,
+Shaped Charge, Slow Round
+→ 152mm Frag
+Gnd, R∞”, A4+/xx, S[D6], D2,
+Air-Filling, Heavy Indirect (3),
+Radius (3”)
+→ 152mm Chemical-SP
+Gnd, R∞”, A++/xx, D1,
+Chemical-SP (4”), Heavy Indirect (3)
+→ 152mm Smoke
+Gnd, R∞”, A++/xx, D4,
+Heavy Indirect (3), Smoke (4”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE 60AT “RUNNER” - 25 pts
+ATGM CARRIER
+
+__________________________
+Vec (W), H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+9GR1M 125mm ATGM Rack
+Vec, R12-60”, A3+/xx, S16/3, D1,
+Ammo 6, Barrage (3, Point),
+Guided Missile (2), Shaped Charge,
+Turret
+
+__________________________
+6P3 11.5mm SMG
+All, R8”, A4+/4+, S1-/1, D2,
+Small Arm
+2A37 37mm Rotary Cannon
+All, R36”, A4+/4+, S5/7, D3,
+Ammo 4, No CC (Inf.),
+Radar Anti-Air, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE 60MD “WAVE” - 30 pts
+AUTOMATIC MORTAR CARRIER
+
+__________________________
+Vec (W), H2, S24”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+2M9 82mm Automatic Mortar
+Gnd, R40”, Ammo 6, Barrage (3),
+Light Indirect (3), No CC
+→ 82mm Frag
+A4+/5+, S[D3], D1, Air-Filling,
+Radius (2”)
+→ 82mm Chemical-SP
+A++/++, D1, Chemical-SP (2”)
+→ 82mm Smoke
+A++/++, D2, Smoke (3”)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-8
+
+FM 100-1-8X
+TYPE 60LW “COACHMAN” - 30 pts
+ANTI-AIR MISSILE CARRIER
+
+__________________________
+Vec (W), H2, S32”, M8”, Q2, T4/4/3
+Amphibious, NBC, PC (1, Rear)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/6+, S1/1+, D2, Turret
+9GR5 120mm Infrared SAM
+Air, R60”, A4+/xx, S6/6, D1,
+Ammo 4, Air-Filling, Barrage (2),
+Guided Missile (2), Homing
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+TYPE 71H “TUSKER-AV” - 50 pts
+SELF-PROPELLED HOWITZER
+
+__________________________
+
+VEHICLES - SPECIAL
+S36 “PADDLE” - 15 pts
+RIVER GUNBOAT
+
+__________________________
+Vec, H2, S32”, M8”, Q2, T3/3/1+
+PC (3, Any), Watercraft
+
+__________________________
+6GN3 14.5mm HMG
+All, R24”, A4+/4+, S3/4, D2, Turret
+6G2 7.76mm MG
+All, R12”, A4+/4+, S1/1+, D2,
+Multi-Gun, Turret
+2K15 40mm HE Grenade Launcher
+Inf/Vec, R20”, A4+/4+, S1+/2, D2,
+Ammo 4, Ignore Cover (1),
+Multi-Gun, Slow Round, Turret
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+Vec, H2, S32”, M8”, Q3, T14/6/6
+NBC, Steel Watchbands
+
+AIRCRAFT - HELICOPTERS
+
+__________________________
+
+HzN-18 “MOOSE” - 15 pts
+
+6GZ1 14.5mm HMG
+All, R24”, A4+/6+, S3/4, D2, Turret
+2K52 152mm Howitzer
+Ammo 4, Turret
+→ 152mm HEAT
+Inf/Vec, R40”, A3+/4+, S14/2, D1,
+No CC (Inf.), Shaped Charge,
+Slow Round
+→ 152mm Frag
+Gnd, R∞”, A4+/5+, S[D6], D2,
+Air-Filling, Heavy Indirect (3),
+No CC, Radius (3”)
+→ 152mm Chemical-SP
+Gnd, R∞”, A++/++, D1,
+Chemical-SP (4”), Heavy Indirect (3),
+No CC
+→ 152mm Smoke
+Gnd, R∞”, A++/++, D4,
+Heavy Indirect (3), No CC, Smoke (4”)
+
+__________________________
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+C-9 - QUICK UNIT REFERENCE
+
+UTILITY HELICOPTER
+
+Air, H2, S32”, M32”, Q2, T1+/1+/1+
+PC (2, Sides)
+
+__________________________
+6G2 7.76mm MG
+All, R12”, A4+/5+, S1/1+, D2,
+Door Gun (Sides)
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FM 100-1-8X
+HzN-18B “BISON” - 25 pts
+MAKESHIFT GUNSHIP
+
+__________________________
+Air, H2, S32”, M32”, Q3, T2/2/2
+Decoy Protection (1), PC (1, Sides)
+
+SiG-16 “RUFE” - 25 pts
+MULTI-ROLE FIGHTER
+
+__________________________
+Air (CAP), M10”, Q2, T4, E1
+Sprint Motor
+
+__________________________
+
+__________________________
+
+2A76 7.76mm Minigun
+All, R12”, A4+/5+, S1/1+, D4,
+Door Gun (Sides)
+2K15 40mm HEDP Grenade Launcher
+Inf/Vec, R20”, A4+/5+, S5/1+, D2,
+Ammo 3, Shaped Charge, Slow Round
+9GR1 125mm ATGM
+Vec, R12-60”, A3+/4+, S14/2, D1,
+Ammo 2, Guided Missile (2), MCLOS,
+Shaped Charge
+
+2A34 23mm Autocannons, triplet
+All, R8”, A4+, S4, D3, Ammo 3,
+Radar Anti-Air
+4BN2 350kg Napalm Bomb
+Gnd, R0”, A3+, S1+, D2, Ammo 2,
+Barrage (2), Ignore Cover (2),
+Lingering, Radius (2”), Rear Attack
+9GR4 120mm Infrared AAM
+Air, R30”, A4+, S6, D1, Ammo 2,
+Air-Filling, Guided Missile (1),
+Homing
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+HzN-22 “HUGAG” - 20 pts
+HEAVY LIFT HELICOPTER
+
+SiG-16B “SCHROEF” - 30 pts
+
+Air, H2, S32”, M24”, Q2, T2/2/2
+PC (6, Sides), Resupply (6), Tow (2)
+
+__________________________
+
+__________________________
+__________________________
+2A76 7.76mm Minigun
+All, R12”, A4+/5+, S1/1+, D4,
+Door Gun (Sides)
+
+AIRCRAFT - PLANES
+SiG-17 “HARDNOSE” - 20 pts
+LIGHT BOMBER
+
+__________________________
+Air (CAS), M10”, Q2, T3, E0
+
+__________________________
+6G2 7.76mm MGs, octet
+All, R2”, A4+, S1, D3, Radar Anti-Air
+4BB2 350kg Dual-Purpose Cluster Bomb
+Gnd, R0”, A2+, S6/1, D2, Ammo 6,
+Rear Attack, Saturating (6),
+Shaped Charge
+9GR6 200mm Beam-Riding AAM
+Air, R50”, A5+, S6, D1, Ammo 4,
+Air-Filling, Guided Missile (2),
+Barrage (2), No CC
+
+STRIKE AIRCRAFT
+
+Air (CAS), M10”, Q2, T4, E0
+Decoy Protection (2), Sprint Motor
+
+__________________________
+2A40 37mm Autocannons, triplet
+All, R8”, A4+, S5, D3, Ammo 3,
+Radar Anti-Air
+4BE1 500kg HE Bomb
+Gnd, R0”, A3+, S8, D1, Ammo 2,
+Air-Filling, Barrage (2), Radius (3”),
+Rear Attack
+9GR3 275mm AGM
+Vec, R50”, A2+, S24/8, D1, Ammo 2,
+Guided Missile (2), MCLOS,
+Shaped Charge, Thermal Sights
+FEDERAL STATES-ARMY - DREKFORT M.D.C.
+
+QUICK UNIT REFERENCE - C-10
+
+FM 100-1-8X
+
+APPENDIX D - PAINTING GUIDE
+This appendix section provides full-color references for painting your States-Army miniatures.
+
+FEDERAL BLUE
+#5172B7
+
+Shoulderboard
+
+HORIZON BLUE
+#7CA2B8
+Fatigues
+
+BUFFED BLACK
+LEATHER
+#363636
+
+Leather
+
+FOOL’S GOLD
+#D5B737
+
+Buttons
+
+Gun Body
+
+GUN SILVER
+#C3BEB1
+Stock & Grip
+
+BLUE BAKELITE
+#3BB0D1
+
+INFANTRY NOTES
+Standard infantry uniform is
+horizon blue without a camouflage
+pattern. Rank insignias and other
+accents are always stark white.
+Some equipment may bear the
+Federal compass in some combination of white, black, and gold.
+Leather should be brown or
+black, with a level of wear appropriate to the soldier’s occupation and
+his time spent in combat.
+Metal fixtures and belt
+buckles may be shiny brass or blue
+bakelite depending on your force’s
+tastes. The latter are intended for
+field use, but their wear is seldom
+enforced.
+Blue bakelite is standard for
+weapon furniture, but older arms
+may have wooden furniture instead.
+Some mixing-and-matching as parts
+are replaced can happen.
+Shoulderboard colors are
+determined by your force’s parent
+regiment. Consult the chart below
+for which colors are used by which
+types of regiment.
+Common Flesh Tones *
+
+SHOULDERBOARD COLORS BY REGIMENT
+Infantry
+
+Logistics
+
+Artillery
+
+СЛ СЛ СЛ
+Air Corps
+
+Common Hair Colors *
+
+Armor
+
+СЛ СЛ
+D-1 - PAINTING GUIDE
+
+* Swatches for emigré soldiers may be found in their respective
+manuals, FM 100-4-8X, FM 100-5-8X, or FM 100-6-8X.
+
+FM 100-1-8X
+Whistle
+
+Detailed Emblem
+
+FOOL’S GOLD
+#D5B737
+
+Primary
+
+Accents
+Simplified Emblem #1
+
+Secondary
+HORIZON BLUE
+#7CA2B8
+
+MARINE BLUE
+#345264
+
+OLIVE DRAB
+#556134
+
+ARMOR NOTES
+Olive drab parts are drawn from the F.S-A.’s vast reserve stockpiles and date from an era before the horizon-blue scheme was adopted.
+Very old tanks may be almost entirely olive drab. New-production tanks,
+or those belonging to elite units (who bother to repaint their spares),
+shouldn’t have any olive drab.
+Wheel rims and railings are habitually painted white, even for
+camouflaged vehicles. Some first-class vehicles may have white siding
+as a sort of parade stripe.
+Camouflage is irregularly applied at the unit level and may
+wildly vary. The example scheme is only one of many. Many lack camo
+altogether. In all cases, horizon blue is present on the vehicle for the
+purposes of friendly I.D.
+A simplified black-and-white version of the national emblem of
+the Federation, a golden compass rose, is the standard marking of F.S-A
+vehicles, but some vehicles may be painted with a detailed version.
+Low Visibility Insignia
+
+Primary
+
+Countershade
+
+FACTORY SILVER
+#BBBBBB
+
+Simplified Emblem #2
+
+Simplified Emblem #3
+
+AIRCRAFT NOTES
+Aircraft bellies are painted
+gray in a countershade scheme. Aircraft do not typically feature camouflage, but, like vehicles, irregularly
+receive ad-hoc schemes.
+Bold white and black invasion stripes along the wings are
+popular to help prevent friendly fire
+in low-altitude ground strikes.
+The simplified Intermarine
+compass may be used as a roundel,
+but most planes use a low visibility
+“three dot” triangle based on the fin
+flash of the Air Corps.
+PAINTING GUIDE - D-2
+
+FM 100-1-8X
+
+D-3 - PAINTING GUIDE
+
+* Special thanks to Briggs on Discord and @morgrim.the.tidy
+on Instagram for the lovely models.
+
+FM 100-1-8X
+
+PAINTING GUIDE - D-4
+
+Out of commission, become a pillbox.
+Out of ammo, become a bunker.
+Out of time, become heroes.
+
+FM 100-1-8X
+03/10/85
+By Order of the Ministry of Defense:
+
+DANEEL DAAF
+
+JOHANNES VEENEMAN
+
+General of the Air,
+General Staff of the Federal States-Army
+
+General of the Army,
+General Staff of the Federal States-Army
+
+Signatories:
+
+BRIGGS CARTOGRAAF
+
+JAAN SCHRIMM
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+Brigadier General,
+Main Diagrammatical Directorate
+
+MARLIJN MUNTTHEE
+
+KENNET PLUUSMAN
+
+Brigadier General,
+Main Rocket & Artillery Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+MANFIELD GARFIELD
+
+ITTIE BEBSON
+
+Brigadier General,
+Main Topographical Directorate
+
+Brigadier General,
+Main Topographical Directorate
+
+JAKUB DROOK
+
+MAXIMILLIAAN BROOD
+
+Major General,
+Main Luparic Readiness Directorate
+
+Lieutenant General,
+Main Publishing Directorate
+
+DIJKEN EIKKSEN
+
+Major General,
+Main Tactics & Doctrine Directorate
+DISTRIBUTION:
+Active Army, Whitewater Guard, Ready Reserves, Irregular Militia Partnership Program: To be
+distributed in accordance with DA Form 12-1A, Keystone Knowledge for the Federal Soldier
+(Qty rqr block no. 174).
+
+F O RT M .
+
+.C
+
+EK
+
+D
+
+R
+
+AL
+
+AR
+
+. ▪ FEDE
+
+MY ▪ DR
+
+Additional copies may be requisitioned from the F.S-A.-M.T. & D.D. General Publications
+Center, 1322 Worstenrij, Brunbok, Vykeland-and-Deire 21450.
+
+S T AT E S
+
+-
+
+

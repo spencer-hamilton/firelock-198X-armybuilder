@@ -589,7 +589,7 @@ const rygolist = [
             ]
     },
     {
-            "name": "Smartgun Team Team",
+            "name": "Smart Gun Team",
             "faction": [
                 "rygolic"
             ],
@@ -1303,7 +1303,7 @@ const rygolist = [
             ]
     },
     {
-            "name": "C1 Candor",
+            "name": "C3 Candor",
             "faction": [
                 "rygolic"
             ],
@@ -2589,7 +2589,7 @@ const rygolist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -2657,7 +2657,7 @@ const rygolist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -2807,7 +2807,7 @@ const rygolist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "1"
                 },
                 {
@@ -2831,7 +2831,7 @@ const rygolist = [
                 "S32\"",
                 "M32\"",
                 "Q3",
-                "T3/3/3"
+                "T3/3/2"
             ],
             "type": {
                 "super": [
@@ -2897,7 +2897,7 @@ const rygolist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 },
                 {
@@ -3053,7 +3053,7 @@ const rygolist = [
                     "params": ""
                 },
                 {
-                    "rule": "Chaff-Flares",
+                    "rule": "Decoy Protection",
                     "params": "2"
                 }
             ]
@@ -3174,8 +3174,387 @@ const rygolist = [
             ],
             "tags": [
                 {
-                    "rule": "Chaff-Flares",
-                    "params": "2"
+                    "rule": "Decoy Protection",
+                    "params": "1"
+                }
+            ]
+        },
+        {
+            "name": "Riflemen",
+            "faction": [
+                "rygolic"
+            ],
+            "value": 10,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q2",
+                "T1/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Squad",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "FA63/83 6.5mm Assault Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "AAL-72 66mm RPG",
+                    "weaponAmmo": "6",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "R8\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A5+/6+",
+                            "attackStrength": "S7/1+",
+                            "attackTags": [
+                                "Barrage (2)",
+                                "Shaped Charge",
+                                "Slow Round",
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Mortar Team",
+            "faction": [
+                "rygolic"
+            ],
+            "value": 15,
+            "stats": [
+                "H1",
+                "S24\"",
+                "M4\"",
+                "Q2",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "FA63/83 6.5mm Assault Rifle",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "LPM-52 80mm Mortar",
+                    "weaponAmmo": "4",
+                    "attacks": [
+                        {
+                            "attackName": "80mm Frag",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R40\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A4+/xx",
+                            "attackStrength": "S[D3]",
+                            "attackTags": [
+                                "Air-Filling",
+                                "Light Indirect (2)",
+                                "No CC",
+                                "Radius (2\")"
+                            ]
+                        },
+                        {
+                            "attackName": "80mm Smoke",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R40\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A++/xx",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Light Indirect (2)",
+                                "No CC",
+                                "Smoke (3\")"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": []
+        },
+        {
+            "name": "Vehicle Crew",
+            "faction": [
+                "rygolic"
+            ],
+            "value": 0,
+            "stats": [
+                "H1",
+                "S16\"",
+                "M4\"",
+                "Q2",
+                "T1-/1-/1-"
+            ],
+            "type": {
+                "super": [
+                    "Infantry"
+                ],
+                "sub": [
+                    "Team",
+                    "40x40"
+                ]
+            },
+            "command": 0,
+            "weapons": [
+                {
+                    "weaponName": "UP-2 9mm SMG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R8\"",
+                            "attackDice": "D2",
+                            "attackAccuracy": "A4+/4+",
+                            "attackStrength": "S1-/1",
+                            "attackTags": [
+                                "Small Arm"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "This unit is placed on the board as part of the Crew Bailout optional rule.",
+                    "params": ""
+                }
+            ]
+        },
+        {
+            "name": "TP10 Gisgo",
+            "faction": [
+                "rygolic"
+            ],
+            "value": 10,
+            "stats": [
+                "H2",
+                "S24\"",
+                "M8\"",
+                "Q2",
+                "T4/4/3"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Tracked",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "FMg-78 8mm MG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D3",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "FP-M 81mm Smoke Launchers",
+                    "weaponAmmo": "1",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R6\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Light Indirect (1)",
+                                "No CC",
+                                "Smoke (3\")"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "Amphibious",
+                    "params": ""
+                },
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "PC",
+                    "params": "3, Rear"
+                }
+            ]
+        },
+        {
+            "name": "G1/80 Gamma",
+            "faction": [
+                "rygolic"
+            ],
+            "value": 40,
+            "stats": [
+                "H2",
+                "S32\"",
+                "M8\"",
+                "Q2",
+                "T14/7/5"
+            ],
+            "command": 0,
+            "type": {
+                "super": [
+                    "Vehicle"
+                ],
+                "sub": [
+                    "Tracked",
+                    "40x60"
+                ]
+            },
+            "weapons": [
+                {
+                    "weaponName": "FMg-78 8mm MG",
+                    "weaponAmmo": "",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "All",
+                            "attackRange": "R12\"",
+                            "attackDice": "D3",
+                            "attackAccuracy": "A4+/6+",
+                            "attackStrength": "S1/1+",
+                            "attackTags": [
+                                "Turret"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "Burrasca LL 120mm Gun",
+                    "weaponAmmo": "3",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "",
+                            "attackRange": "R40\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A2+/3+",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Ammo 3",
+                                "No CC (Inf.)",
+                                "Turret"
+                            ]
+                        },
+                        {
+                            "attackName": "120mm APDS",
+                            "attackTargets": "Vec",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S14/21",
+                            "attackTags": []
+                        },
+                        {
+                            "attackName": "120mm HEAT",
+                            "attackTargets": "Inf/Vec",
+                            "attackRange": "",
+                            "attackDice": "",
+                            "attackAccuracy": "",
+                            "attackStrength": "S12/2",
+                            "attackTags": [
+                                "Shaped Charge",
+                                "Slow Round"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "weaponName": "FP-T 65mm Smoke Launchers",
+                    "weaponAmmo": "1",
+                    "attacks": [
+                        {
+                            "attackName": "",
+                            "attackTargets": "Gnd",
+                            "attackRange": "R0\"",
+                            "attackDice": "D1",
+                            "attackAccuracy": "A++/++",
+                            "attackStrength": "",
+                            "attackTags": [
+                                "Light Indirect (0)",
+                                "No CC",
+                                "Smoke (2\")",
+                                "Turret"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "rule": "NBC",
+                    "params": ""
+                },
+                {
+                    "rule": "PC",
+                    "params": "1, Rear"
                 }
             ]
         }

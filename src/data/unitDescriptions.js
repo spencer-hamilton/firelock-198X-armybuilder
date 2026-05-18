@@ -279,7 +279,7 @@ const unitDescriptions = {
     quote: "He's ten days old. Built on a line and flashed with what he needs to know. How to shoot; how to talk; how to move. Rygonet tells him the where and when. Everyone he knows looks like him. Everything is new and wonderful. The novelty of trees, rocks, rivers and clouds hasn't yet worn off. It's a grand show. But now his antennae are whispering up his neck and he's got a job to do. He sees you through his thermal sight. His fingers are cold. When the reticle lines up with the white silhouette, he pulls the trigger. It's what he was made to do.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
   },
-  "Smartgun Team Team": {
+  "Smart Gun Team": {
     remarks: "The \"Drift Cage\" light machine gun is the standard Rygolic support weapon: a motorized \"smart gun\" capable of accurate, mobile fire from the standing position. The weapon is body-mounted on an articulated stabilization arm that supports its weight. A large motorized housing supports, points, and stabilizes the barrel-receiver complex in a 20-degree forward arc. Target acquisition (and the gunner's own senses) are provided by the onboard \"Hit Shop\" fire control unit. The gunner's cable-connected brain is believed to be responsible for ballistic computation.",
     quote: "Got to see one of these getting cut open a little while back. I'm not a sawbones; honestly, knife work disgusts me\u2014but this time it didn't feel like an autopsy. Neither blood nor guts\u2014just a sticky black ichor in the veins. He had a brain as sickly white as the rest of him. One of the docs said it felt firm; I took his word for it. There was a bundle of cables, all triple-redundant and waterproof, plowing in where the eyes'd go. Bolt cutters were no good. There was something full of holes where the vocal cords would go. No lungs\u2014most of his ribcage was empty. A little bony turbine stood in for a heart before it caught a round. There was some kind of simple stomach. That was it. The docs had a funny idea. They put his turbine back together and gave it a shock. He fired up. He couldn't feel his antennae; they'd unplugged him from the net. He was pretty polite about it. Wanted to know where his weapon was. Where his ammo-bearers were, so that he could at least see through their eyes. As far as I know he's still down there. Like the rest. The eggheads keep thinking they'll get something useful out of one.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
@@ -324,7 +324,7 @@ const unitDescriptions = {
     quote: "Things like these drive my coworkers crazy. They have to make everything make sense. Not just how it's made, but why it's made. The thought process behind it. It's a forest of tripwires, and we're largely working blind.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
   },
-  "C1 Candor": {
+  "C3 Candor": {
     remarks: "Armored personnel carrier on a lightly-armored, highly mobile 6x6 hull. Compared to its earlier counterparts sharing the same chassis, the Candor represents a lesser material investment, with reduced armor and firepower. Primary armament, housed in a low-profile remote weapons station, is the \"Sun Point\" infantry laser weapon. Secondary armament is a 5mm machine gun on a coaxial mount. The remaining interior space is reserved for troop carriage.",
     quote: "A budget option\u2014don't see too many of those in the Host. They could be running uncomfortably low on materiel, or just reassessing how much really has to go into a frontline carrier. It could be purely random. Wouldn't be the first mutational design that came and went.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
@@ -521,6 +521,11 @@ const unitDescriptions = {
     quote: "I have seen countless obliterated Kennels. There is a resilient myth among the dogs that death in an ammunition cookoff is instantaneous.\n\nI can almost hear them:\n\n\"I smell them, Rhodri. I hear the beat of the guns. Quickly, let me see them! Quickly, through the mud!\"",
     quoteAttribution: "Johannes Veeneman, F.S-A. General Staff"
   },
+  "CdS-F3 Forester": {
+    remarks: "Modification of the Kennel logistics and convoy security truck featuring an improved heavy machine gun armament at the cost of storage space. Originally produced by A.E.F. field workshops, it has been widely copied by rural clan armorers and various other anti-state forces.\n\nPrimary armament is the AMA-2 anti-aircraft complex, consisting of twin .60 (15.2mm) heavy machine guns sharing a flat water jacket. While now deficient in its original anti-aircraft role, it is still effective against helicopters, and excellent against infantry and light vehicles.",
+    quote: "The truck drivers are not so perfect a salve against ambushes as they claim. Even old trees are no defense against thumb-wide bullets with explosive cores. But the enemy still tries.\n\nThe AMA-2 is mounted high enough to clear the Forester's rifle-resistant armor and can fire forwards over the cab. Roll-overs are easy in the hands of inexperienced drivers.\n\nWhen the hewing tracers stopped I went forward. I came across the body of a Creag clansman in his mail-skin. Of his braids I could not say. His head and upper torso had been carried off. I tasted his brave heart.",
+    quoteAttribution: "Conchar Goronwy, Chasseur, 96e Infanterie"
+  },
   "VBD-U Denmother": {
     remarks: "Diminutive, long-served ultralight personnel carrier. Too small to carry a squad. Retrofitted with universal, mechanically stabilized mounting points for heavy weapons.",
     quote: "An engine without a roof. Where there is gasoline and tool kits there are Denmothers. We do not have the blue soldiers' mighty warhorses. But a donkey will do.",
@@ -616,7 +621,7 @@ const unitDescriptions = {
     quote: "The Falconet's long in the tooth, although (by necessity) it's not deployed as suicidally as we do our aircraft. It's not a lot to look at, nor is it very fast, but it's still a prestige design: the first of theirs that's all home-made, all Ebon Forest design and manufacturing. It meant—and means—a lot to them; like the railways and the state theaters. Proof that they're a real country, that their culture and works aren't just what they've stolen from us.\n\nNaturally, it's a propaganda darling; every snot-nosed pup in state school has scrawled one of these flying pipes in his notebook at least once. Rumor even has it that the current Regent cut his teeth flying one, as a young junior officer. Nobody can ever seem to pin down which unit he served with, though. I doubt he'd want the glory himself.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
   },
-  "AP-IV Grognard": {
+  "AD-IV Grognard": {
     remarks: "Versatile fighter-bomber, standard in higher-grade A.A.E.F. squadrons. In keeping with typical luparic fighter doctrine, its pilot flies prone on an ejection sled, with visibility offered in every direction but rearwards. This full usage of the nose imposes a size limit on the aircraft's radar, rendering it reliant on ground control for interception and guidance.\n\nEquipped for television-guided bombing and decisive interception with infrared homing missiles; its pilots instead favor dogfighting with its 1.4-inch (35.5mm) revolver cannon.",
     quote: "The Regent isn't stupid, but that doesn't mean his paranoia hasn't gotten the better of him before. Take the Grognard's design team. They were the best for the job, but they were also old money: former secret society members, amateur philosophers and painters, that sort of thing. Dogs that didn't like being shut up in an isolated cage, no matter how gilded. They drank absinthe, and talked, and figured the Regency wouldn't touch them.\n\nEven with the project bosses scrambling to put together a new design team from nothing, the Grognard was too far along to cancel. I think the old dog regretted giving the orders. See, Grognard pilots tend to have seedy records—not enough to disappear, but enough to nail them to their rung of the ladder. They act out. They paint their craft like a flying circus troupe; they break ranks to intercept our fighter wings all on their own. They get away with all of it.\n\nI guess it's too hard to kill people like you.",
     quoteAttribution: "Rayleigh Irving, Federal Intelligence"
@@ -625,6 +630,11 @@ const unitDescriptions = {
     remarks: "High-performance, tri-engine supersonic jet interceptor. Limited production run; deployed from nuclear-hardened subterranean aircraft shelters surrounding Carcalhaight. Designed for short-run, rocket-assisted takeoffs from underground launch rails. A pure interceptor, lancing towards incoming radar tracks while under ground-based guidance.\n\nAs a rare and great investment for the Ebon Forest, the Mist is armed with the best air-to-air missiles available and superlative gunner's optics. Caution and ground anti-air support are advised when engaging.",
     quote: "I lay in the cockpit. As if stalking prey in the bush, I'm flattened to the ejection sled. I'm glad that my tail is docked and my mane shaved; both now demand to stand on end. Blood thumps behind my eyes although I'm elevated at the angle of the launch rail. There are still a few pills in my flight suit. By now my pupils are like little pins. I feel as if trapped and repress the urge to cry out.\n\nSomewhere outside Carcalhaight, there is a deep pit in the earth. In it there is a vast computer. With nerves of wire that run through the roots it listens to a chorus of radar arrays across the land. From them it whispers into my aircraft's ears: a vector. A hostile radar track.\n\nIgnition. I'm forgotten beneath the noise and force. The first seven seconds of flight are automatic. In the fourth second I regain consciousness and seize the yoke. My missiles are my teeth; my growl is lost in the roar of the jets.",
     quoteAttribution: "Roul Lydon, Lieutenant, Escadron 1/1"
+  },
+  "VBD-68 Bantam": {
+    remarks: "Export model Federal Bantam IFV (see FM 100-1-8X), modified specifically for the White Gloves. Sourced from a series of shell corporations at substantial expense and routed through Ezmarc. While the reason for its adoption over domestic types is unclear, it is thought that the prestige associated with Federal armor plays a part.\n\nPrimary armament is the standard 2K28 73mm low pressure gun, designated the SA-28 in luparic service. Standard HEAT and custom white phosphorus smoke rounds are typically issued.\n\nAs an export model, the VBD-68 lacks the stock Bantam's ATGM launch tubes. It has received a number of retrofits to compensate: domestic smoke grenades, a basic active protection system, and thermal sights manufactured in the Petty States (see FM 100-3-8X).",
+    quote: "Ours is better.",
+    quoteAttribution: "Rayleigh Irving, Federal Intelligence"
   },
   // ── Atom Baronies of Santagria ──
   "PEG.123-AC Graf": {
@@ -826,6 +836,41 @@ const unitDescriptions = {
     remarks: "High-performance pre-war heavy fighter. Formerly the pride of the Commonwealth Air Force; now, the queens of baronial hangars. Though originally designed as a multirole platform, the Bavieca's speed and maneuverability mean almost all contemporary examples are equipped for pure air superiority. Armaments include an Allant 1.8-lber (25mm) rotary cannon with its rate of fire increased and a battery of light and heavy air-to-air missiles. The SUR-4 infrared missiles on Baviecas are frequently hand-tuned to permit locking onto ground targets.",
     quote: "He was Alfonso the Brave, Knight of the Stratosphere Blue, and his steed was Bavieca. He paid fealty to no lord but his heart, and accepted no pay but fuel and repairs from righteous hands, in whose hangars he would not stay longer than Bavieca required. His sword was the Allant rotary cannon, and his lance was the mighty Breakspear. He was a killer of men and a breaker of horses; a friend to his ancestors' fields, and a lover of women he would never see again. There was a good knight. Before the War he was a grocer.",
     quoteAttribution: "Sebastian Fitzcarraldo, Coronet Serjeant, Retinue of Baron Menaute de Piña y Garnise"
+  },
+  "Wailing Women": {
+    remarks: "Scenario infantry (FM 100-2-8X ch. 7). Suicide bombers in mourning veils and high-yield vests, drawn from widows of clan warriors.",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "Armed Citizens": {
+    remarks: "Scenario militia squad (FM 100-1-8X ch. 7). Civilian adults bearing military-grade arms per Lowlander custom.",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "Type 60LW Coachman": {
+    remarks: "Grumble-based SPAAG with four-tube 9GR5 120mm IR SAM launcher (FM 100-1-8X).",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "lupar:Vehicle Crew": {
+    remarks: "A.E.F. scenario crew bailout team (FM 100-2-8X). Lenus .45 pistol.",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "federal:Vehicle Crew": {
+    remarks: "Federal scenario crew bailout team (FM 100-1-8X). Standard 6P3 SMG.",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "rygolic:Vehicle Crew": {
+    remarks: "Petty States scenario crew bailout team (FM 100-3-8X). UP-2 9mm SMG.",
+    quote: "",
+    quoteAttribution: ""
+  },
+  "santagri:Vehicle Crew": {
+    remarks: "Santagrine scenario crew bailout team (FM 100-4-8X). Fearless, NBC; Engram machine pistol.",
+    quote: "",
+    quoteAttribution: ""
   },
 }
 

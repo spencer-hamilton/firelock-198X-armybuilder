@@ -344,7 +344,7 @@ function App() {
               <div className="fm-weapon" key={wi}>
                 <div className="fm-weapon-name">{weapon.weaponName}</div>
                 {weapon.attacks.map((atk, ai) => (
-                  <div className="fm-attack" key={ai}>
+                  <div className={`fm-attack${atk.attackName ? ' fm-attack--sub' : ''}`} key={ai}>
                     {atk.attackName && <div className="fm-attack-label">&rarr; {atk.attackName}</div>}
                     <div className="fm-attack-line">
                       {[atk.attackTargets, atk.attackRange, atk.attackAccuracy, atk.attackStrength, atk.attackDice,
