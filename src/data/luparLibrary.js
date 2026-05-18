@@ -1710,7 +1710,7 @@ const luplist = [
                 "S32\"",
                 "M8\"",
                 "Q2",
-                "T5/4/4"
+                "T5/5/4"
             ],
             "type": {
                 "super": [
@@ -1732,7 +1732,7 @@ const luplist = [
                             "attackTargets": "All",
                             "attackRange": "R20\"",
                             "attackDice": "D2",
-                            "attackAccuracy": "A4+/6+",
+                            "attackAccuracy": "A4+/5+",
                             "attackStrength": "S2/3",
                             "attackTags": [
                                 "Turret"
@@ -1776,6 +1776,10 @@ const luplist = [
                 }
             ],
             "tags": [
+                {
+                    "rule": "Active Protection",
+                    "params": "1"
+                },
                 {
                     "rule": "NBC",
                     "params": ""
